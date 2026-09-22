@@ -1,8 +1,14 @@
 name: deploy
 
-# push마다 빌드 + GitHub Pages 배포 (뉴스 수집 커밋도 배포 트리거)
+# push마다 빌드 + GitHub Pages 배포
+# fetch-news의 GITHUB_TOKEN push는 워크플로를 재귀 트리거하지 않으므로
+# workflow_run으로 뉴스 수집 완료 시에도 배포하도록 구성
 on:
   push:
+    branches: [main]
+  workflow_run:
+    workflows: [fetch-news]
+    types: [completed]
     branches: [main]
   workflow_dispatch:
 
