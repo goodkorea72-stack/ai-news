@@ -1,0 +1,62 @@
+[
+  {
+    "id": "huggingface",
+    "name": "Hugging Face",
+    "type": "rss",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "category": "open_source",
+    "icon": "🤗",
+    "maxItems": 80
+  },
+  {
+    "id": "arxiv",
+    "name": "arXiv cs.AI",
+    "type": "rss",
+    "url": "https://export.arxiv.org/rss/cs.AI",
+    "category": "new_model",
+    "icon": "📄"
+  },
+  {
+    "id": "hn",
+    "name": "Hacker News",
+    "type": "rss",
+    "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+%22open+source%22+OR+model+OR+agent",
+    "category": "community",
+    "icon": "🐝",
+    "maxItems": 80
+  },
+  {
+    "id": "the_decoder",
+    "name": "The Decoder",
+    "type": "rss",
+    "url": "https://the-decoder.com/feed/",
+    "category": "industry",
+    "icon": "🔍",
+    "maxItems": 60
+  },
+  {
+    "id": "simonwillison",
+    "name": "Simon Willison",
+    "type": "rss",
+    "url": "https://simonwillison.net/atom/everything/",
+    "category": "new_model",
+    "icon": "🧪",
+    "maxItems": 40
+  },
+  {
+    "id": "google_ai",
+    "name": "Google AI",
+    "type": "rss",
+    "url": "https://blog.google/technology/ai/rss/",
+    "category": "new_model",
+    "icon": "🔵"
+  },
+  {
+    "id": "github_trending",
+    "name": "GitHub Trending",
+    "type": "html",
+    "url": "https://github.com/trending?since=daily",
+    "category": "open_source",
+    "icon": "🐙"
+  }
+]

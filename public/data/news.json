@@ -1,0 +1,903 @@
+{
+  "generatedAt": "2026-09-22T20:51:03.904Z",
+  "nextUpdate": "2026-09-23T08:00:00.000Z",
+  "intervalHours": 12,
+  "timezone": "Asia/Seoul",
+  "totalCollected": 268,
+  "articleCount": 60,
+  "articles": [
+    {
+      "id": "c49ed5ebdaa1",
+      "title": "Claude Opus 5.5 matches Fable 5.1 performance at lower cost and promises less \"Claudish\" writing",
+      "summary": "Anthropic is launching Claude Opus 5.5, the first model in a new generation. The company says it matches Claude Fable 5.1 on most tasks while costing about 40 percent less to run than Opus 5. Anthropic's benchmarks also put it ahead of OpenAI's GPT-6 Astra on most tasks, despite being significantly cheaper. Sonnet 5.5 and Haiku 5.5 are expected in the coming weeks. The article Claude Opus 5.5 matc",
+      "url": "https://the-decoder.com/claude-opus-5-5-matches-fable-5-1-at-40-percent-lower-cost-as-anthropic-promises-to-fix-claudish-writing/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 16,
+      "publishedAt": "2026-09-22T17:11:07.000Z"
+    },
+    {
+      "id": "64fc25902926",
+      "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
+      "summary": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Intelligence Index, it scores just 46 points, landing mid-pack and well behind Claude Fable 5.1 and GPT-6 at 53 each. The gap grows even wider in agentic coding. The upside is it's cheap. The article xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6 appeared first on Th",
+      "url": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 12,
+      "publishedAt": "2026-09-21T16:56:36.000Z"
+    },
+    {
+      "id": "c1b78d740c4a",
+      "title": "How Much of a Real Workload Can LLM-Generated GPU Kernels Actually Reach?",
+      "summary": "arXiv:2609.21058v1 Announce Type: cross Abstract: Language models can now write GPU kernels that outperform PyTorch. We evaluate five model configurations on KernelBench level 1 and find that a frontier model produces correct kernels for 91.1% of problems and independently verified speedups on 22 of 56, including three convolutions, with a median of 1.235x. Open-weights models are far behind: the ",
+      "url": "https://arxiv.org/abs/2609.21058",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 11,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "c0b169238774",
+      "title": "OpenAI&#039;s GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
+      "summary": "With GPT-6 Sol and Luna, OpenAI adds two cheaper models that deliver their predecessors' performance at half the token price and take aim at Anthropic's pricier offerings. Independent analyses find little gain in actual intelligence, though, and OpenAI likely didn't see Anthropic's simultaneous launch of Opus 5.5 coming. The article OpenAI&#039;s GPT-6 Sol and Luna cut prices in half but barely mo",
+      "url": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-09-22T20:06:51.000Z"
+    },
+    {
+      "id": "8fd73864f0eb",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "33923159f20c",
+      "title": "I built the Jev architecture one year ago and open-sourced it",
+      "summary": "Article URL: https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/ Comments URL: https://news.ycombinator.com/item?id=49806864 Points: 9 # Comments: 1",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 8,
+      "publishedAt": "2026-09-22T19:30:09.000Z"
+    },
+    {
+      "id": "11f26400bf14",
+      "title": "AgentVidBench: A Multi-Hop Video Question Answering Benchmark for Evaluating MLLM Agents",
+      "summary": "arXiv:2609.21386v1 Announce Type: cross Abstract: Comprehensive video understanding is crucial for advancing artificial intelligence toward the intricate dynamics of the physical world. While recent advances in Multimodal Large Language Models (MLLMs) have demonstrated remarkable capabilities in video understanding, existing benchmarks remain confined to simple scene-level queries or global summar",
+      "url": "https://arxiv.org/abs/2609.21386",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "0afd034377a0",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "4b9addda57a4",
+      "title": "Z.ai says sorry for slurping up your code, open sources ZCode",
+      "summary": "Article URL: https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300 Comments URL: https://news.ycombinator.com/item?id=49807362 Points: 4 # Comments: 0",
+      "url": "https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-22T20:07:08.000Z"
+    },
+    {
+      "id": "fa4d6831da5d",
+      "title": "CaLR: Causal Latent Revision for Robust Diffusion Reasoning",
+      "summary": "arXiv:2609.20981v1 Announce Type: new Abstract: Autoregressive (AR) models suffer from local greediness, while diffusion language models (DLMs) often lack the strict causal structure required for reasoning. To combine the advantages and overcome the drawbacks of the dual, we propose Causal Latent Revision (CaLR), a framework that reformulates reasoning as constrained latent optimization. By adopti",
+      "url": "https://arxiv.org/abs/2609.20981",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "3d725907f932",
+      "title": "Implicit Rule Induction with Test-Time Task Embeddings in ARC-like Tasks",
+      "summary": "arXiv:2609.21181v1 Announce Type: new Abstract: The Abstraction and Reasoning Corpus and related benchmarks evaluate whether AI models can solve novel reasoning tasks, but often leave unclear whether success reflects inference of the intended underlying rule or reliance on shortcuts. We address this gap by studying test-time task embeddings in Vision ARC (VARC), a model in which a pre-trained back",
+      "url": "https://arxiv.org/abs/2609.21181",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "d4e6ca095e6d",
+      "title": "Driving on Registers, Reasoning on Risk: Risk-Aware Occupancy for Register-Based End-to-End Autonomous Driving",
+      "summary": "arXiv:2609.21486v1 Announce Type: new Abstract: Multimodal trajectory prediction improves behavioral coverage in end-to-end autonomous driving, but existing methods remain limited by sparse scene representations. Incomplete evidence leads to low-quality candidate generation and unreliable ranking among geometrically similar trajectories. On a register-based baseline, bad and poor candidates consti",
+      "url": "https://arxiv.org/abs/2609.21486",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "357dfc347335",
+      "title": "PolyBridgeBench: Benchmarking Multimodal LLMs for Physics-Grounded Bridge Design",
+      "summary": "arXiv:2609.21493v1 Announce Type: new Abstract: Multimodal large language models, or MLLMs, perform well at visual understanding and structured generation, yet these capabilities do not establish whether an engineering design will work when executed. Existing benchmarks assess spatial reasoning, structural validity, or physics-grounded construction, but they do not determine whether MLLMs can synt",
+      "url": "https://arxiv.org/abs/2609.21493",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "3082da1e4622",
+      "title": "World Modeling in Transformers",
+      "summary": "arXiv:2609.21748v1 Announce Type: new Abstract: Behavioral failures can make a transformer appear to lack a world model even when it has learned faithful representations of its environment. We demonstrate this in TaxiGPT, a transformer trained on random walks through Manhattan whose failures have been interpreted as evidence of an incoherent internal map. Through mechanistic analysis and causal in",
+      "url": "https://arxiv.org/abs/2609.21748",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "4d7ba488a14f",
+      "title": "EnterpriseVal: Quantifying the Efficacy, Reliability and Value of Generative AI in the Enterprise",
+      "summary": "arXiv:2609.21841v1 Announce Type: new Abstract: Frontier language models now produce professional deliverables that expert graders judge to match human work on a substantial share of economically valuable tasks, yet most enterprise GenAI initiatives fail to show a measurable business effect and a large fraction of agentic projects are expected to be cancelled. We argue that this is substantially a",
+      "url": "https://arxiv.org/abs/2609.21841",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "2ea0201a5e3b",
+      "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+      "summary": "arXiv:2609.22068v1 Announce Type: new Abstract: Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically rely on development artifacts such as issues and commits, limiting the range of tasks that can be extracted. To better scale RL environments, we presen",
+      "url": "https://arxiv.org/abs/2609.22068",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "1c7f791b566f",
+      "title": "Transformers now runs llama.cpp quants",
+      "summary": "",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "0551b5a2acc5",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "summary": "",
+      "url": "https://huggingface.co/blog/omlx",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "39b387c39db8",
+      "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
+      "summary": "The UN's AI science panel warns in its first thematic report that control over AI agents isn't assured. Co-chair Yoshua Bengio says OpenAI's Hugging Face incident first combined a misaligned goal, the ability to pursue it, and an environment that allowed it. Leading systems may increasingly recognize tests and deliberately bypass safeguards. The article UN science panel says there is \"no assurance",
+      "url": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-21T17:44:10.000Z"
+    },
+    {
+      "id": "0ee1d6e4536f",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "summary": "",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-08-10T00:00:00.000Z"
+    },
+    {
+      "id": "fcb657dcffd0",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "summary": "",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-07-08T00:00:00.000Z"
+    },
+    {
+      "id": "e792df332fb9",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "summary": "",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "id": "1d62e071104d",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-06-24T16:00:13.000Z"
+    },
+    {
+      "id": "76162b924ebf",
+      "title": "Xiaomi&#039;s affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
+      "summary": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement learning that cost $2.62 million. But the success comes with a catch: Anthropic accuses the company of siphoning off training data from Claude. The article Xiaomi&#039;s affordable flagship AI leads the open models, and ",
+      "url": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-22T11:42:11.000Z"
+    },
+    {
+      "id": "2a78c2e9630c",
+      "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+      "summary": "arXiv:2609.22086v1 Announce Type: new Abstract: Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We introduce a continual adaptation framework in which a frozen frontier model operates professional design software through more than 230 tools, while an exter",
+      "url": "https://arxiv.org/abs/2609.22086",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "8181bee5f19f",
+      "title": "Fewer Steps, Better Actions: Rethinking Flow-Matching Inference for VLA Policies",
+      "summary": "arXiv:2609.21216v1 Announce Type: cross Abstract: Vision-language-action (VLA) policies based on flow matching generate action chunks through repeated evaluations of an action expert. Increasing the number of integration steps raises inference cost, but does not necessarily improve closed-loop success. We propose Coda, which reallocates part of this integration budget to a single learned endpoint ",
+      "url": "https://arxiv.org/abs/2609.21216",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "b7290531b68c",
+      "title": "FOCAL-VLA: Subtask-Guided Geometry Distillation and Implicit World Modeling for Vision-Language-Action Models",
+      "summary": "arXiv:2609.21228v1 Announce Type: cross Abstract: Vision-language-action (VLA) models built on pretrained vision-language models have demonstrated strong performance across diverse robotic manipulation tasks. However, VLA models that directly map current 2D observations to actions often lack sufficient spatial and temporal understanding, limiting their performance in precise and long-horizon manip",
+      "url": "https://arxiv.org/abs/2609.21228",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "c96bfd28b36f",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "summary": "",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-08-13T17:16:04.000Z"
+    },
+    {
+      "id": "249bf0754a74",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "summary": "",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-06-23T00:00:00.000Z"
+    },
+    {
+      "id": "dcd497c92b2e",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 5,
+      "publishedAt": "2026-06-04T18:57:45.000Z"
+    },
+    {
+      "id": "8a75b07424f3",
+      "title": "Open source tool for building hierarchical agent loops",
+      "summary": "Article URL: https://github.com/plasma-ai/fractal Comments URL: https://news.ycombinator.com/item?id=49807198 Points: 2 # Comments: 0",
+      "url": "https://github.com/plasma-ai/fractal",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T19:55:16.000Z"
+    },
+    {
+      "id": "95e4ca34e496",
+      "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
+      "summary": "Anthropic is building its own biology lab to push AI-driven drug development beyond computer simulations. The article Anthropic is setting up a biology lab where Claude guides robots through drug experiments appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T09:27:16.000Z"
+    },
+    {
+      "id": "4f0a8228afd9",
+      "title": "Attention-Aware Routing: Coupling Routing and Attention in MoEs",
+      "summary": "arXiv:2609.20974v1 Announce Type: new Abstract: In Mixture-of-Experts language models, the router typically selects and weights experts based on the token's hidden state, utilizing limited contextual information. We propose Attention-Aware Routing (AAR), which augments the router with temporal and spectral features extracted from a sliding window of attention weights that represent a summary of th",
+      "url": "https://arxiv.org/abs/2609.20974",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "a4ff55c05ec7",
+      "title": "LoRA Enhanced Contrastive Learning with SAS Vision Transformers",
+      "summary": "arXiv:2609.21061v1 Announce Type: new Abstract: Automatic target recognition (ATR) with synthetic aperture sonar (SAS) supports advanced naval capabilities, but deep learning is constrained by scarce target imagery, background clutter, and human-in-the-loop assessment. We adapt DINOv3 Vision Transformer (ViT) models to underwater SAS ATR using a three-stage parameter-efficient framework. Stage 1 u",
+      "url": "https://arxiv.org/abs/2609.21061",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "14c97d94c155",
+      "title": "Decoupling Internal Representational Changes and Causal Importance in Fine-Tuned Large Language Models",
+      "summary": "arXiv:2609.21113v1 Announce Type: new Abstract: Fine-tuning has emerged as a widely adopted approach for adapting LLMs to a variety of downstream tasks. However, how it reshapes their internal mechanisms remains poorly understood. To address this, we investigate how fine-tuning alters internal representations in LLMs, including attention patterns and layer-wise activations, and examine whether the",
+      "url": "https://arxiv.org/abs/2609.21113",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "dab435f0b668",
+      "title": "SpecOpt: Contact-Diff Reasoning for Agentic Molecule Optimization Toward Binding Specificity",
+      "summary": "arXiv:2609.21165v1 Announce Type: new Abstract: Off-target protein binding is a major source of adverse effects for small-molecule drugs, yet most structure-based molecular design methods focus on generating selective compounds de novo rather than improving the selectivity of existing, well- characterized drugs. We introduce specificity optimization (SpecOpt), a molecular design task that seeks co",
+      "url": "https://arxiv.org/abs/2609.21165",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "46c649da58d1",
+      "title": "PlaceReasoner-Beta: Reasoning-Driven Macro Placement and Benchmarking",
+      "summary": "arXiv:2609.21263v1 Announce Type: new Abstract: Automated macro placement remains a fundamental challenge in VLSI physical design. Despite decades of research, existing approaches predominantly optimize hand-crafted proxy objectives, such as estimated wirelength, and typically produce placements through one-shot numerical optimization, limiting their ability to incorporate visual layout context, c",
+      "url": "https://arxiv.org/abs/2609.21263",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "f76d29bf5cd2",
+      "title": "Efficient Benchmarking in Production: A Study of an Evolving LLM Agent",
+      "summary": "arXiv:2609.21267v1 Announce Type: new Abstract: Production LLM agents are evaluated repeatedly as they evolve, but full agent benchmarks are costly to rerun. We study efficient recurring evaluation for a production analytics agent serving tens of thousands of monthly active users and report first-hand deployment experience. Using 574 historical runs of the production benchmark, split chronological",
+      "url": "https://arxiv.org/abs/2609.21267",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "1549d6b6d4ec",
+      "title": "GVPO++: Group Variance Policy Optimization for LLM Post-Training and On-Policy Distillation",
+      "summary": "arXiv:2609.21432v1 Announce Type: new Abstract: Post-training plays a pivotal role in enhancing the reasoning capabilities and task-specific expertise of large language models (LLMs). Despite recent advances in post-training methods, such as Group Relative Policy Optimization (GRPO), their practical deployment remains impeded by training instability arising from the reliance on importance sampling",
+      "url": "https://arxiv.org/abs/2609.21432",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "4cbc20727180",
+      "title": "Dual-Interest Sequential Product Recommendation With Multi-Granular SSM",
+      "summary": "arXiv:2609.21548v1 Announce Type: new Abstract: Sequential recommendation aims to predict the next item a user will interact with based on their historical behavior. Advances in Transformers have significantly improved sequential recommendation but are still limited by cost efficiency. Although State Space Models (SSMs) have recently enabled efficient long-range modeling, most existing methods enc",
+      "url": "https://arxiv.org/abs/2609.21548",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "a0206fe849f1",
+      "title": "Calibrating Teacher--Student Discrepancy for On-Policy Distillation",
+      "summary": "arXiv:2609.21619v1 Announce Type: new Abstract: On-policy distillation (OPD) improves reasoning models by learning the token-level discrepancy between a stronger teacher and an on-policy student. However, this discrepancy does not purely reflect the capability gap between the teacher and the student: it also contains deviations arising from the teacher itself, which are consequently mixed into the",
+      "url": "https://arxiv.org/abs/2609.21619",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "81e683c9d438",
+      "title": "ECG Mirage: Revealing and Mitigating the Underutilisation of ECGs in Vision-Language Models for Clinical Prediction",
+      "summary": "arXiv:2609.21755v1 Announce Type: new Abstract: Emergency department (ED) decision-making relies on heterogeneous clinical information, including patient history, vital signs, laboratory results, and electrocardiograms (ECGs). Vision--language models (VLMs) can jointly process these modalities, but strong predictive performance does not necessarily imply meaningful use of the correct patient's ECG",
+      "url": "https://arxiv.org/abs/2609.21755",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "8985496c48af",
+      "title": "AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory",
+      "summary": "arXiv:2609.21940v1 Announce Type: new Abstract: Long-term memory is essential for large language model (LLM) agents to maintain consistency and personalization over extended interactions. Existing memory systems typically rely on fixed granularities or static schemas, but these designs struggle when heterogeneous information, such as preferences, events, constraints, and temporal updates, is embed",
+      "url": "https://arxiv.org/abs/2609.21940",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "ca3758bdb5f9",
+      "title": "SpaceDiffusion: Over-the-Orbit Diffusion for Space Generate-and-Forward Communications",
+      "summary": "arXiv:2609.20899v1 Announce Type: cross Abstract: Satellite communications are an essential component of sixth-generation (6G) mobile networks, which provide ubiquitous connectivity for global services. However, the satellite uplink remains a critical bottleneck for ground devices: their limited transmit power and antenna apertures result in low data rates and high packet errors. To overcome this ",
+      "url": "https://arxiv.org/abs/2609.20899",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "6d2688b82f4f",
+      "title": "Physically Based Rendering in the Latent Space",
+      "summary": "arXiv:2609.21054v1 Announce Type: cross Abstract: Image diffusion models have shown impressive image generation capabilities but are often hard to control, in contrast to classical computer graphics pipelines such as physically based rendering. However, we observe that there is a bridge between light transport phenomena and the distribution of latent space values produced by such models. Thus, we ",
+      "url": "https://arxiv.org/abs/2609.21054",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "f8501394b3ec",
+      "title": "From Memory to Behavior: A Behavior-Aware Role-Playing Framework for Social Media Influencers",
+      "summary": "arXiv:2609.21349v1 Announce Type: cross Abstract: Large language models have shown strong potential as role-playing agents for real individuals, yet faithful impersonating remains challenging. Existing in-context learning-based methods fail to capture how individuals react under different situations. In addition, LLM-based evaluation is difficult for obscure individuals. To address these challenge",
+      "url": "https://arxiv.org/abs/2609.21349",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "dd3d0f480009",
+      "title": "GameLogicBench: Evaluating Coding Agents on Runtime Game Logic with Tick-Level State Assertions",
+      "summary": "arXiv:2609.21562v2 Announce Type: cross Abstract: Coding agents can modify and test code across large software projects. Game development is a domain where agents must implement gameplay rules. A game can end in a valid state even after violating its rules during the run. Current game-development benchmarks replay fixed examples, score videos, or ask another model to judge the result. However, no ",
+      "url": "https://arxiv.org/abs/2609.21562",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "e0343856076f",
+      "title": "Steering LLMs Responses Towards Moral Foundations on the Norwegian MFQ-30",
+      "summary": "arXiv:2609.21636v1 Announce Type: cross Abstract: Recent work applies human psychometric questionnaires to large language models to elicit moral and value profiles, but it is not clear whether these instruments measure anything stable in models or whether the resulting profiles can be moved toward a target human population. We administer the Norwegian Moral Foundations Questionnaire (MFQ-30) to si",
+      "url": "https://arxiv.org/abs/2609.21636",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-22T04:00:00.000Z"
+    },
+    {
+      "id": "d5e9b9a87420",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "summary": "",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "0019ae2665a3",
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "summary": "",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "id": "79fca9ec1ba2",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-08-17T08:00:00.000Z"
+    },
+    {
+      "id": "9c95afa451ef",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "summary": "",
+      "url": "https://huggingface.co/blog/baseten",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "id": "0ee73a62fb00",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "ca43a0fca568",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "summary": "",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-07-07T00:00:00.000Z"
+    },
+    {
+      "id": "9f9adabca49d",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "summary": "",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-06-30T00:00:00.000Z"
+    },
+    {
+      "id": "028349bf089c",
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "summary": "",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-06-17T10:18:05.000Z"
+    },
+    {
+      "id": "a91d5227788f",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "summary": "",
+      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-06-09T10:46:19.000Z"
+    },
+    {
+      "id": "c76a3a64066f",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "summary": "",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-06-08T00:00:00.000Z"
+    },
+    {
+      "id": "77b9cceb391c",
+      "title": "Ask HN: When is fine-tuning a small LLM worth it?",
+      "summary": "I'd be interested in hearing about your experiences. What kind of task did you use it for, what model did you train, and what were the results? Feel free to share examples of what you've tried. Comments URL: https://news.ycombinator.com/item?id=49807413 Points: 4 # Comments: 2",
+      "url": "https://news.ycombinator.com/item?id=49807413",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-22T20:11:30.000Z"
+    },
+    {
+      "id": "a3ad1348858d",
+      "title": "OpenAI says its internal model solved over 100 long-standing math problems after just a month of training",
+      "summary": "OpenAI says a new internal model solved more than 100 open math problems after just a month of training. Facing criticism from mathematicians, the company is backing an independent advisory group at the Institute for Advanced Study. But OpenAI has excluded its research pace from the group's advisory role. The article OpenAI says its internal model solved over 100 long-standing math problems after ",
+      "url": "https://the-decoder.com/openai-says-its-internal-model-solved-over-100-long-standing-math-problems-after-just-a-month-of-training/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-22T11:17:59.000Z"
+    }
+  ]
+}

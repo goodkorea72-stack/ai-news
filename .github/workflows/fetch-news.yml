@@ -1,0 +1,50 @@
+name: fetch-news
+
+# 12시간 간격으로 뉴스 수집 → news.json 커밋 → deploy.yml 트리거
+on:
+  schedule:
+    - cron: '0 0,12 * * *' # UTC 00:00 / 12:00 = KST 09:00 / 21:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-fetch
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci || npm install
+
+      - name: Fetch AI news
+        run: node scripts/fetch-news.mjs
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet public/data/news.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit news
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git add public/data/news.json
+          git commit -m "🤖 AI NEWS: 12시간 브리핑 업데이트 ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          git push
