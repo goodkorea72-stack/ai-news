@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-23T04:12:13.890Z",
-  "nextUpdate": "2026-09-23T16:00:00.000Z",
+  "generatedAt": "2026-09-23T16:32:50.952Z",
+  "nextUpdate": "2026-09-24T04:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 268,
+  "totalCollected": 257,
   "articleCount": 60,
   "articles": [
     {
@@ -20,21 +20,6 @@
       ],
       "score": 16,
       "publishedAt": "2026-09-22T17:11:07.000Z"
-    },
-    {
-      "id": "64fc25902926",
-      "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
-      "summary": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Intelligence Index, it scores just 46 points, landing mid-pack and well behind Claude Fable 5.1 and GPT-6 at 53 each. The gap grows even wider in agentic coding. The upside is it's cheap. The article xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6 appeared first on Th",
-      "url": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 12,
-      "publishedAt": "2026-09-21T16:56:36.000Z"
     },
     {
       "id": "09dd91f311c9",
@@ -163,6 +148,22 @@
       "publishedAt": "2026-09-23T04:00:00.000Z"
     },
     {
+      "id": "795f20a52f69",
+      "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent",
+      "summary": "Alibaba's AI team Qwen has released Qwen-Audio-3.1, a lineup of five models for speech recognition (ASR), text-to-speech (TTS), and real-time interaction. The ASR model improves multilingual and dialect recognition and automatically cleans up filler words and repetitions. ASR-Next adds multi-speaker identification with timestamps and detects emotions, ambient sounds, and machine noise. TTS handles",
+      "url": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-09-23T12:31:20.000Z"
+    },
+    {
       "id": "df4efed3ceac",
       "title": "When Should a VLM Look? Paying Only for Visual Calls That Were Needed and Used",
       "summary": "arXiv:2609.22910v1 Announce Type: new Abstract: Vision-language agents that crop and zoom are trained with rewards that credit a successful tool call, yet a successful call does not show that the model needed to look or used the pixels it received. On our cold-start checkpoint only 10% to 12% of visual calls were both needed and used, and released agents make spurious calls 36% to 87% of the time ",
@@ -206,6 +207,36 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "8f811022b7ea",
+      "title": "Anthropic engineer explains why Claude&#039;s writing got worse although the model got smarter",
+      "summary": "Anthropic employee Jackson Kernion explains why newer Claude models write so oddly. Optimizing for math, code, and technical explanations aimed at other AI models has created a style that sounds like \"overly-dense info dumps\" to humans. Opus 5.5 tries to fix this, but Opus 4.6 remains unmatched as a pure writing model. The article Anthropic engineer explains why Claude&#039;s writing got worse alt",
+      "url": "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-23T15:14:34.000Z"
+    },
+    {
+      "id": "716876eb097d",
+      "title": "Meta&#039;s AI agent Muse draws 500,000 users in a week along with claims it copied OpenClaw",
+      "summary": "Meta's AI agent Muse picked up more than 500,000 users in its first week and hit number one in Apple's App Store. But Meta admits the product is \"heavily inspired\" by the open-source project OpenClaw, and some of the file names and contents are nearly identical. OpenAI is already discussing a response of its own. The article Meta&#039;s AI agent Muse draws 500,000 users in a week along with claims",
+      "url": "https://the-decoder.com/metas-ai-agent-muse-draws-500000-users-in-a-week-along-with-claims-it-copied-openclaw/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-23T14:42:38.000Z"
     },
     {
       "id": "71eca73ba9e3",
@@ -360,22 +391,6 @@
       "publishedAt": "2026-09-22T00:00:00.000Z"
     },
     {
-      "id": "39b387c39db8",
-      "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
-      "summary": "The UN's AI science panel warns in its first thematic report that control over AI agents isn't assured. Co-chair Yoshua Bengio says OpenAI's Hugging Face incident first combined a misaligned goal, the ability to pursue it, and an environment that allowed it. Leading systems may increasingly recognize tests and deliberately bypass safeguards. The article UN science panel says there is \"no assurance",
-      "url": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-09-21T17:44:10.000Z"
-    },
-    {
       "id": "0ee1d6e4536f",
       "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
       "summary": "",
@@ -464,21 +479,6 @@
       "publishedAt": "2026-09-23T04:00:00.000Z"
     },
     {
-      "id": "76162b924ebf",
-      "title": "Xiaomi&#039;s affordable flagship AI leads the open models, and Anthropic says Claude helped get it there",
-      "summary": "With MiMo-V2.6-Pro, Xiaomi moves to the top of the openly available AI models and drastically undercuts the competition on price. What makes that possible is massive reinforcement learning that cost $2.62 million. But the success comes with a catch: Anthropic accuses the company of siphoning off training data from Claude. The article Xiaomi&#039;s affordable flagship AI leads the open models, and ",
-      "url": "https://the-decoder.com/xiaomis-affordable-flagship-ai-leads-the-open-models-and-anthropic-says-claude-helped-get-it-there/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-09-22T11:42:11.000Z"
-    },
-    {
       "id": "c96bfd28b36f",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "summary": "",
@@ -522,6 +522,36 @@
       ],
       "score": 5,
       "publishedAt": "2026-06-04T18:57:45.000Z"
+    },
+    {
+      "id": "7c5214b7da0d",
+      "title": "strands-agents / harness-sdk (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-23T16:32:42.000Z"
+    },
+    {
+      "id": "79465387e698",
+      "title": "Inside Basecamp Research, the AI startup turning evolution into training data",
+      "summary": "Basecamp Research has raised $140 million from investors including Nvidia and Anthropic's Anthology Fund. The London company trains AI models on genetic material from rainforests, oceans, and hot springs to design antibiotics and tools for cell therapies. In an interview with THE DECODER, CTO Philip Lorenz explains why biology is a far bigger problem for AI than language, and why good scores on pa",
+      "url": "https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-23T13:52:23.000Z"
     },
     {
       "id": "39135b551c04",
@@ -742,20 +772,6 @@
       "publishedAt": "2026-09-23T04:00:00.000Z"
     },
     {
-      "id": "95e4ca34e496",
-      "title": "Anthropic is setting up a biology lab where Claude guides robots through drug experiments",
-      "summary": "Anthropic is building its own biology lab to push AI-driven drug development beyond computer simulations. The article Anthropic is setting up a biology lab where Claude guides robots through drug experiments appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropic-is-setting-up-a-biology-lab-where-claude-guides-robots-through-drug-experiments/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-22T09:27:16.000Z"
-    },
-    {
       "id": "d5e9b9a87420",
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "summary": "",
@@ -888,21 +904,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-06-09T10:46:19.000Z"
-    },
-    {
-      "id": "c76a3a64066f",
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "summary": "",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-06-08T00:00:00.000Z"
     }
   ]
 }
