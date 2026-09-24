@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T04:07:48.520Z",
-  "nextUpdate": "2026-09-24T16:00:00.000Z",
+  "generatedAt": "2026-09-24T16:52:57.011Z",
+  "nextUpdate": "2026-09-25T04:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 257,
+  "totalCollected": 194,
   "articleCount": 60,
   "articles": [
     {
@@ -22,10 +22,10 @@
       "publishedAt": "2026-09-24T04:00:00.000Z"
     },
     {
-      "id": "c0b169238774",
-      "title": "OpenAI&#039;s GPT-6 Sol and Luna cut prices in half but barely move the needle on performance",
-      "summary": "With GPT-6 Sol and Luna, OpenAI adds two cheaper models that deliver their predecessors' performance at half the token price and take aim at Anthropic's pricier offerings. Independent analyses find little gain in actual intelligence, though, and OpenAI likely didn't see Anthropic's simultaneous launch of Opus 5.5 coming. The article OpenAI&#039;s GPT-6 Sol and Luna cut prices in half but barely mo",
-      "url": "https://the-decoder.com/openais-gpt-6-sol-and-luna-cut-prices-in-half-but-barely-move-the-needle-on-performance/",
+      "id": "22ccf69d33e7",
+      "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
+      "summary": "Google Deepmind chief Koray Kavukcuoglu wants to release Gemini 4 \"much earlier\" than the end of the year. The model is already in post-training and runs internally in the coding tool Antigravity. He calls the AGI question that drove his predecessor Hassabis \"not the right conversation\" and says trustworthy agents matter more. After Gemini 3.5 Pro quietly disappeared and many top researchers left ",
+      "url": "https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -33,24 +33,23 @@
         "new_model",
         "industry"
       ],
-      "score": 9,
-      "publishedAt": "2026-09-22T20:06:51.000Z"
+      "score": 11,
+      "publishedAt": "2026-09-24T13:35:44.000Z"
     },
     {
-      "id": "8fd73864f0eb",
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
+      "id": "6ef44cccf72c",
+      "title": "leejet / stable-diffusion.cpp (C++)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "url": "https://github.com/leejet/stable-diffusion.cpp",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
         "open_source",
-        "new_model",
         "industry"
       ],
-      "score": 9,
-      "publishedAt": "2026-08-10T16:25:36.000Z"
+      "score": 10,
+      "publishedAt": "2026-09-24T16:52:53.000Z"
     },
     {
       "id": "d437ecf07e00",
@@ -66,6 +65,21 @@
       ],
       "score": 8,
       "publishedAt": "2026-09-24T04:00:00.000Z"
+    },
+    {
+      "id": "48117f8e8649",
+      "title": "NVIDIA / Model-Optimizer (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-09-24T16:52:53.000Z"
     },
     {
       "id": "25f20be5f5ae",
@@ -99,10 +113,10 @@
       "publishedAt": "2026-09-24T04:00:00.000Z"
     },
     {
-      "id": "795f20a52f69",
-      "title": "Alibaba launches Qwen Audio 3.1 with new models and slashes AI audio prices by up to 95 percent",
-      "summary": "Alibaba's AI team Qwen has released Qwen-Audio-3.1, a lineup of five models for speech recognition (ASR), text-to-speech (TTS), and real-time interaction. The ASR model improves multilingual and dialect recognition and automatically cleans up filler words and repetitions. ASR-Next adds multi-speaker identification with timestamps and detects emotions, ambient sounds, and machine noise. TTS handles",
-      "url": "https://the-decoder.com/alibaba-launches-qwen-audio-3-1-with-five-new-models-and-slashes-ai-audio-prices-by-up-to-95-percent/",
+      "id": "867a3f3ba012",
+      "title": "OpenAI&#039;s agents went after government and university sites months before Hugging Face",
+      "summary": "According to Transluce researchers and the Australian government, OpenAI's AI agents repeatedly broke into government and university websites without authorization, including Australia's Medicare portal on June 18. The cause was a mundane data search. Prime Minister Albanese called OpenAI's three-month delay in reporting the breach \"obviously unacceptable.\" Transluce's investigation traces the act",
+      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -111,23 +125,8 @@
         "new_model",
         "industry"
       ],
-      "score": 7,
-      "publishedAt": "2026-09-23T12:31:20.000Z"
-    },
-    {
-      "id": "0afd034377a0",
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-08-26T00:00:00.000Z"
+      "score": 6,
+      "publishedAt": "2026-09-24T14:01:05.000Z"
     },
     {
       "id": "e828c2532174",
@@ -189,22 +188,6 @@
       "publishedAt": "2026-09-23T15:14:34.000Z"
     },
     {
-      "id": "716876eb097d",
-      "title": "Meta&#039;s AI agent Muse draws 500,000 users in a week along with claims it copied OpenClaw",
-      "summary": "Meta's AI agent Muse picked up more than 500,000 users in its first week and hit number one in Apple's App Store. But Meta admits the product is \"heavily inspired\" by the open-source project OpenClaw, and some of the file names and contents are nearly identical. OpenAI is already discussing a response of its own. The article Meta&#039;s AI agent Muse draws 500,000 users in a week along with claims",
-      "url": "https://the-decoder.com/metas-ai-agent-muse-draws-500000-users-in-a-week-along-with-claims-it-copied-openclaw/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-09-23T14:42:38.000Z"
-    },
-    {
       "id": "8dd57ec5b1b4",
       "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
       "summary": "",
@@ -222,90 +205,19 @@
       "publishedAt": "2026-09-22T23:46:41.000Z"
     },
     {
-      "id": "1c7f791b566f",
-      "title": "Transformers now runs llama.cpp quants",
-      "summary": "",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "0551b5a2acc5",
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "summary": "",
-      "url": "https://huggingface.co/blog/omlx",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "0ee1d6e4536f",
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "summary": "",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
+      "id": "3591acaeeef9",
+      "title": "Show HN: Personal Jarvis an open-source alternative to GrokBot",
+      "summary": "Article URL: https://github.com/PersonalJarvis/PersonalJarvis Comments URL: https://news.ycombinator.com/item?id=49833292 Points: 1 # Comments: 0",
+      "url": "https://github.com/PersonalJarvis/PersonalJarvis",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
         "open_source",
-        "new_model",
-        "industry"
+        "new_model"
       ],
-      "score": 6,
-      "publishedAt": "2026-08-10T00:00:00.000Z"
-    },
-    {
-      "id": "fcb657dcffd0",
-      "title": "Native-speed vLLM transformers modeling backend",
-      "summary": "",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-07-08T00:00:00.000Z"
-    },
-    {
-      "id": "e792df332fb9",
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "summary": "",
-      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-07-01T00:00:00.000Z"
-    },
-    {
-      "id": "1d62e071104d",
-      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-06-24T16:00:13.000Z"
+      "score": 5,
+      "publishedAt": "2026-09-24T16:43:35.000Z"
     },
     {
       "id": "163099706c19",
@@ -472,51 +384,6 @@
       "publishedAt": "2026-09-24T04:00:00.000Z"
     },
     {
-      "id": "c96bfd28b36f",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "summary": "",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-08-13T17:16:04.000Z"
-    },
-    {
-      "id": "249bf0754a74",
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "summary": "",
-      "url": "https://huggingface.co/blog/cross-origin-storage",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-06-23T00:00:00.000Z"
-    },
-    {
-      "id": "dcd497c92b2e",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 5,
-      "publishedAt": "2026-06-04T18:57:45.000Z"
-    },
-    {
       "id": "7c5214b7da0d",
       "title": "strands-agents / harness-sdk (Python)",
       "summary": "GitHub 인기 오픈소스 프로젝트: Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
@@ -529,7 +396,36 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-09-24T04:07:48.000Z"
+      "publishedAt": "2026-09-24T16:52:53.000Z"
+    },
+    {
+      "id": "6dd0db34ac7d",
+      "title": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
+      "summary": "Anthropic's AI model Claude found a previously unknown enzyme system in DNA databases, doing most of the analysis on its own. The article Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-24T16:04:26.000Z"
+    },
+    {
+      "id": "df569369c507",
+      "title": "AI performance costs are falling faster than those of any previous technology",
+      "summary": "AI is hitting a fixed benchmark performance level at a rapidly falling cost. Epoch AI measures a price decline of about 13x per year. After stripping out hardware gains and competition, MIT puts annual algorithmic progress at about 3x. That doesn't mean today's best models are cheaper, though. Reasoning models, for example, can cost more because they use far more compute per task. When picking a m",
+      "url": "https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-24T16:00:18.000Z"
     },
     {
       "id": "b994051915ad",
@@ -794,51 +690,6 @@
       "publishedAt": "2026-09-23T17:39:10.000Z"
     },
     {
-      "id": "79465387e698",
-      "title": "Inside Basecamp Research, the AI startup turning evolution into training data",
-      "summary": "Basecamp Research has raised $140 million from investors including Nvidia and Anthropic's Anthology Fund. The London company trains AI models on genetic material from rainforests, oceans, and hot springs to design antibiotics and tools for cell therapies. In an interview with THE DECODER, CTO Philip Lorenz explains why biology is a far bigger problem for AI than language, and why good scores on pa",
-      "url": "https://the-decoder.com/inside-basecamp-research-the-ai-startup-turning-evolution-into-training-data/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-23T13:52:23.000Z"
-    },
-    {
-      "id": "d5e9b9a87420",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "summary": "",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "0019ae2665a3",
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "summary": "",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
       "id": "79fca9ec1ba2",
       "title": "Get closer to the game with Gemini and Pixel",
       "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
@@ -853,49 +704,189 @@
       "publishedAt": "2026-08-17T08:00:00.000Z"
     },
     {
-      "id": "9c95afa451ef",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "summary": "",
-      "url": "https://huggingface.co/blog/baseten",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
+      "id": "ace7f8c6ec14",
+      "title": "Silent Failures in Agent-Tool Interaction: An Audit of ToolUniverse",
+      "summary": "arXiv:2609.26836v1 Announce Type: new Abstract: Agentic AI systems are increasingly adopting automated pipelines that integrate multiple tools. While prior research and benchmarks have studied about task success and task completion of these agentic systems, the research about agent to tool interaction, specifically in biology agentic workflow is limited. This study investigates specific failures i",
+      "url": "https://arxiv.org/abs/2609.26836",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
-        "open_source",
         "industry"
       ],
-      "score": 4,
-      "publishedAt": "2026-08-06T00:00:00.000Z"
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
     },
     {
-      "id": "0ee73a62fb00",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
+      "id": "4dbb531dbad6",
+      "title": "Harness as a Language: A Minimalist Agent Framework With Maximal Expressivity",
+      "summary": "arXiv:2609.26891v1 Announce Type: new Abstract: Modern language-model agents are built around the \\textit{agent loop}, where the LLM is placed in an environment exposing a set of tools, and the LLM has full control over the workflow by alternating between tool calls and observing their output. However, certain workflows currently require additional engineering beyond the agent loop itself, such as",
+      "url": "https://arxiv.org/abs/2609.26891",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
-        "open_source",
         "industry"
       ],
-      "score": 4,
-      "publishedAt": "2026-07-23T00:00:00.000Z"
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
     },
     {
-      "id": "ca43a0fca568",
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "summary": "",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
+      "id": "068b93ddde65",
+      "title": "TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents",
+      "summary": "arXiv:2609.26911v1 Announce Type: new Abstract: A single locally plausible tool call can derail an otherwise successful agent trajectory. Suspicion alone does not justify intervention, because the replacement itself can introduce the very failure verification is meant to prevent. We introduce TwinCheck, an inference-time verification policy that considers replacement only when the trace satisfies ",
+      "url": "https://arxiv.org/abs/2609.26911",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
-        "open_source",
         "industry"
       ],
-      "score": 4,
-      "publishedAt": "2026-07-07T00:00:00.000Z"
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
+    },
+    {
+      "id": "7a400da25915",
+      "title": "Same evidence, different judgments: Evidence noncommutative in vision/speech-text conflicts",
+      "summary": "arXiv:2609.26986v1 Announce Type: new Abstract: For multimodal large language models, when images or speech conflict with accompanying text, measured text reliance can entangle modality preference with evidence position. Earlier studies of text bias often used a fixed evidence order or moved task instructions with the evidence, leaving the contribution of order unclear. In this paper, we use a pai",
+      "url": "https://arxiv.org/abs/2609.26986",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
+    },
+    {
+      "id": "09bad2ab66aa",
+      "title": "Reinforcement Learning with Decomposed Subtasks",
+      "summary": "arXiv:2609.27035v1 Announce Type: new Abstract: Group Relative Policy Optimization (GRPO) and related policy-gradient methods for training language model agents collapse an entire multi-turn rollout into a single scalar trajectory reward before it enters the policy update. When the task composes distinct skills, especially under sparse and delayed environmental feedback, this collapsing is lossy: ",
+      "url": "https://arxiv.org/abs/2609.27035",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
+    },
+    {
+      "id": "d6c53eda184d",
+      "title": "Are Stated Reasoning Steps Causally Load-Bearing?",
+      "summary": "arXiv:2609.27038v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring assumes that the reasoning a model writes reflects the computation that directly produces its answer. Previous faithfulness metrics have been predominantly behavioral, as they simply edit the reasoning text and observe the resulting answer. However, our methodology aims to measure faithfulness causally at the activat",
+      "url": "https://arxiv.org/abs/2609.27038",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
+    },
+    {
+      "id": "17a4c618d961",
+      "title": "Provably Complete Generalized Planning with LLMs",
+      "summary": "arXiv:2609.27105v1 Announce Type: new Abstract: Generalized planning aims to compute a plan that solves all instances of a planning domain. Recent work has used LLMs to automatically generate and debug such generalized plans in the form of Python programs and achieved perfect test data coverage for several domains. However, whether these generalized plans are actually complete, i.e. solve all inst",
+      "url": "https://arxiv.org/abs/2609.27105",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
+    },
+    {
+      "id": "3dce4b125190",
+      "title": "Enhancing Small Language Models for Power Outage Report Generation via Minimum Risk Training",
+      "summary": "arXiv:2609.27197v1 Announce Type: new Abstract: Minimum Risk Training (MRT) enables neural machine translation models to directly optimize sequence-level evaluation metrics instead of relying only on token- level maximum-likelihood objectives Shen et al. [2016]. Although introduced a decade ago, recent work shows renewed potential for risk-based optimization in modern language models Yang et al. [",
+      "url": "https://arxiv.org/abs/2609.27197",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
+    },
+    {
+      "id": "d3b9b54af1f8",
+      "title": "CAVEAT: Towards Robust Computer-Use Agents in Incentive-Misaligned Environments",
+      "summary": "arXiv:2609.27273v1 Announce Type: new Abstract: Computer-use agents (CUAs) increasingly act on behalf of users online. What happens when the environments they operate in have incentives that do not align with the user's? In online marketplaces, for example, platforms may favor some products over others, potentially steering agents away from the user's objective. Existing CUA benchmarks cover coope",
+      "url": "https://arxiv.org/abs/2609.27273",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
+    },
+    {
+      "id": "de34366050d3",
+      "title": "EnSIMem: Entity-Structured Indexing for Long-Term Agent Memory",
+      "summary": "arXiv:2609.27279v1 Announce Type: new Abstract: An agent that interacts with users over long periods must recall facts, preferences, events, and changes from a continuously growing interaction history. Existing memory systems often compress interactions into generic summaries or retrieve anonymous text chunks, making it difficult for an agent to identify the correct entity, property, and supportin",
+      "url": "https://arxiv.org/abs/2609.27279",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
+    },
+    {
+      "id": "21053e7f0657",
+      "title": "Memory Control Signals Emerge Before Action in Long Horizon Agents",
+      "summary": "arXiv:2609.27286v1 Announce Type: new Abstract: Long horizon language model agents continuously accumulate interaction history, increasing computational cost while making relevant information harder to preserve and reuse. Existing context management methods mainly focus on how to compress or retrieve history, but largely leave open whether the model itself already represents the need for these mem",
+      "url": "https://arxiv.org/abs/2609.27286",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
+    },
+    {
+      "id": "90216f67e1ae",
+      "title": "Large Knowledge Model: From Papers to a Scientific Reasoning Landscape",
+      "summary": "arXiv:2609.27297v1 Announce Type: new Abstract: Accumulated scientific knowledge advances inquiry when prior findings help researchers choose new questions, design investigations, and interpret results. Realizing this value at scale requires access to the reasoning that connects research problems, scientific procedures, conclusions, and evidence. We introduce the Large Knowledge Model (LKM), a sci",
+      "url": "https://arxiv.org/abs/2609.27297",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
+    },
+    {
+      "id": "2b391e563f68",
+      "title": "Stable Geometry with Divergent Task Evidence for Efficient Long-Horizon Agent Compression",
+      "summary": "arXiv:2609.27332v1 Announce Type: new Abstract: Long horizon agents accumulate growing interaction histories that increase context and inference costs. We find that geometric redundancy alone is an insufficient criterion for safe compression. Although agent histories exhibit strong low dimensional structure, similar global geometry can preserve very different amounts of task evidence. At identical",
+      "url": "https://arxiv.org/abs/2609.27332",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-24T04:00:00.000Z"
     }
   ]
 }
