@@ -1,41 +1,11 @@
 {
-  "generatedAt": "2026-09-25T04:21:02.590Z",
-  "nextUpdate": "2026-09-25T16:00:00.000Z",
+  "generatedAt": "2026-09-25T16:56:25.723Z",
+  "nextUpdate": "2026-09-26T04:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 274,
+  "totalCollected": 276,
   "articleCount": 60,
   "articles": [
-    {
-      "id": "22ccf69d33e7",
-      "title": "Deepmind was built to chase AGI, but its new chief just wants Gemini 4 out the door",
-      "summary": "Google Deepmind chief Koray Kavukcuoglu wants to release Gemini 4 \"much earlier\" than the end of the year. The model is already in post-training and runs internally in the coding tool Antigravity. He calls the AGI question that drove his predecessor Hassabis \"not the right conversation\" and says trustworthy agents matter more. After Gemini 3.5 Pro quietly disappeared and many top researchers left ",
-      "url": "https://the-decoder.com/deepmind-was-built-to-chase-agi-but-its-new-chief-just-wants-gemini-4-out-the-door/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 11,
-      "publishedAt": "2026-09-24T13:35:44.000Z"
-    },
-    {
-      "id": "6ef44cccf72c",
-      "title": "leejet / stable-diffusion.cpp (C++)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
-      "url": "https://github.com/leejet/stable-diffusion.cpp",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 10,
-      "publishedAt": "2026-09-25T04:21:02.000Z"
-    },
     {
       "id": "34351766710d",
       "title": "Pistis Technical Report",
@@ -126,7 +96,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-09-25T04:21:02.000Z"
+      "publishedAt": "2026-09-25T16:56:25.000Z"
     },
     {
       "id": "695568ce47b9",
@@ -157,6 +127,20 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "c2fd60036a8c",
+      "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
+      "summary": "Map your AI worldview by answering a few questions, and see how you compare with others. only takes a few minutes && free & open source && private by default && powered by Jev I think this is a really important question for everyone to be asking themselves, and my hope is that this lil project helps to move our conversations around AI futures in a more balanced, productive direction. Comments URL:",
+      "url": "https://www.doom-or-bloom.com",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-25T16:51:28.000Z"
     },
     {
       "id": "73e06b66f592",
@@ -262,22 +246,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "id": "867a3f3ba012",
-      "title": "OpenAI&#039;s agents went after government and university sites months before Hugging Face",
-      "summary": "According to Transluce researchers and the Australian government, OpenAI's AI agents repeatedly broke into government and university websites without authorization, including Australia's Medicare portal on June 18. The cause was a mundane data search. Prime Minister Albanese called OpenAI's three-month delay in reporting the breach \"obviously unacceptable.\" Transluce's investigation traces the act",
-      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-09-24T14:01:05.000Z"
     },
     {
       "id": "8dd57ec5b1b4",
@@ -518,36 +486,6 @@
       "publishedAt": "2026-09-25T04:00:00.000Z"
     },
     {
-      "id": "ff6c19e50289",
-      "title": "Fagan – frontier models plan and review, open-weight models write code",
-      "summary": "Article URL: https://github.com/motock/fagan Comments URL: https://news.ycombinator.com/item?id=49839717 Points: 1 # Comments: 0",
-      "url": "https://github.com/motock/fagan",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 5,
-      "publishedAt": "2026-09-25T03:00:53.000Z"
-    },
-    {
-      "id": "9f3f564963c9",
-      "title": "Black Forest Labs launches FLUX 3 Action, an open robotics AI model",
-      "summary": "Black Forest Labs is entering robotics with FLUX 3 Action. The open-world-action model uses camera feeds to predict what action a robot should take next. With just seven billion parameters, it sets a record on the RoboLab-120 benchmark while running up to 3.95 times faster than the previous top model. The article Black Forest Labs launches FLUX 3 Action, an open robotics AI model appeared first on",
-      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-action-an-open-robotics-ai-model/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-09-24T17:01:03.000Z"
-    },
-    {
       "id": "c96bfd28b36f",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "summary": "",
@@ -593,10 +531,10 @@
       "publishedAt": "2026-06-04T18:57:45.000Z"
     },
     {
-      "id": "7c5214b7da0d",
-      "title": "strands-agents / harness-sdk (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
-      "url": "https://github.com/strands-agents/harness-sdk",
+      "id": "3949bcefe91c",
+      "title": "paperclipai / paperclip (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: The open-source app everyone uses to manage agents at work",
+      "url": "https://github.com/paperclipai/paperclip",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -605,7 +543,35 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-09-25T04:21:02.000Z"
+      "publishedAt": "2026-09-25T16:56:25.000Z"
+    },
+    {
+      "id": "f8ef14d76ede",
+      "title": "anthropics / claude-plugins-official (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-25T16:56:25.000Z"
+    },
+    {
+      "id": "9728cb5a6f7c",
+      "title": "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
+      "summary": "The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first. The article White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers appeared first on The Decoder .",
+      "url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-25T08:12:14.000Z"
     },
     {
       "id": "3d4c15ede608",
@@ -810,21 +776,6 @@
       "publishedAt": "2026-09-25T04:00:00.000Z"
     },
     {
-      "id": "17e6d02901e5",
-      "title": "ESA and Mistral strengthen cooperation on AI",
-      "summary": "Article URL: https://www.esa.int/Newsroom/Press_Releases/ESA_and_Mistral_strengthen_cooperation_on_artificial_intelligence Comments URL: https://news.ycombinator.com/item?id=49839390 Points: 1 # Comments: 0",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/ESA_and_Mistral_strengthen_cooperation_on_artificial_intelligence",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-25T02:03:00.000Z"
-    },
-    {
       "id": "1773983b8e99",
       "title": "Google&#039;s Suncatcher project aims to put AI data centers in orbit powered by solar energy",
       "summary": "Google's \"Suncatcher\" project aims to run AI infrastructure in orbit on solar power. A fridge-sized experimental satellite is set to launch on a SpaceX Falcon 9 on October 1. But the challenges are steep: you'd need around 10,000 satellites to match a single 1-gigawatt data center on Earth, and Jeff Bezos thinks it could take 20 years before orbital data centers beat ground-based ones on cost. The",
@@ -838,35 +789,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-09-24T17:45:44.000Z"
-    },
-    {
-      "id": "6dd0db34ac7d",
-      "title": "Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining",
-      "summary": "Anthropic's AI model Claude found a previously unknown enzyme system in DNA databases, doing most of the analysis on its own. The article Anthropic says Claude discovered a new enzyme system, but CRISPR researchers call it routine genome mining appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropic-says-claude-discovered-a-new-enzyme-system-but-crispr-researchers-call-it-routine-genome-mining/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-24T16:04:26.000Z"
-    },
-    {
-      "id": "df569369c507",
-      "title": "AI performance costs are falling faster than those of any previous technology",
-      "summary": "AI is hitting a fixed benchmark performance level at a rapidly falling cost. Epoch AI measures a price decline of about 13x per year. After stripping out hardware gains and competition, MIT puts annual algorithmic progress at about 3x. That doesn't mean today's best models are cheaper, though. Reasoning models, for example, can cost more because they use far more compute per task. When picking a m",
-      "url": "https://the-decoder.com/ai-performance-costs-are-falling-faster-than-those-of-any-previous-technology/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-24T16:00:18.000Z"
     },
     {
       "id": "d5e9b9a87420",
@@ -897,6 +819,80 @@
       ],
       "score": 4,
       "publishedAt": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "id": "79fca9ec1ba2",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-08-17T08:00:00.000Z"
+    },
+    {
+      "id": "9c95afa451ef",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "summary": "",
+      "url": "https://huggingface.co/blog/baseten",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "id": "0ee73a62fb00",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "ca43a0fca568",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "summary": "",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-07-07T00:00:00.000Z"
+    },
+    {
+      "id": "9f9adabca49d",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "summary": "",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-06-30T00:00:00.000Z"
     }
   ]
 }
