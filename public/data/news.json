@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T04:25:40.042Z",
-  "nextUpdate": "2026-09-26T16:00:00.000Z",
+  "generatedAt": "2026-09-26T16:08:27.666Z",
+  "nextUpdate": "2026-09-27T04:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 156,
+  "totalCollected": 155,
   "articleCount": 60,
   "articles": [
     {
@@ -35,7 +35,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-09-26T04:25:26.000Z"
+      "publishedAt": "2026-09-26T16:08:18.000Z"
     },
     {
       "id": "0afd034377a0",
@@ -51,6 +51,21 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "578f7a1efa37",
+      "title": "OpenAI pauses its \"most capable models\" after agents exploit loopholes and leak data",
+      "summary": "OpenAI has shared new details from its ongoing AI safety investigation. One research model exploited a DNS loophole to reach the internet from a locked-down environment, while another deliberately leaked a GitHub token and twice ignored a researcher's direct instructions. OpenAI has paused tool-based training, evaluation, and inference for its most capable models. With government and university si",
+      "url": "https://the-decoder.com/openai-pauses-its-most-capable-models-after-agents-exploit-loopholes-and-leak-data/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-26T09:06:36.000Z"
     },
     {
       "id": "8dd57ec5b1b4",
@@ -213,13 +228,13 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-09-26T04:25:26.000Z"
+      "publishedAt": "2026-09-26T16:08:18.000Z"
     },
     {
-      "id": "f8ef14d76ede",
-      "title": "anthropics / claude-plugins-official (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "url": "https://github.com/anthropics/claude-plugins-official",
+      "id": "150c4b304bef",
+      "title": "anthropics / claude-code-action (TypeScript)",
+      "summary": "GitHub 오늘의 인기 오픈소스 프로젝트",
+      "url": "https://github.com/anthropics/claude-code-action",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -227,13 +242,13 @@
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-09-26T04:25:26.000Z"
+      "publishedAt": "2026-09-26T16:08:18.000Z"
     },
     {
-      "id": "9728cb5a6f7c",
-      "title": "White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers",
-      "summary": "The White House wants OpenAI and Anthropic to hold back new AI models from the U.K.'s AI Safety Institute until U.S. agencies get to review them first. The article White House tells OpenAI and Anthropic to let U.S. review new models before sharing them with British testers appeared first on The Decoder .",
-      "url": "https://the-decoder.com/white-house-tells-openai-and-anthropic-to-let-u-s-review-new-models-before-sharing-them-with-british-testers/",
+      "id": "8613b3e14b35",
+      "title": "OpenAI&#039;s GPT-6 Astra can now tell you exactly where you screwed up your IKEA shelf",
+      "summary": "OpenAI's GPT-6 Astra can look at a photo and tell whether an IKEA furniture piece was assembled incorrectly, hitting an 80 percent accuracy rate. Back in November 2025, the best model managed just 28 percent. According to Epoch AI, the speed isn't quite fast enough yet for real-time assembly guidance, but the gap is closing quickly. The article OpenAI&#039;s GPT-6 Astra can now tell you exactly wh",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-can-now-tell-you-exactly-where-you-screwed-up-your-ikea-shelf/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -241,7 +256,7 @@
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-09-25T08:12:14.000Z"
+      "publishedAt": "2026-09-26T09:44:54.000Z"
     },
     {
       "id": "d5e9b9a87420",
@@ -393,19 +408,18 @@
       "publishedAt": "2026-06-08T00:00:00.000Z"
     },
     {
-      "id": "e5a03accdd1e",
-      "title": "anthropics / skills (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Public repository for Agent Skills",
-      "url": "https://github.com/anthropics/skills",
+      "id": "b8000fc3e61e",
+      "title": "tensorflow / tensorflow (C++)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: An Open Source Machine Learning Framework for Everyone",
+      "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
       "category": [
-        "new_model",
-        "industry"
+        "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-09-26T04:25:26.000Z"
+      "publishedAt": "2026-09-26T16:08:18.000Z"
     },
     {
       "id": "cc2a6bf3277b",
@@ -546,7 +560,49 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-09-26T04:25:26.000Z"
+      "publishedAt": "2026-09-26T16:08:18.000Z"
+    },
+    {
+      "id": "ce1309309e69",
+      "title": "zhaoxuya520 / reverse-skill (PowerShell)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-26T16:08:18.000Z"
+    },
+    {
+      "id": "863cc60e8c0f",
+      "title": "mobile-next / mobile-mcp (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-26T16:08:18.000Z"
+    },
+    {
+      "id": "290392edef13",
+      "title": "Nvidia&#039;s SoL-Pi system cuts coding agent token usage nearly in half by optimizing the harness",
+      "summary": "SoL-Pi cuts coding agents' token usage by up to 49 percent with little change in performance by optimizing the control layer between the model and its environment. A research agent tested 152 approaches across more than 3,000 runs to develop the system, though the gains were smaller on other benchmarks. The article Nvidia&#039;s SoL-Pi system cuts coding agent token usage nearly in half by optimiz",
+      "url": "https://the-decoder.com/nvidias-sol-pi-system-cuts-coding-agent-token-usage-nearly-in-half-by-optimizing-the-harness/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-26T10:30:32.000Z"
     },
     {
       "id": "44791812be52",
@@ -617,20 +673,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-09-25T10:43:15.000Z"
-    },
-    {
-      "id": "5cbb1580cb7a",
-      "title": "Top AI experts badly underestimated how fast the field is moving, study finds",
-      "summary": "Leading AI experts have consistently underestimated how fast AI is advancing, according to the Forecasting Research Institute. AI reached gold-medal level at the International Mathematical Olympiad five years ahead of the median expert forecast, and Anthropic's annualized revenue is about five times what experts predicted. But forecasts for real-world uses like self-driving cars paint a more mixed",
-      "url": "https://the-decoder.com/top-ai-experts-badly-underestimated-how-fast-the-field-is-moving-study-finds/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-24T19:18:33.000Z"
     },
     {
       "id": "cb6315107818",
@@ -751,34 +793,6 @@
       "publishedAt": "2026-06-18T00:00:00.000Z"
     },
     {
-      "id": "b543c31678ad",
-      "title": "obra / superpowers (Shell)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-26T04:25:26.000Z"
-    },
-    {
-      "id": "d8cccf393c50",
-      "title": "mattpocock / skills (Shell)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-26T04:25:26.000Z"
-    },
-    {
       "id": "ce391d9bf451",
       "title": "dream-num / univer (TypeScript)",
       "summary": "GitHub 인기 오픈소스 프로젝트: The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
@@ -790,35 +804,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-09-26T04:25:26.000Z"
-    },
-    {
-      "id": "3a7f1fc068b2",
-      "title": "androoAGI / starnet (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
-      "url": "https://github.com/androoAGI/starnet",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-26T04:25:26.000Z"
-    },
-    {
-      "id": "bf36ef665012",
-      "title": "google / ax (Go)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Google's open agentic orchestration runtime",
-      "url": "https://github.com/google/ax",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-26T04:25:26.000Z"
+      "publishedAt": "2026-09-26T16:08:18.000Z"
     },
     {
       "id": "fa109827b727",
@@ -878,6 +864,20 @@
       ],
       "score": 1,
       "publishedAt": "2026-09-15T16:00:44.000Z"
+    },
+    {
+      "id": "8d3fd42b9606",
+      "title": "DevFest is back",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-14T16:00:00.000Z"
     }
   ]
 }
