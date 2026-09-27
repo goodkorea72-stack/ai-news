@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T16:08:27.666Z",
-  "nextUpdate": "2026-09-27T04:00:00.000Z",
+  "generatedAt": "2026-09-27T04:43:41.569Z",
+  "nextUpdate": "2026-09-27T16:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 155,
+  "totalCollected": 175,
   "articleCount": 60,
   "articles": [
     {
@@ -35,7 +35,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-09-26T16:08:18.000Z"
+      "publishedAt": "2026-09-27T04:43:41.000Z"
     },
     {
       "id": "0afd034377a0",
@@ -228,7 +228,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-09-26T16:08:18.000Z"
+      "publishedAt": "2026-09-27T04:43:41.000Z"
     },
     {
       "id": "150c4b304bef",
@@ -242,7 +242,21 @@
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-09-26T16:08:18.000Z"
+      "publishedAt": "2026-09-27T04:43:41.000Z"
+    },
+    {
+      "id": "bab3c7719e2c",
+      "title": "Top AI companies probing security incidents",
+      "summary": "Article URL: https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents Comments URL: https://news.ycombinator.com/item?id=49861517 Points: 9 # Comments: 0",
+      "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-26T23:15:28.000Z"
     },
     {
       "id": "8613b3e14b35",
@@ -419,7 +433,21 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-09-26T16:08:18.000Z"
+      "publishedAt": "2026-09-27T04:43:41.000Z"
+    },
+    {
+      "id": "013f46c8a701",
+      "title": "Credence – Jev-style typed decisions from a local GGUF model",
+      "summary": "Article URL: https://github.com/bulyaki/Credence Comments URL: https://news.ycombinator.com/item?id=49861867 Points: 1 # Comments: 0",
+      "url": "https://github.com/bulyaki/Credence",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-27T00:05:20.000Z"
     },
     {
       "id": "cc2a6bf3277b",
@@ -560,7 +588,7 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-09-26T16:08:18.000Z"
+      "publishedAt": "2026-09-27T04:43:41.000Z"
     },
     {
       "id": "ce1309309e69",
@@ -574,7 +602,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-09-26T16:08:18.000Z"
+      "publishedAt": "2026-09-27T04:43:41.000Z"
     },
     {
       "id": "863cc60e8c0f",
@@ -588,7 +616,35 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-09-26T16:08:18.000Z"
+      "publishedAt": "2026-09-27T04:43:41.000Z"
+    },
+    {
+      "id": "d65c4fbc6d7b",
+      "title": "Ask HN: Are you unfollowing friends on GitHub because of AI slop?",
+      "summary": "Last week one of my IRL friends started playing with claude code. What was a fairly nice feed on my Github landing page turned into five pages of just his commits. I like my friend and want to keep up with what he's up to, but it now drowns out all my other friends who also do great work. I may need to unfollow him. Comments URL: https://news.ycombinator.com/item?id=49862641 Points: 2 # Comments: ",
+      "url": "https://news.ycombinator.com/item?id=49862641",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-27T02:08:58.000Z"
+    },
+    {
+      "id": "438a46a73ff5",
+      "title": "Show HN: Detailed Guide to Agent Memory",
+      "summary": "I wrote a detailed guide to agent memory from the perspective of a builder in the space that has been doing it for 3 years. Hope you like it, and would love to hear feedback. Comments URL: https://news.ycombinator.com/item?id=49861765 Points: 3 # Comments: 0",
+      "url": "https://www.cognee.ai/agent-memory",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-26T23:50:30.000Z"
     },
     {
       "id": "290392edef13",
@@ -645,34 +701,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-09-25T16:30:57.000Z"
-    },
-    {
-      "id": "7865c547abc6",
-      "title": "Google&#039;s \"Call for Me\" lets Gemini phone businesses for you",
-      "summary": "Google is testing \"Call for Me,\" a feature that lets Gemini call businesses on a user's behalf. The article Google&#039;s \"Call for Me\" lets Gemini phone businesses for you appeared first on The Decoder .",
-      "url": "https://the-decoder.com/googles-call-for-me-lets-gemini-phone-businesses-for-you/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-25T11:49:52.000Z"
-    },
-    {
-      "id": "e56437e885b0",
-      "title": "Anthropic signs $11.6 billion cloud deal with Akamai, pushing its compute spending past $500 billion in under a year",
-      "summary": "Anthropic has reportedly signed a seven-year, $11.6 billion cloud deal with Akamai Technologies and will receive a warrant for up to 5 percent of Akamai's shares. Its compute deals have reportedly totaled $517 billion in 11 months. CEO Dario Amodei has warned that Anthropic could go bankrupt if its revenue forecasts are even slightly off. The article Anthropic signs $11.6 billion cloud deal with A",
-      "url": "https://the-decoder.com/anthropic-signs-11-6-billion-cloud-deal-with-akamai-pushing-its-compute-spending-past-500-billion-in-under-a-year/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-25T10:43:15.000Z"
     },
     {
       "id": "cb6315107818",
@@ -804,13 +832,41 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-09-26T16:08:18.000Z"
+      "publishedAt": "2026-09-27T04:43:41.000Z"
     },
     {
-      "id": "fa109827b727",
-      "title": "Meta&#039;s Muse agent gives every user a full cloud computer running Ubuntu Linux",
-      "summary": "Meta gives every Muse user a free cloud computer running Ubuntu Linux where they can install software, write code, and browse the web. A \"Sentinel\" process monitors sensitive actions outside the user's workspace, while users can inspect every file in the system. With over 500,000 users in its first week, Meta is betting on product reach over model power. The article Meta&#039;s Muse agent gives ev",
-      "url": "https://the-decoder.com/metas-muse-agent-gives-every-user-a-full-cloud-computer-running-ubuntu-linux/",
+      "id": "2ff234fc5119",
+      "title": "Show HN: PeerTalk.ai - Let your agent talk to a friend's agent",
+      "summary": "Little experiment I've been cooking up. I often find myself wanting to do one of the following: - Get my agent and a someone else's agent to agree on something, after we've been discussing the same topic in different threads - Give someone temporary access to talk to one of my agents for a specific purpose, to help them do something or help them understand something - Ask a co-worker for access to",
+      "url": "https://peertalk.ai",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-27T02:56:26.000Z"
+    },
+    {
+      "id": "53f7c307339f",
+      "title": "Ask HN: Any books, list of papers, or articles to understand LLM's",
+      "summary": "I have some basic ml background from college. I know how neural nets, backprop, and attention work vaguely. I want to study LLMs and keep up with the modern research and literature including thinking, model training techniques, etc. Do yall have any suggestions on where to start? Comments URL: https://news.ycombinator.com/item?id=49861324 Points: 2 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=49861324",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-26T22:49:34.000Z"
+    },
+    {
+      "id": "82e568ea8711",
+      "title": "Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army",
+      "summary": "Former Ukrainian Defense Minister Mykhailo Fedorov has announced \"Army of Robots,\" a private combat robotics initiative. The robots would handle casualty evacuation, mine clearance, and combat. Drones already account for 95 percent of target engagements, he says. The article Former Ukrainian Defense Minister Fedorov pitches a private-sector robot army appeared first on The Decoder .",
+      "url": "https://the-decoder.com/former-ukrainian-defense-minister-fedorov-pitches-a-private-sector-robot-army/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -818,66 +874,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-09-25T12:22:27.000Z"
-    },
-    {
-      "id": "608bfb473b84",
-      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-23T02:53:19.000Z"
-    },
-    {
-      "id": "fcdb740546fd",
-      "title": "Making global data easier to explore",
-      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-17T20:00:00.000Z"
-    },
-    {
-      "id": "e10aa3054613",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-15T16:00:44.000Z"
-    },
-    {
-      "id": "8d3fd42b9606",
-      "title": "DevFest is back",
-      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-14T16:00:00.000Z"
+      "publishedAt": "2026-09-26T19:10:20.000Z"
     }
   ]
 }
