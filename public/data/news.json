@@ -1,11 +1,58 @@
 {
-  "generatedAt": "2026-09-27T16:44:28.099Z",
-  "nextUpdate": "2026-09-28T04:00:00.000Z",
+  "generatedAt": "2026-09-28T04:44:52.908Z",
+  "nextUpdate": "2026-09-28T16:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 169,
+  "totalCollected": 249,
   "articleCount": 60,
   "articles": [
+    {
+      "id": "30a113655619",
+      "title": "The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?",
+      "summary": "arXiv:2609.30705v1 Announce Type: new Abstract: While inference-time reasoning in large language models (LLMs) promises better decision making, its higher computational cost may not yield better economic outcomes. Yet reasoning controls are rarely evaluated as economic interventions, where changes in model outputs must translate into better portfolios after trading costs. We conduct a controlled s",
+      "url": "https://arxiv.org/abs/2609.30705",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 10,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "f8c100a44c14",
+      "title": "BioEVAL: A global, multi-institutional benchmark of large language and multimodal models for bioengineering",
+      "summary": "arXiv:2609.30489v1 Announce Type: new Abstract: Large Language Models (LLMs) have demonstrated historic breakthroughs in general reasoning with early successes in biomedical science. However, existing LLM benchmarking emphasizes factual recall, offering limited insight into model performance on frontier and multimodal tasks. We assembled BioEVAL (BioEngineering Validation of AI and LLMs), a global",
+      "url": "https://arxiv.org/abs/2609.30489",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "6bb3af06ae10",
+      "title": "Does Thinking Help Fairness? Reasoning Tokens Resolve Some Biases but Create More",
+      "summary": "arXiv:2609.30768v1 Announce Type: new Abstract: Thinking in reasoning language models (RLMs) has been subject to debate on whether it resolves or amplifies bias. Prior works have shown competing conclusions in both directions. Using a within-model thinking-vs.-non-thinking ablation across QwQ-32B, DeepSeek-R1-Distill-Qwen-32B, and Qwen3-32B on three high-stakes decision tasks (Adult, COMPAS, Credi",
+      "url": "https://arxiv.org/abs/2609.30768",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
     {
       "id": "a9084e6d4b6a",
       "title": "Tens of thousands of security probes show OpenAI&#039;s Hugging Face incident was just the beginning",
@@ -39,6 +86,67 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
+      "id": "b342c73793f0",
+      "title": "Cheap, open agents make LLM pollution harder to mitigate",
+      "summary": "arXiv:2609.31054v1 Announce Type: new Abstract: Large Language Model (LLM) pollution occurs when synthetic responses contaminate data intended to capture human behavior. High deployment costs have so far limited the risk posed by autonomous survey agents. However, open-weight models paired with open-source agentic frameworks may have removed this barrier. We compared the performance and detectabil",
+      "url": "https://arxiv.org/abs/2609.31054",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "ea6f0d11064d",
+      "title": "PTC-Decoder: Towards Intelligent SLMs on Offline Resource-Constrained Edge Devices",
+      "summary": "arXiv:2609.30836v1 Announce Type: new Abstract: Deploying small language models (SLMs) on offline, resource-constrained edge devices such as remote sensing satellites presents a fundamental challenge: their limited reasoning capacity hinders reliable execution of multi-step agent tasks requiring complex tool orchestration. Existing plan-solve paradigms rely on prompt-based enforcement, which our e",
+      "url": "https://arxiv.org/abs/2609.30836",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "96d6bc21d361",
+      "title": "FTB Graph: Determining and Validating First-token Broadcasters and Language-Identity Head Circuits in Multilingual Language Models",
+      "summary": "arXiv:2609.30954v1 Announce Type: new Abstract: Large language models operating in multilingual contexts must resolve target response languages early in generation, yet the causal circuitry governing first-token language identity decisions remains poorly mapped. We present an end-to-end structural circuit analysis across six model architectures spanning four families: GPT-2, BLOOM-560M, Pythia-1B/",
+      "url": "https://arxiv.org/abs/2609.30954",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "489b9418fcec",
+      "title": "Evolutionary Safety of Recursive Self-Improving AI: Taxonomy, Risk Discovery, and Evaluation",
+      "summary": "arXiv:2609.31186v1 Announce Type: new Abstract: Artificial intelligence is advancing rapidly, with increasingly capable systems taking larger roles in reasoning, decision-making, scientific discovery, and autonomous development. As AI begins to participate in its own improvement, from model training and experience accumulation to agent evolution and automated AI development, the prospect of recurs",
+      "url": "https://arxiv.org/abs/2609.31186",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
       "id": "0afd034377a0",
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "summary": "",
@@ -52,6 +160,21 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "1fa7e7978b1f",
+      "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+      "summary": "arXiv:2609.31619v1 Announce Type: new Abstract: Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping mechanisms or by explicitly encouraging shorter reasoning during training, for example through reinforcement learning with length penalties. We show that ",
+      "url": "https://arxiv.org/abs/2609.31619",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
     },
     {
       "id": "8dd57ec5b1b4",
@@ -157,6 +280,139 @@
       "publishedAt": "2026-06-24T16:00:13.000Z"
     },
     {
+      "id": "e4cb255fe8ac",
+      "title": "Spectral Feedback for Test-Time Alignment of Protein Diffusion Models",
+      "summary": "arXiv:2609.30456v1 Announce Type: new Abstract: Reward maximization alignment methods for discrete diffusion models have primarily focused on steering the reverse process, either by influencing token logits or by selecting favorable sequences at intermediate steps. These approaches largely treat inference as a unidirectional process, lacking mechanisms for revisiting undesirable token selections. ",
+      "url": "https://arxiv.org/abs/2609.30456",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "5adc417181fa",
+      "title": "Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents",
+      "summary": "arXiv:2609.30725v1 Announce Type: new Abstract: Although effective, coding agents often incur substantial monetary costs. Their recurring cost-inefficient behaviors remain underexplored. We conduct the first study of behavioral cost inefficiencies in coding agents, analyzing 1,200 trajectories from Claude Code and Mini-SWE-Agent across four configurations on SWE-bench Verified. We identify three c",
+      "url": "https://arxiv.org/abs/2609.30725",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "10c44ae94b9b",
+      "title": "Evaluating Real-Time Voice Agents: From Component Quality to Grounded Outcomes",
+      "summary": "arXiv:2609.30798v1 Announce Type: new Abstract: Real-time voice agents have moved from research prototypes to production deployments, yet the literature describing them is fragmented across three communities that rarely cite one another: speech foundation modelling, turn-taking psycholinguistics, and agentic evaluation. Architecture papers report latency, turn-taking papers report prediction accur",
+      "url": "https://arxiv.org/abs/2609.30798",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "26cc238876b4",
+      "title": "A Benchmark and Diagnostic Study of Epistemic Admission in Shared Agent Memory",
+      "summary": "arXiv:2609.30813v1 Announce Type: new Abstract: Evaluating claim admission in shared agent memory is challenging because repeated claims may be mistaken for independent evidence. An agent may copy or paraphrase a retrieved belief, while admitting a false claim exposes subsequent agents to it. To study this problem, we introduce the Correlated Promotion Benchmark (CPB), which evaluates whether cand",
+      "url": "https://arxiv.org/abs/2609.30813",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "f96eed77ed7d",
+      "title": "Why Jailbreaks Succeed in Diffusion Language Models: An Energy Landscape Analysis",
+      "summary": "arXiv:2609.30841v1 Announce Type: new Abstract: Existing attacks and defenses for diffusion-based large language models (dLLMs) target specific vulnerabilities but lack a shared framework explaining why attacks succeed. We propose one by interpreting safety alignment as shaping the denoising energy landscape: a well-aligned model routes harmful queries toward safe outputs through an energy barrier",
+      "url": "https://arxiv.org/abs/2609.30841",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "44643624b39f",
+      "title": "LogicTree-RAG: Logic Tree-guided Retrieval-Augmented Generation for Long-form Patent Drafting",
+      "summary": "arXiv:2609.30943v1 Announce Type: new Abstract: Long-form technical text generation underpins knowledge-intensive workflows, yet remains challenging for large language models (LLMs) due to the need for globally consistent logical structuring and faithful technical reasoning beyond local coherence. Patent drafting is a canonical instance of this challenge, demanding holistic generation of a legally",
+      "url": "https://arxiv.org/abs/2609.30943",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "95bc9e2be024",
+      "title": "Can Linguistic Reasoning Vectors Enhance Multimodal Reasoning Ability?",
+      "summary": "arXiv:2609.31140v1 Announce Type: new Abstract: Most Vision-Language Models (VLMs) are built by extending pretrained Large Language Models (LLMs) with visual modules and multimodal alignment. However, this multimodal scaling often degrades the language-side reasoning ability originally encoded in the base LLM. While the base LLM retains usable reasoning after scaling, the aligned VLM itself cannot",
+      "url": "https://arxiv.org/abs/2609.31140",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "38177785ea37",
+      "title": "Purin: A Biology-inspired Mechanism for Artificial Neural Networks",
+      "summary": "arXiv:2609.31235v1 Announce Type: new Abstract: Artificial neural networks (ANNs) usually represent neural transmission with fixed trainable weights during a training batch, which omits short-term changes in synaptic efficacy. In addition, the discrete time-step simulation requires additional temporal processing that many conventional ANN architectures do not use. To overcome these challenges, we ",
+      "url": "https://arxiv.org/abs/2609.31235",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "45d468ddc516",
+      "title": "Programs-of-Layers in LLMs through the Lens of Cortical Areas",
+      "summary": "arXiv:2609.31360v1 Announce Type: new Abstract: Inference in LLMs is conventionally a fixed-depth, fixed-order forward pass through every layer, regardless of how difficult the input is. The human brain does not work this way: using the thalamus as a central hub, it routes information flexibly to all regions of the cortex according to demand. Li et al. (2026) recently showed, with a system they ca",
+      "url": "https://arxiv.org/abs/2609.31360",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
       "id": "c96bfd28b36f",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "summary": "",
@@ -214,22 +470,184 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-09-27T16:44:18.000Z"
+      "publishedAt": "2026-09-28T04:44:52.000Z"
     },
     {
-      "id": "1adf10c6f256",
-      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue Comments URL: https://news.ycombinator.com/item?id=49868202 Points: 2 # Comments: 0",
-      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "c07ff3f83acc",
+      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "summary": "arXiv:2609.30328v1 Announce Type: new Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies each against evidence, is a promising respon",
+      "url": "https://arxiv.org/abs/2609.30328",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-09-27T16:29:38.000Z"
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "0d1d99611c57",
+      "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+      "summary": "arXiv:2609.30397v1 Announce Type: new Abstract: Evaluating explainable Artificial Intelligence (XAI) methods is a challenging task due to the lack of reliable evaluation procedures and, in particular, the absence of ground truth explanations. In the literature, existing evaluation approaches typically assess explanations by measuring their fidelity with respect to the predictions of a black-box mo",
+      "url": "https://arxiv.org/abs/2609.30397",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "2ce0f23fcdce",
+      "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
+      "summary": "arXiv:2609.30469v1 Announce Type: new Abstract: Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understand police decision-making. Pseudo-labeling offers an unsupervised path to improve ASR without expensive human labels, but the efficacy of this approach on very noisy domains is not known. In this work, we systematically assess the opportu",
+      "url": "https://arxiv.org/abs/2609.30469",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "23342a97a5ee",
+      "title": "LAVOIR: Teaching a Single-Pass Decision Encoder When and What to Ask with Amortized Value of Information",
+      "summary": "arXiv:2609.30706v1 Announce Type: new Abstract: \"System One\" decision models such as TypeSafe's Jev and its open counterpart Laya answer typed questions about a text in a single forward pass with calibrated probabilities, but they cannot ask for missing information: when a first message does not say what separates two departments, they guess. We present LAVOIR (Laya with Value-Of-Information Routi",
+      "url": "https://arxiv.org/abs/2609.30706",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "9beaabb8df66",
+      "title": "Backbone-Adaptive Evidence Routing for Robust Pairwise LLM Judging",
+      "summary": "arXiv:2609.30751v1 Announce Type: new Abstract: Pairwise language-model judges can gather evidence through direct comparison, reasoning, or reference-based verification, but no single protocol is best across benchmarks and judge backbones. We introduce Backbone-Adaptive Evidence Routing (BAER), which adapts the evidence mechanism while preserving candidate symmetry: swapping the two responses may ",
+      "url": "https://arxiv.org/abs/2609.30751",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "3cb5c1279b25",
+      "title": "SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents",
+      "summary": "arXiv:2609.30971v1 Announce Type: new Abstract: Embodied agents offer a promising route to automating scientific experimentation, yet their progress is constrained by the lack of reliable and systematic evaluation environments. Existing simulation-based laboratory benchmarks rely heavily on manual task engineering, making it challenging to systematically compile diverse scientific protocols into e",
+      "url": "https://arxiv.org/abs/2609.30971",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "33cb4c06ce14",
+      "title": "Governed Deduction: Policy-Grounded Premise Authorization Beyond Relevance",
+      "summary": "arXiv:2609.31029v1 Announce Type: new Abstract: Reasoning systems usually treat premise use as a question of relevance: if a fact is available and useful, it may be selected for inference. Authorization imposes a different constraint: a premise may be represented and logically usable but not permitted for a particular local transition. We formalize this distinction as Governed Deduction (GD), with",
+      "url": "https://arxiv.org/abs/2609.31029",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "76d34dffbc18",
+      "title": "Monitor Jailbreaking: Evading Chain-of-Thought Monitoring Without Encoded Reasoning",
+      "summary": "arXiv:2609.31121v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising safety technique for reasoning models, enabling detection of problematic reasoning before models act. A key concern is encoded reasoning, where models hide their true reasoning in ways that monitors and humans cannot interpret. Optimization pressure from CoT monitors during reinforcement learning is co",
+      "url": "https://arxiv.org/abs/2609.31121",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "ce762da3f9f3",
+      "title": "MA-WAM: Multi-Agent World-Action Model for Test-Time Planning",
+      "summary": "arXiv:2609.31281v1 Announce Type: new Abstract: Multi-agent cooperative tasks require different agents to execute a joint action simultaneously, and each agent's action affects both the observations and responses of the other agents. Hence, a world model is needed to predict the team return resulting from the joint actions of all agents. A naive extension directly applies a single-agent world mode",
+      "url": "https://arxiv.org/abs/2609.31281",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "ddf0bb097b35",
+      "title": "Cartograph: Federated Tool Discovery with Operator-Attested Retrieval for AI Agents",
+      "summary": "arXiv:2609.30293v1 Announce Type: cross Abstract: The Model Context Protocol (MCP) enables AI agents to discover and call tools, but loading every definition becomes expensive as connected catalogs grow. We present Cartograph, a federated MCP proxy that changes agent-visible tool discovery from $O(n)$ catalog traversal to $O(k)$ progressive disclosure. Cartograph combines three mechanisms: (1) ope",
+      "url": "https://arxiv.org/abs/2609.30293",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "a8bb5d7c3f9a",
+      "title": "SlideLab: Audience-Centered Scientific Slide Generation and Evaluation",
+      "summary": "arXiv:2609.30294v1 Announce Type: cross Abstract: Scientific presentations are more than summaries of research papers. They need to present the work in a coherent sequence, explain the main ideas clearly, and help the audience follow the presentation. We present SlideLab, a training-free multi-agent framework for generating scientific presentations from research papers. SlideLab first plans the pr",
+      "url": "https://arxiv.org/abs/2609.30294",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "id": "9fee0c45672f",
+      "title": "Adaptive multi-resolution Gaussian processes: Scalable exact inference with naturally data-sparse covariance matrices",
+      "summary": "arXiv:2609.30348v1 Announce Type: cross Abstract: Gaussian processes constitute a cornerstone of probabilistic machine learning, yet scaling them to large datasets typically forces a trade-off between computational efficiency and model fidelity. This work bridges this gap by presenting an adaptive multi-resolution Gaussian process framework that is both scalable and exact. Our key innovation is co",
+      "url": "https://arxiv.org/abs/2609.30348",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T04:00:00.000Z"
     },
     {
       "id": "cec40103516f",
@@ -407,7 +825,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-09-27T16:44:18.000Z"
+      "publishedAt": "2026-09-28T04:44:52.000Z"
     },
     {
       "id": "6da71eaa4652",
@@ -421,7 +839,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-09-27T16:44:18.000Z"
+      "publishedAt": "2026-09-28T04:44:52.000Z"
     },
     {
       "id": "aa3cc7eadd01",
@@ -436,449 +854,49 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-09-27T16:44:18.000Z"
+      "publishedAt": "2026-09-28T04:44:52.000Z"
     },
     {
-      "id": "a92356351750",
-      "title": "A fast, open-source iOS Simulator for Xcode 27",
-      "summary": "Article URL: https://github.com/Mastersam07/OpenDeviceHub Comments URL: https://news.ycombinator.com/item?id=49868110 Points: 1 # Comments: 2",
-      "url": "https://github.com/Mastersam07/OpenDeviceHub",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "e6e4f3fdc20d",
+      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+      "summary": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to integrate AI and systems engineering. We present a comprehensive framework for the design and evaluatio",
+      "url": "https://arxiv.org/abs/2609.30291",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-09-27T16:21:29.000Z"
-    },
-    {
-      "id": "c18d534d3f1c",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "summary": "Article URL: https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/ Comments URL: https://news.ycombinator.com/item?id=49867987 Points: 2 # Comments: 0",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model",
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-09-27T16:10:34.000Z"
+      "publishedAt": "2026-09-28T04:00:00.000Z"
     },
     {
-      "id": "cc2a6bf3277b",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "summary": "",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
+      "id": "7c573234be22",
+      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+      "summary": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability; as those benchmarks saturate, the real barrier to deployment is a special case of alignment: scope ",
+      "url": "https://arxiv.org/abs/2609.30325",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "edd47e9eda4e",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-25T15:14:14.000Z"
-    },
-    {
-      "id": "cd7544ff7730",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-25T11:39:24.000Z"
-    },
-    {
-      "id": "6d7eaed422a4",
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-18T00:00:00.000Z"
-    },
-    {
-      "id": "d59cc540f8e8",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "summary": "",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "new_model",
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-07-27T00:00:00.000Z"
+      "publishedAt": "2026-09-28T04:00:00.000Z"
     },
     {
-      "id": "b05f6a03c08c",
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
+      "id": "40caa5332da6",
+      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
+      "summary": "arXiv:2609.30341v1 Announce Type: new Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article presents an architectural mediation approach based on the Model Context Protocol (MCP",
+      "url": "https://arxiv.org/abs/2609.30341",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
-        "open_source"
+        "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-07-07T15:20:06.000Z"
-    },
-    {
-      "id": "ab443d026ff2",
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "summary": "",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-06-26T00:00:00.000Z"
-    },
-    {
-      "id": "858defa77ee5",
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "summary": "",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-06-23T00:00:00.000Z"
-    },
-    {
-      "id": "f59ddf554188",
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "summary": "",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-06-09T00:00:00.000Z"
-    },
-    {
-      "id": "21c63e8724a4",
-      "title": "vectorize-io / hindsight (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Hindsight: Agent Memory That Learns",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-27T16:44:18.000Z"
-    },
-    {
-      "id": "032881f3a9bb",
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "summary": "Did you ever click on an “AI Arena” expecting glorious battle and instead get a boring benchmark? If so, this project is for you: proper life-or-death fights between four models on a picturesque 8×8 grid. May the most intelligent one win! Click on any of the matches to spectate them. Code: https://github.com/hp6/ai-arena Comments URL: https://news.ycombinator.com/item?id=49867775 Points: 17 # Comm",
-      "url": "https://tinyaiarena.com/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-27T15:51:28.000Z"
-    },
-    {
-      "id": "6c06b045ae0b",
-      "title": "Some Anthropic veterans are reportedly buying remote land in case \"AI goes awry\"",
-      "summary": "According to the Wall Street Journal, some of Anthropic's longest-serving employees are considering buying land in remote parts of the US as a refuge in case AI goes awry. The report traces the company's deep ties to the Effective Altruism movement and a Bay Area network of \"doomers\" who've been gaming out doomsday scenarios for over a decade. The article Some Anthropic veterans are reportedly buy",
-      "url": "https://the-decoder.com/some-anthropic-veterans-are-reportedly-buying-remote-land-in-case-ai-goes-awry/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-27T13:03:05.000Z"
-    },
-    {
-      "id": "c9ecc23cfb49",
-      "title": "Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen",
-      "summary": "Researchers from Stanford and Caltech had a humanoid robot powered by GPT-6 Astra independently tidy up an unfamiliar kitchen. Their HomeBody system skips a specially trained control layer, letting the language model call directly into modular skills like grasping and navigating. The article Researchers plug GPT-6 Astra directly into a robot and let it clean up an unfamiliar kitchen appeared first",
-      "url": "https://the-decoder.com/researchers-plug-gpt-6-astra-directly-into-a-robot-and-let-it-clean-up-an-unfamiliar-kitchen/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-27T10:59:11.000Z"
-    },
-    {
-      "id": "5e4f9646d430",
-      "title": "OpenAI says 80 to 90 percent of its research already targets GPT 7 and beyond",
-      "summary": "Boris Power, OpenAI's Head of Applied Research, says 80 to 90 percent of the company's research goes toward GPT 7, GPT 8, and beyond. Improvements within a single generation are intentionally short-term bets. But Power doesn't see model performance as the biggest problem. Most users don't even know what they can do with AI. The article OpenAI says 80 to 90 percent of its research already targets G",
-      "url": "https://the-decoder.com/openai-says-80-to-90-percent-of-its-research-already-targets-gpt-7-and-beyond/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-27T10:36:29.000Z"
-    },
-    {
-      "id": "cb6315107818",
-      "title": "llm-anthropic 0.29",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-22T17:14:55.000Z"
-    },
-    {
-      "id": "31b1ab840744",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "summary": "",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "e1603ab9fd60",
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-18T23:57:57.000Z"
-    },
-    {
-      "id": "ba1189a3e38b",
-      "title": "Recreating a 70-year love story frame by frame",
-      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-09T16:00:00.000Z"
-    },
-    {
-      "id": "1fc8f7f56947",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "summary": "",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "43e3a994b253",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-08-18T18:09:38.000Z"
-    },
-    {
-      "id": "b8baa8a2a87a",
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-06-30T18:32:50.000Z"
-    },
-    {
-      "id": "4e4bb66bce9a",
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "summary": "",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-06-18T00:00:00.000Z"
-    },
-    {
-      "id": "ce391d9bf451",
-      "title": "dream-num / univer (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "url": "https://github.com/dream-num/univer",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-27T16:44:18.000Z"
-    },
-    {
-      "id": "1dc57e084976",
-      "title": "There are no \"rogue\" AI agents",
-      "summary": "Article URL: https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents Comments URL: https://news.ycombinator.com/item?id=49868083 Points: 2 # Comments: 1",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-27T16:19:46.000Z"
-    },
-    {
-      "id": "b73c21a86c28",
-      "title": "The Tragic Alley of the LLM",
-      "summary": "Article URL: https://nikotak.com/tragic-alley-of-the-llm.html Comments URL: https://news.ycombinator.com/item?id=49867823 Points: 2 # Comments: 0",
-      "url": "https://nikotak.com/tragic-alley-of-the-llm.html",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-27T15:55:43.000Z"
-    },
-    {
-      "id": "617bbae6add7",
-      "title": "Current ways of developing AI agents contribute to degradation of oversight",
-      "summary": "Article URL: https://arxiv.org/abs/2608.23642 Comments URL: https://news.ycombinator.com/item?id=49867596 Points: 4 # Comments: 1",
-      "url": "https://arxiv.org/abs/2608.23642",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-27T15:35:52.000Z"
-    },
-    {
-      "id": "127c5201ffee",
-      "title": "I Gave My Life over to Meta's A.I. Agent and Was Blown Away",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html Comments URL: https://news.ycombinator.com/item?id=49867471 Points: 3 # Comments: 0",
-      "url": "https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-27T15:25:05.000Z"
-    },
-    {
-      "id": "9dd5c376ca8e",
-      "title": "AI agents do more of the work in model development, but humans still make the decisions",
-      "summary": "A research team analyzed 769 task logs from building its own AI model. AI agents supplied up to 55 percent of method proposals, but humans made more than 85 percent of final decisions. A third of the tasks wouldn't have been attempted without AI. The authors warn that more agent activity doesn't mean more autonomy. The article AI agents do more of the work in model development, but humans still ma",
-      "url": "https://the-decoder.com/ai-agents-do-more-of-the-work-in-model-development-but-humans-still-make-the-decisions/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-27T15:18:39.000Z"
-    },
-    {
-      "id": "2429431cf66a",
-      "title": "Show HN: AI agent running cost calculator (and when a SaaS platform is cheaper)",
-      "summary": "Article URL: https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost/ Comments URL: https://news.ycombinator.com/item?id=49866912 Points: 2 # Comments: 0",
-      "url": "https://broutonlab.com/calculators/how-much-does-an-ai-agent-cost/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-27T14:26:11.000Z"
+      "publishedAt": "2026-09-28T04:00:00.000Z"
     }
   ]
 }
