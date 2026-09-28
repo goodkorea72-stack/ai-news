@@ -1,11 +1,42 @@
 {
-  "generatedAt": "2026-09-28T04:44:52.908Z",
-  "nextUpdate": "2026-09-28T16:00:00.000Z",
+  "generatedAt": "2026-09-28T19:29:04.029Z",
+  "nextUpdate": "2026-09-29T07:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 249,
+  "totalCollected": 268,
   "articleCount": 60,
   "articles": [
+    {
+      "id": "171492a12768",
+      "title": "Show HN: Nibia Fabric – Turn everyday computers into a shared AI compute cluster",
+      "summary": "I built NIBIA Fabric, an open-source distributed LLM inference system that pools CPU and RAM across macOS, Linux, and Windows machines. It builds on llama.cpp, with capacity-aware scheduling, adaptive memory reservation, persistent tensor caching, and an OpenAI-compatible API. I’ve validated the current alpha on three physical machines across several models, including a 30B-class Qwen model, as we",
+      "url": "https://github.com/nibia-ai/fabric",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 17,
+      "publishedAt": "2026-09-28T18:16:37.000Z"
+    },
+    {
+      "id": "53584abee61c",
+      "title": "Anthropic&#039;s Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+      "summary": "Anthropic has released Claude Sonnet 5.5, the second model in its Claude 5.5 family. It generates output more than 30 percent faster, costs up to 30 percent less per task, and nearly matches Opus 5.5 on knowledge-work benchmarks. On Terminal-Bench, a coding benchmark, the model jumps from 10.3 to 70.6 percent. With Haiku 5.5 announced for the coming weeks, Anthropic will soon have a direct counter",
+      "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 17,
+      "publishedAt": "2026-09-28T18:02:10.000Z"
+    },
     {
       "id": "30a113655619",
       "title": "The Price of Thought: Does Test-Time Reasoning Pay in LLM Trading?",
@@ -52,22 +83,6 @@
       ],
       "score": 9,
       "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "a9084e6d4b6a",
-      "title": "Tens of thousands of security probes show OpenAI&#039;s Hugging Face incident was just the beginning",
-      "summary": "OpenAI and Anthropic are investigating tens of thousands of incidents in which their AI agents independently hacked websites, used stolen login credentials, or tried to evade monitoring systems. US government agencies like the SEC and the Census Bureau were among the targets. OpenAI has paused training on its most capable internal models, but the problem extends across the entire industry. The art",
-      "url": "https://the-decoder.com/tens-of-thousands-of-security-probes-show-openais-hugging-face-incident-was-just-the-beginning/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 9,
-      "publishedAt": "2026-09-27T09:23:36.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -470,7 +485,36 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-09-28T04:44:52.000Z"
+      "publishedAt": "2026-09-28T19:29:04.000Z"
+    },
+    {
+      "id": "a0626d1988b4",
+      "title": "OpenAI&#039;s AI agents exploited a Google security education game to scrape UN trade data",
+      "summary": "OpenAI's AI agents hit the UNCTAD statistics API roughly 16,500 times, creatively working around access restrictions. One method involved misusing a Google web security learning game as a relay to bypass their own constraints. The agents just kept going, adding to a growing list of cases that show how hard it is to keep agentic AI systems in check. The article OpenAI&#039;s AI agents exploited a G",
+      "url": "https://the-decoder.com/openais-ai-agents-exploited-a-google-security-education-game-to-scrape-un-trade-data/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T16:56:06.000Z"
+    },
+    {
+      "id": "e536c600ba17",
+      "title": "Every AI lab thinks it&#039;s the responsible one, and safety researcher Ryan Greenblatt says that&#039;s what keeps the arms race going",
+      "summary": "Ryan Greenblatt, chief scientist at Redwood Research, puts the risk of an AI takeover at 50 to 60 percent if development stays on its current path. Sam Harris says that doesn't square with how fast the industry is moving, since Manhattan Project scientists would have called things off at 10 percent. Greenblatt blames the race dynamics at Anthropic and OpenAI and is counting on an international agr",
+      "url": "https://the-decoder.com/every-ai-lab-thinks-its-the-responsible-one-and-safety-researcher-ryan-greenblatt-says-thats-what-keeps-the-arms-race-going/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-28T12:11:27.000Z"
     },
     {
       "id": "c07ff3f83acc",
@@ -650,21 +694,6 @@
       "publishedAt": "2026-09-28T04:00:00.000Z"
     },
     {
-      "id": "cec40103516f",
-      "title": "Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time",
-      "summary": "Nvidia released Nemotron 3 Diarization, an AI model that identifies which speaker is talking at any given moment in a conversation. The article Nvidia drops a free 100M-parameter model that identifies up to eight speakers in real time appeared first on The Decoder .",
-      "url": "https://the-decoder.com/nvidia-drops-a-free-100m-parameter-model-that-identifies-up-to-eight-speakers-in-real-time/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-27T11:01:13.000Z"
-    },
-    {
       "id": "d5e9b9a87420",
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "summary": "",
@@ -693,20 +722,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "79fca9ec1ba2",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "summary": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-08-17T08:00:00.000Z"
     },
     {
       "id": "9c95afa451ef",
@@ -825,13 +840,13 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-09-28T04:44:52.000Z"
+      "publishedAt": "2026-09-28T19:29:04.000Z"
     },
     {
-      "id": "6da71eaa4652",
-      "title": "InfinityLoop1308 / PipePipe (Shell)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: An open-source Android app to let you browse YouTube and other services freely.",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "id": "f98f350ae6a0",
+      "title": "NawfalMotii79 / PLFM_RADAR (PLSQL)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -839,7 +854,21 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-09-28T04:44:52.000Z"
+      "publishedAt": "2026-09-28T19:29:04.000Z"
+    },
+    {
+      "id": "64def76915f5",
+      "title": "cs341-illinois / coursebook (TeX)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-28T19:29:04.000Z"
     },
     {
       "id": "aa3cc7eadd01",
@@ -854,49 +883,22 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-09-28T04:44:52.000Z"
+      "publishedAt": "2026-09-28T19:29:04.000Z"
     },
     {
-      "id": "e6e4f3fdc20d",
-      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
-      "summary": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to integrate AI and systems engineering. We present a comprehensive framework for the design and evaluatio",
-      "url": "https://arxiv.org/abs/2609.30291",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
+      "id": "435acd1339ab",
+      "title": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips",
+      "summary": "Nvidia is combining its OpenShell agent software with Sentry, a new hardware watchdog, to create the Open Agent Safety Platform. Sentry is supposed to isolate AI agents that break out within milliseconds. When it happened at OpenAI in September, stopping the run took nearly three hours. Still, Nvidia's watchdog can't reliably stop agents that have been tricked or that hide their intentions on its ",
+      "url": "https://the-decoder.com/nvidia-wants-to-keep-ai-agents-on-a-short-leash-with-a-watchdog-built-into-its-chips/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
+        "new_model",
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "7c573234be22",
-      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
-      "summary": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability; as those benchmarks saturate, the real barrier to deployment is a special case of alignment: scope ",
-      "url": "https://arxiv.org/abs/2609.30325",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "40caa5332da6",
-      "title": "Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol",
-      "summary": "arXiv:2609.30341v1 Announce Type: new Abstract: Data Spaces enable sovereign and governed data sharing across organizational boundaries, but their integration with AI agents remains challenging due to mismatches between probabilistic language model interactions and policy-driven data infrastructures. This article presents an architectural mediation approach based on the Model Context Protocol (MCP",
-      "url": "https://arxiv.org/abs/2609.30341",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-28T14:32:00.000Z"
     }
   ]
 }
