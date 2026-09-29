@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-09-28T19:29:04.029Z",
-  "nextUpdate": "2026-09-29T07:00:00.000Z",
+  "generatedAt": "2026-09-29T05:11:17.617Z",
+  "nextUpdate": "2026-09-29T17:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 268,
+  "totalCollected": 248,
   "articleCount": 60,
   "articles": [
-    {
-      "id": "171492a12768",
-      "title": "Show HN: Nibia Fabric – Turn everyday computers into a shared AI compute cluster",
-      "summary": "I built NIBIA Fabric, an open-source distributed LLM inference system that pools CPU and RAM across macOS, Linux, and Windows machines. It builds on llama.cpp, with capacity-aware scheduling, adaptive memory reservation, persistent tensor caching, and an OpenAI-compatible API. I’ve validated the current alpha on three physical machines across several models, including a 30B-class Qwen model, as we",
-      "url": "https://github.com/nibia-ai/fabric",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 17,
-      "publishedAt": "2026-09-28T18:16:37.000Z"
-    },
     {
       "id": "53584abee61c",
       "title": "Anthropic&#039;s Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
@@ -51,7 +35,7 @@
         "industry"
       ],
       "score": 10,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "f8c100a44c14",
@@ -66,7 +50,7 @@
         "industry"
       ],
       "score": 9,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "6bb3af06ae10",
@@ -82,7 +66,7 @@
         "industry"
       ],
       "score": 9,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -113,7 +97,7 @@
         "industry"
       ],
       "score": 8,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "ea6f0d11064d",
@@ -129,7 +113,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "96d6bc21d361",
@@ -144,7 +128,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "489b9418fcec",
@@ -159,7 +143,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "0afd034377a0",
@@ -189,7 +173,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "8dd57ec5b1b4",
@@ -307,12 +291,12 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "5adc417181fa",
       "title": "Analyzing and Mitigating Cost-Inefficient Behaviors in Coding Agents",
-      "summary": "arXiv:2609.30725v1 Announce Type: new Abstract: Although effective, coding agents often incur substantial monetary costs. Their recurring cost-inefficient behaviors remain underexplored. We conduct the first study of behavioral cost inefficiencies in coding agents, analyzing 1,200 trajectories from Claude Code and Mini-SWE-Agent across four configurations on SWE-bench Verified. We identify three c",
+      "summary": "arXiv:2609.30725v2 Announce Type: new Abstract: Although effective, coding agents often incur substantial monetary costs. Their recurring cost-inefficient behaviors remain underexplored. We conduct the first study of behavioral cost inefficiencies in coding agents, analyzing 1,200 trajectories from Claude Code and Mini-SWE-Agent across four configurations on SWE-bench Verified. We identify three c",
       "url": "https://arxiv.org/abs/2609.30725",
       "source": "arXiv cs.AI",
       "sourceId": "arxiv",
@@ -322,7 +306,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "10c44ae94b9b",
@@ -336,7 +320,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "26cc238876b4",
@@ -350,7 +334,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "f96eed77ed7d",
@@ -365,7 +349,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "44643624b39f",
@@ -380,7 +364,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "95bc9e2be024",
@@ -395,7 +379,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "38177785ea37",
@@ -410,7 +394,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "45d468ddc516",
@@ -425,7 +409,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -485,7 +469,184 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-09-28T19:29:04.000Z"
+      "publishedAt": "2026-09-29T05:11:16.000Z"
+    },
+    {
+      "id": "c07ff3f83acc",
+      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
+      "summary": "arXiv:2609.30328v1 Announce Type: new Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies each against evidence, is a promising respon",
+      "url": "https://arxiv.org/abs/2609.30328",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "id": "0d1d99611c57",
+      "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
+      "summary": "arXiv:2609.30397v1 Announce Type: new Abstract: Evaluating explainable Artificial Intelligence (XAI) methods is a challenging task due to the lack of reliable evaluation procedures and, in particular, the absence of ground truth explanations. In the literature, existing evaluation approaches typically assess explanations by measuring their fidelity with respect to the predictions of a black-box mo",
+      "url": "https://arxiv.org/abs/2609.30397",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "id": "2ce0f23fcdce",
+      "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
+      "summary": "arXiv:2609.30469v1 Announce Type: new Abstract: Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understand police decision-making. Pseudo-labeling offers an unsupervised path to improve ASR without expensive human labels, but the efficacy of this approach on very noisy domains is not known. In this work, we systematically assess the opportu",
+      "url": "https://arxiv.org/abs/2609.30469",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "id": "23342a97a5ee",
+      "title": "LAVOIR: Teaching a Single-Pass Decision Encoder When and What to Ask with Amortized Value of Information",
+      "summary": "arXiv:2609.30706v1 Announce Type: new Abstract: \"System One\" decision models such as TypeSafe's Jev and its open counterpart Laya answer typed questions about a text in a single forward pass with calibrated probabilities, but they cannot ask for missing information: when a first message does not say what separates two departments, they guess. We present LAVOIR (Laya with Value-Of-Information Routi",
+      "url": "https://arxiv.org/abs/2609.30706",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "id": "9beaabb8df66",
+      "title": "Backbone-Adaptive Evidence Routing for Robust Pairwise LLM Judging",
+      "summary": "arXiv:2609.30751v1 Announce Type: new Abstract: Pairwise language-model judges can gather evidence through direct comparison, reasoning, or reference-based verification, but no single protocol is best across benchmarks and judge backbones. We introduce Backbone-Adaptive Evidence Routing (BAER), which adapts the evidence mechanism while preserving candidate symmetry: swapping the two responses may ",
+      "url": "https://arxiv.org/abs/2609.30751",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "id": "3cb5c1279b25",
+      "title": "SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents",
+      "summary": "arXiv:2609.30971v1 Announce Type: new Abstract: Embodied agents offer a promising route to automating scientific experimentation, yet their progress is constrained by the lack of reliable and systematic evaluation environments. Existing simulation-based laboratory benchmarks rely heavily on manual task engineering, making it challenging to systematically compile diverse scientific protocols into e",
+      "url": "https://arxiv.org/abs/2609.30971",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "id": "33cb4c06ce14",
+      "title": "Governed Deduction: Policy-Grounded Premise Authorization Beyond Relevance",
+      "summary": "arXiv:2609.31029v1 Announce Type: new Abstract: Reasoning systems usually treat premise use as a question of relevance: if a fact is available and useful, it may be selected for inference. Authorization imposes a different constraint: a premise may be represented and logically usable but not permitted for a particular local transition. We formalize this distinction as Governed Deduction (GD), with",
+      "url": "https://arxiv.org/abs/2609.31029",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "id": "76d34dffbc18",
+      "title": "Monitor Jailbreaking: Evading Chain-of-Thought Monitoring Without Encoded Reasoning",
+      "summary": "arXiv:2609.31121v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising safety technique for reasoning models, enabling detection of problematic reasoning before models act. A key concern is encoded reasoning, where models hide their true reasoning in ways that monitors and humans cannot interpret. Optimization pressure from CoT monitors during reinforcement learning is co",
+      "url": "https://arxiv.org/abs/2609.31121",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "id": "ce762da3f9f3",
+      "title": "MA-WAM: Multi-Agent World-Action Model for Test-Time Planning",
+      "summary": "arXiv:2609.31281v1 Announce Type: new Abstract: Multi-agent cooperative tasks require different agents to execute a joint action simultaneously, and each agent's action affects both the observations and responses of the other agents. Hence, a world model is needed to predict the team return resulting from the joint actions of all agents. A naive extension directly applies a single-agent world mode",
+      "url": "https://arxiv.org/abs/2609.31281",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "id": "ddf0bb097b35",
+      "title": "Cartograph: Federated Tool Discovery with Operator-Attested Retrieval for AI Agents",
+      "summary": "arXiv:2609.30293v1 Announce Type: cross Abstract: The Model Context Protocol (MCP) enables AI agents to discover and call tools, but loading every definition becomes expensive as connected catalogs grow. We present Cartograph, a federated MCP proxy that changes agent-visible tool discovery from $O(n)$ catalog traversal to $O(k)$ progressive disclosure. Cartograph combines three mechanisms: (1) ope",
+      "url": "https://arxiv.org/abs/2609.30293",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "id": "a8bb5d7c3f9a",
+      "title": "SlideLab: Audience-Centered Scientific Slide Generation and Evaluation",
+      "summary": "arXiv:2609.30294v1 Announce Type: cross Abstract: Scientific presentations are more than summaries of research papers. They need to present the work in a coherent sequence, explain the main ideas clearly, and help the audience follow the presentation. We present SlideLab, a training-free multi-agent framework for generating scientific presentations from research papers. SlideLab first plans the pr",
+      "url": "https://arxiv.org/abs/2609.30294",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "id": "9fee0c45672f",
+      "title": "Adaptive multi-resolution Gaussian processes: Scalable exact inference with naturally data-sparse covariance matrices",
+      "summary": "arXiv:2609.30348v1 Announce Type: cross Abstract: Gaussian processes constitute a cornerstone of probabilistic machine learning, yet scaling them to large datasets typically forces a trade-off between computational efficiency and model fidelity. This work bridges this gap by presenting an adaptive multi-resolution Gaussian process framework that is both scalable and exact. Our key innovation is co",
+      "url": "https://arxiv.org/abs/2609.30348",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     },
     {
       "id": "a0626d1988b4",
@@ -515,183 +676,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-09-28T12:11:27.000Z"
-    },
-    {
-      "id": "c07ff3f83acc",
-      "title": "When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess",
-      "summary": "arXiv:2609.30328v1 Announce Type: new Abstract: When one language model judges whether another's code is correct, it does not report the absence of evidence. It returns a confident verdict with reasoning attached, indistinguishable from a verdict it had grounds for. Multi-agent verification, which decomposes a judgment into checkable claims and verifies each against evidence, is a promising respon",
-      "url": "https://arxiv.org/abs/2609.30328",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "0d1d99611c57",
-      "title": "A Synthetic Ground-Truth Framework for the Evaluation of Explainable AI Methods",
-      "summary": "arXiv:2609.30397v1 Announce Type: new Abstract: Evaluating explainable Artificial Intelligence (XAI) methods is a challenging task due to the lack of reliable evaluation procedures and, in particular, the absence of ground truth explanations. In the literature, existing evaluation approaches typically assess explanations by measuring their fidelity with respect to the predictions of a black-box mo",
-      "url": "https://arxiv.org/abs/2609.30397",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "2ce0f23fcdce",
-      "title": "Pretrained ASR Pseudo-labeling for Noisy Police Audio",
-      "summary": "arXiv:2609.30469v1 Announce Type: new Abstract: Pretrained ASR systems perform poorly on noisy Broadcast Police Communication (BPC), hindering efforts to understand police decision-making. Pseudo-labeling offers an unsupervised path to improve ASR without expensive human labels, but the efficacy of this approach on very noisy domains is not known. In this work, we systematically assess the opportu",
-      "url": "https://arxiv.org/abs/2609.30469",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "23342a97a5ee",
-      "title": "LAVOIR: Teaching a Single-Pass Decision Encoder When and What to Ask with Amortized Value of Information",
-      "summary": "arXiv:2609.30706v1 Announce Type: new Abstract: \"System One\" decision models such as TypeSafe's Jev and its open counterpart Laya answer typed questions about a text in a single forward pass with calibrated probabilities, but they cannot ask for missing information: when a first message does not say what separates two departments, they guess. We present LAVOIR (Laya with Value-Of-Information Routi",
-      "url": "https://arxiv.org/abs/2609.30706",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "9beaabb8df66",
-      "title": "Backbone-Adaptive Evidence Routing for Robust Pairwise LLM Judging",
-      "summary": "arXiv:2609.30751v1 Announce Type: new Abstract: Pairwise language-model judges can gather evidence through direct comparison, reasoning, or reference-based verification, but no single protocol is best across benchmarks and judge backbones. We introduce Backbone-Adaptive Evidence Routing (BAER), which adapts the evidence mechanism while preserving candidate symmetry: swapping the two responses may ",
-      "url": "https://arxiv.org/abs/2609.30751",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "3cb5c1279b25",
-      "title": "SciHorizon-eLab: An Agentic Protocol-to-Task Compiler for Scalable Benchmarking of Scientific Embodied Agents",
-      "summary": "arXiv:2609.30971v1 Announce Type: new Abstract: Embodied agents offer a promising route to automating scientific experimentation, yet their progress is constrained by the lack of reliable and systematic evaluation environments. Existing simulation-based laboratory benchmarks rely heavily on manual task engineering, making it challenging to systematically compile diverse scientific protocols into e",
-      "url": "https://arxiv.org/abs/2609.30971",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "33cb4c06ce14",
-      "title": "Governed Deduction: Policy-Grounded Premise Authorization Beyond Relevance",
-      "summary": "arXiv:2609.31029v1 Announce Type: new Abstract: Reasoning systems usually treat premise use as a question of relevance: if a fact is available and useful, it may be selected for inference. Authorization imposes a different constraint: a premise may be represented and logically usable but not permitted for a particular local transition. We formalize this distinction as Governed Deduction (GD), with",
-      "url": "https://arxiv.org/abs/2609.31029",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "76d34dffbc18",
-      "title": "Monitor Jailbreaking: Evading Chain-of-Thought Monitoring Without Encoded Reasoning",
-      "summary": "arXiv:2609.31121v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising safety technique for reasoning models, enabling detection of problematic reasoning before models act. A key concern is encoded reasoning, where models hide their true reasoning in ways that monitors and humans cannot interpret. Optimization pressure from CoT monitors during reinforcement learning is co",
-      "url": "https://arxiv.org/abs/2609.31121",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "ce762da3f9f3",
-      "title": "MA-WAM: Multi-Agent World-Action Model for Test-Time Planning",
-      "summary": "arXiv:2609.31281v1 Announce Type: new Abstract: Multi-agent cooperative tasks require different agents to execute a joint action simultaneously, and each agent's action affects both the observations and responses of the other agents. Hence, a world model is needed to predict the team return resulting from the joint actions of all agents. A naive extension directly applies a single-agent world mode",
-      "url": "https://arxiv.org/abs/2609.31281",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "ddf0bb097b35",
-      "title": "Cartograph: Federated Tool Discovery with Operator-Attested Retrieval for AI Agents",
-      "summary": "arXiv:2609.30293v1 Announce Type: cross Abstract: The Model Context Protocol (MCP) enables AI agents to discover and call tools, but loading every definition becomes expensive as connected catalogs grow. We present Cartograph, a federated MCP proxy that changes agent-visible tool discovery from $O(n)$ catalog traversal to $O(k)$ progressive disclosure. Cartograph combines three mechanisms: (1) ope",
-      "url": "https://arxiv.org/abs/2609.30293",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "a8bb5d7c3f9a",
-      "title": "SlideLab: Audience-Centered Scientific Slide Generation and Evaluation",
-      "summary": "arXiv:2609.30294v1 Announce Type: cross Abstract: Scientific presentations are more than summaries of research papers. They need to present the work in a coherent sequence, explain the main ideas clearly, and help the audience follow the presentation. We present SlideLab, a training-free multi-agent framework for generating scientific presentations from research papers. SlideLab first plans the pr",
-      "url": "https://arxiv.org/abs/2609.30294",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "id": "9fee0c45672f",
-      "title": "Adaptive multi-resolution Gaussian processes: Scalable exact inference with naturally data-sparse covariance matrices",
-      "summary": "arXiv:2609.30348v1 Announce Type: cross Abstract: Gaussian processes constitute a cornerstone of probabilistic machine learning, yet scaling them to large datasets typically forces a trade-off between computational efficiency and model fidelity. This work bridges this gap by presenting an adaptive multi-resolution Gaussian process framework that is both scalable and exact. Our key innovation is co",
-      "url": "https://arxiv.org/abs/2609.30348",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-28T04:00:00.000Z"
     },
     {
       "id": "d5e9b9a87420",
@@ -840,7 +824,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-09-28T19:29:04.000Z"
+      "publishedAt": "2026-09-29T05:11:16.000Z"
     },
     {
       "id": "f98f350ae6a0",
@@ -854,7 +838,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-09-28T19:29:04.000Z"
+      "publishedAt": "2026-09-29T05:11:16.000Z"
     },
     {
       "id": "64def76915f5",
@@ -868,7 +852,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-09-28T19:29:04.000Z"
+      "publishedAt": "2026-09-29T05:11:16.000Z"
     },
     {
       "id": "aa3cc7eadd01",
@@ -883,22 +867,35 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-09-28T19:29:04.000Z"
+      "publishedAt": "2026-09-29T05:11:16.000Z"
     },
     {
-      "id": "435acd1339ab",
-      "title": "Nvidia wants to keep AI agents on a short leash with a watchdog built into its chips",
-      "summary": "Nvidia is combining its OpenShell agent software with Sentry, a new hardware watchdog, to create the Open Agent Safety Platform. Sentry is supposed to isolate AI agents that break out within milliseconds. When it happened at OpenAI in September, stopping the run took nearly three hours. Still, Nvidia's watchdog can't reliably stop agents that have been tricked or that hide their intentions on its ",
-      "url": "https://the-decoder.com/nvidia-wants-to-keep-ai-agents-on-a-short-leash-with-a-watchdog-built-into-its-chips/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "e6e4f3fdc20d",
+      "title": "Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence",
+      "summary": "arXiv:2609.30291v1 Announce Type: new Abstract: The purpose of this article is to highlight the central role of autonomous systems as the ultimate stage in the development of AI, to explain the underlying technical challenges that require a combination of connectionist AI and symbolic AI, and to integrate AI and systems engineering. We present a comprehensive framework for the design and evaluatio",
+      "url": "https://arxiv.org/abs/2609.30291",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
-        "new_model",
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-09-28T14:32:00.000Z"
+      "publishedAt": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "id": "7c573234be22",
+      "title": "ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?",
+      "summary": "arXiv:2609.30325v1 Announce Type: new Abstract: Agents are increasingly deployed with real autonomy in web application and network penetration testing, where a single out-of-scope action can breach a client's engagement boundary. Existing offensive-security benchmarks measure raw hacking capability; as those benchmarks saturate, the real barrier to deployment is a special case of alignment: scope ",
+      "url": "https://arxiv.org/abs/2609.30325",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-09-29T04:00:00.000Z"
     }
   ]
 }
