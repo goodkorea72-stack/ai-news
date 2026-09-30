@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-30T04:58:57.488Z",
-  "nextUpdate": "2026-09-30T16:00:00.000Z",
+  "generatedAt": "2026-09-30T17:51:28.508Z",
+  "nextUpdate": "2026-10-01T05:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 254,
+  "totalCollected": 277,
   "articleCount": 60,
   "articles": [
     {
@@ -54,6 +54,22 @@
       "publishedAt": "2026-09-30T04:00:00.000Z"
     },
     {
+      "id": "5b85fed9671c",
+      "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
+      "summary": "The FTC is formally investigating OpenAI, Anthropic, and other leading AI labs over potential consumer protection violations. The agency plans to force document handovers and executive testimony through legally binding demands. The probe was already underway before the Hugging Face hack and goes well beyond the FTC's earlier push to hold companies liable for their agents' behavior. The article FTC",
+      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-09-30T16:20:04.000Z"
+    },
+    {
       "id": "84d13b79ae2b",
       "title": "Beyond Symmetric Agents: Cognitive Diversity and Multi-Agent Debate in Small Language Models",
       "summary": "arXiv:2609.35875v1 Announce Type: new Abstract: Multi-agent debate (MAD) reportedly improves reasoning and factuality over single-model inference, but prior work treats agents as symmetric peers, leaving open what drives the gains. We test the hypothesis that cognitive diversity among agents is the driver, in the setting where the question is still measurable: small open-weight models with benchma",
@@ -86,6 +102,22 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
+      "id": "fbc9bfd53ee7",
+      "title": "Anthropic says Zhipu&#039;s open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
+      "summary": "Zhipu's open-weight model GLM-5.3 writes cyber exploits nearly as well as Claude Mythos Preview, according to Anthropic. Its smaller Flash variant put together a reliable Chrome attack for just $20.40 at Zhipu's API prices. The model's safeguards are easy to strip out, and unlocked versions are already circulating. Anthropic has its own reasons to sound the alarm, but the US agency CAISI backs up ",
+      "url": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-09-30T11:05:05.000Z"
+    },
+    {
       "id": "77cecf756937",
       "title": "Calibrate the Decisions That Change the Future: On-Policy Post-Training Quantization for Multimodal Large Language Models",
       "summary": "arXiv:2609.36828v1 Announce Type: new Abstract: Post-training quantization (PTQ) lowers deployment cost for multimodal large language models, but calibration typically reconstructs fixed sequences with local objectives. This overlooks autoregressive feedback: a quantization-induced token change redirects the prefix and changes future states. Yet on-policy coverage alone is insufficient because man",
@@ -100,6 +132,37 @@
       ],
       "score": 8,
       "publishedAt": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "id": "e16bafc68739",
+      "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+      "summary": "A few months ago we started building a model router for coding agents because we thought we could outperform any single model with an ensemble approach. Recently we’ve achieved that milestone and I want to talk about how we did it. First of all, a quick explanation: the Weave Router ( https://github.com/weave-os/router ) plugs into any coding agent (e.g. Claude Code or Codex) and intelligently swi",
+      "url": "https://news.ycombinator.com/item?id=49911500",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-09-30T16:58:24.000Z"
+    },
+    {
+      "id": "c7ef7fa8276e",
+      "title": "China&#039;s AI industry closes ranks as Deepseek ships open-source software for Huawei&#039;s Ascend chips",
+      "summary": "Deepseek and Huawei have built open-source programming tools for Huawei's Ascend AI chips. At the center is TileLang, a language designed to offer a simpler programming model than Nvidia's CUDA. The partnership targets the biggest obstacle for China's AI industry, which is software that gets the most out of domestic chips. The article China&#039;s AI industry closes ranks as Deepseek ships open-so",
+      "url": "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-09-30T14:37:24.000Z"
     },
     {
       "id": "1be690b0dd4a",
@@ -265,6 +328,21 @@
       "publishedAt": "2026-06-24T16:00:13.000Z"
     },
     {
+      "id": "4a2ba45a177d",
+      "title": "colbymchenry / codegraph (C)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-09-30T17:51:28.000Z"
+    },
+    {
       "id": "cf0747bf348a",
       "title": "Is Human-Readable Text Necessary for Effective LLM Fine-Tuning?",
       "summary": "arXiv:2609.35868v1 Announce Type: new Abstract: Is human readability necessary for effective fine-tuning of large language models? We investigate whether model-conditioned training representations can preserve or improve adaptation utility without requiring a human-readable textual form. We propose Desired-Update-Aligned Synthetic Data (DASA), which uses activation-gradient feedback from a frozen ",
@@ -400,21 +478,6 @@
       "publishedAt": "2026-09-29T17:23:22.000Z"
     },
     {
-      "id": "07f578ccf4d6",
-      "title": "GPT-6.1 Sol comes close to Astra at a fifth of the price",
-      "summary": "OpenAI's new GPT-6.1 Sol comes close to GPT-6 Astra at a fifth of the cost, according to the company's own benchmarks. The planned flagship, GPT-6.1 Astra, is staying under wraps for now. Safety lead Saachi Jain says the model deceived more often in internal testing and kept going without permission. The article GPT-6.1 Sol comes close to Astra at a fifth of the price appeared first on The Decoder",
-      "url": "https://the-decoder.com/gpt-6-1-sol-comes-close-to-astra-at-a-fifth-of-the-price/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-09-29T17:14:27.000Z"
-    },
-    {
       "id": "c96bfd28b36f",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "summary": "",
@@ -460,19 +523,32 @@
       "publishedAt": "2026-06-04T18:57:45.000Z"
     },
     {
-      "id": "3949bcefe91c",
-      "title": "paperclipai / paperclip (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The open-source app everyone uses to manage agents at work",
-      "url": "https://github.com/paperclipai/paperclip",
+      "id": "bde707d7eaaf",
+      "title": "mksglu / context-mode (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
       "category": [
-        "open_source",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-09-30T04:58:43.000Z"
+      "publishedAt": "2026-09-30T17:51:28.000Z"
+    },
+    {
+      "id": "db8ba88d2d4b",
+      "title": "FTC opens probe into AI giants including Anthropic and OpenAI",
+      "summary": "Article URL: https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/ Comments URL: https://news.ycombinator.com/item?id=49911520 Points: 9 # Comments: 0",
+      "url": "https://www.reuters.com/business/ftc-opens-probe-into-ai-giants-including-anthropic-openai-new-york-post-reports-2026-09-30/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-30T16:59:37.000Z"
     },
     {
       "id": "84fd46f163ab",
@@ -738,21 +814,6 @@
       "publishedAt": "2026-09-29T17:14:45.000Z"
     },
     {
-      "id": "cedf33016817",
-      "title": "OpenAI expands Codex and its API at DevDay with security scans, a Decisions API, and Ultrafast",
-      "summary": "At DevDay 2026, OpenAI gave Codex reusable cloud environments, automatic security scans for GitHub repositories, and a code review view in the desktop app. The Agents API now supports Computer Use, and a new Decisions API handles fast, single decisions. The Ultrafast premium tier promises up to eight times the speed at six times the price. The article OpenAI expands Codex and its API at DevDay wit",
-      "url": "https://the-decoder.com/openai-expands-codex-and-its-api-at-devday-with-security-scans-a-decisions-api-and-ultrafast/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-29T17:14:41.000Z"
-    },
-    {
       "id": "d5e9b9a87420",
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "summary": "",
@@ -841,65 +902,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-06-30T00:00:00.000Z"
-    },
-    {
-      "id": "028349bf089c",
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "summary": "",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-06-17T10:18:05.000Z"
-    },
-    {
-      "id": "a91d5227788f",
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "summary": "",
-      "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-06-09T10:46:19.000Z"
-    },
-    {
-      "id": "c76a3a64066f",
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "summary": "",
-      "url": "https://huggingface.co/blog/openenv-agentic-rl",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-06-08T00:00:00.000Z"
-    },
-    {
-      "id": "1f05fc719933",
-      "title": "debpalash / VoiceStudio (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-09-30T04:58:43.000Z"
     }
   ]
 }
