@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-01T05:12:07.019Z",
-  "nextUpdate": "2026-10-01T17:00:00.000Z",
+  "generatedAt": "2026-10-01T18:17:04.825Z",
+  "nextUpdate": "2026-10-02T06:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 177,
+  "totalCollected": 255,
   "articleCount": 60,
   "articles": [
     {
@@ -38,20 +38,20 @@
       "publishedAt": "2026-10-01T04:00:00.000Z"
     },
     {
-      "id": "5b85fed9671c",
-      "title": "FTC launches sweeping probe into OpenAI, Anthropic, and other AI labs over consumer protection concerns",
-      "summary": "The FTC is formally investigating OpenAI, Anthropic, and other leading AI labs over potential consumer protection violations. The agency plans to force document handovers and executive testimony through legally binding demands. The probe was already underway before the Hugging Face hack and goes well beyond the FTC's earlier push to hold companies liable for their agents' behavior. The article FTC",
-      "url": "https://the-decoder.com/ftc-launches-sweeping-probe-into-openai-anthropic-and-other-ai-labs-over-consumer-protection-concerns/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "8fd73864f0eb",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
       "category": [
         "open_source",
         "new_model",
         "industry"
       ],
       "score": 9,
-      "publishedAt": "2026-09-30T16:20:04.000Z"
+      "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
       "id": "11fbe7c978d9",
@@ -129,22 +129,6 @@
       "publishedAt": "2026-10-01T04:00:00.000Z"
     },
     {
-      "id": "fbc9bfd53ee7",
-      "title": "Anthropic says Zhipu&#039;s open-weight GLM-5.3 nearly matches Claude Mythos Preview at building exploits",
-      "summary": "Zhipu's open-weight model GLM-5.3 writes cyber exploits nearly as well as Claude Mythos Preview, according to Anthropic. Its smaller Flash variant put together a reliable Chrome attack for just $20.40 at Zhipu's API prices. The model's safeguards are easy to strip out, and unlocked versions are already circulating. Anthropic has its own reasons to sound the alarm, but the US agency CAISI backs up ",
-      "url": "https://the-decoder.com/anthropic-says-zhipus-open-weight-glm-5-3-nearly-matches-claude-mythos-preview-at-building-exploits/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 8,
-      "publishedAt": "2026-09-30T11:05:05.000Z"
-    },
-    {
       "id": "b9ed8fe45711",
       "title": "Fine-Tuning Diffusion Language Models with Context Selection and Target Weighting",
       "summary": "arXiv:2609.38385v1 Announce Type: new Abstract: Supervised fine-tuning of discrete diffusion language models masks some response tokens and trains the model to recover their original values from the visible context. The masking pattern therefore determines both the context available to the model and the tokens it learns to predict. Uniform random masking does not explicitly account for the interac",
@@ -190,19 +174,33 @@
       "publishedAt": "2026-09-30T18:16:04.000Z"
     },
     {
-      "id": "c7ef7fa8276e",
-      "title": "China&#039;s AI industry closes ranks as Deepseek ships open-source software for Huawei&#039;s Ascend chips",
-      "summary": "Deepseek and Huawei have built open-source programming tools for Huawei's Ascend AI chips. At the center is TileLang, a language designed to offer a simpler programming model than Nvidia's CUDA. The partnership targets the biggest obstacle for China's AI industry, which is software that gets the most out of domestic chips. The article China&#039;s AI industry closes ranks as Deepseek ships open-so",
-      "url": "https://the-decoder.com/chinas-ai-industry-closes-ranks-as-deepseek-ships-open-source-software-for-huaweis-ascend-chips/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "0afd034377a0",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
       "category": [
         "open_source",
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-09-30T14:37:24.000Z"
+      "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "27d8a19733d4",
+      "title": "OpenAI says it stopped a campaign to steal its models&#039; reasoning, but the trick still worked on Azure",
+      "summary": "OpenAI says it stopped a coordinated campaign in which more than 15,000 accounts tried to copy the hidden reasoning of its models. The company ties part of the activity to people connected to Moonshot AI. But researchers found that the same attack kept working on Microsoft Azure for weeks, even against the new GPT-6 Astra. So far, OpenAI's protections don't seem to extend to the cloud platforms th",
+      "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-01T12:05:49.000Z"
     },
     {
       "id": "5e3244098957",
@@ -283,19 +281,105 @@
       "publishedAt": "2026-09-22T23:46:41.000Z"
     },
     {
-      "id": "4a2ba45a177d",
-      "title": "colbymchenry / codegraph (C)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "1c7f791b566f",
+      "title": "Transformers now runs llama.cpp quants",
+      "summary": "",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "0551b5a2acc5",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "summary": "",
+      "url": "https://huggingface.co/blog/omlx",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "0ee1d6e4536f",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "summary": "",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-08-10T00:00:00.000Z"
+    },
+    {
+      "id": "fcb657dcffd0",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "summary": "",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-07-08T00:00:00.000Z"
+    },
+    {
+      "id": "e792df332fb9",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "summary": "",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-07-01T00:00:00.000Z"
+    },
+    {
+      "id": "1d62e071104d",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-06-24T16:00:13.000Z"
+    },
+    {
+      "id": "de3972186634",
+      "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
+      "summary": "Anthropic is now offering Claude for Government to US federal and state agencies. The platform runs in a FedRAMP High environment, the strictest US security level for cloud services. Agencies get the same features as enterprise customers, pay for what they use with fixed spending caps, and can set budgets for each department. The Pentagon won't be using it because it still classifies Anthropic as ",
+      "url": "https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-01T05:12:06.000Z"
+      "publishedAt": "2026-10-01T14:26:54.000Z"
     },
     {
       "id": "39467546fdfe",
@@ -445,6 +529,51 @@
       "publishedAt": "2026-10-01T04:00:00.000Z"
     },
     {
+      "id": "c96bfd28b36f",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "summary": "",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-08-13T17:16:04.000Z"
+    },
+    {
+      "id": "249bf0754a74",
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "summary": "",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-06-23T00:00:00.000Z"
+    },
+    {
+      "id": "dcd497c92b2e",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 5,
+      "publishedAt": "2026-06-04T18:57:45.000Z"
+    },
+    {
       "id": "bde707d7eaaf",
       "title": "mksglu / context-mode (TypeScript)",
       "summary": "GitHub 인기 오픈소스 프로젝트: Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
@@ -456,7 +585,37 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-01T05:12:06.000Z"
+      "publishedAt": "2026-10-01T18:16:55.000Z"
+    },
+    {
+      "id": "54c97d41666a",
+      "title": "Ideogram says its new model can edit part of an image without messing up the rest",
+      "summary": "Ideogram's new model Ideogram 4.5 promises to edit only the areas you want while keeping the rest of the image intact. It ships with native 2K resolution starting at 0.8 cents per image, and partners like Runway, Pika, and Leonardo AI are already on board. An open-weight release is planned. The article Ideogram says its new model can edit part of an image without messing up the rest appeared first",
+      "url": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-01T17:33:03.000Z"
+    },
+    {
+      "id": "555d29a0c955",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-01T15:01:43.000Z"
     },
     {
       "id": "05fb87da1a5d",
@@ -727,176 +886,19 @@
       "publishedAt": "2026-09-29T22:20:28.000Z"
     },
     {
-      "id": "682e9e3435a9",
-      "title": "UK AI Security Institute finds GPT-6 Astra&#039;s rogue attack rate jumped fivefold over its predecessor",
-      "summary": "GPT-6 Astra carried out unauthorized supply-chain attacks in 29.2 percent of simulations run by the British AI Security Institute with safety filters disabled. The model used fake identities and malicious code, while its predecessor, GPT-5.6 Sol, completed attacks in 6.3 percent of runs. Explicit restrictions reduced attacks but didn't stop them entirely. The article UK AI Security Institute finds",
-      "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "d5e9b9a87420",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "summary": "",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
       "category": [
-        "new_model"
+        "open_source",
+        "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-09-29T19:24:12.000Z"
-    },
-    {
-      "id": "1f05fc719933",
-      "title": "debpalash / VoiceStudio (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-01T05:12:06.000Z"
-    },
-    {
-      "id": "aa3cc7eadd01",
-      "title": "mvschwarz / openrig (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Multi-agent harness that runs Claude Code and Codex together as one system",
-      "url": "https://github.com/mvschwarz/openrig",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-01T05:12:06.000Z"
-    },
-    {
-      "id": "f98f350ae6a0",
-      "title": "NawfalMotii79 / PLFM_RADAR (PLSQL)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
-      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-01T05:12:06.000Z"
-    },
-    {
-      "id": "778e34d239ce",
-      "title": "VectifyAI / PageIndex (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-01T05:12:06.000Z"
-    },
-    {
-      "id": "2c07d82407a1",
-      "title": "Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer",
-      "summary": "arXiv:2609.38372v1 Announce Type: new Abstract: A harness is the code around a language-model agent that organizes prompts, calls tools, manages context, and controls execution. As models grow stronger, recent work has begun to let agents improve their own harnesses, a line of work known as self-evolving harnesses. In most existing methods, a separate proposer running on a human-designed harness m",
-      "url": "https://arxiv.org/abs/2609.38372",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-01T04:00:00.000Z"
-    },
-    {
-      "id": "886e84851aad",
-      "title": "A Competing-Hazards Systematization of Loss of Control in Autonomous Agents",
-      "summary": "arXiv:2609.38411v1 Announce Type: new Abstract: Leading AI developers have reported agents acting beyond their approved limits, which a United Nations panel described as an early warning of loss of human control. Yet incident reports and agent-safety evaluations describe these events differently, making it difficult to compare failures, trace risk across attempts, or separate agent behavior from t",
-      "url": "https://arxiv.org/abs/2609.38411",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-01T04:00:00.000Z"
-    },
-    {
-      "id": "e0c7dd94d23c",
-      "title": "VAmoS Part Deux: Harder, More Realistic Voice-Agent Simulation",
-      "summary": "arXiv:2609.38512v1 Announce Type: new Abstract: Voice agents in production must handle several requests, background speech, and customers who lose patience. We introduce VAmoS Energy, a benchmark that combines these challenges in 100 calls about utility billing and payment assistance. Each caller makes two to four requests. The agent has sixteen tools backed by a stateful Stripe billing twin and t",
-      "url": "https://arxiv.org/abs/2609.38512",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-01T04:00:00.000Z"
-    },
-    {
-      "id": "2978c2dfce25",
-      "title": "Demographic Pluralism: Inference-Time Modeling of Pluralistic Human Preference Distributions",
-      "summary": "arXiv:2609.38555v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used in culturally sensitive settings, where alignment requires representing diverse preferences within populations. Yet existing methods model populations at coarse demographic or community levels and overlook within-group variation. We introduce Demographic Pluralism, an inference-time framework that es",
-      "url": "https://arxiv.org/abs/2609.38555",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-01T04:00:00.000Z"
-    },
-    {
-      "id": "bf71eb1d5ad1",
-      "title": "Sense and Sensitivity: Benchmarking LLM Clinical Triage Recommendations with Physician Experts",
-      "summary": "arXiv:2609.38600v1 Announce Type: new Abstract: As large language models (LLMs) are increasingly used in clinical settings, it is critical to evaluate their reliability under realistic variation in clinical text. We study this question in clinical triage, comparing LLMs to practicing physicians under text perturbations that preserve the underlying clinical setting. We introduce a benchmark of over",
-      "url": "https://arxiv.org/abs/2609.38600",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-01T04:00:00.000Z"
-    },
-    {
-      "id": "b4621125a93e",
-      "title": "Budget Boundary Effects in Test-Time Mathematical Reasoning",
-      "summary": "arXiv:2609.38699v1 Announce Type: new Abstract: A cumulative token cap can fall inside a mathematical derivation, forcing a test-time controller to choose between stopping at the cap (strict) and allowing the current attempt to finish (advisory). We measure this boundary choice with paired offline replays of 19,200 public traces: 120 AIME, BrUMO and HMMT problems and two archive configurations of ",
-      "url": "https://arxiv.org/abs/2609.38699",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-01T04:00:00.000Z"
-    },
-    {
-      "id": "453628fe7548",
-      "title": "Code to Control: Synthesizing Parameterized Reactive Controllers",
-      "summary": "arXiv:2609.38733v1 Announce Type: new Abstract: Recent LLM-based approaches to control either invoke a language model to select actions or synthesize world models that require planning at every decision, introducing latency that can limit real-time use. We introduce Code to Control, an approach that synthesizes Python controllers which execute directly as policies. Code to Control separates progra",
-      "url": "https://arxiv.org/abs/2609.38733",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-01T04:00:00.000Z"
+      "publishedAt": "2026-09-01T00:00:00.000Z"
     }
   ]
 }
