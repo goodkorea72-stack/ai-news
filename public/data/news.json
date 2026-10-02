@@ -1,26 +1,11 @@
 {
-  "generatedAt": "2026-10-02T05:00:28.767Z",
-  "nextUpdate": "2026-10-02T17:00:00.000Z",
+  "generatedAt": "2026-10-02T17:42:35.441Z",
+  "nextUpdate": "2026-10-03T05:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 255,
+  "totalCollected": 257,
   "articleCount": 60,
   "articles": [
-    {
-      "id": "f1bba60e22e8",
-      "title": "Google Gemini 4 Argon closes the gap with OpenAI and Anthropic but doesn&#039;t take a clear lead",
-      "summary": "Gemini 4 Argon is Google's first frontier model in over seven months. It matches GPT-6 Astra in independent testing but can't keep up with Anthropic's Claude Opus 5.5. The per-token price is low, but Argon burns through more than twice as many tokens per task as Astra. Select testers get access first, with the API and paid tiers following later. The article Google Gemini 4 Argon closes the gap wit",
-      "url": "https://the-decoder.com/google-gemini-4-argon-closes-the-gap-with-openai-and-anthropic-but-doesnt-take-a-clear-lead/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 17,
-      "publishedAt": "2026-09-30T22:06:30.000Z"
-    },
     {
       "id": "c74357deea16",
       "title": "Kepler: Auditable World Models for ARC-AGI-3",
@@ -36,6 +21,21 @@
       ],
       "score": 12,
       "publishedAt": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "id": "00793c01331b",
+      "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
+      "summary": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten reference images, and outputs up to 4K. Open weights are coming in the next few weeks. The article Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the r",
+      "url": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 11,
+      "publishedAt": "2026-10-02T07:44:44.000Z"
     },
     {
       "id": "7dcc08833ea8",
@@ -164,21 +164,6 @@
       "publishedAt": "2026-10-02T04:00:00.000Z"
     },
     {
-      "id": "40d0821dc8b1",
-      "title": "Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-ready prompt formats",
-      "summary": "Google is replacing Gems with \"Skills\" in Gemini chat. Skills are detailed, reusable prompts that users invoke by typing \"/\" or that Gemini runs automatically. The format is based on an open standard from Anthropic. Gems will be phased out starting in November, with existing ones migrating automatically. The article Google drops Gems for Skills, joining OpenAI and Anthropic in the shift to agent-r",
-      "url": "https://the-decoder.com/google-drops-gems-for-skills-joining-openai-and-anthropic-in-the-shift-to-agent-ready-prompt-formats/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-09-30T18:16:04.000Z"
-    },
-    {
       "id": "0afd034377a0",
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "summary": "",
@@ -252,20 +237,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "id": "27d8a19733d4",
-      "title": "OpenAI says it stopped a campaign to steal its models&#039; reasoning, but the trick still worked on Azure",
-      "summary": "OpenAI says it stopped a coordinated campaign in which more than 15,000 accounts tried to copy the hidden reasoning of its models. The company ties part of the activity to people connected to Moonshot AI. But researchers found that the same attack kept working on Microsoft Azure for weeks, even against the new GPT-6 Astra. So far, OpenAI's protections don't seem to extend to the cloud platforms th",
-      "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-01T12:05:49.000Z"
     },
     {
       "id": "8dd57ec5b1b4",
@@ -369,6 +340,21 @@
       ],
       "score": 6,
       "publishedAt": "2026-06-24T16:00:13.000Z"
+    },
+    {
+      "id": "4a2ba45a177d",
+      "title": "colbymchenry / codegraph (C)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-02T17:42:22.000Z"
     },
     {
       "id": "97f62ef68e68",
@@ -636,7 +622,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-02T05:00:28.000Z"
+      "publishedAt": "2026-10-02T17:42:22.000Z"
     },
     {
       "id": "5e05cf907a33",
@@ -844,21 +830,6 @@
       "publishedAt": "2026-10-01T17:33:03.000Z"
     },
     {
-      "id": "555d29a0c955",
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-01T15:01:43.000Z"
-    },
-    {
       "id": "5ca472ba1468",
       "title": "Quoting Anthropic Frontier Red Team",
       "summary": "",
@@ -904,6 +875,36 @@
       ],
       "score": 4,
       "publishedAt": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "id": "9c95afa451ef",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "summary": "",
+      "url": "https://huggingface.co/blog/baseten",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "id": "0ee73a62fb00",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-07-23T00:00:00.000Z"
     }
   ]
 }
