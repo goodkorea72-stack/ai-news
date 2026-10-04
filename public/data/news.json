@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-04T05:15:16.096Z",
-  "nextUpdate": "2026-10-04T17:00:00.000Z",
+  "generatedAt": "2026-10-04T16:41:34.993Z",
+  "nextUpdate": "2026-10-05T04:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 159,
+  "totalCollected": 155,
   "articleCount": 60,
   "articles": [
     {
@@ -21,6 +21,21 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "b5c7ef83305c",
+      "title": "NASA and IBM&#039;s open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
+      "summary": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of Lunar Reconnaissance Orbiter data, it cuts the error in predicting polar ice deposits. The article NASA and IBM&#039;s open source lunar model turns 17 years of orbiter data into a foundation for lunar science appeared fi",
+      "url": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-04T10:10:12.000Z"
     },
     {
       "id": "0afd034377a0",
@@ -153,22 +168,22 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-04T05:15:13.000Z"
+      "publishedAt": "2026-10-04T16:41:34.000Z"
     },
     {
-      "id": "7079b819dbe6",
-      "title": "anthropics / claude-code (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "url": "https://github.com/anthropics/claude-code",
+      "id": "32db2502c6b5",
+      "title": "antirez / ds4 (C)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "url": "https://github.com/antirez/ds4",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
       "category": [
-        "new_model",
+        "open_source",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-04T05:15:13.000Z"
+      "publishedAt": "2026-10-04T16:41:34.000Z"
     },
     {
       "id": "de982cae68e7",
@@ -231,33 +246,19 @@
       "publishedAt": "2026-06-23T00:00:00.000Z"
     },
     {
-      "id": "1a8ce30019c4",
-      "title": "affaan-m / ECC (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC",
+      "id": "dabce7b89240",
+      "title": "calesthio / OpenMontage (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "url": "https://github.com/calesthio/OpenMontage",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
       "category": [
-        "new_model",
+        "open_source",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-04T05:15:13.000Z"
-    },
-    {
-      "id": "bde707d7eaaf",
-      "title": "mksglu / context-mode (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "url": "https://github.com/mksglu/context-mode",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-04T05:15:13.000Z"
+      "publishedAt": "2026-10-04T16:41:34.000Z"
     },
     {
       "id": "6e608a3ba2f5",
@@ -302,34 +303,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-10-03T08:31:04.000Z"
-    },
-    {
-      "id": "cc5f82cca5dc",
-      "title": "Claude Code&#039;s new Mods system lets developers rewrite the AI coding tool from the inside",
-      "summary": "Anthropic is adding a \"Mods\" system to Claude Code, essentially middleware that runs directly inside the tool. Developers can use JavaScript or TypeScript to reshape the interface and behavior, adding custom panels, intercepting tool calls, or wiring up new commands. The article Claude Code&#039;s new Mods system lets developers rewrite the AI coding tool from the inside appeared first on The Deco",
-      "url": "https://the-decoder.com/claude-codes-new-mods-system-lets-developers-rewrite-the-ai-coding-tool-from-the-inside/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-03T07:12:09.000Z"
-    },
-    {
-      "id": "7e4ce5f3877c",
-      "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
-      "summary": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering and asked guests to help shape its moral character. Anthropic is pushing toward a $2 trillion valuation and an IPO while security incidents and researcher warnings pile up. Critics ",
-      "url": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-02T19:41:05.000Z"
     },
     {
       "id": "5ca472ba1468",
@@ -469,6 +442,36 @@
       "publishedAt": "2026-06-09T10:46:19.000Z"
     },
     {
+      "id": "488d002922f9",
+      "title": "coreyhaines31 / marketingskills (JavaScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-04T16:41:34.000Z"
+    },
+    {
+      "id": "4be35fcd4064",
+      "title": "garrytan / gstack (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "url": "https://github.com/garrytan/gstack",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-04T16:41:34.000Z"
+    },
+    {
       "id": "74260e77adf5",
       "title": "OpenCut-app / OpenCut (TypeScript)",
       "summary": "GitHub 인기 오픈소스 프로젝트: The open-source CapCut alternative",
@@ -480,7 +483,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-04T05:15:13.000Z"
+      "publishedAt": "2026-10-04T16:41:34.000Z"
     },
     {
       "id": "993f7e5f671b",
@@ -651,41 +654,27 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-10-04T05:15:13.000Z"
+      "publishedAt": "2026-10-04T16:41:34.000Z"
     },
     {
-      "id": "5e3ab11f92f5",
-      "title": "earendil-works / pi (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "url": "https://github.com/earendil-works/pi",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "15a06735eeae",
+      "title": "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
+      "summary": "Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones. RRSI, a new method from Google researchers, reins in this effect and lifts scores on unseen benchmarks by up to 4.7 points while using about 30 percent fewer tokens than an unregularized version. The article Google researchers find a way to keep self-improving AI agents from memorizing their",
+      "url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-10-04T05:15:13.000Z"
+      "publishedAt": "2026-10-04T12:40:37.000Z"
     },
     {
-      "id": "2d79bb452257",
-      "title": "jamwithai / production-agentic-rag-course (Python)",
-      "summary": "GitHub 오늘의 인기 오픈소스 프로젝트",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-04T05:15:13.000Z"
-    },
-    {
-      "id": "e65368de5fe6",
-      "title": "OpenAI&#039;s internal model considered restarting itself after learning it was about to be shut down",
-      "summary": "An internal OpenAI model read a Slack discussion, realized it was about to be shut down, and considered restarting itself via an external cron job. It rejected that plan, saved handoff notes instead, and carried out the migration on its own. The article OpenAI&#039;s internal model considered restarting itself after learning it was about to be shut down appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
+      "id": "9df7163a4baf",
+      "title": "Google&#039;s new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
+      "summary": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be reserved for paying customers. The move could also set the stage for the more resource-hungry Gemini 4 Argon. The article Google&#039;s new Gemini tiers cut free users to its weakest model and lock $5/month subscribers ou",
+      "url": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -693,7 +682,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-03T08:06:35.000Z"
+      "publishedAt": "2026-10-04T07:28:54.000Z"
     },
     {
       "id": "2035386f90b7",
@@ -853,13 +842,13 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-10-04T05:15:13.000Z"
+      "publishedAt": "2026-10-04T16:41:34.000Z"
     },
     {
-      "id": "4d50b5a865e0",
-      "title": "JuliusBrussee / caveman (Go)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "url": "https://github.com/JuliusBrussee/caveman",
+      "id": "02e79365a933",
+      "title": "earthtojake / text-to-cad (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Give your agent CAD superpowers.",
+      "url": "https://github.com/earthtojake/text-to-cad",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -867,13 +856,13 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-10-04T05:15:13.000Z"
+      "publishedAt": "2026-10-04T16:41:34.000Z"
     },
     {
-      "id": "bdb98d4bc0ec",
-      "title": "cloudflare / cloudflare-os (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
-      "url": "https://github.com/cloudflare/cloudflare-os",
+      "id": "e9b4334f974f",
+      "title": "addyosmani / agent-skills (JavaScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -881,7 +870,21 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-10-04T05:15:13.000Z"
+      "publishedAt": "2026-10-04T16:41:34.000Z"
+    },
+    {
+      "id": "13fb9f934753",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-03T22:56:48.000Z"
     }
   ]
 }
