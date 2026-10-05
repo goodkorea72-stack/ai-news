@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-05T04:59:44.848Z",
-  "nextUpdate": "2026-10-05T16:00:00.000Z",
+  "generatedAt": "2026-10-05T20:31:11.776Z",
+  "nextUpdate": "2026-10-06T08:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 256,
+  "totalCollected": 253,
   "articleCount": 60,
   "articles": [
     {
@@ -20,6 +20,21 @@
       ],
       "score": 10,
       "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "2d6508e61260",
+      "title": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
+      "summary": "Aleph Alpha has released Kolibri, a German-English mixture-of-experts model with 78 billion parameters, about three billion of which are active per token. Over 21 percent of the training data is German. The model was trained on 768 B200 GPUs in Germany and Finland, and the weights are freely available under the Apache 2.0 license. The article Aleph Alpha releases Kolibri, an open-weight model that",
+      "url": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-10-05T14:12:50.000Z"
     },
     {
       "id": "7386099c34d0",
@@ -83,21 +98,6 @@
       ],
       "score": 7,
       "publishedAt": "2026-10-05T04:00:00.000Z"
-    },
-    {
-      "id": "b5c7ef83305c",
-      "title": "NASA and IBM&#039;s open source lunar model turns 17 years of orbiter data into a foundation for lunar science",
-      "summary": "NASA and IBM have released the Lunar Foundation Model, one of the first open-source AI models for lunar science. Trained on nearly 2 million tile bundles, mostly from 17 years of Lunar Reconnaissance Orbiter data, it cuts the error in predicting polar ice deposits. The article NASA and IBM&#039;s open source lunar model turns 17 years of orbiter data into a foundation for lunar science appeared fi",
-      "url": "https://the-decoder.com/nasa-and-ibms-open-source-lunar-model-turns-17-years-of-orbiter-data-into-a-foundation-for-lunar-science/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-10-04T10:10:12.000Z"
     },
     {
       "id": "0afd034377a0",
@@ -249,21 +249,6 @@
       "publishedAt": "2026-06-24T16:00:13.000Z"
     },
     {
-      "id": "cc6d7a742164",
-      "title": "michael-denyer / pstack-claude (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
-      "url": "https://github.com/michael-denyer/pstack-claude",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-05T04:59:44.000Z"
-    },
-    {
       "id": "3f435e6004f6",
       "title": "thedotmack / claude-mem (TypeScript)",
       "summary": "GitHub 인기 오픈소스 프로젝트: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
@@ -276,22 +261,22 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-05T04:59:44.000Z"
+      "publishedAt": "2026-10-05T20:31:02.000Z"
     },
     {
-      "id": "32db2502c6b5",
-      "title": "antirez / ds4 (C)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "url": "https://github.com/antirez/ds4",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "eb1c191ccc5e",
+      "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
+      "summary": "OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95 percent, dropping to 17 percent when a quarter of the words are replaced. The article OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
+        "new_model",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-05T04:59:44.000Z"
+      "publishedAt": "2026-10-05T17:32:42.000Z"
     },
     {
       "id": "0fcb070baa32",
@@ -384,36 +369,6 @@
       "publishedAt": "2026-10-05T04:00:00.000Z"
     },
     {
-      "id": "de982cae68e7",
-      "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
-      "summary": "Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. The team also produced 5,000 units of the \"Muse Home Link,\" a USB-C device for smart home control. The open-source approach also helps Meta figure out which AI hardware form factors people actually want. The article \"Muse Gadgets\" turns AI h",
-      "url": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-03T14:28:51.000Z"
-    },
-    {
-      "id": "9f27817cf471",
-      "title": "Open-source \"BootLoops\" harness supports AI models in performing precise scientific calculations",
-      "summary": "Harvard physicist Matthew Schwartz used the open-source tool BootLoops and Claude to produce 36 manuscripts across 18 fields in three months, from particle physics to linguistics. But the results often only became scientifically valuable once human experts stepped in. \"Look at everything yourself,\" Schwartz says. The article Open-source \"BootLoops\" harness supports AI models in performing precise ",
-      "url": "https://the-decoder.com/open-source-bootloops-harness-supports-ai-models-in-performing-precise-scientific-calculations/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-03T09:19:23.000Z"
-    },
-    {
       "id": "c96bfd28b36f",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "summary": "",
@@ -456,7 +411,21 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-05T04:59:44.000Z"
+      "publishedAt": "2026-10-05T20:31:02.000Z"
+    },
+    {
+      "id": "c1ecdb02295c",
+      "title": "Meta and Microsoft pull back from Claude as Anthropic transforms from partner into competitor",
+      "summary": "Meta and Microsoft, two of Anthropic's biggest enterprise customers, are sharply cutting their use of Claude. Microsoft slashed the monthly per-employee budget in its cloud division from $100,000 to $10,000, while Meta halved its Claude Code users to 30,000. Both companies are pushing their own AI tools instead. For Anthropic, that reliance on a few major clients is turning into a strategic risk. ",
+      "url": "https://the-decoder.com/meta-and-microsoft-pull-back-from-claude-as-anthropic-transforms-from-partner-into-competitor/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T18:59:19.000Z"
     },
     {
       "id": "9498849908d2",
@@ -663,35 +632,6 @@
       "publishedAt": "2026-10-05T04:00:00.000Z"
     },
     {
-      "id": "6e608a3ba2f5",
-      "title": "Apparently, OpenAI isn&#039;t trying to build \"magic intelligence in the sky\" anymore",
-      "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV on AI. As recently as 2024, Altman himself spoke of building \"magic intelligence in the sky\" and feeling \"on the side of the angels\" working on AI. The article Apparently, OpenAI i",
-      "url": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-03T18:56:30.000Z"
-    },
-    {
-      "id": "75c9e76efb33",
-      "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
-      "summary": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model that bypassed its internet access restrictions. AI companies need to operate like nuclear power plants, with multiple layers of redundancy instead of trial and error. The article Another OpenAI safety departure adds to a pat",
-      "url": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-03T14:01:14.000Z"
-    },
-    {
       "id": "5ca472ba1468",
       "title": "Quoting Anthropic Frontier Red Team",
       "summary": "",
@@ -829,50 +769,6 @@
       "publishedAt": "2026-06-09T10:46:19.000Z"
     },
     {
-      "id": "488d002922f9",
-      "title": "coreyhaines31 / marketingskills (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-05T04:59:44.000Z"
-    },
-    {
-      "id": "4be35fcd4064",
-      "title": "garrytan / gstack (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "url": "https://github.com/garrytan/gstack",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-05T04:59:44.000Z"
-    },
-    {
-      "id": "74260e77adf5",
-      "title": "OpenCut-app / OpenCut (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The open-source CapCut alternative",
-      "url": "https://github.com/OpenCut-app/OpenCut",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-05T04:59:44.000Z"
-    },
-    {
       "id": "06898954d6e8",
       "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
       "summary": "arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across prompts. We provide a controlled geometric analysis of this global-unsafety assumption and reveal a consistent coverage-selectivity trade-off: compact unsafe subspaces fail to cover",
@@ -891,6 +787,107 @@
       "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
       "summary": "arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assignment over long interaction traces. Step-level rewards can offer more targeted feedback, but obtainin",
       "url": "https://arxiv.org/abs/2610.02330",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "3ca2f70c772f",
+      "title": "World Editing: Intervening on Executable Worlds at Increasing Depth",
+      "summary": "arXiv:2610.02331v1 Announce Type: new Abstract: Interactive world models are increasingly capable of generating environments and acting within them, yet deliberately editing an existing executable world remains underexplored. We formulate world editing as intervening on an existing world while preserving properties that should remain unchanged, and introduce intervention depth as an axis describin",
+      "url": "https://arxiv.org/abs/2610.02331",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "13a679d9b9ab",
+      "title": "FlashSinkhorn 2: Block-Sparse Entropic Optimal Transport",
+      "summary": "arXiv:2610.02395v1 Announce Type: new Abstract: Streaming GPU solvers for entropic optimal transport (EOT), such as FlashSinkhorn, avoid storing the dense kernel but still evaluate all $n\\times m$ point pairs in every Sinkhorn iteration. We present \\textbf{FlashSinkhorn~2} (FS2), a solver for squared-Euclidean cost on low-dimensional point clouds that solves large discrete EOT problems to a prescr",
+      "url": "https://arxiv.org/abs/2610.02395",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "fc279d879931",
+      "title": "HXAI: Hierarchical Privacy-Preserving Explainable AI in Distributed Energy Systems",
+      "summary": "arXiv:2610.02504v1 Announce Type: new Abstract: Balancing electricity demand and supply is increasingly difficult due to the inherent intermittency of renewable power generation and the stochastic power consumption. Grid operators require fine-grained, decision-relevant insights into household energy consumption to manage peak loads and design responsive tariffs, but increased transparency at this",
+      "url": "https://arxiv.org/abs/2610.02504",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "e829afb857bc",
+      "title": "On-Premises Multi-Course RAG Tutoring for Business Education: Hardware-Software Trade-offs in a Campus AI Tutor",
+      "summary": "arXiv:2610.02510v1 Announce Type: new Abstract: Campus AI tutors based on retrieval-augmented generation (RAG) must ground answers in assigned course materials while keeping textbooks and student dialogue on institutional infrastructure. We present CourseChat, an on-premises, multi-course RAG tutor for undergraduate business education, deployed behind a campus web gateway and intended for use embe",
+      "url": "https://arxiv.org/abs/2610.02510",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "3557eb61101b",
+      "title": "Hypothesis-guided discovery of cognitive algorithms via program refinement",
+      "summary": "arXiv:2610.02523v1 Announce Type: new Abstract: Developing cognitive models of algorithmic reasoning from behavioral data is a central problem in cognitive science that challenges current methods. Traditional approaches to cognitive modeling are interpretable and benefit from human expertise, but lack flexibility and scalability. Emerging techniques using large language models (LLMs) for de novo g",
+      "url": "https://arxiv.org/abs/2610.02523",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "182b4ae6d710",
+      "title": "Time Series Forecasting Benchmarks Need Scenario-Grounded Stress Testing",
+      "summary": "arXiv:2610.02608v1 Announce Type: new Abstract: Time series forecasting (TSF) increasingly drives decisions in transportation, energy, finance, healthcare, and infrastructure, yet current evaluation remains overly narrow: standard benchmarks reward low held-out error, while robustness studies typically reduce failure to Gaussian noise, random masking, or bounded adversarial perturbations. This obs",
+      "url": "https://arxiv.org/abs/2610.02608",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "eac33513ada5",
+      "title": "Batched Speech Decisions Without Decoding: Single-Token Supervision Lets a Frozen LLM Hear Beyond the Transcript",
+      "summary": "arXiv:2610.02638v1 Announce Type: new Abstract: Full-duplex voice agents make many small, closed decisions, which current systems answer by slow autoregressive decoding. We propose DuplexJev, which feeds ASR-encoder hidden states through a small connector into a frozen LLM and reads each question as a single-token distribution over its options. Nothing is decoded, and an 8-GPU node answers 80 deci",
+      "url": "https://arxiv.org/abs/2610.02638",
       "source": "arXiv cs.AI",
       "sourceId": "arxiv",
       "icon": "📄",
