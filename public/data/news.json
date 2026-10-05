@@ -1,11 +1,57 @@
 {
-  "generatedAt": "2026-10-04T16:41:34.993Z",
-  "nextUpdate": "2026-10-05T04:00:00.000Z",
+  "generatedAt": "2026-10-05T04:59:44.848Z",
+  "nextUpdate": "2026-10-05T16:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 155,
+  "totalCollected": 256,
   "articleCount": 60,
   "articles": [
+    {
+      "id": "4e6341fe3c9c",
+      "title": "When Terminal-Agent Training Stalls: Demystifying Data Generation and Verification Challenge",
+      "summary": "arXiv:2610.02405v1 Announce Type: new Abstract: Using a frontier model like Claude Opus as a meta-agent to generate terminal tasks and verifiers for RL training is increasingly common. Yet a runnable Docker image and executable test suite do not guarantee a faithful end-to-end pipeline for terminal agent training. We present a meta-agent pipeline motivated by this gap, diagnosing three classes of ",
+      "url": "https://arxiv.org/abs/2610.02405",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 10,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "7386099c34d0",
+      "title": "Fast Models, Slow Evidence: A Paired and Self-Audited Evaluation of System-1 Decision Models for LLM Agent Harnesses",
+      "summary": "arXiv:2610.02267v1 Announce Type: new Abstract: Agent harnesses make many small, typed decisions per task: which model to call, which tool to use, whether retrieved text is relevant, whether an input carries an injection. System-1 decision models answer such questions in a single forward pass with class probabilities, promising large cost and latency savings over LLM calls. We present a paired eva",
+      "url": "https://arxiv.org/abs/2610.02267",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "91f77ca6e2a3",
+      "title": "How To Train Your World Model: Fine-tuning vs RAG for LM-based World Modeling",
+      "summary": "arXiv:2610.02542v1 Announce Type: new Abstract: World models (WMs) simulate the transition dynamics of environments, enabling agents to plan over the consequences of their actions. In text-based environments, fine-tuning a Language Model (LM) to serve as a WM has emerged as a dominant paradigm. However, despite the widespread success of non-parametric approaches such as Retrieval Augmented Generat",
+      "url": "https://arxiv.org/abs/2610.02542",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
     {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
@@ -21,6 +67,22 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "e8d73193f395",
+      "title": "Refinement Buys Intelligibility, Search Buys Identity: What Test-Time Compute Buys in Masked-Diffusion TTS",
+      "summary": "arXiv:2610.03320v1 Announce Type: new Abstract: Diffusion language models for text-to-speech combine two forms of computation: model depth (parameters) and refinement steps (inference budget). We ask whether they scale equally across capabilities. We train 15 masked-diffusion codec TTS models varying depth (19-133M parameters, 3 seeds) on 2,000 hours of speech and sweep refinement steps T in [1,16",
+      "url": "https://arxiv.org/abs/2610.03320",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
     },
     {
       "id": "b5c7ef83305c",
@@ -51,6 +113,37 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "f14a265b9d66",
+      "title": "Traversing the Satisfaction-Diversity Frontier in Text-to-Image Diffusion",
+      "summary": "arXiv:2610.02372v1 Announce Type: new Abstract: Text-to-image generation enables users to explore several images generated from the same prompt. For these generated images to be useful, each one must reflect the user's preferences, measured by a learned reward, and differ visually from the others to maintain diversity. Existing methods are limited: they either address reward and diversity separate",
+      "url": "https://arxiv.org/abs/2610.02372",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "2fc3b2ab35fa",
+      "title": "hacktrace: behavior-supervised detection of reward hacking during code generation",
+      "summary": "arXiv:2610.03055v1 Announce Type: new Abstract: A coding agent can earn a passing grade by fixing its code, or by deleting the test that exposes the bug. Detecting such reward hacking requires recognizing attempted shortcuts, including those that fail. We release 173,561 annotated multi-turn coding trajectories from Qwen3-8B and show that supervising shortcut behavior independently of exploit succ",
+      "url": "https://arxiv.org/abs/2610.03055",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
     },
     {
       "id": "8dd57ec5b1b4",
@@ -156,6 +249,21 @@
       "publishedAt": "2026-06-24T16:00:13.000Z"
     },
     {
+      "id": "cc6d7a742164",
+      "title": "michael-denyer / pstack-claude (JavaScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses.",
+      "url": "https://github.com/michael-denyer/pstack-claude",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-05T04:59:44.000Z"
+    },
+    {
       "id": "3f435e6004f6",
       "title": "thedotmack / claude-mem (TypeScript)",
       "summary": "GitHub 인기 오픈소스 프로젝트: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
@@ -168,7 +276,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-04T16:41:34.000Z"
+      "publishedAt": "2026-10-05T04:59:44.000Z"
     },
     {
       "id": "32db2502c6b5",
@@ -183,7 +291,97 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-04T16:41:34.000Z"
+      "publishedAt": "2026-10-05T04:59:44.000Z"
+    },
+    {
+      "id": "0fcb070baa32",
+      "title": "TasteBench: Multimodal Benchmark for Sensory Prediction, from Molecules to Sustainable Foods",
+      "summary": "arXiv:2610.02599v1 Announce Type: new Abstract: Sustainable protein discovery lacks the fast computational proxies, analogous to molecular docking or density functional theory, that accelerate drug and materials discovery. Evaluating whether a novel food tastes like its animal-based target requires expensive human sensory panels, bottlenecking the design-build-test loop. We introduce TasteBench, a",
+      "url": "https://arxiv.org/abs/2610.02599",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "d90f2b0cbdce",
+      "title": "Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite",
+      "summary": "arXiv:2610.02826v1 Announce Type: new Abstract: Successful trajectories on difficult tasks provide valuable supervision for model improvement, but specialized harnesses introduce interventions that may be unavailable during deployment. We propose Recursive Self-Rewrite (RSR), a framework that uses one base model, Qwen-3.8-27B, to discover successful solutions under diverse harnesses and reconstruc",
+      "url": "https://arxiv.org/abs/2610.02826",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "2567ae975e28",
+      "title": "AMBER: Multi-View Adaptive Budget Allocation for Listwise Vision-Language Reranking",
+      "summary": "arXiv:2610.02831v1 Announce Type: new Abstract: Vision-language models (VLMs) are powerful listwise rerankers for multimodal retrieval, but high inference costs restrict them to evaluating small local candidate views. Existing multi-call strategies rely on fixed schedules, wasting expensive VLM calls on uninformative candidate pairs and easy queries. To address this, we propose Adaptive Multi-view",
+      "url": "https://arxiv.org/abs/2610.02831",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "adf147de13ea",
+      "title": "Frequency Is Not Sensitivity Identifying Safety-Sensitive Experts in Sparse MoE LLM",
+      "summary": "arXiv:2610.02910v1 Announce Type: new Abstract: Suppressing a small set of routed experts can weaken the safety behavior of a sparse Mixture-of-Experts (MoE) language model without retraining. Which experts to suppress is therefore a security question, and the usual answer is activation frequency, but frequency measures use, not influence. We test an alternative: router-gradient sensitivity, the s",
+      "url": "https://arxiv.org/abs/2610.02910",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "dd198278c9cc",
+      "title": "Continual Graph Memory for Mathematical Research Agents",
+      "summary": "arXiv:2610.02945v1 Announce Type: new Abstract: Using frontier agent harnesses to tackle mathematical research problems has emerged as an effective means of advancing mathematics. However, solving frontier problems in mathematics may require a massive number of agents working in parallel for extended periods to construct proofs, thereby generating an enormous volume of intermediate proof results. ",
+      "url": "https://arxiv.org/abs/2610.02945",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "c4eaf8fee8cf",
+      "title": "Peer Influence across Heterogeneous AI Models",
+      "summary": "arXiv:2610.03095v1 Announce Type: new Abstract: When two AI agents disagree, who persuades whom? As multi-agent systems increasingly combine language models of different families and sizes, the answer can determine which judgments survive interaction. Measuring persuasion as the probabilistic shift in an agent's decision after a single exchange with a dissenting peer, we test seven open-weight mod",
+      "url": "https://arxiv.org/abs/2610.03095",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
     },
     {
       "id": "de982cae68e7",
@@ -258,7 +456,211 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-04T16:41:34.000Z"
+      "publishedAt": "2026-10-05T04:59:44.000Z"
+    },
+    {
+      "id": "9498849908d2",
+      "title": "DeReAct: Decomposed Reasoning and Acting for Reliable AI Agents",
+      "summary": "arXiv:2610.02351v1 Announce Type: new Abstract: ReAct-based agents typically rely on a single LLM policy to propose actions, interact with the environment, and decide when a task is complete. This coupling makes action authorization and completion control difficult to enforce independently, allowing errors to propagate and unsupported completion claims to terminate execution. We introduce DeReAct,",
+      "url": "https://arxiv.org/abs/2610.02351",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "a7030319c3c3",
+      "title": "Learning What to Investigate Next: Meta-Reasoning for Long-Horizon Research Agents",
+      "summary": "arXiv:2610.02525v1 Announce Type: new Abstract: Long-horizon research agents must decide both how to investigate and what to investigate next as evidence accumulates. This is hard to learn because such decisions are sparse in long execution traces, and their consequences may emerge several investigations later. We introduce Meta-reasoning for Iterative Research Agents (MIRA), a hierarchical archit",
+      "url": "https://arxiv.org/abs/2610.02525",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "2dcd92bafffa",
+      "title": "CuBEs: Culturally-Situated Behavioral Evaluations and the Limitations of Culture-Blind LLM Judges",
+      "summary": "arXiv:2610.02622v1 Announce Type: new Abstract: Evaluating the occurrence and triggers of large language model (LLM) behaviors - such as sycophancy, self-preference, or over-confidence - is critical for predicting real-world model deployment risks. However, existing situated behavioral evaluations typically ignore cultural context, limiting their generalizability across an increasingly global user",
+      "url": "https://arxiv.org/abs/2610.02622",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "affe7410b379",
+      "title": "Lost in the Request: How Communication Variation Disrupts Retrieval and Action in Email Agents",
+      "summary": "arXiv:2610.02627v1 Announce Type: new Abstract: An email assistant should not complete less work simply because a user phrases the same request differently. Yet most benchmarks test each task with only one canonical request, leaving this form of robustness largely unmeasured. We test whether email assistants remain reliable when the requested information, available evidence, and expected outcome s",
+      "url": "https://arxiv.org/abs/2610.02627",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "66a3ad23f291",
+      "title": "Large language models exhibit unreliable updating of clinical judgment as patient evidence evolves",
+      "summary": "arXiv:2610.02684v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly explored for clinical reasoning, but whether they appropriately revise judgments as patient evidence evolves remains unclear. We evaluated longitudinal belief updating using matched intensive-care trajectories from electronic health records. Across diverse LLMs, conditioning on a preceding judgment more o",
+      "url": "https://arxiv.org/abs/2610.02684",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "02c9b5a2fcfc",
+      "title": "Decoupling Memory from Context: Structured Memory for Token-Efficient Test-Time Continual Learning",
+      "summary": "arXiv:2610.02687v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in enterprise, scientific, and medical applications, where agents must incorporate domain-specific knowledge and adapt from experience. Context engineering offers a practical alternative to weight updates by improving model behavior through instructions, strategies, and evidence supplied at infer",
+      "url": "https://arxiv.org/abs/2610.02687",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "e2798cb8c204",
+      "title": "Learning to Revise Reasoning with Segment-wise On-Policy Distillation",
+      "summary": "arXiv:2610.02703v1 Announce Type: new Abstract: On-policy distillation (OPD) improves large language model reasoning by training students on their own rollouts with dense token-wise supervision from the teacher. However, token-wise OPD does not explicitly provide a coherent alternative reasoning step showing how the student's step could be revised to improve subsequent reasoning. Furthermore, this",
+      "url": "https://arxiv.org/abs/2610.02703",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "28aa424d69ce",
+      "title": "Ego2World: Compiling Egocentric Cooking Videos into Executable Worlds for Belief-State Planning",
+      "summary": "arXiv:2610.02715v1 Announce Type: new Abstract: Egocentric videos capture how people carry out everyday activities, yet testing an agent requires evaluating the consequences of actions it chooses itself. We introduce Ego2World, a benchmark that turns annotated cooking activities into executable planning environments under partial observation. Its compiler links source steps and objects to symbolic",
+      "url": "https://arxiv.org/abs/2610.02715",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "f9e2fd2de8bc",
+      "title": "Dynamic LLM Routers are Often Misguided",
+      "summary": "arXiv:2610.02762v1 Announce Type: new Abstract: Dynamic LLM routers promise to cut inference costs by sending each query to the cheapest model that can answer it correctly. We analyze six commercial routers across 14 settings on a diverse benchmark spanning eight task categories, finding that none of them outperforms a router that randomly selects between two well-chosen models at matched cost. So",
+      "url": "https://arxiv.org/abs/2610.02762",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "e97706d477e3",
+      "title": "BitNest: Bit-Nested Speculative Decoding for Memory-Efficient LLM Inference Acceleration",
+      "summary": "arXiv:2610.02800v1 Announce Type: new Abstract: Speculative decoding accelerates autoregressive generation by using a lightweight draft to propose multiple tokens for parallel verification. However, existing methods often require an additional draft model or weight representation, introducing non-negligible memory overhead on resource-constrained devices. Self-speculative approaches reduce this ov",
+      "url": "https://arxiv.org/abs/2610.02800",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "bbd629e2ce32",
+      "title": "iS-KV: Online Low-Rank KV Cache Compression via Block-Incremental SVD",
+      "summary": "arXiv:2610.02815v1 Announce Type: new Abstract: Long chain-of-thought reasoning substantially increases KV-cache memory during autoregressive decoding, as every generated token introduces new key and value states and causes the cache to grow linearly with decoding length. Existing KV-cache compression methods typically control this growth through token eviction, but irreversible deletion can remov",
+      "url": "https://arxiv.org/abs/2610.02815",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "cd7804f31ab6",
+      "title": "DyadMem: A Long-Term Memory Benchmark of How Agents Work with Users",
+      "summary": "arXiv:2610.03020v1 Announce Type: new Abstract: Long-term agents must remember not only what is true about a user, but also how a particular agent should work with that user as their shared history evolves. Existing benchmarks primarily supervise user facts and preferences or experience reusable across users, leaving this relationship-specific agent memory implicit. Additionally, most prior works ",
+      "url": "https://arxiv.org/abs/2610.03020",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "0c245bae7cac",
+      "title": "MOF-VERIFY: A Failure-Aware Agentic Harness for MOF Hypothesis Verification",
+      "summary": "arXiv:2610.03056v1 Announce Type: new Abstract: Large language models are increasingly used as reasoning components in AI-driven materials Co-Scientists, yet the reliability of the resulting verification pipeline remains unclear. Metal-organic frameworks (MOFs) provide a particularly challenging setting because structures may appear under different identifiers, synthesis outcomes depend strongly o",
+      "url": "https://arxiv.org/abs/2610.03056",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
+    },
+    {
+      "id": "1101b1673eae",
+      "title": "Keeping JEPA World Models Plannable When Little of the Frame Moves",
+      "summary": "arXiv:2610.03137v1 Announce Type: new Abstract: Specifying a goal in language rather than as a goal frame is a natural interface for planning with a latent world model, but testing it needs scenes in which language must discriminate between several objects. We build SLIM, a pushing benchmark with several small objects and paired visual and language goals on identical scenes. On SLIM a LeWM world m",
+      "url": "https://arxiv.org/abs/2610.03137",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-05T04:00:00.000Z"
     },
     {
       "id": "6e608a3ba2f5",
@@ -288,21 +690,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-10-03T14:01:14.000Z"
-    },
-    {
-      "id": "7a30b68c673d",
-      "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
-      "summary": "A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy. The biggest weakness across all tested agents is that they can't judge their own geometric accuracy any better than a coin flip. The article AI agents build 3D scenes from photos but have no idea if they got it",
-      "url": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-03T08:31:04.000Z"
     },
     {
       "id": "5ca472ba1468",
@@ -454,7 +841,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-04T16:41:34.000Z"
+      "publishedAt": "2026-10-05T04:59:44.000Z"
     },
     {
       "id": "4be35fcd4064",
@@ -469,7 +856,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-04T16:41:34.000Z"
+      "publishedAt": "2026-10-05T04:59:44.000Z"
     },
     {
       "id": "74260e77adf5",
@@ -483,408 +870,35 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-04T16:41:34.000Z"
+      "publishedAt": "2026-10-05T04:59:44.000Z"
     },
     {
-      "id": "993f7e5f671b",
-      "title": "Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity",
-      "summary": "According to researchers at the Deepmind Institute, general AI won't emerge as a single supermodel but as a network of cooperating agents and humans. What will matter most, they argue, is not model size but the rules and institutions that govern how they all work together. The article Deepmind researchers propose \"Artificial Symbiotic Intelligence\" as an alternative to the singularity appeared fir",
-      "url": "https://the-decoder.com/deepmind-researchers-propose-artificial-symbiotic-intelligence-as-an-alternative-to-the-singularity/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "06898954d6e8",
+      "title": "Keep It CALM: Analyzing the Limits of Global Unsafety in Text-to-Image Generation",
+      "summary": "arXiv:2610.02300v1 Announce Type: new Abstract: Training-free safeguards for text-to-image generation often rely on a reusable safety signal, such as an unsafe direction or global toxic subspace, applied broadly across prompts. We provide a controlled geometric analysis of this global-unsafety assumption and reveal a consistent coverage-selectivity trade-off: compact unsafe subspaces fail to cover",
+      "url": "https://arxiv.org/abs/2610.02300",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
-        "new_model",
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-03T10:21:23.000Z"
+      "publishedAt": "2026-10-05T04:00:00.000Z"
     },
     {
-      "id": "858945812f14",
-      "title": "Holo4: powering generalist computer-use agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
+      "id": "312a2f2f6bcc",
+      "title": "Choosing Before Acting: Comparative Value Estimation for Long-Horizon Tool-Use Agents",
+      "summary": "arXiv:2610.02330v1 Announce Type: new Abstract: Large language models (LLMs) rely on long-horizon tool invocation sequences for complex tasks, where each invocation can alter the task state and condition subsequent decisions. In long-horizon tool use, final-outcome rewards provide weak credit assignment over long interaction traces. Step-level rewards can offer more targeted feedback, but obtainin",
+      "url": "https://arxiv.org/abs/2610.02330",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
-        "new_model",
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-09-28T09:44:05.000Z"
-    },
-    {
-      "id": "cc2a6bf3277b",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "summary": "",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "edd47e9eda4e",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-25T15:14:14.000Z"
-    },
-    {
-      "id": "cd7544ff7730",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-25T11:39:24.000Z"
-    },
-    {
-      "id": "6d7eaed422a4",
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-18T00:00:00.000Z"
-    },
-    {
-      "id": "d59cc540f8e8",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "summary": "",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-07-27T00:00:00.000Z"
-    },
-    {
-      "id": "b05f6a03c08c",
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-07-07T15:20:06.000Z"
-    },
-    {
-      "id": "ab443d026ff2",
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "summary": "",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-06-26T00:00:00.000Z"
-    },
-    {
-      "id": "858defa77ee5",
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "summary": "",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-06-23T00:00:00.000Z"
-    },
-    {
-      "id": "f59ddf554188",
-      "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-      "summary": "",
-      "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-06-09T00:00:00.000Z"
-    },
-    {
-      "id": "adf4bf7b275e",
-      "title": "Panniantong / Agent-Reach (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-04T16:41:34.000Z"
-    },
-    {
-      "id": "15a06735eeae",
-      "title": "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
-      "summary": "Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones. RRSI, a new method from Google researchers, reins in this effect and lifts scores on unseen benchmarks by up to 4.7 points while using about 30 percent fewer tokens than an unregularized version. The article Google researchers find a way to keep self-improving AI agents from memorizing their",
-      "url": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-04T12:40:37.000Z"
-    },
-    {
-      "id": "9df7163a4baf",
-      "title": "Google&#039;s new Gemini tiers cut free users to its weakest model and lock $5/month subscribers out of Pro",
-      "summary": "Starting in October 2026, Google will cut free access to its Gemini models. Users without a subscription will only get the smallest model, Flash-Lite, while Flash and Pro will be reserved for paying customers. The move could also set the stage for the more resource-hungry Gemini 4 Argon. The article Google&#039;s new Gemini tiers cut free users to its weakest model and lock $5/month subscribers ou",
-      "url": "https://the-decoder.com/googles-new-gemini-tiers-cut-free-users-to-its-weakest-model-and-lock-5-month-subscribers-out-of-pro/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-04T07:28:54.000Z"
-    },
-    {
-      "id": "2035386f90b7",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-02T04:01:31.000Z"
-    },
-    {
-      "id": "ec23c1b3b552",
-      "title": "OpenAI DevDay 2026 live blog",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-29T15:55:13.000Z"
-    },
-    {
-      "id": "1f4a554892a3",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-29T13:07:00.000Z"
-    },
-    {
-      "id": "cb6315107818",
-      "title": "llm-anthropic 0.29",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Sep/22/llm-anthropic/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-22T17:14:55.000Z"
-    },
-    {
-      "id": "31b1ab840744",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "summary": "",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "ba1189a3e38b",
-      "title": "Recreating a 70-year love story frame by frame",
-      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-09T16:00:00.000Z"
-    },
-    {
-      "id": "1fc8f7f56947",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "summary": "",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "43e3a994b253",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-08-18T18:09:38.000Z"
-    },
-    {
-      "id": "b8baa8a2a87a",
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-06-30T18:32:50.000Z"
-    },
-    {
-      "id": "4e4bb66bce9a",
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "summary": "",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-06-18T00:00:00.000Z"
-    },
-    {
-      "id": "279657933dec",
-      "title": "DietrichGebert / ponytail (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-04T16:41:34.000Z"
-    },
-    {
-      "id": "02e79365a933",
-      "title": "earthtojake / text-to-cad (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Give your agent CAD superpowers.",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-04T16:41:34.000Z"
-    },
-    {
-      "id": "e9b4334f974f",
-      "title": "addyosmani / agent-skills (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Production-grade engineering skills for AI coding agents.",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-04T16:41:34.000Z"
-    },
-    {
-      "id": "13fb9f934753",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-03T22:56:48.000Z"
+      "publishedAt": "2026-10-05T04:00:00.000Z"
     }
   ]
 }
