@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T05:19:03.770Z",
-  "nextUpdate": "2026-10-07T17:00:00.000Z",
+  "generatedAt": "2026-10-07T18:43:27.448Z",
+  "nextUpdate": "2026-10-08T06:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 271,
+  "totalCollected": 273,
   "articleCount": 60,
   "articles": [
     {
@@ -20,22 +20,6 @@
       ],
       "score": 13,
       "publishedAt": "2026-10-07T04:00:00.000Z"
-    },
-    {
-      "id": "9e03cbb0433f",
-      "title": "Reflection&#039;s Beam becomes the most capable open-weight model built outside China",
-      "summary": "Reflection has released Beam, its first open-weight model. The mixture-of-experts system activates just 23 billion of its 501 billion parameters per token and aims to match GLM 5.2 on coding and reasoning while using three to four times less compute. The strategy against Chinese open-weight rivals like Deepseek and Qwen is efficiency over raw performance. The article Reflection&#039;s Beam becomes",
-      "url": "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 12,
-      "publishedAt": "2026-10-06T12:11:22.000Z"
     },
     {
       "id": "77429f08965f",
@@ -69,6 +53,21 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
+      "id": "c40dbfa07b3b",
+      "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
+      "summary": "Article URL: https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/ Comments URL: https://news.ycombinator.com/item?id=49996713 Points: 7 # Comments: 0",
+      "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-07T18:19:03.000Z"
+    },
+    {
       "id": "af2adf7afb49",
       "title": "GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets",
       "summary": "arXiv:2610.06910v1 Announce Type: new Abstract: Recent advances in Large Language Models (LLMs) have demonstrated remarkable capabilities in web front-end execution, with browser-based game generation emerging as a particularly prominent frontier. While previous efforts frequently rely on complex multi-turn workflows or focus on static game evaluation benchmarks, this work targets direct end-to-en",
@@ -84,21 +83,6 @@
       "publishedAt": "2026-10-07T04:00:00.000Z"
     },
     {
-      "id": "d7335172e368",
-      "title": "Mistral Large 4 is Europe&#039;s trillion-parameter answer to US models that refuse security work",
-      "summary": "Mistral's Large 4 is the company's biggest model yet, with one trillion parameters trained on its own European infrastructure. In the independent Intelligence Index, the model makes a big leap forward but still falls well short of Claude, GPT-6, and Chinese competitors. Mistral's main pitch is cybersecurity work that closed US models refuse to do. The article Mistral Large 4 is Europe&#039;s trill",
-      "url": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 7,
-      "publishedAt": "2026-10-06T14:18:08.000Z"
-    },
-    {
       "id": "0afd034377a0",
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "summary": "",
@@ -112,6 +96,49 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "c18747f94f9d",
+      "title": "trycua / cua (Rust)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "url": "https://github.com/trycua/cua",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-07T18:43:22.000Z"
+    },
+    {
+      "id": "bea46417a6b3",
+      "title": "Ask HN: Which frontier model can do code security reviews",
+      "summary": "I can't complain about Opus 5.5, more than extracted my money's worth out of it but the final stages require pen-testing and Claude's masters stomp on it every time it tries to help do security reviews [cyber]. Ever so often it sneaks in a security fix. Even found a race condition in haproxy by mistake and Claude took it upon itself to find the crash string. That went horribly bad. Each time they ",
+      "url": "https://news.ycombinator.com/item?id=49996594",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-07T18:11:28.000Z"
+    },
+    {
+      "id": "516585d8432f",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-07T12:45:31.000Z"
     },
     {
       "id": "e690b0a41193",
@@ -187,20 +214,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-10-07T04:00:00.000Z"
-    },
-    {
-      "id": "e39e8582dbaf",
-      "title": "CATL and Tencent back Deepseek&#039;s ballooning funding round as the AI startup eyes a 2027 IPO",
-      "summary": "Deepseek is close to raising at least $12 billion in a new funding round, Bloomberg reports. The article CATL and Tencent back Deepseek&#039;s ballooning funding round as the AI startup eyes a 2027 IPO appeared first on The Decoder .",
-      "url": "https://the-decoder.com/catl-and-tencent-back-deepseeks-ballooning-funding-round-as-the-ai-startup-eyes-a-2027-ipo/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-06T10:50:18.000Z"
     },
     {
       "id": "1c7f791b566f",
@@ -301,22 +314,22 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-07T05:19:03.000Z"
+      "publishedAt": "2026-10-07T18:43:22.000Z"
     },
     {
-      "id": "44b7db68ab0b",
-      "title": "deepseek-ai / DeepGEMM (Cuda)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "9361c40d8e5b",
+      "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
+      "summary": "OpenAI's new Decisions API classifies text and images about ten times faster than the Responses API, returning yes/no probabilities, category picks, or scale ratings for $0.10 per million input tokens. The company also cut its paid API tiers from five to three. The article OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
+        "new_model",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-07T05:19:03.000Z"
+      "publishedAt": "2026-10-07T15:36:39.000Z"
     },
     {
       "id": "c9e53d010e18",
@@ -482,21 +495,6 @@
       "publishedAt": "2026-10-06T19:47:27.000Z"
     },
     {
-      "id": "614d8d0e6fdf",
-      "title": "Insurers brace for millions in claims as AI agents spin out of control",
-      "summary": "Insurers are bracing for millions in claims from rogue AI agents, and executives like OpenAI's Sam Altman and Anthropic's Dario Amodei could be personally on the hook for the fallout. The article Insurers brace for millions in claims as AI agents spin out of control appeared first on The Decoder .",
-      "url": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-06T16:06:46.000Z"
-    },
-    {
       "id": "c96bfd28b36f",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "summary": "",
@@ -525,6 +523,64 @@
       ],
       "score": 5,
       "publishedAt": "2026-06-23T00:00:00.000Z"
+    },
+    {
+      "id": "07566a6700b4",
+      "title": "manaflow-ai / cmux (Swift)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-07T18:43:22.000Z"
+    },
+    {
+      "id": "1425c8c63373",
+      "title": "A model guide for the GPT‑6 family",
+      "summary": "Article URL: https://openai.com/index/practical-guide-building-gpt-6/ Comments URL: https://news.ycombinator.com/item?id=49996847 Points: 1 # Comments: 0",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-07T18:26:36.000Z"
+    },
+    {
+      "id": "f0d4dd81af7b",
+      "title": "Google bets Gemini can turn casual players into game developers with new Playground feature",
+      "summary": "Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria. Alongside Playground, Google and Unity announced Unity Spark, a more professional AI tool with a beta planned for 2026. The article Google bets Gemini can turn casual players into game developers with n",
+      "url": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-07T14:44:42.000Z"
+    },
+    {
+      "id": "90550e6c24c6",
+      "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
+      "summary": "Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware analysis, and vulnerability research. Anthropic says partners in its predecessor program found at least 129,000 confirmed vulnerabilities from April through July 2026, including more than 33,000 rated high-severity or crit",
+      "url": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-07T12:05:20.000Z"
     },
     {
       "id": "846e4000e053",
@@ -829,68 +885,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-10-07T04:00:00.000Z"
-    },
-    {
-      "id": "53945794cfeb",
-      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-      "summary": "Article URL: https://github.com/nano-muse/nanoMuse Comments URL: https://news.ycombinator.com/item?id=49987765 Points: 2 # Comments: 0",
-      "url": "https://github.com/nano-muse/nanoMuse",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-07T03:30:44.000Z"
-    },
-    {
-      "id": "a8b8b8dc55a5",
-      "title": "Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "summary": "Article URL: https://allenai.org/blog/olmocore3 Comments URL: https://news.ycombinator.com/item?id=49987571 Points: 1 # Comments: 0",
-      "url": "https://allenai.org/blog/olmocore3",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-07T03:04:41.000Z"
-    },
-    {
-      "id": "f398e5f486d3",
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "summary": "Article URL: https://strandsagents.com/blog/introducing-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=49987076 Points: 87 # Comments: 13",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-07T02:02:11.000Z"
-    },
-    {
-      "id": "5ca472ba1468",
-      "title": "Quoting Anthropic Frontier Red Team",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-29T22:20:28.000Z"
     }
   ]
 }
