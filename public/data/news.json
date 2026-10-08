@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T18:43:27.448Z",
-  "nextUpdate": "2026-10-08T06:00:00.000Z",
+  "generatedAt": "2026-10-08T05:28:25.810Z",
+  "nextUpdate": "2026-10-08T17:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
   "totalCollected": 273,
@@ -19,7 +19,7 @@
         "industry"
       ],
       "score": 13,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "77429f08965f",
@@ -34,7 +34,7 @@
         "industry"
       ],
       "score": 10,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -53,19 +53,19 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
-      "id": "c40dbfa07b3b",
-      "title": "I'm not paying $20 for ChatGPT or Claude because a free local LLM does",
-      "summary": "Article URL: https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/ Comments URL: https://news.ycombinator.com/item?id=49996713 Points: 7 # Comments: 0",
-      "url": "https://www.xda-developers.com/im-not-paying-20-for-chatgpt-claude-or-gemini-because-a-free-local-llm-does-everything-i-need/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "e1d6340725d2",
+      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
+      "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task. The article Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over appeared first on Th",
+      "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
-        "new_model"
+        "new_model",
+        "industry"
       ],
-      "score": 7,
-      "publishedAt": "2026-10-07T18:19:03.000Z"
+      "score": 8,
+      "publishedAt": "2026-10-07T18:49:23.000Z"
     },
     {
       "id": "af2adf7afb49",
@@ -80,7 +80,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "0afd034377a0",
@@ -110,35 +110,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-07T18:43:22.000Z"
-    },
-    {
-      "id": "bea46417a6b3",
-      "title": "Ask HN: Which frontier model can do code security reviews",
-      "summary": "I can't complain about Opus 5.5, more than extracted my money's worth out of it but the final stages require pen-testing and Claude's masters stomp on it every time it tries to help do security reviews [cyber]. Ever so often it sneaks in a security fix. Even found a race condition in haproxy by mistake and Claude took it upon itself to find the crash string. That went horribly bad. Each time they ",
-      "url": "https://news.ycombinator.com/item?id=49996594",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-07T18:11:28.000Z"
-    },
-    {
-      "id": "516585d8432f",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-07T12:45:31.000Z"
+      "publishedAt": "2026-10-08T05:28:17.000Z"
     },
     {
       "id": "e690b0a41193",
@@ -153,7 +125,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "fcdb8b1bc4a9",
@@ -168,7 +140,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "c3d480de620c",
@@ -183,7 +155,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "2305c7bd0515",
@@ -198,7 +170,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "87ffd6ad6f37",
@@ -213,7 +185,35 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
+    },
+    {
+      "id": "e3dd0b835d2a",
+      "title": "Bold AI developer takes aim at Adobe with open source clones",
+      "summary": "Article URL: https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/ Comments URL: https://news.ycombinator.com/item?id=50000426 Points: 7 # Comments: 1",
+      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-08T00:06:10.000Z"
+    },
+    {
+      "id": "516585d8432f",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-07T12:45:31.000Z"
     },
     {
       "id": "1c7f791b566f",
@@ -314,7 +314,170 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-07T18:43:22.000Z"
+      "publishedAt": "2026-10-08T05:28:17.000Z"
+    },
+    {
+      "id": "c9e53d010e18",
+      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
+      "summary": "arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with typed tools, persistent state, and deterministic Hooks for approval, audit, checkpointing, recovery, and failure handling. ",
+      "url": "https://arxiv.org/abs/2610.06914",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-08T04:00:00.000Z"
+    },
+    {
+      "id": "a00ed8c85995",
+      "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
+      "summary": "arXiv:2610.06928v1 Announce Type: new Abstract: We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct referential evidence. We hypothesize a metonymic grounding mechanism in which abstract predictions are driven by concrete, interpretable anchor concepts (e.g., fire) that bridge visual signals to abstract semantics. By applying Transcoder",
+      "url": "https://arxiv.org/abs/2610.06928",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-08T04:00:00.000Z"
+    },
+    {
+      "id": "e26ff927d0dd",
+      "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
+      "summary": "arXiv:2610.06986v1 Announce Type: new Abstract: AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. However, existing systems typically optimize evaluator feedback without adequately governing how that feedback is interpreted, challenged, and reused. As a result, promising but fragile candidates can be promoted as discoveries, while benchmark i",
+      "url": "https://arxiv.org/abs/2610.06986",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-08T04:00:00.000Z"
+    },
+    {
+      "id": "b33653ca8ccc",
+      "title": "When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models",
+      "summary": "arXiv:2610.07018v1 Announce Type: new Abstract: Vision-language models (VLMs) have achieved strong performance in multimodal reasoning, yet they remain prone to generating plausible but incorrect answers. Self-verification offers a practical way to improve answer reliability without relying on external judges, but existing methods typically depend on a single verification criterion or fixed prompt",
+      "url": "https://arxiv.org/abs/2610.07018",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-08T04:00:00.000Z"
+    },
+    {
+      "id": "872ee9cb2d38",
+      "title": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
+      "summary": "arXiv:2610.07026v1 Announce Type: new Abstract: The Offline AI Modules workstream enables practical, low-power, and community-accessible deployment of voice-first AI systems that operate fully offline. Designed for African language communities where speech is the dominant mode of interaction and internet connectivity is unreliable or absent, the workstream delivers three reinforcing components: a ",
+      "url": "https://arxiv.org/abs/2610.07026",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-08T04:00:00.000Z"
+    },
+    {
+      "id": "db4303ef5c25",
+      "title": "Understanding and Mitigating Inference-Time Overreliance Using Agentic Memory",
+      "summary": "arXiv:2610.07311v1 Announce Type: new Abstract: Agentic memory allows LLM agents to reuse past experience, yet retrieved memories can also distort inference even when they are benign, correctly stored, and appropriately retrieved. We study this failure mode, which we call memory over-reliance. Across benchmarks and memory architectures, we find that memory is useful when past experience transfers ",
+      "url": "https://arxiv.org/abs/2610.07311",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-08T04:00:00.000Z"
+    },
+    {
+      "id": "7c1ea0e4f81d",
+      "title": "2d-fet-bench: from spatial reasoning to fet design on flakes",
+      "summary": "arXiv:2610.07423v1 Announce Type: new Abstract: Field-effect transistor (FET) layouts on exfoliated two-dimensional flakes are typically drawn by hand for each flake, placing contacts and gates to match its position and outline in optical micrographs. To our knowledge, no executable benchmark tests whether language-model agents can perform this flake-specific construction reliably. We introduce 2D",
+      "url": "https://arxiv.org/abs/2610.07423",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-08T04:00:00.000Z"
+    },
+    {
+      "id": "a8a549ac8dc1",
+      "title": "How Well Do LLMs Reason with Noisy Evidence? An Active Visual Reasoning Benchmark",
+      "summary": "arXiv:2610.07751v1 Announce Type: new Abstract: Real-world reasoning rarely reduces to static question answering: agents must actively gather information from tools and sensors that are often noisy and unreliable. Yet most existing active reasoning benchmarks assume that environmental feedback is trustworthy, or introduce noise without exposing an explicit, calibrated uncertainty signal, leaving o",
+      "url": "https://arxiv.org/abs/2610.07751",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-08T04:00:00.000Z"
+    },
+    {
+      "id": "85131052904e",
+      "title": "OOPMAS: Object-Oriented Multi-Agent Systems for Query-Level Workflow Generation",
+      "summary": "arXiv:2610.07787v1 Announce Type: new Abstract: Multi-agent systems (MAS) powered by large language models have shown strong performance across code generation, mathematical reasoning, and question answering. However, existing methods for automating MAS design mostly operate at the task level, producing a single fixed workflow per benchmark that is applied uniformly to all queries. This assumption",
+      "url": "https://arxiv.org/abs/2610.07787",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-08T04:00:00.000Z"
+    },
+    {
+      "id": "127645e828b2",
+      "title": "RA-MoWE: Workflow-Affinity Embeddings for Query Clustering and Agentic Workflow Generation",
+      "summary": "arXiv:2610.07851v1 Announce Type: new Abstract: Agentic workflows enable large language models (LLMs) to solve complex tasks by coordinating reasoning, tool use, and verification. However, a workflow optimized for an entire task collection can overlook differences in the reasoning strategies that individual queries need, while searching for a new workflow for every query repeats costly optimizatio",
+      "url": "https://arxiv.org/abs/2610.07851",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-08T04:00:00.000Z"
+    },
+    {
+      "id": "127b54a400fc",
+      "title": "Liquid AI releases Pareto-frontier, multimodal decision model for the edge",
+      "summary": "Article URL: https://www.liquid.ai/blog/d1-open Comments URL: https://news.ycombinator.com/item?id=50000785 Points: 1 # Comments: 0",
+      "url": "https://www.liquid.ai/blog/d1-open",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-08T01:01:06.000Z"
     },
     {
       "id": "9361c40d8e5b",
@@ -330,154 +493,6 @@
       ],
       "score": 5,
       "publishedAt": "2026-10-07T15:36:39.000Z"
-    },
-    {
-      "id": "c9e53d010e18",
-      "title": "Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain",
-      "summary": "arXiv:2610.06914v1 Announce Type: new Abstract: Text2Dashboard is a DataBrain-specific prototype that turns natural-language analytic requests into inspectable dashboards. An installable Codex plugin and standalone Agent Runtime combine schema-constrained model decisions with typed tools, persistent state, and deterministic Hooks for approval, audit, checkpointing, recovery, and failure handling. ",
-      "url": "https://arxiv.org/abs/2610.06914",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
-    },
-    {
-      "id": "a00ed8c85995",
-      "title": "Metonymic Circuits for Abstract Concept Grounding in Vision Transformers",
-      "summary": "arXiv:2610.06928v1 Announce Type: new Abstract: We study how Vision Transformers ground abstract concepts (e.g., angry) when training data provide limited direct referential evidence. We hypothesize a metonymic grounding mechanism in which abstract predictions are driven by concrete, interpretable anchor concepts (e.g., fire) that bridge visual signals to abstract semantics. By applying Transcoder",
-      "url": "https://arxiv.org/abs/2610.06928",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
-    },
-    {
-      "id": "e26ff927d0dd",
-      "title": "EPOCH: Reliable Discovery through Evidence-Governed Search",
-      "summary": "arXiv:2610.06986v1 Announce Type: new Abstract: AI research agents are increasingly used to search over programs, mathematical constructions, and proofs. However, existing systems typically optimize evaluator feedback without adequately governing how that feedback is interpreted, challenged, and reused. As a result, promising but fragile candidates can be promoted as discoveries, while benchmark i",
-      "url": "https://arxiv.org/abs/2610.06986",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
-    },
-    {
-      "id": "b33653ca8ccc",
-      "title": "When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models",
-      "summary": "arXiv:2610.07018v1 Announce Type: new Abstract: Vision-language models (VLMs) have achieved strong performance in multimodal reasoning, yet they remain prone to generating plausible but incorrect answers. Self-verification offers a practical way to improve answer reliability without relying on external judges, but existing methods typically depend on a single verification criterion or fixed prompt",
-      "url": "https://arxiv.org/abs/2610.07018",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
-    },
-    {
-      "id": "872ee9cb2d38",
-      "title": "Offline AI Modules: Voice-First Offline Architecture, Hardware Reference Stack, Quantization and Benchmarking",
-      "summary": "arXiv:2610.07026v1 Announce Type: new Abstract: The Offline AI Modules workstream enables practical, low-power, and community-accessible deployment of voice-first AI systems that operate fully offline. Designed for African language communities where speech is the dominant mode of interaction and internet connectivity is unreliable or absent, the workstream delivers three reinforcing components: a ",
-      "url": "https://arxiv.org/abs/2610.07026",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
-    },
-    {
-      "id": "db4303ef5c25",
-      "title": "Understanding and Mitigating Inference-Time Overreliance Using Agentic Memory",
-      "summary": "arXiv:2610.07311v1 Announce Type: new Abstract: Agentic memory allows LLM agents to reuse past experience, yet retrieved memories can also distort inference even when they are benign, correctly stored, and appropriately retrieved. We study this failure mode, which we call memory over-reliance. Across benchmarks and memory architectures, we find that memory is useful when past experience transfers ",
-      "url": "https://arxiv.org/abs/2610.07311",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
-    },
-    {
-      "id": "7c1ea0e4f81d",
-      "title": "2d-fet-bench: from spatial reasoning to fet design on flakes",
-      "summary": "arXiv:2610.07423v1 Announce Type: new Abstract: Field-effect transistor (FET) layouts on exfoliated two-dimensional flakes are typically drawn by hand for each flake, placing contacts and gates to match its position and outline in optical micrographs. To our knowledge, no executable benchmark tests whether language-model agents can perform this flake-specific construction reliably. We introduce 2D",
-      "url": "https://arxiv.org/abs/2610.07423",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
-    },
-    {
-      "id": "a8a549ac8dc1",
-      "title": "How Well Do LLMs Reason with Noisy Evidence? An Active Visual Reasoning Benchmark",
-      "summary": "arXiv:2610.07751v1 Announce Type: new Abstract: Real-world reasoning rarely reduces to static question answering: agents must actively gather information from tools and sensors that are often noisy and unreliable. Yet most existing active reasoning benchmarks assume that environmental feedback is trustworthy, or introduce noise without exposing an explicit, calibrated uncertainty signal, leaving o",
-      "url": "https://arxiv.org/abs/2610.07751",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
-    },
-    {
-      "id": "85131052904e",
-      "title": "OOPMAS: Object-Oriented Multi-Agent Systems for Query-Level Workflow Generation",
-      "summary": "arXiv:2610.07787v1 Announce Type: new Abstract: Multi-agent systems (MAS) powered by large language models have shown strong performance across code generation, mathematical reasoning, and question answering. However, existing methods for automating MAS design mostly operate at the task level, producing a single fixed workflow per benchmark that is applied uniformly to all queries. This assumption",
-      "url": "https://arxiv.org/abs/2610.07787",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
-    },
-    {
-      "id": "127645e828b2",
-      "title": "RA-MoWE: Workflow-Affinity Embeddings for Query Clustering and Agentic Workflow Generation",
-      "summary": "arXiv:2610.07851v1 Announce Type: new Abstract: Agentic workflows enable large language models (LLMs) to solve complex tasks by coordinating reasoning, tool use, and verification. However, a workflow optimized for an entire task collection can overlook differences in the reasoning strategies that individual queries need, while searching for a new workflow for every query repeats costly optimizatio",
-      "url": "https://arxiv.org/abs/2610.07851",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
     },
     {
       "id": "1eb0effbdfa0",
@@ -537,50 +552,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T18:43:22.000Z"
-    },
-    {
-      "id": "1425c8c63373",
-      "title": "A model guide for the GPT‑6 family",
-      "summary": "Article URL: https://openai.com/index/practical-guide-building-gpt-6/ Comments URL: https://news.ycombinator.com/item?id=49996847 Points: 1 # Comments: 0",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-07T18:26:36.000Z"
-    },
-    {
-      "id": "f0d4dd81af7b",
-      "title": "Google bets Gemini can turn casual players into game developers with new Playground feature",
-      "summary": "Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria. Alongside Playground, Google and Unity announced Unity Spark, a more professional AI tool with a beta planned for 2026. The article Google bets Gemini can turn casual players into game developers with n",
-      "url": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-07T14:44:42.000Z"
-    },
-    {
-      "id": "90550e6c24c6",
-      "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
-      "summary": "Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware analysis, and vulnerability research. Anthropic says partners in its predecessor program found at least 129,000 confirmed vulnerabilities from April through July 2026, including more than 33,000 rated high-severity or crit",
-      "url": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-07T12:05:20.000Z"
+      "publishedAt": "2026-10-08T05:28:17.000Z"
     },
     {
       "id": "846e4000e053",
@@ -594,7 +566,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "97c5f37bbbdb",
@@ -609,7 +581,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "0e3aa3c3263e",
@@ -624,7 +596,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "df3355b3e621",
@@ -638,7 +610,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "97ca0505f690",
@@ -652,7 +624,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "3a8d5911465b",
@@ -667,7 +639,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "da4be1b14e54",
@@ -681,7 +653,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "682732dbbf30",
@@ -695,7 +667,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "0e78fff4f509",
@@ -710,7 +682,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "4cc5a2c644a1",
@@ -725,7 +697,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "5a7e46232de3",
@@ -740,7 +712,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "bf0b0f23a7d0",
@@ -754,7 +726,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "a661737144c8",
@@ -769,7 +741,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "a6ae3aa2cbf2",
@@ -783,7 +755,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "0e0a9c4ccf4d",
@@ -797,7 +769,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "e0a16c7494e4",
@@ -811,7 +783,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "dec82ba56098",
@@ -825,12 +797,12 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "fa2fa52aea87",
       "title": "OTel: Open Telco AI Datasets, Benchmarks, and Models",
-      "summary": "arXiv:2610.07766v1 Announce Type: new Abstract: We present Open Telco (OTel), an open telecom AI resource that releases derived telecom datasets for retrieval, reranking, instruction tuning, and safety/abstention, together with 30 full-parameter post-trained baselines spanning 10 embedding models, 3 rerankers, and 17 language models. The community has already engaged substantially with the resourc",
+      "summary": "arXiv:2610.07766v2 Announce Type: new Abstract: We present Open Telco (OTel), an open telecom AI resource that releases derived telecom datasets for retrieval, reranking, instruction tuning, and safety/abstention, together with 30 full-parameter post-trained baselines spanning 10 embedding models, 3 rerankers, and 17 language models. The community has already engaged substantially with the resourc",
       "url": "https://arxiv.org/abs/2610.07766",
       "source": "arXiv cs.AI",
       "sourceId": "arxiv",
@@ -839,7 +811,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "8f375c199a76",
@@ -854,7 +826,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "f8e6b4da65fb",
@@ -869,7 +841,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
       "id": "7df8dc651a9c",
@@ -884,7 +856,37 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-07T04:00:00.000Z"
+      "publishedAt": "2026-10-08T04:00:00.000Z"
+    },
+    {
+      "id": "7e20159c7ebc",
+      "title": "NanoMuse: An Open-Source Personal Agent for Every Device You Own",
+      "summary": "Article URL: https://arxiv.org/abs/2610.08699 Comments URL: https://news.ycombinator.com/item?id=50000831 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2610.08699",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-08T01:08:58.000Z"
+    },
+    {
+      "id": "cedc3b255c75",
+      "title": "Someone Rebuilt Free, OSS Versions of Photoshop, Premiere, and Lightroom with AI",
+      "summary": "Article URL: https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50000753 Points: 3 # Comments: 2",
+      "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-08T00:56:21.000Z"
     }
   ]
 }
