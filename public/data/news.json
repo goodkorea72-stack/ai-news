@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T05:28:25.810Z",
-  "nextUpdate": "2026-10-08T17:00:00.000Z",
+  "generatedAt": "2026-10-08T18:41:42.283Z",
+  "nextUpdate": "2026-10-09T06:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 273,
+  "totalCollected": 249,
   "articleCount": 60,
   "articles": [
     {
@@ -65,7 +65,22 @@
         "industry"
       ],
       "score": 8,
-      "publishedAt": "2026-10-07T18:49:23.000Z"
+      "publishedAt": "2026-10-08T10:30:23.000Z"
+    },
+    {
+      "id": "f0921617e5bb",
+      "title": "anthropics / knowledge-work-plugins (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-08T18:41:39.000Z"
     },
     {
       "id": "af2adf7afb49",
@@ -98,19 +113,18 @@
       "publishedAt": "2026-08-26T00:00:00.000Z"
     },
     {
-      "id": "c18747f94f9d",
-      "title": "trycua / cua (Rust)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
-      "url": "https://github.com/trycua/cua",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "c8776af36698",
+      "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+      "summary": "According to CrowdStrike, a suspected Chinese-speaking attacker hacked multiple South Korean financial institutions. At Shinhan Bank alone, more than 25,000 customer records were stolen. The attacker used ARTEX, an open-source tool that uses AI models like DeepSeek and GLM-5.3 for automated penetration testing. CrowdStrike says the case shows how AI tools can let a single person pull off massive b",
+      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
-        "industry"
+        "open_source"
       ],
       "score": 6,
-      "publishedAt": "2026-10-08T05:28:17.000Z"
+      "publishedAt": "2026-10-08T09:24:17.000Z"
     },
     {
       "id": "e690b0a41193",
@@ -186,20 +200,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-10-08T04:00:00.000Z"
-    },
-    {
-      "id": "e3dd0b835d2a",
-      "title": "Bold AI developer takes aim at Adobe with open source clones",
-      "summary": "Article URL: https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/ Comments URL: https://news.ycombinator.com/item?id=50000426 Points: 7 # Comments: 1",
-      "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-08T00:06:10.000Z"
     },
     {
       "id": "516585d8432f",
@@ -314,7 +314,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-08T05:28:17.000Z"
+      "publishedAt": "2026-10-08T18:41:39.000Z"
     },
     {
       "id": "c9e53d010e18",
@@ -465,21 +465,6 @@
       "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
-      "id": "127b54a400fc",
-      "title": "Liquid AI releases Pareto-frontier, multimodal decision model for the edge",
-      "summary": "Article URL: https://www.liquid.ai/blog/d1-open Comments URL: https://news.ycombinator.com/item?id=50000785 Points: 1 # Comments: 0",
-      "url": "https://www.liquid.ai/blog/d1-open",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-08T01:01:06.000Z"
-    },
-    {
       "id": "9361c40d8e5b",
       "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
       "summary": "OpenAI's new Decisions API classifies text and images about ten times faster than the Responses API, returning yes/no probabilities, category picks, or scale ratings for $0.10 per million input tokens. The company also cut its paid API tiers from five to three. The article OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one appeared first on The Decoder .",
@@ -493,21 +478,6 @@
       ],
       "score": 5,
       "publishedAt": "2026-10-07T15:36:39.000Z"
-    },
-    {
-      "id": "1eb0effbdfa0",
-      "title": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
-      "summary": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its size, according to Google. Paired with a small open model like Gemma 4, it can run offline RAG apps without sending data to external servers. The article Google",
-      "url": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-06T19:47:27.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -540,19 +510,18 @@
       "publishedAt": "2026-06-23T00:00:00.000Z"
     },
     {
-      "id": "07566a6700b4",
-      "title": "manaflow-ai / cmux (Swift)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "4fa97b572021",
+      "title": "Teen&#039;s AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense",
+      "summary": "A 16-year-old planned his hiking route on Crown Mountain near Vancouver using Anthropic's Claude and had to be airlifted off a steep rock face. The chatbot had sent him down a route that requires climbing gear. Bryce doesn't blame the AI but says he'll never use it for route planning again. The article Teen&#039;s AI-guided mountain hike ends with a helicopter rescue and a lesson in common sense a",
+      "url": "https://the-decoder.com/teens-ai-guided-mountain-hike-ends-with-a-helicopter-rescue-and-a-lesson-in-common-sense/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
-        "industry"
+        "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-08T05:28:17.000Z"
+      "publishedAt": "2026-10-08T09:57:42.000Z"
     },
     {
       "id": "846e4000e053",
@@ -859,34 +828,67 @@
       "publishedAt": "2026-10-08T04:00:00.000Z"
     },
     {
-      "id": "7e20159c7ebc",
-      "title": "NanoMuse: An Open-Source Personal Agent for Every Device You Own",
-      "summary": "Article URL: https://arxiv.org/abs/2610.08699 Comments URL: https://news.ycombinator.com/item?id=50000831 Points: 1 # Comments: 0",
-      "url": "https://arxiv.org/abs/2610.08699",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "1cf499ca4ce6",
+      "title": "Claude Haiku 5.5",
+      "summary": "",
+      "url": {
+        "@_href": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+        "@_rel": "alternate"
+      },
+      "source": "Simon Willison",
+      "sourceId": "simonwillison",
+      "icon": "🧪",
       "category": [
-        "open_source",
-        "industry"
+        "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-08T01:08:58.000Z"
+      "publishedAt": "2026-10-07T20:56:21.000Z"
     },
     {
-      "id": "cedc3b255c75",
-      "title": "Someone Rebuilt Free, OSS Versions of Photoshop, Premiere, and Lightroom with AI",
-      "summary": "Article URL: https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50000753 Points: 3 # Comments: 2",
-      "url": "https://petapixel.com/2026/10/07/someone-rebuilt-free-open-source-versions-of-photoshop-premiere-and-lightroom-using-ai/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "79731117e5a4",
+      "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
+      "summary": "OpenAI is rolling out GPT-6 with \"Intelligent UI,\" a feature that turns answers into interactive interfaces with charts, buttons, and forms. The model can now respond while still thinking, cutting wait times by 44 percent. Paying customers get GPT-6 Sol, free users get GPT-6 Luna. The article ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps appea",
+      "url": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-07T19:06:40.000Z"
+    },
+    {
+      "id": "5ca472ba1468",
+      "title": "Quoting Anthropic Frontier Red Team",
+      "summary": "",
+      "url": {
+        "@_href": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+        "@_rel": "alternate"
+      },
+      "source": "Simon Willison",
+      "sourceId": "simonwillison",
+      "icon": "🧪",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-29T22:20:28.000Z"
+    },
+    {
+      "id": "d5e9b9a87420",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "summary": "",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
       "category": [
         "open_source",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-08T00:56:21.000Z"
+      "publishedAt": "2026-09-01T00:00:00.000Z"
     }
   ]
 }
