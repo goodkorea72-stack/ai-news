@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-10-09T05:32:09.344Z",
-  "nextUpdate": "2026-10-09T17:00:00.000Z",
+  "generatedAt": "2026-10-09T18:12:20.374Z",
+  "nextUpdate": "2026-10-10T06:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 249,
+  "totalCollected": 250,
   "articleCount": 60,
   "articles": [
+    {
+      "id": "c481a094b51a",
+      "title": "BerriAI / litellm (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "url": "https://github.com/BerriAI/litellm",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 10,
+      "publishedAt": "2026-10-09T18:12:20.000Z"
+    },
     {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
@@ -68,21 +84,6 @@
       "publishedAt": "2026-10-09T04:00:00.000Z"
     },
     {
-      "id": "e1d6340725d2",
-      "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
-      "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task. The article Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over appeared first on Th",
-      "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 8,
-      "publishedAt": "2026-10-08T10:30:23.000Z"
-    },
-    {
       "id": "f0921617e5bb",
       "title": "anthropics / knowledge-work-plugins (Python)",
       "summary": "GitHub 인기 오픈소스 프로젝트: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
@@ -95,7 +96,7 @@
         "new_model"
       ],
       "score": 7,
-      "publishedAt": "2026-10-09T05:32:00.000Z"
+      "publishedAt": "2026-10-09T18:12:20.000Z"
     },
     {
       "id": "ff428610bf71",
@@ -172,6 +173,37 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "f5a8d666a62b",
+      "title": "Anthropic launches a free AI scanner for open-source projects",
+      "summary": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for vulnerabilities with an expected accuracy above 90 percent. The article Anthropic launches a free AI sca",
+      "url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-09T17:54:44.000Z"
+    },
+    {
+      "id": "45a09f07805e",
+      "title": "Anthropic&#039;s Claude Science creates the first complete ultraviolet map of the sky",
+      "summary": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inpainting. Predictions averaged about ten percent deviation from actual measurements. Ménard sees the project as an example of research that simply woul",
+      "url": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-09T09:22:25.000Z"
     },
     {
       "id": "5fd0994a572e",
@@ -265,20 +297,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "id": "c8776af36698",
-      "title": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-      "summary": "According to CrowdStrike, a suspected Chinese-speaking attacker hacked multiple South Korean financial institutions. At Shinhan Bank alone, more than 25,000 customer records were stolen. The attacker used ARTEX, an open-source tool that uses AI models like DeepSeek and GLM-5.3 for automated penetration testing. CrowdStrike says the case shows how AI tools can let a single person pull off massive b",
-      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-08T09:24:17.000Z"
     },
     {
       "id": "516585d8432f",
@@ -381,10 +399,10 @@
       "publishedAt": "2026-06-24T16:00:13.000Z"
     },
     {
-      "id": "3f435e6004f6",
-      "title": "thedotmack / claude-mem (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "url": "https://github.com/thedotmack/claude-mem",
+      "id": "8586835aa6c8",
+      "title": "alibaba / open-code-review (Go)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "url": "https://github.com/alibaba/open-code-review",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -393,7 +411,22 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-09T05:32:00.000Z"
+      "publishedAt": "2026-10-09T18:12:20.000Z"
+    },
+    {
+      "id": "8b025890df4a",
+      "title": "OpenAI&#039;s safety crisis keeps getting worse and the company keeps making it worse",
+      "summary": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture. OpenAI claims they violated policies but won't say how. The article OpenAI&#039;s safety crisis keeps getting worse and the company keeps making it worse appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-09T11:45:04.000Z"
     },
     {
       "id": "5242ed24ecf7",
@@ -860,35 +893,6 @@
       "icon": "📄",
       "category": [
         "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "id": "1c9bff6c349b",
-      "title": "When Should Agents Think? Adaptive Reasoning via Cross-Turn Estimation",
-      "summary": "arXiv:2610.12061v1 Announce Type: new Abstract: Large language model (LLM)-based agents have demonstrated strong capabilities on complex tasks. They typically perform reasoning before each action throughout an interaction trajectory. However, reasoning may not be necessary at every turn, as reasoning produced earlier can continue to support subsequent actions. A key challenge is therefore to deter",
-      "url": "https://arxiv.org/abs/2610.12061",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "id": "b3c375310423",
-      "title": "Is Memorization Context-Sensitive? Prefix-Based Extraction Beyond Isolated Prefixes",
-      "summary": "arXiv:2610.12085v1 Announce Type: new Abstract: Large language models (LLMs) can expose memorized training sequences under prefix-based extraction: given a prefix from a training example, the model may assign high probability to the original continuation. In deployed systems, however, prefixes are rarely evaluated in isolation. They often appear together with instructions, retrieved documents, or ",
-      "url": "https://arxiv.org/abs/2610.12085",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
         "industry"
       ],
       "score": 4,
