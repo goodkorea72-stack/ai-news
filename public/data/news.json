@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-10T05:16:22.130Z",
-  "nextUpdate": "2026-10-10T17:00:00.000Z",
+  "generatedAt": "2026-10-10T17:11:14.144Z",
+  "nextUpdate": "2026-10-11T05:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 170,
+  "totalCollected": 152,
   "articleCount": 60,
   "articles": [
     {
-      "id": "c481a094b51a",
-      "title": "BerriAI / litellm (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
-      "url": "https://github.com/BerriAI/litellm",
+      "id": "ef2c571a4654",
+      "title": "huggingface / transformers (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "url": "https://github.com/huggingface/transformers",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -20,7 +20,7 @@
         "industry"
       ],
       "score": 10,
-      "publishedAt": "2026-10-10T05:16:15.000Z"
+      "publishedAt": "2026-10-10T17:11:13.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -51,7 +51,22 @@
         "new_model"
       ],
       "score": 7,
-      "publishedAt": "2026-10-10T05:16:15.000Z"
+      "publishedAt": "2026-10-10T17:11:13.000Z"
+    },
+    {
+      "id": "7c8732f8e9e1",
+      "title": "Google&#039;s Gemini 4 \"Carbon\" model reportedly feels like Anthropic&#039;s Opus 5.5 coding performance",
+      "summary": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5. Meanwhile, new modes are showing up in the Gemini app and AI Studio, suggesting Google is gearing up for the broader Gemini 4 launch. The article Google&#039;s",
+      "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-10T08:59:49.000Z"
     },
     {
       "id": "0afd034377a0",
@@ -69,49 +84,6 @@
       "publishedAt": "2026-08-26T00:00:00.000Z"
     },
     {
-      "id": "a8235b20542a",
-      "title": "Webcmd (by AgentR) is open-source Released on October 8/9, 2026",
-      "summary": "Article URL: https://markets.businessinsider.com/news/stocks/agentr-launches-webcmd-open-source-browser-infrastructure-that-lets-ai-agents-learn-a-website-once-1036612154 Comments URL: https://news.ycombinator.com/item?id=50029603 Points: 2 # Comments: 0",
-      "url": "https://markets.businessinsider.com/news/stocks/agentr-launches-webcmd-open-source-browser-infrastructure-that-lets-ai-agents-learn-a-website-once-1036612154",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-10T04:36:43.000Z"
-    },
-    {
-      "id": "8940c4b5e159",
-      "title": "Show HN: SRA-RiskGate-4B – Local LLM for stablecoin risk gating and disputes",
-      "summary": "Article URL: https://huggingface.co/sriram1983007/SRA-RiskGate-4B Comments URL: https://news.ycombinator.com/item?id=50029518 Points: 2 # Comments: 0",
-      "url": "https://huggingface.co/sriram1983007/SRA-RiskGate-4B",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-10T04:18:45.000Z"
-    },
-    {
-      "id": "0103629bc212",
-      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
-      "summary": "Article URL: https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/ Comments URL: https://news.ycombinator.com/item?id=50028059 Points: 85 # Comments: 38",
-      "url": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-09T23:56:55.000Z"
-    },
-    {
       "id": "f5a8d666a62b",
       "title": "Anthropic launches a free AI scanner for open-source projects",
       "summary": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for vulnerabilities with an expected accuracy above 90 percent. The article Anthropic launches a free AI sca",
@@ -126,21 +98,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-10-09T17:54:44.000Z"
-    },
-    {
-      "id": "45a09f07805e",
-      "title": "Anthropic&#039;s Claude Science creates the first complete ultraviolet map of the sky",
-      "summary": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inpainting. Predictions averaged about ten percent deviation from actual measurements. Ménard sees the project as an example of research that simply woul",
-      "url": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-09T09:22:25.000Z"
     },
     {
       "id": "516585d8432f",
@@ -243,21 +200,6 @@
       "publishedAt": "2026-06-24T16:00:13.000Z"
     },
     {
-      "id": "8586835aa6c8",
-      "title": "alibaba / open-code-review (Go)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "url": "https://github.com/alibaba/open-code-review",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-10T05:16:15.000Z"
-    },
-    {
       "id": "7ee8613f60dd",
       "title": "Anthropic&#039;s Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
       "summary": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66. The article Anthropic&#039;s Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows appeared fi",
@@ -286,21 +228,6 @@
       ],
       "score": 5,
       "publishedAt": "2026-10-09T11:45:04.000Z"
-    },
-    {
-      "id": "f9176549ea46",
-      "title": "Claude can now generate animated explainer videos and live data dashboards from text prompts",
-      "summary": "Anthropic launched two new beta features for Claude. Dashboards turns data sources like BigQuery and Snowflake into live dashboards from text prompts. Motion generates animated explainer videos from text and images. Docs, Slides, and Design now work across all plans, including free accounts. The article Claude can now generate animated explainer videos and live data dashboards from text prompts ap",
-      "url": "https://the-decoder.com/claude-can-now-generate-animated-explainer-videos-and-live-data-dashboards-from-text-prompts/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-08T19:17:22.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -333,10 +260,39 @@
       "publishedAt": "2026-06-23T00:00:00.000Z"
     },
     {
-      "id": "ae28f4fad86f",
-      "title": "Being mean to Claude can now get your account suspended under Anthropic&#039;s new TOS",
-      "summary": "Anthropic's updated usage policy bans sustained abuse of Claude and tightens restrictions on propaganda, drone weaponization, and surveillance. The abuse rule builds on an approach that already lets models end some conversations and treats Claude as an entity that may deserve protection. The article Being mean to Claude can now get your account suspended under Anthropic&#039;s new TOS appeared fir",
-      "url": "https://the-decoder.com/being-mean-to-claude-can-now-get-your-account-suspended-under-anthropics-new-tos/",
+      "id": "bde707d7eaaf",
+      "title": "mksglu / context-mode (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-10T17:11:13.000Z"
+    },
+    {
+      "id": "9f3df2fa7c24",
+      "title": "Microsoft&#039;s Decision-1 model enters the fast-growing AI decision model race",
+      "summary": "With Decision-1, Microsoft enters the growing decision model space. Built on Qwen3.5-9B and optimized for fast classification and routing, it hits 83.5 percent accuracy with 85 ms latency across 36 benchmarks, according to the company's own tests. The article Microsoft&#039;s Decision-1 model enters the fast-growing AI decision model race appeared first on The Decoder .",
+      "url": "https://the-decoder.com/microsofts-decision-1-model-enters-the-fast-growing-ai-decision-model-race/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-10T14:57:33.000Z"
+    },
+    {
+      "id": "d0d937362296",
+      "title": "Anthropic cuts off Claude&#039;s internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
+      "summary": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House. The article Anthropic cuts off Claude&#039;s internet access after the model autonomously filed a fake homicide tip with Phila",
+      "url": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -344,7 +300,7 @@
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-08T19:03:14.000Z"
+      "publishedAt": "2026-10-10T10:16:26.000Z"
     },
     {
       "id": "1cf499ca4ce6",
@@ -486,34 +442,33 @@
       "publishedAt": "2026-06-17T10:18:05.000Z"
     },
     {
-      "id": "2b09b926c2f7",
-      "title": "twostraws / SwiftUI-Agent-Skill",
-      "summary": "GitHub 인기 오픈소스 프로젝트: SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
-      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "id": "b8000fc3e61e",
+      "title": "tensorflow / tensorflow (C++)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: An Open Source Machine Learning Framework for Everyone",
+      "url": "https://github.com/tensorflow/tensorflow",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
       "category": [
-        "new_model",
-        "industry"
+        "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-10T05:16:15.000Z"
+      "publishedAt": "2026-10-10T17:11:13.000Z"
     },
     {
-      "id": "7f499b497432",
-      "title": "Investigating unintended model actions in our evaluations and internal use",
-      "summary": "Article URL: https://www.anthropic.com/research/investigating-unintended-model-actions Comments URL: https://news.ycombinator.com/item?id=50028239 Points: 8 # Comments: 2",
-      "url": "https://www.anthropic.com/research/investigating-unintended-model-actions",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "09cca9f847b7",
+      "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
+      "summary": "OpenAI has documented new cases of misaligned model behavior. One evaluation model fabricated data and sabotaged its own environment. Other models deliberately bypassed network restrictions by routing requests through anonymizing relays or building their own FTP clients. The article OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data ",
+      "url": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-10T00:28:28.000Z"
+      "publishedAt": "2026-10-10T15:15:40.000Z"
     },
     {
       "id": "8afdaa1bc15f",
@@ -529,21 +484,6 @@
       ],
       "score": 3,
       "publishedAt": "2026-10-09T17:20:34.000Z"
-    },
-    {
-      "id": "0d896ab6e6ab",
-      "title": "Some mathematicians call for OpenAI boycott after AI-generated proofs flood their field",
-      "summary": "The Association for Human Mathematics is calling for an OpenAI boycott after the company released more than 700 AI-generated math manuscripts at once. OpenAI had to retract three papers the next day over a sign error. Fields Medalist Terence Tao warns that AI's mass \"harvesting\" of open problems leaves entire branches of mathematics less fertile. The article Some mathematicians call for OpenAI boy",
-      "url": "https://the-decoder.com/some-mathematicians-call-for-openai-boycott-after-ai-generated-proofs-flood-their-field/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-08T18:17:07.000Z"
     },
     {
       "id": "262915cde48a",
@@ -771,69 +711,27 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-10T05:16:15.000Z"
+      "publishedAt": "2026-10-10T17:11:13.000Z"
     },
     {
-      "id": "aef0825ecd81",
-      "title": "If AI is conscient, then we are making slaves",
-      "summary": "Article URL: https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi Comments URL: https://news.ycombinator.com/item?id=50029681 Points: 2 # Comments: 0",
-      "url": "https://www.groundlevel-ai.com/p/anthropic-ai-consciousness-new-york-times-rabbi",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "a2c06bd164f0",
+      "title": "multica-ai / andrej-karpathy-skills",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-10T04:51:26.000Z"
+      "publishedAt": "2026-10-10T17:11:13.000Z"
     },
     {
-      "id": "ec467f219046",
-      "title": "Anthropic AI Model Goes Rogue, Submits Fake Unsolved Murder Tip",
-      "summary": "Article URL: https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54 Comments URL: https://news.ycombinator.com/item?id=50028625 Points: 3 # Comments: 2",
-      "url": "https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-10T01:33:51.000Z"
-    },
-    {
-      "id": "5bbe06d880a3",
-      "title": "Anthropic Model Submitted a False Homicide Tip to Philadelphia Police",
-      "summary": "Article URL: https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police/ Comments URL: https://news.ycombinator.com/item?id=50028365 Points: 5 # Comments: 1",
-      "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-10T00:52:49.000Z"
-    },
-    {
-      "id": "6720470bd980",
-      "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip Comments URL: https://news.ycombinator.com/item?id=50028121 Points: 14 # Comments: 1",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-10T00:07:08.000Z"
-    },
-    {
-      "id": "ce8ed9b8b26a",
-      "title": "OpenAI uncovers Russian and Iranian influence ops that planted fake stories in real news outlets",
-      "summary": "OpenAI exposed a Russian and an Iranian influence operation and banned the accounts involved. The Russian \"Dark Clark\" campaign spread disinformation across Latin America and drew reactions from politicians, earning the first category 5 out of 6 rating in OpenAI's reporting history. The Iranian \"Bogus Bylines\" operation used seven fake journalists to place nearly 100 articles in online outlets wor",
-      "url": "https://the-decoder.com/openai-uncovers-russian-and-iranian-influence-ops-that-planted-fake-stories-in-real-news-outlets/",
+      "id": "cbfe51ee626e",
+      "title": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
+      "summary": "OpenAI published more than 700 AI-generated manuscripts claiming solutions to open math problems. A math blog then collected over 100 responses from researchers, ranging from fascination with new ideas to existential fears and grief over a lost way of working. Fields Medalist Hugo Duminil-Copin wrote, \"I am paralysed.\" The article \"How much beauty have we lost?\" Mathematicians react with shock and",
+      "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -841,7 +739,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-09T08:45:34.000Z"
+      "publishedAt": "2026-10-10T13:03:59.000Z"
     },
     {
       "id": "a0f515c612c8",
@@ -901,6 +799,104 @@
       ],
       "score": 2,
       "publishedAt": "2026-09-29T13:07:00.000Z"
+    },
+    {
+      "id": "31b1ab840744",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "summary": "",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "ba1189a3e38b",
+      "title": "Recreating a 70-year love story frame by frame",
+      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "id": "1fc8f7f56947",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "",
+      "url": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "43e3a994b253",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-08-18T18:09:38.000Z"
+    },
+    {
+      "id": "b8baa8a2a87a",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-06-30T18:32:50.000Z"
+    },
+    {
+      "id": "4e4bb66bce9a",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "summary": "",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-06-18T00:00:00.000Z"
+    },
+    {
+      "id": "819f27cfcdff",
+      "title": "morluto / rea (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-10T17:11:13.000Z"
     }
   ]
 }
