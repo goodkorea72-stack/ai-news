@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-10T17:11:14.144Z",
-  "nextUpdate": "2026-10-11T05:00:00.000Z",
+  "generatedAt": "2026-10-11T05:06:41.947Z",
+  "nextUpdate": "2026-10-11T17:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 152,
+  "totalCollected": 172,
   "articleCount": 60,
   "articles": [
     {
@@ -20,7 +20,7 @@
         "industry"
       ],
       "score": 10,
-      "publishedAt": "2026-10-10T17:11:13.000Z"
+      "publishedAt": "2026-10-11T05:06:41.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -51,7 +51,7 @@
         "new_model"
       ],
       "score": 7,
-      "publishedAt": "2026-10-10T17:11:13.000Z"
+      "publishedAt": "2026-10-11T05:06:41.000Z"
     },
     {
       "id": "7c8732f8e9e1",
@@ -271,7 +271,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-10T17:11:13.000Z"
+      "publishedAt": "2026-10-11T05:06:41.000Z"
     },
     {
       "id": "9f3df2fa7c24",
@@ -318,23 +318,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-10-07T20:56:21.000Z"
-    },
-    {
-      "id": "5ca472ba1468",
-      "title": "Quoting Anthropic Frontier Red Team",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-29T22:20:28.000Z"
     },
     {
       "id": "d5e9b9a87420",
@@ -453,7 +436,65 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-10T17:11:13.000Z"
+      "publishedAt": "2026-10-11T05:06:41.000Z"
+    },
+    {
+      "id": "9906233a043f",
+      "title": "AI Layer – Claude Code Plugins with DuckDB Memory and CI Workflows",
+      "summary": "Article URL: https://gitlab.com/kriscodes2-claude-plugins/ai-layer Comments URL: https://news.ycombinator.com/item?id=50039548 Points: 1 # Comments: 0",
+      "url": "https://gitlab.com/kriscodes2-claude-plugins/ai-layer",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-11T03:23:53.000Z"
+    },
+    {
+      "id": "d8dc0aecc56d",
+      "title": "Ask HN: Best Local LLM Box ?",
+      "summary": "What are people using for local AI setups? This is for my startup usecase where lower intelligence, cleanups, routine tasks, logs/summaries type LLM usage I can see that catching up to use in cost in the next year or so. I am really considering buying a AMD strix Halo or something similiar wanted to understand what people have thought of it and where it falls short? Comments URL: https://news.ycom",
+      "url": "https://news.ycombinator.com/item?id=50039529",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-11T03:19:32.000Z"
+    },
+    {
+      "id": "a0accce92da5",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "summary": "Article URL: https://www.bbc.com/news/articles/cqkg50j1yd5lo Comments URL: https://news.ycombinator.com/item?id=50039318 Points: 5 # Comments: 4",
+      "url": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-11T02:41:19.000Z"
+    },
+    {
+      "id": "3a00c312e2fa",
+      "title": "Show HN: Free LED pixel-pitch and display-size calculators (open source)",
+      "summary": "Article URL: https://boardsy.co.uk/free-exhibition-display-tools/ Comments URL: https://news.ycombinator.com/item?id=50038499 Points: 5 # Comments: 1",
+      "url": "https://boardsy.co.uk/free-exhibition-display-tools/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-11T00:26:53.000Z"
     },
     {
       "id": "09cca9f847b7",
@@ -702,7 +743,7 @@
     {
       "id": "1a2dbb8036c8",
       "title": "cathrynlavery / diagram-design (HTML)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
@@ -711,7 +752,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-10T17:11:13.000Z"
+      "publishedAt": "2026-10-11T05:06:41.000Z"
     },
     {
       "id": "a2c06bd164f0",
@@ -725,7 +766,49 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-10T17:11:13.000Z"
+      "publishedAt": "2026-10-11T05:06:41.000Z"
+    },
+    {
+      "id": "6022dc0905f7",
+      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+      "summary": "Article URL: https://github.com/vscarpenter/gsd-task-manager Comments URL: https://news.ycombinator.com/item?id=50039633 Points: 6 # Comments: 3",
+      "url": "https://github.com/vscarpenter/gsd-task-manager",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-10-11T03:42:56.000Z"
+    },
+    {
+      "id": "bd609ff13ba2",
+      "title": "Long-term memory for AI coding agents as a tree of plain files",
+      "summary": "Article URL: https://github.com/gonzaroman/IHMT-MEMORY Comments URL: https://news.ycombinator.com/item?id=50038733 Points: 4 # Comments: 0",
+      "url": "https://github.com/gonzaroman/IHMT-MEMORY",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-10-11T01:02:14.000Z"
+    },
+    {
+      "id": "8c796089cb0b",
+      "title": "LLM Pareto Frontier over time [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=I01v36VIrno Comments URL: https://news.ycombinator.com/item?id=50038599 Points: 5 # Comments: 1",
+      "url": "https://www.youtube.com/watch?v=I01v36VIrno",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-10-11T00:41:24.000Z"
     },
     {
       "id": "cbfe51ee626e",
@@ -813,90 +896,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "ba1189a3e38b",
-      "title": "Recreating a 70-year love story frame by frame",
-      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-09T16:00:00.000Z"
-    },
-    {
-      "id": "1fc8f7f56947",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "summary": "",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "43e3a994b253",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-08-18T18:09:38.000Z"
-    },
-    {
-      "id": "b8baa8a2a87a",
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-06-30T18:32:50.000Z"
-    },
-    {
-      "id": "4e4bb66bce9a",
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "summary": "",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-06-18T00:00:00.000Z"
-    },
-    {
-      "id": "819f27cfcdff",
-      "title": "morluto / rea (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "url": "https://github.com/morluto/rea",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-10T17:11:13.000Z"
     }
   ]
 }
