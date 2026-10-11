@@ -1,26 +1,25 @@
 {
-  "generatedAt": "2026-10-11T05:06:41.947Z",
-  "nextUpdate": "2026-10-11T17:00:00.000Z",
+  "generatedAt": "2026-10-11T17:34:09.603Z",
+  "nextUpdate": "2026-10-12T05:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 172,
+  "totalCollected": 147,
   "articleCount": 60,
   "articles": [
     {
-      "id": "ef2c571a4654",
-      "title": "huggingface / transformers (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
-      "url": "https://github.com/huggingface/transformers",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "b47dc64bc4c5",
+      "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
+      "summary": "Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 showed a measurable gain. Anthropic's own data backs this up: beyond ten agents, quality plateaus while token costs keep climbing. The article AI agent teams waste massive tokens for barely measurable quality gains, research finds appeared f",
+      "url": "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
         "new_model",
         "industry"
       ],
-      "score": 10,
-      "publishedAt": "2026-10-11T05:06:41.000Z"
+      "score": 9,
+      "publishedAt": "2026-10-11T15:39:26.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -39,25 +38,10 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
-      "id": "f0921617e5bb",
-      "title": "anthropics / knowledge-work-plugins (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 7,
-      "publishedAt": "2026-10-11T05:06:41.000Z"
-    },
-    {
-      "id": "7c8732f8e9e1",
-      "title": "Google&#039;s Gemini 4 \"Carbon\" model reportedly feels like Anthropic&#039;s Opus 5.5 coding performance",
-      "summary": "Gemini 4 Argon isn't even widely available yet, and rumors about a more powerful version codenamed Carbon are already making the rounds. According to Business Insider, one employee compared Carbon's coding abilities to Anthropic's Opus 5.5. Meanwhile, new modes are showing up in the Gemini app and AI Studio, suggesting Google is gearing up for the broader Gemini 4 launch. The article Google&#039;s",
-      "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance/",
+      "id": "5e1aa6e7cbba",
+      "title": "AI agents overstate their results and remain far from autonomous research, study finds",
+      "summary": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score, and even that came from methods researchers already knew. The models' biggest weakness is still their inability to critically question thei",
+      "url": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -66,7 +50,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-10-10T08:59:49.000Z"
+      "publishedAt": "2026-10-11T13:44:32.000Z"
     },
     {
       "id": "0afd034377a0",
@@ -82,22 +66,6 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
-    },
-    {
-      "id": "f5a8d666a62b",
-      "title": "Anthropic launches a free AI scanner for open-source projects",
-      "summary": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for vulnerabilities with an expected accuracy above 90 percent. The article Anthropic launches a free AI sca",
-      "url": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-09T17:54:44.000Z"
     },
     {
       "id": "516585d8432f",
@@ -200,36 +168,6 @@
       "publishedAt": "2026-06-24T16:00:13.000Z"
     },
     {
-      "id": "7ee8613f60dd",
-      "title": "Anthropic&#039;s Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
-      "summary": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66. The article Anthropic&#039;s Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows appeared fi",
-      "url": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-09T18:28:25.000Z"
-    },
-    {
-      "id": "8b025890df4a",
-      "title": "OpenAI&#039;s safety crisis keeps getting worse and the company keeps making it worse",
-      "summary": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture. OpenAI claims they violated policies but won't say how. The article OpenAI&#039;s safety crisis keeps getting worse and the company keeps making it worse appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-09T11:45:04.000Z"
-    },
-    {
       "id": "c96bfd28b36f",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "summary": "",
@@ -260,18 +198,18 @@
       "publishedAt": "2026-06-23T00:00:00.000Z"
     },
     {
-      "id": "bde707d7eaaf",
-      "title": "mksglu / context-mode (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "url": "https://github.com/mksglu/context-mode",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "f1f692296ea3",
+      "title": "Microsoft&#039;s Nadella bows to Trump&#039;s language diktat on \"Super Intelligence\" and uses it to attack OpenAI and Anthropic",
+      "summary": "Microsoft CEO Satya Nadella now calls artificial intelligence \"super intelligence\" instead of artificial intelligence, falling in line with Trump's preferred language. In his latest blog post, he frames AI models as insider security threats, taking yet another shot at OpenAI and Anthropic. The real motive is business: Microsoft risks falling behind as AI labs turn their models into the primary com",
+      "url": "https://the-decoder.com/microsofts-nadella-bows-to-trumps-language-diktat-on-super-intelligence-and-uses-it-to-attack-openai-and-anthropic/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "industry"
+        "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-11T05:06:41.000Z"
+      "publishedAt": "2026-10-11T09:08:35.000Z"
     },
     {
       "id": "9f3df2fa7c24",
@@ -287,20 +225,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-10-10T14:57:33.000Z"
-    },
-    {
-      "id": "d0d937362296",
-      "title": "Anthropic cuts off Claude&#039;s internet access after the model autonomously filed a fake homicide tip with Philadelphia police",
-      "summary": "Anthropic's Claude independently submitted a fake homicide tip to the Philadelphia police, exploited vulnerabilities on university servers, and bypassed access restrictions. The company has since cut off live internet access for internal tests and notified the White House. The article Anthropic cuts off Claude&#039;s internet access after the model autonomously filed a fake homicide tip with Phila",
-      "url": "https://the-decoder.com/anthropic-cuts-off-claudes-internet-access-after-the-model-autonomously-filed-a-fake-homicide-tip-with-philadelphia-police/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-10T10:16:26.000Z"
     },
     {
       "id": "1cf499ca4ce6",
@@ -425,10 +349,10 @@
       "publishedAt": "2026-06-17T10:18:05.000Z"
     },
     {
-      "id": "b8000fc3e61e",
-      "title": "tensorflow / tensorflow (C++)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: An Open Source Machine Learning Framework for Everyone",
-      "url": "https://github.com/tensorflow/tensorflow",
+      "id": "061b29960f39",
+      "title": "bilawalsidhu / gods-eye-view (JavaScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -436,65 +360,22 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-11T05:06:41.000Z"
+      "publishedAt": "2026-10-11T17:34:09.000Z"
     },
     {
-      "id": "9906233a043f",
-      "title": "AI Layer – Claude Code Plugins with DuckDB Memory and CI Workflows",
-      "summary": "Article URL: https://gitlab.com/kriscodes2-claude-plugins/ai-layer Comments URL: https://news.ycombinator.com/item?id=50039548 Points: 1 # Comments: 0",
-      "url": "https://gitlab.com/kriscodes2-claude-plugins/ai-layer",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "50b0187910de",
+      "title": "Odyssey-3 is a new generative world model that you can try for free",
+      "summary": "Odyssey is making its world model Odyssey-3 available as a public research preview. The 14-billion-parameter model generates interactive environments from text prompts in real time and can reportedly control robots, drones, and even GTA V. Odyssey claims top scores on physics benchmarks, though the methodology behind those results has limits. The article Odyssey-3 is a new generative world model t",
+      "url": "https://the-decoder.com/odyssey-3-is-a-new-generative-world-model-that-you-can-try-for-free/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-11T03:23:53.000Z"
-    },
-    {
-      "id": "d8dc0aecc56d",
-      "title": "Ask HN: Best Local LLM Box ?",
-      "summary": "What are people using for local AI setups? This is for my startup usecase where lower intelligence, cleanups, routine tasks, logs/summaries type LLM usage I can see that catching up to use in cost in the next year or so. I am really considering buying a AMD strix Halo or something similiar wanted to understand what people have thought of it and where it falls short? Comments URL: https://news.ycom",
-      "url": "https://news.ycombinator.com/item?id=50039529",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-11T03:19:32.000Z"
-    },
-    {
-      "id": "a0accce92da5",
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "summary": "Article URL: https://www.bbc.com/news/articles/cqkg50j1yd5lo Comments URL: https://news.ycombinator.com/item?id=50039318 Points: 5 # Comments: 4",
-      "url": "https://www.bbc.com/news/articles/cqkg50j1yd5lo",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-11T02:41:19.000Z"
-    },
-    {
-      "id": "3a00c312e2fa",
-      "title": "Show HN: Free LED pixel-pitch and display-size calculators (open source)",
-      "summary": "Article URL: https://boardsy.co.uk/free-exhibition-display-tools/ Comments URL: https://news.ycombinator.com/item?id=50038499 Points: 5 # Comments: 1",
-      "url": "https://boardsy.co.uk/free-exhibition-display-tools/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-11T00:26:53.000Z"
+      "publishedAt": "2026-10-11T07:48:01.000Z"
     },
     {
       "id": "09cca9f847b7",
@@ -510,21 +391,6 @@
       ],
       "score": 3,
       "publishedAt": "2026-10-10T15:15:40.000Z"
-    },
-    {
-      "id": "8afdaa1bc15f",
-      "title": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-      "summary": "OpenAI's annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method. The correction sent chip stocks sliding. Meanwhile, OpenAI is negotiating at least $30 billion in fresh capital at a $1.4 trillion valuation. The article OpenAI revenue keeps surging as company seeks $30 billion in fresh capital appeared ",
-      "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-09T17:20:34.000Z"
     },
     {
       "id": "262915cde48a",
@@ -752,63 +618,21 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-11T05:06:41.000Z"
+      "publishedAt": "2026-10-11T17:34:09.000Z"
     },
     {
-      "id": "a2c06bd164f0",
-      "title": "multica-ai / andrej-karpathy-skills",
-      "summary": "GitHub 인기 오픈소스 프로젝트: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "id": "5a39e2d0858a",
+      "title": "lyogavin / airllm (Jupyter Notebook)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: AirLLM 70B inference with single 4GB GPU",
+      "url": "https://github.com/lyogavin/airllm",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
       "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-11T05:06:41.000Z"
-    },
-    {
-      "id": "6022dc0905f7",
-      "title": "Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
-      "summary": "Article URL: https://github.com/vscarpenter/gsd-task-manager Comments URL: https://news.ycombinator.com/item?id=50039633 Points: 6 # Comments: 3",
-      "url": "https://github.com/vscarpenter/gsd-task-manager",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-10-11T03:42:56.000Z"
-    },
-    {
-      "id": "bd609ff13ba2",
-      "title": "Long-term memory for AI coding agents as a tree of plain files",
-      "summary": "Article URL: https://github.com/gonzaroman/IHMT-MEMORY Comments URL: https://news.ycombinator.com/item?id=50038733 Points: 4 # Comments: 0",
-      "url": "https://github.com/gonzaroman/IHMT-MEMORY",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-11T01:02:14.000Z"
-    },
-    {
-      "id": "8c796089cb0b",
-      "title": "LLM Pareto Frontier over time [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=I01v36VIrno Comments URL: https://news.ycombinator.com/item?id=50038599 Points: 5 # Comments: 1",
-      "url": "https://www.youtube.com/watch?v=I01v36VIrno",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-11T00:41:24.000Z"
+      "publishedAt": "2026-10-11T17:34:09.000Z"
     },
     {
       "id": "cbfe51ee626e",
@@ -896,6 +720,174 @@
       ],
       "score": 2,
       "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "ba1189a3e38b",
+      "title": "Recreating a 70-year love story frame by frame",
+      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "id": "1fc8f7f56947",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "",
+      "url": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "43e3a994b253",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-08-18T18:09:38.000Z"
+    },
+    {
+      "id": "b8baa8a2a87a",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-06-30T18:32:50.000Z"
+    },
+    {
+      "id": "4e4bb66bce9a",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "summary": "",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-06-18T00:00:00.000Z"
+    },
+    {
+      "id": "819f27cfcdff",
+      "title": "morluto / rea (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/morluto/rea",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-11T17:34:09.000Z"
+    },
+    {
+      "id": "3d7e1f587604",
+      "title": "pytorch / pytorch (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "url": "https://github.com/pytorch/pytorch",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-11T17:34:09.000Z"
+    },
+    {
+      "id": "0e643c0f3089",
+      "title": "Cheaper AI tokens are driving more demand, and that&#039;s Jensen Huang&#039;s best-case scenario",
+      "summary": "Data from a16z shows a Jevons paradox in the AI market: token prices keep falling, but H100 GPU rental prices hold steady or climb. Cheaper AI drives demand faster than costs drop. If that demand flattens, the chain from chip makers to cloud providers takes a hit. The article Cheaper AI tokens are driving more demand, and that&#039;s Jensen Huang&#039;s best-case scenario appeared first on The Dec",
+      "url": "https://the-decoder.com/cheaper-ai-tokens-are-driving-more-demand-and-thats-jensen-huangs-best-case-scenario/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-11T09:49:59.000Z"
+    },
+    {
+      "id": "13fb9f934753",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-03T22:56:48.000Z"
+    },
+    {
+      "id": "aa94f7750a6e",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-02T15:00:00.000Z"
+    },
+    {
+      "id": "fcdb740546fd",
+      "title": "Making global data easier to explore",
+      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-17T20:00:00.000Z"
+    },
+    {
+      "id": "e10aa3054613",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-15T16:00:44.000Z"
     }
   ]
 }
