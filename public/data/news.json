@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-12T21:07:45.207Z",
-  "nextUpdate": "2026-10-13T09:00:00.000Z",
+  "generatedAt": "2026-10-13T06:19:05.353Z",
+  "nextUpdate": "2026-10-13T18:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 269,
+  "totalCollected": 249,
   "articleCount": 60,
   "articles": [
     {
@@ -19,7 +19,7 @@
         "industry"
       ],
       "score": 13,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "446361344941",
@@ -50,7 +50,7 @@
         "industry"
       ],
       "score": 9,
-      "publishedAt": "2026-10-12T21:07:38.000Z"
+      "publishedAt": "2026-10-13T06:19:05.000Z"
     },
     {
       "id": "140cfac6fd89",
@@ -65,7 +65,7 @@
         "industry"
       ],
       "score": 9,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "b47dc64bc4c5",
@@ -99,21 +99,6 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
-      "id": "df54ae4aa493",
-      "title": "Anthropic&#039;s Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
-      "summary": "Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world's population has barely touched LLMs. Roughly 5,000 people, meanwhile, have access to internal frontier systems whose agent swarms do work that would take top experts years. The public, at best, sees a weird chatbot. The article Anthropic&#039;s Andrej Karpathy says \"the e",
-      "url": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-10-12T12:51:21.000Z"
-    },
-    {
       "id": "d3670f9c7ce0",
       "title": "AdaC-GRPO: Towards Mastering Long-Horizon Visual Sudoku Puzzles via Adaptive Curriculum Learning",
       "summary": "arXiv:2610.13184v1 Announce Type: new Abstract: While reinforcement learning with verifiable reward (RLVR) enhances reasoning in large language models, its efficacy in long-horizon multimodal tasks remains underexplored. Visual Sudoku puzzles pose a representative challenge, requiring multi-step deductive reasoning over both local constraints and global dependency chains. To this end, we introduce",
@@ -126,7 +111,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "bedef288bf70",
@@ -142,7 +127,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "b2fb2f7464e0",
@@ -158,7 +143,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "5999541c7769",
@@ -174,7 +159,22 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "df54ae4aa493",
+      "title": "Anthropic&#039;s Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
+      "summary": "Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world's population has barely touched LLMs. Roughly 5,000 people, meanwhile, have access to internal frontier systems whose agent swarms do work that would take top experts years. The public, at best, sees a weird chatbot. The article Anthropic&#039;s Andrej Karpathy says \"the e",
+      "url": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-12T12:51:21.000Z"
     },
     {
       "id": "5e1aa6e7cbba",
@@ -219,7 +219,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "e6cdad3c8bd1",
@@ -234,7 +234,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "74e5b291d606",
@@ -249,7 +249,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "cd213c41e14e",
@@ -264,7 +264,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "65c36197e5e5",
@@ -279,7 +279,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "84557914d549",
@@ -294,7 +294,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "13e9414b45d2",
@@ -309,7 +309,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "516585d8432f",
@@ -424,7 +424,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "d116cd438bcc",
@@ -439,7 +439,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "8a99c3026a3b",
@@ -453,7 +453,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -497,7 +497,285 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-12T21:07:38.000Z"
+      "publishedAt": "2026-10-13T06:19:05.000Z"
+    },
+    {
+      "id": "2f9ab6b080e6",
+      "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
+      "summary": "arXiv:2610.12789v1 Announce Type: new Abstract: Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills. Yet even procedurally capable agents can fail when their beliefs about environment dynamics are incomplete, incorrect, or outdated. We study a complementary axis of self-evolution: evolving those beliefs during deployment. Such beliefs can s",
+      "url": "https://arxiv.org/abs/2610.12789",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "c5ea2d4659a0",
+      "title": "One-Step Text Generation by Seq-Drifting",
+      "summary": "arXiv:2610.12879v1 Announce Type: new Abstract: Diffusion language models generate tokens in parallel, but still require multiple sampling steps to produce high-quality text. In this paper, we investigate whether a model can learn to generate an entire sequence in a single forward pass. We propose Seq-Drifting, a framework that applies drifting to sequences of continuous token representations and ",
+      "url": "https://arxiv.org/abs/2610.12879",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "59dc8e9ea739",
+      "title": "OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models",
+      "summary": "arXiv:2610.12914v1 Announce Type: new Abstract: Vision-language-action (VLA) models have shown strong promise in robotic manipulation, yet their post-training still predominantly relies on trajectory-level supervised imitation over robot demonstrations. While effective for learning feasible actions, this paradigm supervises policies to reproduce expert actions at each step, biasing them toward dem",
+      "url": "https://arxiv.org/abs/2610.12914",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "541500fc3036",
+      "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training",
+      "summary": "arXiv:2610.12933v1 Announce Type: new Abstract: Large language models have achieved remarkable advances in complex reasoning. However, scaling reasoning post-training with ever-larger corpora can substantially increase training cost without proportional performance gains. In this study, we therefore ask: how far can reasoning supervision be compressed without sacrificing capability? To this end, w",
+      "url": "https://arxiv.org/abs/2610.12933",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "0c7022c3b5b8",
+      "title": "SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents",
+      "summary": "arXiv:2610.12975v1 Announce Type: new Abstract: We present SmartSalesBench, the first multi-turn conversational benchmark explicitly designed to evaluate large language model (LLM) sales agents against psychologically grounded, resistant buyer personas. Existing task-oriented dialogue benchmarks assume cooperative users and measure task completion; SmartSalesBench inverts this assumption, placing ",
+      "url": "https://arxiv.org/abs/2610.12975",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "232d3e674614",
+      "title": "EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents",
+      "summary": "arXiv:2610.13021v1 Announce Type: new Abstract: Continual learning requires models to accumulate past experience and transfer it to new tasks. Despite substantial research on continual learning, existing work remains largely confined to non-embodied settings, without extending to embodied environments. To address this gap, we introduce EmbodiedCLBench, the first benchmark in embodied simulation fo",
+      "url": "https://arxiv.org/abs/2610.13021",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "1eed9078ddc5",
+      "title": "Attention Sees, MLP Refuses: Tracing the Attention-to-MLP Safety Pathway in LLMs",
+      "summary": "arXiv:2610.13078v1 Announce Type: new Abstract: Safety-aligned large language models (LLMs) remain vulnerable to jailbreaks and can over-refuse benign requests. Understanding these failures requires distinguishing harmfulness recognition from the computation that writes refusal. We reframe this as a pathway question and make it measurable on residual-stream updates in decoder-only Transformers, se",
+      "url": "https://arxiv.org/abs/2610.13078",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "879796141678",
+      "title": "VETR: Execution-Grounded Self-Improving Agent for Symbolic Graphics Reasoning",
+      "summary": "arXiv:2610.13098v1 Announce Type: new Abstract: Visual agents for symbolic graphics reasoning depend on executable world representations, yet continued improvement remains bottlenecked by ambiguous supervision from final renders. Recent agentic systems refine scenes through repeated interaction, but they lack mechanisms to recursively extract actionable evidence from execution traces, overlooking ",
+      "url": "https://arxiv.org/abs/2610.13098",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "a5b74857c1db",
+      "title": "Looking Ahead and Back: Anticipatory Generative Modeling for Road-Network Trajectories",
+      "summary": "arXiv:2610.13131v1 Announce Type: new Abstract: Trajectory generation underpins urban applications such as traffic management and urban planning. Within road networks, vehicle movement along road segments is largely deterministic, whereas transitions at intersections are critical--multiple outgoing paths may appear equally plausible, yet they can lead to substantially different downstream routes. ",
+      "url": "https://arxiv.org/abs/2610.13131",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "2d5eccc1a2c3",
+      "title": "Competence-Aware Orchestration for LLM-Based Multi-Agent Systems",
+      "summary": "arXiv:2610.13144v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) have emerged as a promising paradigm for enhancing complex reasoning through role specialization and collaboration, yet a key challenge remains: how can collaboration be adapted to a backbone's competence on the current query? This problem matters because more collaboration is not always better--richer coordination",
+      "url": "https://arxiv.org/abs/2610.13144",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "2a24561529f6",
+      "title": "RoleWorld: Knowledge Transfer in World Modeling with Functional Role Abstractions",
+      "summary": "arXiv:2610.13172v1 Announce Type: new Abstract: World models enable large language model (LLM) agents to anticipate action effects and make informed decisions. For generalization, it is desirable for such world models to transfer efficiently to new environments with similar interaction structure and underlying dynamics. Recent approaches encode world dynamics as symbolic rules or executable progra",
+      "url": "https://arxiv.org/abs/2610.13172",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "3e69aaa401ff",
+      "title": "BoundaryEvo: Data-Model Co-Evolution at the Capability Boundary for Long-Chain Reasoning Distillation",
+      "summary": "arXiv:2610.13285v1 Announce Type: new Abstract: Distilling long-chain reasoning trajectories from large teacher models provides an effective way to improve the reasoning ability of small language models. However, existing methods typically select a fixed training set before distillation, overlooking that the usefulness of a reasoning example changes as the student evolves. This mismatch becomes es",
+      "url": "https://arxiv.org/abs/2610.13285",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "0a18e193a2f5",
+      "title": "SWE-Critix: Post-Training Generalist Verifiers for Assessing Coding-Agent Trajectories",
+      "summary": "arXiv:2610.13356v1 Announce Type: new Abstract: Coding agents are increasingly deployed for end-to-end software engineering tasks, where a readily available oracle evaluator that defines the success criteria is often absent. This motivates verifications for coding agents that can reliably judge and explain their behavior. However, verification is non-trivial as coding agents are increasingly capab",
+      "url": "https://arxiv.org/abs/2610.13356",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "87e82189ae10",
+      "title": "SqueezeBench: Saturation-Resilient Evaluation of Mathematical Capability",
+      "summary": "arXiv:2610.13461v1 Announce Type: new Abstract: AI systems are making rapid progress in mathematics, but this progress is hard to measure. Benchmarks of solved problems saturate, and in benchmarks of open problems each problem can be resolved for the first time only once. We present SqueezeBench, a benchmark that is resilient to saturation: a success raises the bar instead of removing the problem.",
+      "url": "https://arxiv.org/abs/2610.13461",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "dfd67759f503",
+      "title": "A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance",
+      "summary": "arXiv:2610.13479v1 Announce Type: new Abstract: Generating edge case scenarios is crucial for training, testing and safety assuring autonomous systems. This identifies hazardous failures to increase system reliability and robustness, ensures the system can still function safely on the boundaries of its operational design domain and learns the expected system behaviour for these edge cases. The rap",
+      "url": "https://arxiv.org/abs/2610.13479",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "ac7d1ec161a1",
+      "title": "Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits",
+      "summary": "arXiv:2610.13494v1 Announce Type: new Abstract: Existing LLM-based agent approaches for long-horizon machine learning engineering (MLE) often use context engineering, implemented through custom harnesses that manage tools, skills, and accumulated experience. However, we find that as single-session execution lengthens, the agent's reasoning intensity declines alongside slowing progress, summarized ",
+      "url": "https://arxiv.org/abs/2610.13494",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "36e81f99c78a",
+      "title": "MENTOR: Learning from Failure with On-Policy Pedagogical Intervention",
+      "summary": "arXiv:2610.13594v1 Announce Type: new Abstract: Reinforcement Learning from Verifiable Rewards (RLVR) is a key driver for Large Reasoning Models, but it is vulnerable to \"zero-reward collapse\", a training failure where a sudden increase in task difficulty causes the learning signal to vanish. We argue that the conventional approach of discarding these failed trajectories is wasteful, as they conta",
+      "url": "https://arxiv.org/abs/2610.13594",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "5476d120c1a0",
+      "title": "Energy-Efficient Spiking Neural Networks for Sensing-Aided Beam Prediction",
+      "summary": "arXiv:2610.12507v1 Announce Type: cross Abstract: Sensing-aided beam prediction can reduce the beam-training overhead of millimeter-wave (mmWave) systems by leveraging environmental information from complementary modalities such as vision and position. However, the resulting sensing and inference pipeline can be energy-intensive, motivating the use of energy-efficient spiking neural networks (SNNs",
+      "url": "https://arxiv.org/abs/2610.12507",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
+    },
+    {
+      "id": "97c2e5726362",
+      "title": "Machine Learning and Time-Series Foundation Models for Day-Ahead Electricity Forecasting in a University Building",
+      "summary": "arXiv:2610.12638v1 Announce Type: cross Abstract: Day-ahead electricity forecasts can help building operators schedule heating, ventilation, and other services around anticipated demand. Choosing a forecasting model also requires balancing accuracy with its forecast-time inputs, local training, and computational requirements. We benchmark statistical, machine-learning, recurrent neural-network, an",
+      "url": "https://arxiv.org/abs/2610.12638",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
       "id": "d2e70faa0c06",
@@ -527,284 +805,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-10-12T09:35:54.000Z"
-    },
-    {
-      "id": "2f9ab6b080e6",
-      "title": "EvoBelief: Falsifiable World Models for Self-Improving LLM Agents",
-      "summary": "arXiv:2610.12789v1 Announce Type: new Abstract: Self-evolving LLM agents typically improve how they act through accumulated experience, reflection, or skills. Yet even procedurally capable agents can fail when their beliefs about environment dynamics are incomplete, incorrect, or outdated. We study a complementary axis of self-evolution: evolving those beliefs during deployment. Such beliefs can s",
-      "url": "https://arxiv.org/abs/2610.12789",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "c5ea2d4659a0",
-      "title": "One-Step Text Generation by Seq-Drifting",
-      "summary": "arXiv:2610.12879v1 Announce Type: new Abstract: Diffusion language models generate tokens in parallel, but still require multiple sampling steps to produce high-quality text. In this paper, we investigate whether a model can learn to generate an entire sequence in a single forward pass. We propose Seq-Drifting, a framework that applies drifting to sequences of continuous token representations and ",
-      "url": "https://arxiv.org/abs/2610.12879",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "59dc8e9ea739",
-      "title": "OGPO: Offline Goal-conditioned Policy Optimization for Recoverable Vision-Language-Action Models",
-      "summary": "arXiv:2610.12914v1 Announce Type: new Abstract: Vision-language-action (VLA) models have shown strong promise in robotic manipulation, yet their post-training still predominantly relies on trajectory-level supervised imitation over robot demonstrations. While effective for learning feasible actions, this paradigm supervises policies to reproduce expert actions at each step, biasing them toward dem",
-      "url": "https://arxiv.org/abs/2610.12914",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "541500fc3036",
-      "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training",
-      "summary": "arXiv:2610.12933v1 Announce Type: new Abstract: Large language models have achieved remarkable advances in complex reasoning. However, scaling reasoning post-training with ever-larger corpora can substantially increase training cost without proportional performance gains. In this study, we therefore ask: how far can reasoning supervision be compressed without sacrificing capability? To this end, w",
-      "url": "https://arxiv.org/abs/2610.12933",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "0c7022c3b5b8",
-      "title": "SmartSalesBench: A Resistance-Aware Multi-Turn Benchmark for Evaluating LLM Sales Agents",
-      "summary": "arXiv:2610.12975v1 Announce Type: new Abstract: We present SmartSalesBench, the first multi-turn conversational benchmark explicitly designed to evaluate large language model (LLM) sales agents against psychologically grounded, resistant buyer personas. Existing task-oriented dialogue benchmarks assume cooperative users and measure task completion; SmartSalesBench inverts this assumption, placing ",
-      "url": "https://arxiv.org/abs/2610.12975",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "232d3e674614",
-      "title": "EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents",
-      "summary": "arXiv:2610.13021v1 Announce Type: new Abstract: Continual learning requires models to accumulate past experience and transfer it to new tasks. Despite substantial research on continual learning, existing work remains largely confined to non-embodied settings, without extending to embodied environments. To address this gap, we introduce EmbodiedCLBench, the first benchmark in embodied simulation fo",
-      "url": "https://arxiv.org/abs/2610.13021",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "1eed9078ddc5",
-      "title": "Attention Sees, MLP Refuses: Tracing the Attention-to-MLP Safety Pathway in LLMs",
-      "summary": "arXiv:2610.13078v1 Announce Type: new Abstract: Safety-aligned large language models (LLMs) remain vulnerable to jailbreaks and can over-refuse benign requests. Understanding these failures requires distinguishing harmfulness recognition from the computation that writes refusal. We reframe this as a pathway question and make it measurable on residual-stream updates in decoder-only Transformers, se",
-      "url": "https://arxiv.org/abs/2610.13078",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "879796141678",
-      "title": "VETR: Execution-Grounded Self-Improving Agent for Symbolic Graphics Reasoning",
-      "summary": "arXiv:2610.13098v1 Announce Type: new Abstract: Visual agents for symbolic graphics reasoning depend on executable world representations, yet continued improvement remains bottlenecked by ambiguous supervision from final renders. Recent agentic systems refine scenes through repeated interaction, but they lack mechanisms to recursively extract actionable evidence from execution traces, overlooking ",
-      "url": "https://arxiv.org/abs/2610.13098",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "a5b74857c1db",
-      "title": "Looking Ahead and Back: Anticipatory Generative Modeling for Road-Network Trajectories",
-      "summary": "arXiv:2610.13131v1 Announce Type: new Abstract: Trajectory generation underpins urban applications such as traffic management and urban planning. Within road networks, vehicle movement along road segments is largely deterministic, whereas transitions at intersections are critical--multiple outgoing paths may appear equally plausible, yet they can lead to substantially different downstream routes. ",
-      "url": "https://arxiv.org/abs/2610.13131",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "2d5eccc1a2c3",
-      "title": "Competence-Aware Orchestration for LLM-Based Multi-Agent Systems",
-      "summary": "arXiv:2610.13144v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) have emerged as a promising paradigm for enhancing complex reasoning through role specialization and collaboration, yet a key challenge remains: how can collaboration be adapted to a backbone's competence on the current query? This problem matters because more collaboration is not always better--richer coordination",
-      "url": "https://arxiv.org/abs/2610.13144",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "2a24561529f6",
-      "title": "RoleWorld: Knowledge Transfer in World Modeling with Functional Role Abstractions",
-      "summary": "arXiv:2610.13172v1 Announce Type: new Abstract: World models enable large language model (LLM) agents to anticipate action effects and make informed decisions. For generalization, it is desirable for such world models to transfer efficiently to new environments with similar interaction structure and underlying dynamics. Recent approaches encode world dynamics as symbolic rules or executable progra",
-      "url": "https://arxiv.org/abs/2610.13172",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "3e69aaa401ff",
-      "title": "BoundaryEvo: Data-Model Co-Evolution at the Capability Boundary for Long-Chain Reasoning Distillation",
-      "summary": "arXiv:2610.13285v1 Announce Type: new Abstract: Distilling long-chain reasoning trajectories from large teacher models provides an effective way to improve the reasoning ability of small language models. However, existing methods typically select a fixed training set before distillation, overlooking that the usefulness of a reasoning example changes as the student evolves. This mismatch becomes es",
-      "url": "https://arxiv.org/abs/2610.13285",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "0a18e193a2f5",
-      "title": "SWE-Critix: Post-Training Generalist Verifiers for Assessing Coding-Agent Trajectories",
-      "summary": "arXiv:2610.13356v1 Announce Type: new Abstract: Coding agents are increasingly deployed for end-to-end software engineering tasks, where a readily available oracle evaluator that defines the success criteria is often absent. This motivates verifications for coding agents that can reliably judge and explain their behavior. However, verification is non-trivial as coding agents are increasingly capab",
-      "url": "https://arxiv.org/abs/2610.13356",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "87e82189ae10",
-      "title": "SqueezeBench: Saturation-Resilient Evaluation of Mathematical Capability",
-      "summary": "arXiv:2610.13461v1 Announce Type: new Abstract: AI systems are making rapid progress in mathematics, but this progress is hard to measure. Benchmarks of solved problems saturate, and in benchmarks of open problems each problem can be resolved for the first time only once. We present SqueezeBench, a benchmark that is resilient to saturation: a success raises the bar instead of removing the problem.",
-      "url": "https://arxiv.org/abs/2610.13461",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "dfd67759f503",
-      "title": "A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance",
-      "summary": "arXiv:2610.13479v1 Announce Type: new Abstract: Generating edge case scenarios is crucial for training, testing and safety assuring autonomous systems. This identifies hazardous failures to increase system reliability and robustness, ensures the system can still function safely on the boundaries of its operational design domain and learns the expected system behaviour for these edge cases. The rap",
-      "url": "https://arxiv.org/abs/2610.13479",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "ac7d1ec161a1",
-      "title": "Humanize MLE Agents: Multi-Agent Session Alternation Beyond Single-Agent Limits",
-      "summary": "arXiv:2610.13494v1 Announce Type: new Abstract: Existing LLM-based agent approaches for long-horizon machine learning engineering (MLE) often use context engineering, implemented through custom harnesses that manage tools, skills, and accumulated experience. However, we find that as single-session execution lengthens, the agent's reasoning intensity declines alongside slowing progress, summarized ",
-      "url": "https://arxiv.org/abs/2610.13494",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "36e81f99c78a",
-      "title": "MENTOR: Learning from Failure with On-Policy Pedagogical Intervention",
-      "summary": "arXiv:2610.13594v1 Announce Type: new Abstract: Reinforcement Learning from Verifiable Rewards (RLVR) is a key driver for Large Reasoning Models, but it is vulnerable to \"zero-reward collapse\", a training failure where a sudden increase in task difficulty causes the learning signal to vanish. We argue that the conventional approach of discarding these failed trajectories is wasteful, as they conta",
-      "url": "https://arxiv.org/abs/2610.13594",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "5476d120c1a0",
-      "title": "Energy-Efficient Spiking Neural Networks for Sensing-Aided Beam Prediction",
-      "summary": "arXiv:2610.12507v1 Announce Type: cross Abstract: Sensing-aided beam prediction can reduce the beam-training overhead of millimeter-wave (mmWave) systems by leveraging environmental information from complementary modalities such as vision and position. However, the resulting sensing and inference pipeline can be energy-intensive, motivating the use of energy-efficient spiking neural networks (SNNs",
-      "url": "https://arxiv.org/abs/2610.12507",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
-    },
-    {
-      "id": "97c2e5726362",
-      "title": "Machine Learning and Time-Series Foundation Models for Day-Ahead Electricity Forecasting in a University Building",
-      "summary": "arXiv:2610.12638v1 Announce Type: cross Abstract: Day-ahead electricity forecasts can help building operators schedule heating, ventilation, and other services around anticipated demand. Choosing a forecasting model also requires balancing accuracy with its forecast-time inputs, local training, and computational requirements. We benchmark statistical, machine-learning, recurrent neural-network, an",
-      "url": "https://arxiv.org/abs/2610.12638",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T04:00:00.000Z"
     },
     {
       "id": "1cf499ca4ce6",
