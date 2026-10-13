@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13T06:19:05.353Z",
-  "nextUpdate": "2026-10-13T18:00:00.000Z",
+  "generatedAt": "2026-10-13T19:06:39.617Z",
+  "nextUpdate": "2026-10-14T07:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 249,
+  "totalCollected": 269,
   "articleCount": 60,
   "articles": [
     {
@@ -22,35 +22,19 @@
       "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
-      "id": "446361344941",
-      "title": "White House reverses course and restores UK AI Safety Institute&#039;s access to frontier models",
-      "summary": "The White House has reversed course and restored the UK's AI Security Institute's early access to AI models from Anthropic, Google DeepMind, and OpenAI. In September, the Trump administration had told the companies to stop sharing their models with the British agency. Diplomatic pressure from AI Minister Kanishka Narayan led to the reversal. The article White House reverses course and restores UK ",
-      "url": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/",
+      "id": "033479f09b69",
+      "title": "Gemini 4 Argon is now available worldwide as Google&#039;s most capable frontier model",
+      "summary": "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic's Claude Opus 5.5 and Meta's Muse Wonder Full in independent benchmarks. Internally, Google says Argon already cut coding tasks from months to weeks. The article Gemini 4 Argon is now available worldwide as Google&#039;s most ca",
+      "url": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
       "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 11,
-      "publishedAt": "2026-10-12T13:14:54.000Z"
-    },
-    {
-      "id": "81fc4982a376",
-      "title": "open-webui / open-webui (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "url": "https://github.com/open-webui/open-webui",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
         "new_model",
         "industry"
       ],
-      "score": 9,
-      "publishedAt": "2026-10-13T06:19:05.000Z"
+      "score": 12,
+      "publishedAt": "2026-10-13T18:00:49.000Z"
     },
     {
       "id": "140cfac6fd89",
@@ -66,21 +50,6 @@
       ],
       "score": 9,
       "publishedAt": "2026-10-13T04:00:00.000Z"
-    },
-    {
-      "id": "b47dc64bc4c5",
-      "title": "AI agent teams waste massive tokens for barely measurable quality gains, research finds",
-      "summary": "Teams of AI agents barely outperform solo agents but cost up to 5.1x more, according to Vals AI. Only one out of four tests with GPT-6 Sol and Claude Opus 5.5 showed a measurable gain. Anthropic's own data backs this up: beyond ten agents, quality plateaus while token costs keep climbing. The article AI agent teams waste massive tokens for barely measurable quality gains, research finds appeared f",
-      "url": "https://the-decoder.com/ai-agent-teams-waste-massive-tokens-for-barely-measurable-quality-gains-research-finds/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 9,
-      "publishedAt": "2026-10-11T15:39:26.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -162,36 +131,6 @@
       "publishedAt": "2026-10-13T04:00:00.000Z"
     },
     {
-      "id": "df54ae4aa493",
-      "title": "Anthropic&#039;s Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
-      "summary": "Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world's population has barely touched LLMs. Roughly 5,000 people, meanwhile, have access to internal frontier systems whose agent swarms do work that would take top experts years. The public, at best, sees a weird chatbot. The article Anthropic&#039;s Andrej Karpathy says \"the e",
-      "url": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-10-12T12:51:21.000Z"
-    },
-    {
-      "id": "5e1aa6e7cbba",
-      "title": "AI agents overstate their results and remain far from autonomous research, study finds",
-      "summary": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached 15 percent of the human reference score, and even that came from methods researchers already knew. The models' biggest weakness is still their inability to critically question thei",
-      "url": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-10-11T13:44:32.000Z"
-    },
-    {
       "id": "0afd034377a0",
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "summary": "",
@@ -205,6 +144,20 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "66780ec3c359",
+      "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
+      "summary": "Anthropic says it has cut the extraction of Claude's internal reasoning tokens by 90 to 99 percent. The company links the large-scale distillation attacks to Chinese companies Zhipu and Moonshot, and has already banned tens of thousands of accounts. The article Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation appeared first on The Decod",
+      "url": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-13T11:06:46.000Z"
     },
     {
       "id": "ab9498148192",
@@ -497,7 +450,50 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-13T06:19:05.000Z"
+      "publishedAt": "2026-10-13T19:06:37.000Z"
+    },
+    {
+      "id": "b13f993d8aef",
+      "title": "Show HN: Commit-Aware Router, route LLM traffic around your AI/cloud commitments",
+      "summary": "LLM routers can optimize for different factors like price, latency, quality, etc. Enterprises tend to have prepaid AI credits, minimum-spend agreements, cloud commitments, or commercial ceilings across OpenAI, Anthropic, AWS, Azure, and other providers. We’ll call these “AI commits”. This project is designed to consider the state of an enterprises’ current AI commits and use it to inform LLM routi",
+      "url": "https://github.com/tejaspruthi/CommitAwareRouter",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T18:34:37.000Z"
+    },
+    {
+      "id": "9fab51dcf349",
+      "title": "98% of the most popular open-source agents break Meta's Agents Rule of Two",
+      "summary": "Article URL: https://safetycard.dev/insights Comments URL: https://news.ycombinator.com/item?id=50076002 Points: 1 # Comments: 1",
+      "url": "https://safetycard.dev/insights",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T18:06:24.000Z"
+    },
+    {
+      "id": "70c0b23aa346",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-13T16:00:00.000Z"
     },
     {
       "id": "2f9ab6b080e6",
@@ -793,20 +789,6 @@
       "publishedAt": "2026-10-12T18:48:29.000Z"
     },
     {
-      "id": "6dad555f9e50",
-      "title": "Google Deepmind&#039;s AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
-      "summary": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems, including nine Erdős problems two of which were unsolved for 56 years, per a study in Science. The publication comes as OpenAI faces a boycott for dumping AI proofs on GitHub without peer review. Deepmind had its results reviewed before publishing. The article Google Deepmind&#039;s AlphaProof Nexus solved dozens of open math ",
-      "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T09:35:54.000Z"
-    },
-    {
       "id": "1cf499ca4ce6",
       "title": "Claude Haiku 5.5",
       "summary": "",
@@ -897,6 +879,21 @@
       ],
       "score": 4,
       "publishedAt": "2026-07-07T00:00:00.000Z"
+    },
+    {
+      "id": "9f9adabca49d",
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "summary": "",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-06-30T00:00:00.000Z"
     }
   ]
 }
