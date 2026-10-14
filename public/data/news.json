@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T04:20:47.539Z",
-  "nextUpdate": "2026-10-14T16:00:00.000Z",
+  "generatedAt": "2026-10-14T16:54:29.999Z",
+  "nextUpdate": "2026-10-15T04:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 169,
+  "totalCollected": 172,
   "articleCount": 60,
   "articles": [
     {
@@ -22,6 +22,21 @@
       "publishedAt": "2026-10-13T18:00:49.000Z"
     },
     {
+      "id": "308900c270b2",
+      "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
+      "summary": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as general-purpose frontier models lock down their cyber capabilities, blocking defenders in the process. The article AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap appeared",
+      "url": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-10-14T13:24:22.000Z"
+    },
+    {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
       "summary": "",
@@ -38,6 +53,22 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
+      "id": "a434f6d2176d",
+      "title": "Show HN: SPEV: Open Weight, Omnimodal Decision Model Trained for Turn Detection",
+      "summary": "Where Jev and other Jev-style models like OpenAI's Decisions and Cloudflare's Clef are multimodal, supporting text or images in, decision out, SPEV natively supports audio and video inputs. These native capabilities allow SPEV to reason directly from audio without the lossy speech to text conversion caused by transcription enabling audio capabilities like agent turn detection. SPEV also achieves s",
+      "url": "https://huggingface.co/SpragAI/SPEV",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-10-14T15:52:42.000Z"
+    },
+    {
       "id": "0afd034377a0",
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "summary": "",
@@ -51,6 +82,20 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "9dce38231bbe",
+      "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
+      "summary": "Article URL: https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/ Comments URL: https://news.ycombinator.com/item?id=50089482 Points: 1 # Comments: 0",
+      "url": "https://www.reddit.com/r/dataisbeautiful/comments/1x5ntpl/the_ai_race_chinas_openweight_models_trail_us/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-14T15:44:04.000Z"
     },
     {
       "id": "66780ec3c359",
@@ -167,19 +212,34 @@
       "publishedAt": "2026-06-24T16:00:13.000Z"
     },
     {
-      "id": "fc8bb6031b41",
-      "title": "Coinbase Built, Evaluated, and Post-Trained a Fraud Agent on Qwen3.5-9B",
-      "summary": "Article URL: https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent Comments URL: https://news.ycombinator.com/item?id=50082141 Points: 2 # Comments: 1",
-      "url": "https://www.coinbase.com/en-gb/blog/part-one-how-coinbase-built-evaluated-and-post-trained-a-fraud-agent",
+      "id": "8cd789146216",
+      "title": "OpenAI CFO Says Firms Using Chinese AI Models Are Risking Safety",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety Comments URL: https://news.ycombinator.com/item?id=50089421 Points: 4 # Comments: 3",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/openai-cfo-says-firms-using-chinese-ai-models-are-risking-safety",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
       "category": [
         "open_source",
+        "new_model"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-14T15:40:55.000Z"
+    },
+    {
+      "id": "203e51030101",
+      "title": "Nvidia&#039;s Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
+      "summary": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent safety and security research. Huang pitched open-weight models as Europe's way to close the AI gap. The article Nvidia&#039;s Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs appeare",
+      "url": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-14T03:46:04.000Z"
+      "publishedAt": "2026-10-14T14:24:34.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -223,22 +283,21 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-14T04:20:44.000Z"
+      "publishedAt": "2026-10-14T16:54:29.000Z"
     },
     {
-      "id": "b321420de432",
-      "title": "Show HN: Evaluate and improve your agent steering",
-      "summary": "Hi HN, excited to be open sourcing two tools that we have built over past few months which helps to understand your own work with AI coding agents Agent Desk is a local macOS app which allows you to browse your sessions across all top coding agents - Claude code, cursor, codex, github copilot, Kiro, Antigravity. You can find sessions by your projects, revisit those conversations, understand and in",
-      "url": "https://news.ycombinator.com/item?id=50081857",
+      "id": "bfc426812115",
+      "title": "Anthropic's Claude cruelty policy risks humanising AI",
+      "summary": "Article URL: https://unherd.com/newsroom/anthropics-claude-cruelty-policy-risks-humanising-ai/ Comments URL: https://news.ycombinator.com/item?id=50090688 Points: 1 # Comments: 0",
+      "url": "https://unherd.com/newsroom/anthropics-claude-cruelty-policy-risks-humanising-ai/",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
       "category": [
-        "new_model",
-        "industry"
+        "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-14T02:58:39.000Z"
+      "publishedAt": "2026-10-14T16:46:35.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -253,21 +312,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-10-13T16:00:00.000Z"
-    },
-    {
-      "id": "d2e70faa0c06",
-      "title": "Meta&#039;s new frontier model Muse Wonder Full breaks into the AI top tier",
-      "summary": "Meta's new Muse Wonder models rank in the top three on six out of ten benchmarks, with the biggest gains in agentic tasks. But the cost per task has nearly tripled. The article Meta&#039;s new frontier model Muse Wonder Full breaks into the AI top tier appeared first on The Decoder .",
-      "url": "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-12T18:48:29.000Z"
     },
     {
       "id": "1cf499ca4ce6",
@@ -392,20 +436,6 @@
       "publishedAt": "2026-06-17T10:18:05.000Z"
     },
     {
-      "id": "061b29960f39",
-      "title": "bilawalsidhu / gods-eye-view (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-14T04:20:44.000Z"
-    },
-    {
       "id": "1f05fc719933",
       "title": "debpalash / VoiceStudio (Python)",
       "summary": "GitHub 인기 오픈소스 프로젝트: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
@@ -417,13 +447,43 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-14T04:20:44.000Z"
+      "publishedAt": "2026-10-14T16:54:29.000Z"
     },
     {
-      "id": "79708f3b90b7",
-      "title": "OCP 2026: Agentic AI Pushes the Data Center from Chip to Grid",
-      "summary": "Article URL: https://www.datacenterfrontier.com/hyperscale/article/55411534/ocp-2026-agentic-ai-pushes-the-data-center-from-chip-to-grid Comments URL: https://news.ycombinator.com/item?id=50081573 Points: 4 # Comments: 0",
-      "url": "https://www.datacenterfrontier.com/hyperscale/article/55411534/ocp-2026-agentic-ai-pushes-the-data-center-from-chip-to-grid",
+      "id": "7676d82ab2a8",
+      "title": "K-Dense-AI / scientific-agent-skills (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-14T16:54:29.000Z"
+    },
+    {
+      "id": "ad464a3c8f95",
+      "title": "ifixai-ai / iFixAi (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-14T16:54:29.000Z"
+    },
+    {
+      "id": "ec5b385c12b6",
+      "title": "Show HN: An offline 0.8B model that ties Gemini Flash on OpenStreetMap questions",
+      "summary": "Article URL: https://jonready.com/blog/posts/rl-on-a-0_8b-travel-agent.html Comments URL: https://news.ycombinator.com/item?id=50090683 Points: 1 # Comments: 1",
+      "url": "https://jonready.com/blog/posts/rl-on-a-0_8b-travel-agent.html",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -432,7 +492,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-14T02:19:16.000Z"
+      "publishedAt": "2026-10-14T16:46:21.000Z"
     },
     {
       "id": "262915cde48a",
@@ -485,23 +545,6 @@
       ],
       "score": 3,
       "publishedAt": "2026-10-06T20:18:19.000Z"
-    },
-    {
-      "id": "d666a634a9c4",
-      "title": "Mistral Large 4",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-06T18:20:58.000Z"
     },
     {
       "id": "858945812f14",
@@ -632,10 +675,10 @@
       "publishedAt": "2026-06-23T00:00:00.000Z"
     },
     {
-      "id": "1a2dbb8036c8",
-      "title": "cathrynlavery / diagram-design (HTML)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "url": "https://github.com/cathrynlavery/diagram-design",
+      "id": "68a27f4fa070",
+      "title": "ntdevlabs / tiny11builder (C#)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: WinUI app for building smaller, customized Windows 11 images.",
+      "url": "https://github.com/ntdevlabs/tiny11builder",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -643,21 +686,35 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-14T04:20:44.000Z"
+      "publishedAt": "2026-10-14T16:54:29.000Z"
     },
     {
-      "id": "5a39e2d0858a",
-      "title": "lyogavin / airllm (Jupyter Notebook)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: AirLLM 2.8T LLM inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "6e9f4f66be94",
+      "title": "OpenAI will reportedly ship at least one model this year but its flagship still needs alignment work",
+      "summary": "OpenAI is racing to finish its next flagship model, which uses the same looped transformer technique as Astra to boost math and coding performance. The tradeoff is that looping makes safety monitoring harder. Microsoft accidentally revealed details about how the technique works on a public page. Whether or not the flagship is ready in time, employees say one or two new models will likely ship by y",
+      "url": "https://the-decoder.com/openai-will-reportedly-ship-at-least-one-model-this-year-but-its-flagship-still-needs-alignment-work/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "industry"
+        "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-14T04:20:44.000Z"
+      "publishedAt": "2026-10-14T16:14:16.000Z"
+    },
+    {
+      "id": "317337bd8215",
+      "title": "Alleged OpenAI spy vibe-coded a surveillance device using his wife&#039;s chatbot account",
+      "summary": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he built the spy tool by vibe-coding it with a chatbot. If convicted, he faces up to five years in prison. The article Alleged OpenAI spy vibe-coded a surveillance device using his wife",
+      "url": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-10-14T12:37:05.000Z"
     },
     {
       "id": "cc94bb1db283",
@@ -692,20 +749,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-10-13T22:28:54.000Z"
-    },
-    {
-      "id": "488a6cc0b5ad",
-      "title": "Anthropic study warns that small AI models could soon replicate across everyday devices",
-      "summary": "Small AI models may be just months away from spreading on their own across poorly secured consumer devices like smart TVs and robot vacuums, according to a new Anthropic study. In tests, one model already completed the full infection chain. CEO Dario Amodei has warned that a swarm like this could take over the entire internet with a persistent botnet within 6 to 12 months, causing hundreds of bill",
-      "url": "https://the-decoder.com/anthropic-study-warns-that-small-ai-models-could-soon-replicate-across-everyday-devices/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-13T10:33:28.000Z"
     },
     {
       "id": "93189fac9c9a",
@@ -848,49 +891,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-10-14T04:20:44.000Z"
-    },
-    {
-      "id": "25dd6c9f3ffc",
-      "title": "vercel-labs / skills (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The open agent skills tool - npx skills",
-      "url": "https://github.com/vercel-labs/skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-14T04:20:44.000Z"
-    },
-    {
-      "id": "d37cebf0216d",
-      "title": "Show HN: AgentGate – Fast authorization gateway for AI agent tools",
-      "summary": "Article URL: https://github.com/mohitdebian/AgentGate Comments URL: https://news.ycombinator.com/item?id=50082319 Points: 1 # Comments: 0",
-      "url": "https://github.com/mohitdebian/AgentGate",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-14T04:16:48.000Z"
-    },
-    {
-      "id": "d5d0a197980f",
-      "title": "Mano-P: Setting Up an On-Device GUI Agent Without Cloud Dependencies",
-      "summary": "Article URL: https://github.com/Mininglamp-AI/Mano-P Comments URL: https://news.ycombinator.com/item?id=50082151 Points: 1 # Comments: 0",
-      "url": "https://github.com/Mininglamp-AI/Mano-P",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-14T03:47:45.000Z"
+      "publishedAt": "2026-10-14T16:54:29.000Z"
     }
   ]
 }
