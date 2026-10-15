@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T04:02:57.841Z",
-  "nextUpdate": "2026-10-15T16:00:00.000Z",
+  "generatedAt": "2026-10-15T16:41:31.151Z",
+  "nextUpdate": "2026-10-16T04:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 252,
+  "totalCollected": 240,
   "articleCount": 60,
   "articles": [
     {
@@ -39,19 +39,20 @@
       "publishedAt": "2026-10-15T04:00:00.000Z"
     },
     {
-      "id": "033479f09b69",
-      "title": "Gemini 4 Argon is now available worldwide as Google&#039;s most capable frontier model",
-      "summary": "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic's Claude Opus 5.5 and Meta's Muse Wonder Full in independent benchmarks. Internally, Google says Argon already cut coding tasks from months to weeks. The article Gemini 4 Argon is now available worldwide as Google&#039;s most ca",
-      "url": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/",
+      "id": "367f3ded8a04",
+      "title": "Nvidia&#039;s Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
+      "summary": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia hardware. The article Nvidia&#039;s Nemotron 3.5 Super VL is an open model built to run enterprise AI agents no",
+      "url": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
       "category": [
+        "open_source",
         "new_model",
         "industry"
       ],
-      "score": 12,
-      "publishedAt": "2026-10-13T18:00:49.000Z"
+      "score": 9,
+      "publishedAt": "2026-10-15T16:09:44.000Z"
     },
     {
       "id": "308900c270b2",
@@ -173,6 +174,21 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "221a4fa42479",
+      "title": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
+      "summary": "On the TheoPhysEval benchmark, GPT-6-Astra solves 49 of 50 unpublished theoretical physics calculations as accurately as leading specialists. In some cases where the agent seemed to fail, the experts' own reference solutions turned out to contain errors. But the researchers say physics hasn't had a breakthrough like the ones in mathematics, because the agents lack \"taste.\" They still think autonom",
+      "url": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-15T15:24:15.000Z"
     },
     {
       "id": "0254e5cb76a3",
@@ -531,18 +547,19 @@
       "publishedAt": "2026-06-23T00:00:00.000Z"
     },
     {
-      "id": "bde707d7eaaf",
-      "title": "mksglu / context-mode (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "url": "https://github.com/mksglu/context-mode",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "4e04ab31fce7",
+      "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
+      "summary": "Google's Gemini 4 Argon is a single AI model built to control robots, generate simulations from photos or sketches, and grade training videos. It scores 87 percent on Google's own ERQA benchmark. But the published example prompts reveal how much careful human guidance the demos still require. The article Google wants Gemini 4 Argon to be the only AI model robots need appeared first on The Decoder ",
+      "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
+        "new_model",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-15T04:02:55.000Z"
+      "publishedAt": "2026-10-15T16:35:47.000Z"
     },
     {
       "id": "af4251758d1b",
@@ -881,21 +898,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-06-30T00:00:00.000Z"
-    },
-    {
-      "id": "028349bf089c",
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "summary": "",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-06-17T10:18:05.000Z"
     }
   ]
 }
