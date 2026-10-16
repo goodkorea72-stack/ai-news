@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T16:41:31.151Z",
-  "nextUpdate": "2026-10-16T04:00:00.000Z",
+  "generatedAt": "2026-10-16T03:59:29.007Z",
+  "nextUpdate": "2026-10-16T15:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 240,
+  "totalCollected": 253,
   "articleCount": 60,
   "articles": [
     {
@@ -39,6 +39,21 @@
       "publishedAt": "2026-10-15T04:00:00.000Z"
     },
     {
+      "id": "193f85e487a9",
+      "title": "Black Forest Labs&#039; open-weights image model FLUX 3 Image Klein runs on consumer GPUs with just 8 GB of VRAM",
+      "summary": "Black Forest Labs has released FLUX 3 Image Klein, a 5.6-billion-parameter open-weights image model that supports native 4K generation, pixel-precise editing, and generation with up to ten reference images. With 38 percent fewer parameters than its predecessor, it still outperforms proprietary competitors in internal tests and runs on GPUs with just 8 GB of VRAM. The article Black Forest Labs&#039",
+      "url": "https://the-decoder.com/black-forest-labs-open-weights-image-model-flux-3-image-klein-runs-on-consumer-gpus-with-just-8-gb-of-vram/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 11,
+      "publishedAt": "2026-10-15T16:57:14.000Z"
+    },
+    {
       "id": "367f3ded8a04",
       "title": "Nvidia&#039;s Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
       "summary": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine-tuning Super VL, but getting the most out of it means buying Nvidia hardware. The article Nvidia&#039;s Nemotron 3.5 Super VL is an open model built to run enterprise AI agents no",
@@ -53,21 +68,6 @@
       ],
       "score": 9,
       "publishedAt": "2026-10-15T16:09:44.000Z"
-    },
-    {
-      "id": "308900c270b2",
-      "title": "AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap",
-      "summary": "Artemis Security's new Orion-1 model is purpose-built for cyber defense and beats Claude Opus 5.5 and GPT-6 Sol on the company's own benchmark. The model fills a growing gap as general-purpose frontier models lock down their cyber capabilities, blocking defenders in the process. The article AI guardrails designed to stop hackers are now blocking defenders, and Orion-1 aims to fill the gap appeared",
-      "url": "https://the-decoder.com/ai-guardrails-designed-to-stop-hackers-are-now-blocking-defenders-and-orion-1-aims-to-fill-the-gap/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 9,
-      "publishedAt": "2026-10-14T13:24:22.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -116,6 +116,21 @@
       "publishedAt": "2026-10-15T04:00:00.000Z"
     },
     {
+      "id": "ce1e38abfc92",
+      "title": "Muse Spark Open is Meta&#039;s answer to Qwen, GLM, and Kimi in the open-weight race",
+      "summary": "Meta's Muse Spark Open is a new open-weight model with 816 billion parameters that processes text, images, video, and audio with up to one million tokens of context. It performs roughly on par with the most capable open-weight Chinese AI models on benchmarks and is optimized to run locally on Apple's M5 Ultra. The article Muse Spark Open is Meta&#039;s answer to Qwen, GLM, and Kimi in the open-wei",
+      "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-15T18:34:32.000Z"
+    },
+    {
       "id": "094d62b072aa",
       "title": "How Should a Camera-First AI Agent Work?",
       "summary": "arXiv:2610.14772v2 Announce Type: new Abstract: Camera-first agents must act on the visual world as it unfolds. We argue that the central obstacle for future camera-first agents is not recognition ability - multimodal models (vision-language and live/streaming alike) generalize well through language and remain the right tool for semantic reasoning - but time. Many visual targets are ephemeral: the",
@@ -159,6 +174,21 @@
       ],
       "score": 7,
       "publishedAt": "2026-10-15T04:00:00.000Z"
+    },
+    {
+      "id": "a0a3a9608043",
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "summary": "",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-15T00:00:00.000Z"
     },
     {
       "id": "0afd034377a0",
@@ -298,20 +328,6 @@
       "publishedAt": "2026-10-15T04:00:00.000Z"
     },
     {
-      "id": "516585d8432f",
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-07T12:45:31.000Z"
-    },
-    {
       "id": "1c7f791b566f",
       "title": "Transformers now runs llama.cpp quants",
       "summary": "",
@@ -396,6 +412,36 @@
       ],
       "score": 6,
       "publishedAt": "2026-06-24T16:00:13.000Z"
+    },
+    {
+      "id": "3c1e7a008192",
+      "title": "ruvnet / ruflo (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "url": "https://github.com/ruvnet/ruflo",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-16T03:59:25.000Z"
+    },
+    {
+      "id": "4e04ab31fce7",
+      "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
+      "summary": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent. But the published example prompts show that the demos still need a lot of human guidance. The article Google wants Gemini 4 Argon to be the only AI model robots need appeared first on The Decoder .",
+      "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-15T16:35:47.000Z"
     },
     {
       "id": "345a4de9e3a6",
@@ -502,21 +548,6 @@
       "publishedAt": "2026-10-15T04:00:00.000Z"
     },
     {
-      "id": "203e51030101",
-      "title": "Nvidia&#039;s Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs",
-      "summary": "Nvidia CEO Jensen Huang announced $2 billion in European investments and new stakes in French startups like Doctolib and Entalpic. The UK gets $250 million in compute for AI agent safety and security research. Huang pitched open-weight models as Europe's way to close the AI gap. The article Nvidia&#039;s Jensen Huang pledges $2 billion for Europe, $250 million in compute for UK safety labs appeare",
-      "url": "https://the-decoder.com/nvidias-jensen-huang-pledges-2-billion-for-europe-250-million-in-compute-for-uk-safety-labs/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-14T14:24:34.000Z"
-    },
-    {
       "id": "c96bfd28b36f",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "summary": "",
@@ -547,19 +578,47 @@
       "publishedAt": "2026-06-23T00:00:00.000Z"
     },
     {
-      "id": "4e04ab31fce7",
-      "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
-      "summary": "Google's Gemini 4 Argon is a single AI model built to control robots, generate simulations from photos or sketches, and grade training videos. It scores 87 percent on Google's own ERQA benchmark. But the published example prompts reveal how much careful human guidance the demos still require. The article Google wants Gemini 4 Argon to be the only AI model robots need appeared first on The Decoder ",
-      "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "f8ef14d76ede",
+      "title": "anthropics / claude-plugins-official (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-16T03:59:25.000Z"
+    },
+    {
+      "id": "bde707d7eaaf",
+      "title": "mksglu / context-mode (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "url": "https://github.com/mksglu/context-mode",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-16T03:59:25.000Z"
+    },
+    {
+      "id": "1a8ce30019c4",
+      "title": "affaan-m / ECC (JavaScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-15T16:35:47.000Z"
+      "publishedAt": "2026-10-16T03:59:25.000Z"
     },
     {
       "id": "af4251758d1b",
@@ -838,66 +897,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "9c95afa451ef",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "summary": "",
-      "url": "https://huggingface.co/blog/baseten",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-08-06T00:00:00.000Z"
-    },
-    {
-      "id": "0ee73a62fb00",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-07-23T00:00:00.000Z"
-    },
-    {
-      "id": "ca43a0fca568",
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "summary": "",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-07-07T00:00:00.000Z"
-    },
-    {
-      "id": "9f9adabca49d",
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "summary": "",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-06-30T00:00:00.000Z"
     }
   ]
 }
