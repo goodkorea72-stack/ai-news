@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T16:23:55.663Z",
-  "nextUpdate": "2026-10-17T04:00:00.000Z",
+  "generatedAt": "2026-10-17T03:49:54.419Z",
+  "nextUpdate": "2026-10-17T15:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
   "totalCollected": 253,
@@ -35,6 +35,21 @@
       ],
       "score": 12,
       "publishedAt": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "id": "2eaa826db42a",
+      "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+      "summary": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move will likely push Western companies to double down on US open-weight models over Chinese alternatives. The article China pla",
+      "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 11,
+      "publishedAt": "2026-10-16T17:42:47.000Z"
     },
     {
       "id": "193f85e487a9",
@@ -387,21 +402,6 @@
       "publishedAt": "2026-10-16T04:00:00.000Z"
     },
     {
-      "id": "221a4fa42479",
-      "title": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
-      "summary": "On the TheoPhysEval benchmark, GPT-6-Astra solves 49 of 50 unpublished theoretical physics calculations as accurately as leading specialists. In some cases where the agent seemed to fail, the experts' own reference solutions turned out to contain errors. But the researchers say physics hasn't had a breakthrough like the ones in mathematics, because the agents lack \"taste.\" They still think autonom",
-      "url": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-15T15:24:15.000Z"
-    },
-    {
       "id": "1c7f791b566f",
       "title": "Transformers now runs llama.cpp quants",
       "summary": "",
@@ -500,7 +500,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-16T16:23:55.000Z"
+      "publishedAt": "2026-10-17T03:49:54.000Z"
     },
     {
       "id": "905653505548",
@@ -753,7 +753,7 @@
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-16T16:23:55.000Z"
+      "publishedAt": "2026-10-17T03:49:54.000Z"
     },
     {
       "id": "1a8ce30019c4",
@@ -768,7 +768,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-16T16:23:55.000Z"
+      "publishedAt": "2026-10-17T03:49:54.000Z"
     },
     {
       "id": "bde707d7eaaf",
@@ -782,7 +782,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-16T16:23:55.000Z"
+      "publishedAt": "2026-10-17T03:49:54.000Z"
     },
     {
       "id": "09f993da9531",
