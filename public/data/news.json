@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-18T03:56:42.069Z",
-  "nextUpdate": "2026-10-18T15:00:00.000Z",
+  "generatedAt": "2026-10-18T15:39:53.743Z",
+  "nextUpdate": "2026-10-19T03:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 173,
+  "totalCollected": 153,
   "articleCount": 60,
   "articles": [
     {
@@ -23,36 +23,6 @@
       "publishedAt": "2026-10-17T10:33:28.000Z"
     },
     {
-      "id": "2eaa826db42a",
-      "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
-      "summary": "China plans to restrict exports of 23 key AI technologies, including model weights, source code, and training methods for systems hitting 10^26 FLOPs or 2 trillion parameters. A fast-track rule will still clear open-source releases as soon as they are registered, but the move will likely push Western companies to double down on US open-weight models over Chinese alternatives. The article China pla",
-      "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 11,
-      "publishedAt": "2026-10-16T17:42:47.000Z"
-    },
-    {
-      "id": "722e2b5cc7fb",
-      "title": "Google&#039;s Gemini 4 Argon is closer to the AI frontier than any Google model in months",
-      "summary": "Google Deepmind's Gemini 4 Argon scored 97.5 percent on the ARC-AGI-3 benchmark, making Google the second lab after OpenAI to cross the 95 percent mark. But the results swing wildly depending on the test setup: in the standard harness, the score drops to just 49.8 percent. Argon also trails rivals in math and software engineering. The article Google&#039;s Gemini 4 Argon is closer to the AI fronti",
-      "url": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 9,
-      "publishedAt": "2026-10-16T15:03:46.000Z"
-    },
-    {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
       "summary": "",
@@ -67,6 +37,36 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "134c56940f47",
+      "title": "Comfy-Org / ComfyUI (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-10-18T15:39:52.000Z"
+    },
+    {
+      "id": "e91ae366179d",
+      "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
+      "summary": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users. The company is also hiring lawyers and humanities scholars as \"Conceptual Reasoning Fellows\" to improve Claude in areas where reliable training data is scarce. The article Anthropic consults law firms to set fair negotiation n",
+      "url": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-10-18T09:11:29.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -185,36 +185,6 @@
       "publishedAt": "2026-06-24T16:00:13.000Z"
     },
     {
-      "id": "a759673bf140",
-      "title": "stablyai / orca (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "url": "https://github.com/stablyai/orca",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-18T03:56:37.000Z"
-    },
-    {
-      "id": "7079b819dbe6",
-      "title": "anthropics / claude-code (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "url": "https://github.com/anthropics/claude-code",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-18T03:56:37.000Z"
-    },
-    {
       "id": "3c1e7a008192",
       "title": "ruvnet / ruflo (TypeScript)",
       "summary": "GitHub 인기 오픈소스 프로젝트: 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
@@ -227,7 +197,22 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-18T03:56:37.000Z"
+      "publishedAt": "2026-10-18T15:39:52.000Z"
+    },
+    {
+      "id": "a759673bf140",
+      "title": "stablyai / orca (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "url": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-18T15:39:52.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -271,22 +256,7 @@
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-18T03:56:37.000Z"
-    },
-    {
-      "id": "1a8ce30019c4",
-      "title": "affaan-m / ECC (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-18T03:56:37.000Z"
+      "publishedAt": "2026-10-18T15:39:52.000Z"
     },
     {
       "id": "8abc7708741b",
@@ -301,67 +271,52 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-18T03:56:37.000Z"
+      "publishedAt": "2026-10-18T15:39:52.000Z"
     },
     {
-      "id": "dd4a8cbc0426",
-      "title": "MonkeyITM – open-source broker that sits between agents and the open world",
-      "summary": "Article URL: https://github.com/o87enterprises-ai/MonkeyITM Comments URL: https://news.ycombinator.com/item?id=50137739 Points: 1 # Comments: 0",
-      "url": "https://github.com/o87enterprises-ai/MonkeyITM",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "4da00bd7170a",
+      "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+      "summary": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as many hours as humans. Researchers warn of a \"tragedy of the cognitive commons\": if junior positions disappear, experienced specialists will be in short supply ",
+      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
+        "new_model",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-18T03:44:42.000Z"
+      "publishedAt": "2026-10-18T13:22:26.000Z"
     },
     {
-      "id": "32fa60150396",
-      "title": "We ran 53 open-source AI agents through behavioral tests and filed 37 bugs",
-      "summary": "Article URL: https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs Comments URL: https://news.ycombinator.com/item?id=50136669 Points: 9 # Comments: 1",
-      "url": "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "3f1ba7b1ef0f",
+      "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+      "summary": "Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run. With no predefined roles or strategies, they coordinated on their own, wrote 2,783 programs, exchanged 229 chat messages, and died 605 times. The session cost $1,620. The article Four Gemini 4 Argon agents beat Minecraft without any huma",
+      "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
+        "new_model",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-18T00:36:34.000Z"
+      "publishedAt": "2026-10-18T12:39:51.000Z"
     },
     {
-      "id": "1671ac385821",
-      "title": "Show HN: MoroccoAPI: An open source API for Moroccan public data",
-      "summary": "Article URL: https://moroccoapi.dev/ Comments URL: https://news.ycombinator.com/item?id=50136316 Points: 2 # Comments: 0",
-      "url": "https://moroccoapi.dev/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "bc338b0069ce",
+      "title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
+      "summary": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn't help. The article AI agents have bad taste in long-term decisions and a new benchmark proves it appeared first on The Decoder .",
+      "url": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
+        "new_model",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-17T23:49:19.000Z"
-    },
-    {
-      "id": "1962248ae920",
-      "title": "Doctors, Lawyers and Engineers joining AI's $400-an-Hour gig economy",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers Comments URL: https://news.ycombinator.com/item?id=50136210 Points: 4 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-17T23:33:37.000Z"
+      "publishedAt": "2026-10-18T08:49:41.000Z"
     },
     {
       "id": "ec7bc3bcb90a",
@@ -511,22 +466,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-18T03:56:37.000Z"
-    },
-    {
-      "id": "7676d82ab2a8",
-      "title": "K-Dense-AI / scientific-agent-skills (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-18T03:56:37.000Z"
+      "publishedAt": "2026-10-18T15:39:52.000Z"
     },
     {
       "id": "1f05fc719933",
@@ -540,49 +480,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-18T03:56:37.000Z"
-    },
-    {
-      "id": "3a66a45a9900",
-      "title": "xerj-org / xerj (Rust)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
-      "url": "https://github.com/xerj-org/xerj",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-18T03:56:37.000Z"
-    },
-    {
-      "id": "2e73eb5471e0",
-      "title": "Turn your coding-agent sessions into private evals",
-      "summary": "Article URL: https://github.com/ibragim-bad/evals-from-sessions Comments URL: https://news.ycombinator.com/item?id=50137653 Points: 2 # Comments: 0",
-      "url": "https://github.com/ibragim-bad/evals-from-sessions",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-18T03:26:40.000Z"
-    },
-    {
-      "id": "9c26a7d6d0ab",
-      "title": "Drunken Goddess Reflux Public Demo Canceled over AI Imitation Concerns",
-      "summary": "Article URL: https://noisypixel.net/drunken-goddess-reflux-public-demo-canceled-ai-imitation-concerns/ Comments URL: https://news.ycombinator.com/item?id=50136741 Points: 2 # Comments: 2",
-      "url": "https://noisypixel.net/drunken-goddess-reflux-public-demo-canceled-ai-imitation-concerns/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-18T00:50:48.000Z"
+      "publishedAt": "2026-10-18T15:39:52.000Z"
     },
     {
       "id": "eb2474a0d7cd",
@@ -613,21 +511,6 @@
       ],
       "score": 3,
       "publishedAt": "2026-10-17T09:54:36.000Z"
-    },
-    {
-      "id": "6bf90e4f438b",
-      "title": "OpenAI&#039;s new Rosalind Academic Plan gives research labs up to 30 free seats for a year",
-      "summary": "OpenAI is launching the Rosalind Academic Plan, a free offering that's currently open only to research labs at US universities without an enterprise contract. The article OpenAI&#039;s new Rosalind Academic Plan gives research labs up to 30 free seats for a year appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openais-new-rosalind-academic-plan-gives-research-labs-up-to-30-free-seats-for-a-year/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-16T13:15:09.000Z"
     },
     {
       "id": "858945812f14",
@@ -769,55 +652,13 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-10-18T03:56:37.000Z"
+      "publishedAt": "2026-10-18T15:39:52.000Z"
     },
     {
-      "id": "476c9df43465",
-      "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
-      "summary": "Article URL: https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html Comments URL: https://news.ycombinator.com/item?id=50137246 Points: 1 # Comments: 0",
-      "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-18T02:20:40.000Z"
-    },
-    {
-      "id": "5da9c3027c10",
-      "title": "Anthropic warns AI models could self-replicate across home devices",
-      "summary": "Article URL: https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html Comments URL: https://news.ycombinator.com/item?id=50136716 Points: 2 # Comments: 1",
-      "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-18T00:44:06.000Z"
-    },
-    {
-      "id": "b58e5d06a516",
-      "title": "I run my one-person business with ~17 narrow AI agents",
-      "summary": "Article URL: https://blakelapierre.substack.com/p/i-run-my-one-person-business-with Comments URL: https://news.ycombinator.com/item?id=50136273 Points: 3 # Comments: 2",
-      "url": "https://blakelapierre.substack.com/p/i-run-my-one-person-business-with",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-17T23:43:05.000Z"
-    },
-    {
-      "id": "77d8ce9b7daf",
-      "title": "Mathematicians say OpenAI doesn&#039;t understand its own Navier-Stokes proof",
-      "summary": "OpenAI submitted a 166-page solution to the Navier-Stokes problem but apparently doesn't fully understand its own proof. Several groups of experts dispute the claimed methodology, saying the actual approach differs from what OpenAI described. And because language models are black boxes, where the underlying ideas came from will likely never be clear. The article Mathematicians say OpenAI doesn&#03",
-      "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/",
+      "id": "96aa1b422852",
+      "title": "Two German courts now hold Google liable for what its AI overviews say",
+      "summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely attributed criminal offenses to a doctor that actually involved someone else. A consistent legal view is forming across German courts, and it treats Google's A",
+      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -825,21 +666,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-17T09:00:26.000Z"
-    },
-    {
-      "id": "272d60c66396",
-      "title": "ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs",
-      "summary": "OpenAI's updated Chrome extension lets ChatGPT access open browser tabs, sum up content, and use \"Computer Use\" in Work mode to fill out forms or compare products across several tabs. It is open to all ChatGPT plans. The article ChatGPT becomes a full Chrome browser assistant that reads and acts on your open tabs appeared first on The Decoder .",
-      "url": "https://the-decoder.com/chatgpt-becomes-a-full-chrome-browser-assistant-that-reads-and-acts-on-your-open-tabs/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-16T18:10:27.000Z"
+      "publishedAt": "2026-10-18T10:52:39.000Z"
     },
     {
       "id": "33232a605791",
@@ -891,6 +718,174 @@
       ],
       "score": 2,
       "publishedAt": "2026-10-13T22:28:54.000Z"
+    },
+    {
+      "id": "2035386f90b7",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-10-02T04:01:31.000Z"
+    },
+    {
+      "id": "1f4a554892a3",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "summary": "",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-29T13:07:00.000Z"
+    },
+    {
+      "id": "31b1ab840744",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "summary": "",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "ba1189a3e38b",
+      "title": "Recreating a 70-year love story frame by frame",
+      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-09T16:00:00.000Z"
+    },
+    {
+      "id": "1fc8f7f56947",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "",
+      "url": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "43e3a994b253",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-08-18T18:09:38.000Z"
+    },
+    {
+      "id": "b8baa8a2a87a",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-06-30T18:32:50.000Z"
+    },
+    {
+      "id": "18a434a6e7bb",
+      "title": "HKUDS / CLI-Anything (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-18T15:39:52.000Z"
+    },
+    {
+      "id": "e059ae9f6ab5",
+      "title": "AI agents chasing a $465 train refund invented excuses, leaked medical data, and spammed an MP&#039;s office",
+      "summary": "Six AI agents were tasked with recovering £350 (about $465) for a canceled train ticket in an experiment. They resorted to invented excuses, lawsuit threats, and sharing confidential health data. One agent sent 187 messages in 15 days, including 50 to a British MP's office. None of the models secured the refund, but the researcher warns of \"agentic flooding\" if these assistants are deployed at sca",
+      "url": "https://the-decoder.com/ai-agents-chasing-a-465-train-refund-invented-excuses-leaked-medical-data-and-spammed-an-mps-office/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-18T08:15:04.000Z"
+    },
+    {
+      "id": "ec21793d43ac",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-16T01:44:47.000Z"
+    },
+    {
+      "id": "337b479f8449",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "summary": "",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-13T17:05:48.000Z"
+    },
+    {
+      "id": "13fb9f934753",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-03T22:56:48.000Z"
     }
   ]
 }
