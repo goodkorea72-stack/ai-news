@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T15:18:29.038Z",
-  "nextUpdate": "2026-10-18T03:00:00.000Z",
+  "generatedAt": "2026-10-18T03:56:42.069Z",
+  "nextUpdate": "2026-10-18T15:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
   "totalCollected": 173,
@@ -99,34 +99,6 @@
       "publishedAt": "2026-08-26T00:00:00.000Z"
     },
     {
-      "id": "1d9f91a371be",
-      "title": "Meta Opens Muse Spark's Weights with Strings Attached",
-      "summary": "Article URL: https://ailately.com/articles/meta-muse-spark-open-weights Comments URL: https://news.ycombinator.com/item?id=50131617 Points: 1 # Comments: 0",
-      "url": "https://ailately.com/articles/meta-muse-spark-open-weights",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-17T14:42:48.000Z"
-    },
-    {
-      "id": "fb0f8d4e21fe",
-      "title": "Open Source Without the Open Door",
-      "summary": "Article URL: https://abbykearns.substack.com/p/open-source-without-the-open-door Comments URL: https://news.ycombinator.com/item?id=50131592 Points: 1 # Comments: 0",
-      "url": "https://abbykearns.substack.com/p/open-source-without-the-open-door",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-17T14:39:36.000Z"
-    },
-    {
       "id": "1c7f791b566f",
       "title": "Transformers now runs llama.cpp quants",
       "summary": "",
@@ -213,6 +185,21 @@
       "publishedAt": "2026-06-24T16:00:13.000Z"
     },
     {
+      "id": "a759673bf140",
+      "title": "stablyai / orca (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "url": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-18T03:56:37.000Z"
+    },
+    {
       "id": "7079b819dbe6",
       "title": "anthropics / claude-code (TypeScript)",
       "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
@@ -225,7 +212,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-17T15:18:27.000Z"
+      "publishedAt": "2026-10-18T03:56:37.000Z"
     },
     {
       "id": "3c1e7a008192",
@@ -240,7 +227,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-17T15:18:27.000Z"
+      "publishedAt": "2026-10-18T03:56:37.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -284,7 +271,7 @@
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-17T15:18:27.000Z"
+      "publishedAt": "2026-10-18T03:56:37.000Z"
     },
     {
       "id": "1a8ce30019c4",
@@ -299,7 +286,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-17T15:18:27.000Z"
+      "publishedAt": "2026-10-18T03:56:37.000Z"
     },
     {
       "id": "8abc7708741b",
@@ -314,7 +301,67 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-17T15:18:27.000Z"
+      "publishedAt": "2026-10-18T03:56:37.000Z"
+    },
+    {
+      "id": "dd4a8cbc0426",
+      "title": "MonkeyITM – open-source broker that sits between agents and the open world",
+      "summary": "Article URL: https://github.com/o87enterprises-ai/MonkeyITM Comments URL: https://news.ycombinator.com/item?id=50137739 Points: 1 # Comments: 0",
+      "url": "https://github.com/o87enterprises-ai/MonkeyITM",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-18T03:44:42.000Z"
+    },
+    {
+      "id": "32fa60150396",
+      "title": "We ran 53 open-source AI agents through behavioral tests and filed 37 bugs",
+      "summary": "Article URL: https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs Comments URL: https://news.ycombinator.com/item?id=50136669 Points: 9 # Comments: 1",
+      "url": "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-18T00:36:34.000Z"
+    },
+    {
+      "id": "1671ac385821",
+      "title": "Show HN: MoroccoAPI: An open source API for Moroccan public data",
+      "summary": "Article URL: https://moroccoapi.dev/ Comments URL: https://news.ycombinator.com/item?id=50136316 Points: 2 # Comments: 0",
+      "url": "https://moroccoapi.dev/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-17T23:49:19.000Z"
+    },
+    {
+      "id": "1962248ae920",
+      "title": "Doctors, Lawyers and Engineers joining AI's $400-an-Hour gig economy",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers Comments URL: https://news.ycombinator.com/item?id=50136210 Points: 4 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/ai-training-jobs-are-attracting-doctors-lawyers-and-engineers",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-17T23:33:37.000Z"
     },
     {
       "id": "ec7bc3bcb90a",
@@ -464,7 +511,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-17T15:18:27.000Z"
+      "publishedAt": "2026-10-18T03:56:37.000Z"
     },
     {
       "id": "7676d82ab2a8",
@@ -479,22 +526,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-17T15:18:27.000Z"
-    },
-    {
-      "id": "a759673bf140",
-      "title": "stablyai / orca (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "url": "https://github.com/stablyai/orca",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-17T15:18:27.000Z"
+      "publishedAt": "2026-10-18T03:56:37.000Z"
     },
     {
       "id": "1f05fc719933",
@@ -508,12 +540,12 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-17T15:18:27.000Z"
+      "publishedAt": "2026-10-18T03:56:37.000Z"
     },
     {
       "id": "3a66a45a9900",
       "title": "xerj-org / xerj (Rust)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "summary": "GitHub 인기 오픈소스 프로젝트: XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
       "url": "https://github.com/xerj-org/xerj",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
@@ -522,13 +554,27 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-17T15:18:27.000Z"
+      "publishedAt": "2026-10-18T03:56:37.000Z"
     },
     {
-      "id": "28e0f093870c",
-      "title": "Takto open-source hand exoskeleton",
-      "summary": "Article URL: https://github.com/molanocortes/takto-one/tree/main Comments URL: https://news.ycombinator.com/item?id=50131116 Points: 2 # Comments: 1",
-      "url": "https://github.com/molanocortes/takto-one/tree/main",
+      "id": "2e73eb5471e0",
+      "title": "Turn your coding-agent sessions into private evals",
+      "summary": "Article URL: https://github.com/ibragim-bad/evals-from-sessions Comments URL: https://news.ycombinator.com/item?id=50137653 Points: 2 # Comments: 0",
+      "url": "https://github.com/ibragim-bad/evals-from-sessions",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-18T03:26:40.000Z"
+    },
+    {
+      "id": "9c26a7d6d0ab",
+      "title": "Drunken Goddess Reflux Public Demo Canceled over AI Imitation Concerns",
+      "summary": "Article URL: https://noisypixel.net/drunken-goddess-reflux-public-demo-canceled-ai-imitation-concerns/ Comments URL: https://news.ycombinator.com/item?id=50136741 Points: 2 # Comments: 2",
+      "url": "https://noisypixel.net/drunken-goddess-reflux-public-demo-canceled-ai-imitation-concerns/",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -536,7 +582,22 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-17T13:42:35.000Z"
+      "publishedAt": "2026-10-18T00:50:48.000Z"
+    },
+    {
+      "id": "eb2474a0d7cd",
+      "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
+      "summary": "OpenAI has published four new cases where its AI models bypassed security boundaries on their own during training or testing. In one case, a model extracted server passwords from a government website, forged authorization tokens, and downloaded 24 years of hospital data without mentioning the unauthorized access. The article An OpenAI model hacked a government site, grabbed 24 years of hospital da",
+      "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-17T15:36:11.000Z"
     },
     {
       "id": "2fea3772dfda",
@@ -567,39 +628,6 @@
       ],
       "score": 3,
       "publishedAt": "2026-10-16T13:15:09.000Z"
-    },
-    {
-      "id": "c56a7acc36d8",
-      "title": "Anthropic gives METR inside access to audit its AI models and safety practices",
-      "summary": "Anthropic has given a team from the nonprofit METR inside access to review its AI models and safety practices, the company announced. The article Anthropic gives METR inside access to audit its AI models and safety practices appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropic-gives-metr-inside-access-to-audit-its-ai-models-and-safety-practices/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-16T13:11:55.000Z"
-    },
-    {
-      "id": "262915cde48a",
-      "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-07T00:16:45.000Z"
     },
     {
       "id": "858945812f14",
@@ -741,7 +769,49 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-10-17T15:18:27.000Z"
+      "publishedAt": "2026-10-18T03:56:37.000Z"
+    },
+    {
+      "id": "476c9df43465",
+      "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
+      "summary": "Article URL: https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html Comments URL: https://news.ycombinator.com/item?id=50137246 Points: 1 # Comments: 0",
+      "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-10-18T02:20:40.000Z"
+    },
+    {
+      "id": "5da9c3027c10",
+      "title": "Anthropic warns AI models could self-replicate across home devices",
+      "summary": "Article URL: https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html Comments URL: https://news.ycombinator.com/item?id=50136716 Points: 2 # Comments: 1",
+      "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-10-18T00:44:06.000Z"
+    },
+    {
+      "id": "b58e5d06a516",
+      "title": "I run my one-person business with ~17 narrow AI agents",
+      "summary": "Article URL: https://blakelapierre.substack.com/p/i-run-my-one-person-business-with Comments URL: https://news.ycombinator.com/item?id=50136273 Points: 3 # Comments: 2",
+      "url": "https://blakelapierre.substack.com/p/i-run-my-one-person-business-with",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-10-17T23:43:05.000Z"
     },
     {
       "id": "77d8ce9b7daf",
@@ -821,76 +891,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-10-13T22:28:54.000Z"
-    },
-    {
-      "id": "2035386f90b7",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-02T04:01:31.000Z"
-    },
-    {
-      "id": "1f4a554892a3",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-29T13:07:00.000Z"
-    },
-    {
-      "id": "31b1ab840744",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "summary": "",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "ba1189a3e38b",
-      "title": "Recreating a 70-year love story frame by frame",
-      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-09T16:00:00.000Z"
-    },
-    {
-      "id": "1fc8f7f56947",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "summary": "",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
     }
   ]
 }
