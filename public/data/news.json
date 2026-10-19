@@ -1,27 +1,11 @@
 {
-  "generatedAt": "2026-10-19T04:05:11.406Z",
-  "nextUpdate": "2026-10-19T16:00:00.000Z",
+  "generatedAt": "2026-10-19T18:35:12.033Z",
+  "nextUpdate": "2026-10-20T06:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 273,
+  "totalCollected": 272,
   "articleCount": 60,
   "articles": [
-    {
-      "id": "1b7f5e5799f6",
-      "title": "Deepseek V4.1 Flash 1017 beats larger rivals in agentic tasks while once again massively cutting per-task costs",
-      "summary": "Deepseek has released V4.1-Flash-1017 as an open-weight model that posts better benchmarks, finishes tasks faster, and produces shorter outputs than its predecessor. The company is also opening up its internal search engine through new Search and Fetch APIs at $0.75 per 1,000 calls. API users in tools like Claude Code and Codex get free access for now. The article Deepseek V4.1 Flash 1017 beats la",
-      "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 12,
-      "publishedAt": "2026-10-17T10:33:28.000Z"
-    },
     {
       "id": "9c102c18b9ce",
       "title": "Compression Precedes, Content Decides: Emergent Misalignment in Reward Models",
@@ -81,7 +65,7 @@
         "industry"
       ],
       "score": 8,
-      "publishedAt": "2026-10-19T04:05:09.000Z"
+      "publishedAt": "2026-10-19T18:35:10.000Z"
     },
     {
       "id": "e91ae366179d",
@@ -173,6 +157,20 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "bf454512d0ad",
+      "title": "Open source license compliance generally available",
+      "summary": "Article URL: https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available/ Comments URL: https://news.ycombinator.com/item?id=50155337 Points: 2 # Comments: 0",
+      "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-19T17:34:54.000Z"
     },
     {
       "id": "1d925fc8823d",
@@ -378,7 +376,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-19T04:05:09.000Z"
+      "publishedAt": "2026-10-19T18:35:10.000Z"
     },
     {
       "id": "a759673bf140",
@@ -393,7 +391,22 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-19T04:05:09.000Z"
+      "publishedAt": "2026-10-19T18:35:10.000Z"
+    },
+    {
+      "id": "7079b819dbe6",
+      "title": "anthropics / claude-code (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "url": "https://github.com/anthropics/claude-code",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-19T18:35:10.000Z"
     },
     {
       "id": "450522792cab",
@@ -573,20 +586,6 @@
       "publishedAt": "2026-06-23T00:00:00.000Z"
     },
     {
-      "id": "f8ef14d76ede",
-      "title": "anthropics / claude-plugins-official (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-19T04:05:09.000Z"
-    },
-    {
       "id": "8abc7708741b",
       "title": "anomalyco / opencode (TypeScript)",
       "summary": "GitHub 인기 오픈소스 프로젝트: The open source coding agent.",
@@ -599,7 +598,52 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-19T04:05:09.000Z"
+      "publishedAt": "2026-10-19T18:35:10.000Z"
+    },
+    {
+      "id": "68c728cf7b6b",
+      "title": "MiniMax M3.1 Flash shows China&#039;s AI price race has no floor in sight",
+      "summary": "MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost. It also hits 73.7 percent on the DeepSWE v1.1 coding benchmark for under $0.30 per task, matching Deepseek V4.1 Flash 1017 on both performance and price. The article MiniMax M3.1 Flash shows China&#039;s AI price race has no floor in sight appeared first on The Decoder .",
+      "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-19T18:22:30.000Z"
+    },
+    {
+      "id": "61883657e974",
+      "title": "MuscleMemory: Open-source procedural memory gated on passing tests",
+      "summary": "Article URL: https://github.com/TheWariend/MuscleMemory Comments URL: https://news.ycombinator.com/item?id=50155804 Points: 2 # Comments: 0",
+      "url": "https://github.com/TheWariend/MuscleMemory",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-19T18:10:33.000Z"
+    },
+    {
+      "id": "f1c45262a62e",
+      "title": "Show HN: Senseplane open-source eyes and ears for AI agents, on your own cameras",
+      "summary": "Article URL: https://github.com/senseplane-ai/senseplane Comments URL: https://news.ycombinator.com/item?id=50155220 Points: 1 # Comments: 0",
+      "url": "https://github.com/senseplane-ai/senseplane",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-19T17:25:01.000Z"
     },
     {
       "id": "ce20f7cc5d08",
@@ -853,49 +897,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-10-18T12:39:51.000Z"
-    },
-    {
-      "id": "bc338b0069ce",
-      "title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
-      "summary": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn't help. The article AI agents have bad taste in long-term decisions and a new benchmark proves it appeared first on The Decoder .",
-      "url": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-18T08:49:41.000Z"
-    },
-    {
-      "id": "ec7bc3bcb90a",
-      "title": "Anthropics&#039; Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
-      "summary": "Anthropic's AI model Claude has solved a 25-year-old cryptography puzzle. The mysterious seeds behind NIST's standard curves for digital signatures were provided by the NSA without explanation, raising long-standing suspicion about built-in backdoors. Claude figured out in under 30 minutes that the seeds came from \"lrand48,\" a simple C random number generator, making deliberate backdoors far less ",
-      "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-17T14:42:56.000Z"
-    },
-    {
-      "id": "70c0b23aa346",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-13T16:00:00.000Z"
     }
   ]
 }
