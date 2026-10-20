@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-20T04:17:57.338Z",
-  "nextUpdate": "2026-10-20T16:00:00.000Z",
+  "generatedAt": "2026-10-20T16:38:17.971Z",
+  "nextUpdate": "2026-10-21T04:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 172,
+  "totalCollected": 173,
   "articleCount": 60,
   "articles": [
     {
@@ -35,22 +35,22 @@
         "industry"
       ],
       "score": 8,
-      "publishedAt": "2026-10-20T04:17:57.000Z"
+      "publishedAt": "2026-10-20T16:38:14.000Z"
     },
     {
-      "id": "e91ae366179d",
-      "title": "Anthropic consults law firms to set fair negotiation norms before AI agents start cutting deals",
-      "summary": "Anthropic is consulting with law firms to develop negotiation norms for AI agents that would haggle over prices, resolve complaints, or improve contracts on behalf of users. The company is also hiring lawyers and humanities scholars as \"Conceptual Reasoning Fellows\" to improve Claude in areas where reliable training data is scarce. The article Anthropic consults law firms to set fair negotiation n",
-      "url": "https://the-decoder.com/anthropic-consults-law-firms-to-set-fair-negotiation-norms-before-ai-agents-start-cutting-deals/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "f0921617e5bb",
+      "title": "anthropics / knowledge-work-plugins (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
-        "new_model",
-        "industry"
+        "open_source",
+        "new_model"
       ],
-      "score": 8,
-      "publishedAt": "2026-10-18T09:11:29.000Z"
+      "score": 7,
+      "publishedAt": "2026-10-20T16:38:14.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -169,21 +169,6 @@
       "publishedAt": "2026-06-24T16:00:13.000Z"
     },
     {
-      "id": "3c1e7a008192",
-      "title": "ruvnet / ruflo (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "url": "https://github.com/ruvnet/ruflo",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-20T04:17:57.000Z"
-    },
-    {
       "id": "a759673bf140",
       "title": "stablyai / orca (TypeScript)",
       "summary": "GitHub 인기 오픈소스 프로젝트: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
@@ -196,13 +181,13 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-20T04:17:57.000Z"
+      "publishedAt": "2026-10-20T16:38:14.000Z"
     },
     {
-      "id": "7079b819dbe6",
-      "title": "anthropics / claude-code (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "url": "https://github.com/anthropics/claude-code",
+      "id": "3c1e7a008192",
+      "title": "ruvnet / ruflo (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "url": "https://github.com/ruvnet/ruflo",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -211,7 +196,22 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-20T04:17:57.000Z"
+      "publishedAt": "2026-10-20T16:38:14.000Z"
+    },
+    {
+      "id": "9ce6c1be2fd4",
+      "title": "vllm-project / vllm (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "url": "https://github.com/vllm-project/vllm",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-20T16:38:14.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -229,19 +229,18 @@
       "publishedAt": "2026-08-13T17:16:04.000Z"
     },
     {
-      "id": "249bf0754a74",
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "summary": "",
-      "url": "https://huggingface.co/blog/cross-origin-storage",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
+      "id": "0e73dde60ec6",
+      "title": "Graphify-Labs / graphify (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
-        "open_source",
-        "industry"
+        "new_model"
       ],
-      "score": 5,
-      "publishedAt": "2026-06-23T00:00:00.000Z"
+      "score": 4,
+      "publishedAt": "2026-10-20T16:38:14.000Z"
     },
     {
       "id": "8abc7708741b",
@@ -256,22 +255,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-20T04:17:57.000Z"
-    },
-    {
-      "id": "545670cf4986",
-      "title": "Voice packs plus an open-source agent for texts, calls and Slack",
-      "summary": "Article URL: https://github.com/eyeguide-dev/speakvora-pack-agent Comments URL: https://news.ycombinator.com/item?id=50160973 Points: 1 # Comments: 0",
-      "url": "https://github.com/eyeguide-dev/speakvora-pack-agent",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-20T03:21:33.000Z"
+      "publishedAt": "2026-10-20T16:38:14.000Z"
     },
     {
       "id": "68c728cf7b6b",
@@ -302,36 +286,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-10-18T13:22:26.000Z"
-    },
-    {
-      "id": "3f1ba7b1ef0f",
-      "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
-      "summary": "Four AI agents running on Google's Gemini 4 Argon have beaten Minecraft for the first time without human help, slaying the Ender Dragon in a fully autonomous run. With no predefined roles or strategies, they coordinated on their own, wrote 2,783 programs, exchanged 229 chat messages, and died 605 times. The session cost $1,620. The article Four Gemini 4 Argon agents beat Minecraft without any huma",
-      "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-18T12:39:51.000Z"
-    },
-    {
-      "id": "bc338b0069ce",
-      "title": "AI agents have bad taste in long-term decisions and a new benchmark proves it",
-      "summary": "A new benchmark called Taste-Bench tests how well AI agents make strategic choices during long-running tasks. Even the best model, GPT-5.6 Sol, picks the right path on just under 60 percent of simple binary questions. Thinking longer doesn't help. The article AI agents have bad taste in long-term decisions and a new benchmark proves it appeared first on The Decoder .",
-      "url": "https://the-decoder.com/ai-agents-have-bad-taste-in-long-term-decisions-and-a-new-benchmark-proves-it/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-18T08:49:41.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -450,7 +404,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-20T04:17:57.000Z"
+      "publishedAt": "2026-10-20T16:38:14.000Z"
     },
     {
       "id": "7570f36dcbb8",
@@ -464,27 +418,13 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-20T04:17:57.000Z"
+      "publishedAt": "2026-10-20T16:38:14.000Z"
     },
     {
-      "id": "1ce38f26f8d5",
-      "title": "Should agent-memory benchmarks test stale information?",
-      "summary": "Article URL: https://agentmemories.ai/home Comments URL: https://news.ycombinator.com/item?id=50161107 Points: 1 # Comments: 0",
-      "url": "https://agentmemories.ai/home",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-20T03:46:35.000Z"
-    },
-    {
-      "id": "a5217fb00508",
-      "title": "Show HN: An Open Source Aircraft",
-      "summary": "Good Luck, Have fun, Don't die. Comments URL: https://news.ycombinator.com/item?id=50161104 Points: 1 # Comments: 0",
-      "url": "https://adampaigge.github.io/openplane/",
+      "id": "decf2fff003a",
+      "title": "Best LLM Fine-Tuning Services: What to Look for in 2026",
+      "summary": "Article URL: https://www.rebiha.com/best-llm-fine-tuning-services Comments URL: https://news.ycombinator.com/item?id=50168792 Points: 1 # Comments: 0",
+      "url": "https://www.rebiha.com/best-llm-fine-tuning-services",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -492,27 +432,13 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-20T03:46:13.000Z"
+      "publishedAt": "2026-10-20T16:24:45.000Z"
     },
     {
-      "id": "11cac6edda1d",
-      "title": "Show HN: AML CYCLE 2, a benchmark for long-term agent memory",
-      "summary": "Article URL: https://x.com/AgentMemoryL Comments URL: https://news.ycombinator.com/item?id=50161060 Points: 1 # Comments: 0",
-      "url": "https://x.com/AgentMemoryL",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-20T03:38:38.000Z"
-    },
-    {
-      "id": "baf4557a9fc6",
-      "title": "Show HN: Search for AI-agents and usefulness score",
-      "summary": "We presented this project at innovationintelligencehackathon.com and today we are putting a url out for you to test and give us feedback. after talking to teams building agents that research companies to create outreach, we found few things that are very important to them. one of them is recency. When we prompted agents with outdated alert about companies, 4 out of 7 times, they came up with outda",
-      "url": "https://xtract-production-2efc.up.railway.app/",
+      "id": "62670d4c2067",
+      "title": "Show HN: Agent Archive – Session Handoffs and Backups for Claude Code and Codex",
+      "summary": "I often switch between Claude Code and Codex throughout the week, and between my laptop and an older machine I leave running at home. I built agent-archive to make it easier to pick up where I left off, especially when i hit usage limits. It lets you (or a coding agent) find past coding sessions and hand their conversation context to another agent. You can try local handoffs without setup, or conn",
+      "url": "https://github.com/wangjohn/agent-archive",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -521,13 +447,13 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-20T02:57:52.000Z"
+      "publishedAt": "2026-10-20T15:54:31.000Z"
     },
     {
-      "id": "285175bfdce8",
-      "title": "US banning Chinese AI DeepSeek from government agency IT systems",
-      "summary": "Article URL: https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/ Comments URL: https://news.ycombinator.com/item?id=50160306 Points: 1 # Comments: 1",
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "id": "5e9c37ca89d2",
+      "title": "I built Dowse, free open-source way to find any file on your PC by describing it",
+      "summary": "Article URL: https://walidhadri-iron.github.io/dowse/ Comments URL: https://news.ycombinator.com/item?id=50167993 Points: 1 # Comments: 0",
+      "url": "https://walidhadri-iron.github.io/dowse/",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -535,21 +461,36 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-20T01:37:45.000Z"
+      "publishedAt": "2026-10-20T15:36:31.000Z"
     },
     {
-      "id": "1462c3a7bf4b",
-      "title": "Show HN: Resourcedeck, free and open source resource and portfolio planning",
-      "summary": "Article URL: https://resourcedeck.app/ Comments URL: https://news.ycombinator.com/item?id=50159902 Points: 2 # Comments: 0",
-      "url": "https://resourcedeck.app/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "8dc33b071dd0",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-20T15:19:48.000Z"
+    },
+    {
+      "id": "fe1b5dfbdc5a",
+      "title": "US bans Deepseek technology across federal civilian agencies",
+      "summary": "The US Department of Homeland Security has banned federal civilian agencies from using AI technology from Chinese lab Deepseek. The article US bans Deepseek technology across federal civilian agencies appeared first on The Decoder .",
+      "url": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-20T00:39:43.000Z"
+      "publishedAt": "2026-10-20T11:34:54.000Z"
     },
     {
       "id": "858945812f14",
@@ -666,32 +607,32 @@
       "publishedAt": "2026-06-26T00:00:00.000Z"
     },
     {
-      "id": "858defa77ee5",
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "summary": "",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-06-23T00:00:00.000Z"
-    },
-    {
-      "id": "512d60d2e887",
-      "title": "akitaonrails / ai-memory (Rust)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "64716538a2f9",
+      "title": "Why scraping isn't enough for AI agents and how DNS-verified profiles could help",
+      "summary": "Article URL: https://github.com/skindotorg/foundation/blob/main/publishing-for-ai-agents.md Comments URL: https://news.ycombinator.com/item?id=50168366 Points: 2 # Comments: 0",
+      "url": "https://github.com/skindotorg/foundation/blob/main/publishing-for-ai-agents.md",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-10-20T04:17:57.000Z"
+      "publishedAt": "2026-10-20T15:59:42.000Z"
+    },
+    {
+      "id": "f28f19a8f49c",
+      "title": "Ask HN: As developers from low-income countries,how to cope with AI replacement?",
+      "summary": "programming is fun and all of that is fine but how do I compete with a developer with a 200$/500$ Claude subscription? I was fine with making pennies,now I can't even make that. I was fine with competing against thousands of people who claimed competence, I could prove it by making stuff, but now I am just a dot in an ocean that people were wholeheartedly glad to discard and i have no way to get b",
+      "url": "https://news.ycombinator.com/item?id=50168362",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-10-20T15:59:25.000Z"
     },
     {
       "id": "96aa1b422852",
@@ -871,10 +812,10 @@
       "publishedAt": "2026-06-30T18:32:50.000Z"
     },
     {
-      "id": "18a434a6e7bb",
-      "title": "HKUDS / CLI-Anything (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: \"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "url": "https://github.com/HKUDS/CLI-Anything",
+      "id": "91ec28eef31c",
+      "title": "cloudflare / security-audit-skill (JavaScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "url": "https://github.com/cloudflare/security-audit-skill",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -882,7 +823,63 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-10-20T04:17:57.000Z"
+      "publishedAt": "2026-10-20T16:38:14.000Z"
+    },
+    {
+      "id": "279657933dec",
+      "title": "DietrichGebert / ponytail (JavaScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-20T16:38:14.000Z"
+    },
+    {
+      "id": "f95d52dc52e4",
+      "title": "msitarzewski / agency-agents (Shell)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-20T16:38:14.000Z"
+    },
+    {
+      "id": "7634e71f943c",
+      "title": "Show HN: Koody for Business – AI bookkeeping for people who aren't accountants",
+      "summary": "Hi HN, I'm Hallie, founder of Koody. Today, I'm launching Koody for Business: AI-powered accounting, bookkeeping, and tax prep software for sole proprietors and small businesses. For years, I used accounting software for my business. I went into it to create invoices, categorize and reconcile transactions, and work with my accountant to prepare our books. I often dreaded having to do it. There wer",
+      "url": "https://koody.com/business",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-20T16:09:44.000Z"
+    },
+    {
+      "id": "fcbd64c2a07b",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "summary": "",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-20T16:09:19.000Z"
     }
   ]
 }
