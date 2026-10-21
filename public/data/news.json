@@ -1,11 +1,102 @@
 {
-  "generatedAt": "2026-10-20T16:38:17.971Z",
-  "nextUpdate": "2026-10-21T04:00:00.000Z",
+  "generatedAt": "2026-10-21T04:06:50.699Z",
+  "nextUpdate": "2026-10-21T16:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 173,
+  "totalCollected": 275,
   "articleCount": 60,
   "articles": [
+    {
+      "id": "e9e599c051ac",
+      "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+      "summary": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pricing pressure on Western providers like OpenAI and Anthropic. The article Deepseek open-sources the inference engine that powers its fastest and cheapest AI model appeared first on The Decoder .",
+      "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 16,
+      "publishedAt": "2026-10-20T18:56:15.000Z"
+    },
+    {
+      "id": "b1ad74a1caf0",
+      "title": "Staged Continual Adaptation of Multimodal Foundation Models for Japanese Financial Documents",
+      "summary": "arXiv:2610.27904v1 Announce Type: new Abstract: Staged post-training of multimodal foundation models chains vision-language alignment, reasoning distillation, and domain tuning, yet how each phase trades capabilities against the others remains under-characterised. Tracking an 8.4B-parameter model from an un-fine-tuned baseline through three training phases on Japanese financial documents (evaluate",
+      "url": "https://arxiv.org/abs/2610.27904",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 11,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "a9651d306e09",
+      "title": "Teaching AI Agent to Play Poker Strategically Through Preference Optimization",
+      "summary": "arXiv:2610.27028v1 Announce Type: new Abstract: A poker agent can make a legal move and still make a strategically poor one. We ask whether compact AI agents can exhibit strategic behavior under hidden information and whether preference optimization can improve beyond static and zero-shot policies. We first evaluate a static baseline and three frozen language models: SmallThinker, Qwen3, and Gemma",
+      "url": "https://arxiv.org/abs/2610.27028",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "2176572026ff",
+      "title": "When PTQ Calibration Helps or Hurts: Dose-Driven Collapse and Validation-Gated Abstention in Quantized Text Embedders",
+      "summary": "arXiv:2610.27397v1 Announce Type: new Abstract: Learned post-training quantization (PTQ) calibration fits quantizer parameters on a small calibration set, and for a text embedder the natural supervision is retrieval relevance. We ask two questions that are usually conflated: how far to calibrate, and whether to calibrate at all. Across three embedders (e5-base-v2, BGE-M3, EmbeddingGemma-300m) at 4",
+      "url": "https://arxiv.org/abs/2610.27397",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "aee8d1d5e09c",
+      "title": "E8-QAT: Efficient 2-Bit Quantization-Aware Training with Implicit Lattice Codebooks",
+      "summary": "arXiv:2610.27699v1 Announce Type: new Abstract: Low-bit quantization reduces the memory footprint of large language models, but preserving accuracy with efficient training remains challenging. Scalar quantization encodes weights independently, while explicit-codebook vector quantization introduces costly search during training. We propose E8-QAT, a 2-bit quantization-aware training framework that ",
+      "url": "https://arxiv.org/abs/2610.27699",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "2842e9902278",
+      "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs Comments URL: https://news.ycombinator.com/item?id=50175874 Points: 2 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 9,
+      "publishedAt": "2026-10-21T03:50:30.000Z"
+    },
     {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
@@ -35,7 +126,22 @@
         "industry"
       ],
       "score": 8,
-      "publishedAt": "2026-10-20T16:38:14.000Z"
+      "publishedAt": "2026-10-21T04:06:50.000Z"
+    },
+    {
+      "id": "1194ba762f84",
+      "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
+      "summary": "arXiv:2610.26943v1 Announce Type: new Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processes. Multi-agent systems (MASs) have shown growing potential in this domain by leveraging collaboration and verification amon",
+      "url": "https://arxiv.org/abs/2610.26943",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
       "id": "f0921617e5bb",
@@ -50,7 +156,23 @@
         "new_model"
       ],
       "score": 7,
-      "publishedAt": "2026-10-20T16:38:14.000Z"
+      "publishedAt": "2026-10-21T04:06:50.000Z"
+    },
+    {
+      "id": "9808dda75cb8",
+      "title": "Show HN: acplause – An ACP agent for OpenAI-compatible APIs",
+      "summary": "Article URL: https://github.com/anesthetised/acplause Comments URL: https://news.ycombinator.com/item?id=50175258 Points: 1 # Comments: 0",
+      "url": "https://github.com/anesthetised/acplause",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-21T02:16:49.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -81,6 +203,168 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "0601f37989e0",
+      "title": "Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training",
+      "summary": "arXiv:2610.26887v1 Announce Type: new Abstract: Large language model (LLM) agents are evolving from conversational assistants into Cowork Agents capable of autonomous planning, tool use, and complex task execution. Financial analysis requires these agents to integrate cross-document evidence and perform multistep numerical reasoning, but expert task authoring is costly, while direct LLM synthesis ",
+      "url": "https://arxiv.org/abs/2610.26887",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "d2627e027599",
+      "title": "M-Plan: Comprehensive Planning For LLM Agents with Memory Arrangement",
+      "summary": "arXiv:2610.27032v1 Announce Type: new Abstract: Large language model (LLM)-based agents have recently demonstrated outstanding performance in single-turn tasks, yet they continue to struggle with long-horizon tasks, particularly in environments without prior training. A key limitation of single LLMs is their difficulty in processing long contexts, which stems from weaknesses in continuous decision",
+      "url": "https://arxiv.org/abs/2610.27032",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "882b82c09443",
+      "title": "ReuF2F: Benchmarking Coding Agents on Formalized Undergraduate Research Problems",
+      "summary": "arXiv:2610.27046v1 Announce Type: new Abstract: As AI systems begin to resolve open research problems, reliable verification becomes increasingly important. Formal mathematics provides a trusted framework for mathematical reasoning, enabling agents to produce machine-checkable proofs while conducting mathematical exploration. Existing formal mathematics benchmarks often focus on known results or a",
+      "url": "https://arxiv.org/abs/2610.27046",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "0e8687a7dd60",
+      "title": "EGI-BENCH: An Enterprise General Intelligence Benchmark Suite",
+      "summary": "arXiv:2610.27234v1 Announce Type: new Abstract: Enterprise adoption of LLMs in agentic workflows is gated by evaluations that span a wide arc of abilities: CRM operations, heterogeneous-document retrieval, personal data understanding, multi-turn planning, tool use, function calling, long-horizon research, and long-context software engineering. These evaluations live today in separate repositories ",
+      "url": "https://arxiv.org/abs/2610.27234",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "c452c1e889a8",
+      "title": "TriGeoBench: A Multimodal Mathematical Geometry Benchmark with Figures and TikZ",
+      "summary": "arXiv:2610.27626v1 Announce Type: new Abstract: Multimodal Large Language Models show strong vision-language capabilities, yet their geometry-centric reasoning remains insufficiently understood. Existing mathematical benchmarks typically rely on rasterized figures and cover limited geometric knowledge areas and response formats, making it difficult to assess whether models reason over geometric st",
+      "url": "https://arxiv.org/abs/2610.27626",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "1b23016e6fdd",
+      "title": "Reusing Multimodal Agents: Efficient Evaluation of Sound Designs in Games",
+      "summary": "arXiv:2610.27670v1 Announce Type: new Abstract: This paper introduces a novel framework for efficiently evaluating in-game sound designs using multimodal learning and reinforcement learning. Sound design significantly influences gameplay and accessibility; however, objective evaluation methods, defined here as automated assessments based on agent performance rather than human ratings, often requir",
+      "url": "https://arxiv.org/abs/2610.27670",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "23b99d0bf3d7",
+      "title": "When Does Experience Memory Help Closed-Loop LLM Driving Agents? A Controlled Evaluation with Resampled Warmup Pools, Token-Matched Fillers, and Audited Baselines",
+      "summary": "arXiv:2610.27714v1 Announce Type: new Abstract: When does experience memory help a closed-loop LLM driving agent? Published gains cannot say, because the two factors we find to matter most, which warmup experiences the pool contains and what any injected tokens do to the prompt, are controlled in none of them. We answer with a controlled evaluation on one audited HighwayEnv testbed (1Hz, gpt-4o-mi",
+      "url": "https://arxiv.org/abs/2610.27714",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "63b164e144dd",
+      "title": "SAPD: Learning from Agent Experience without Environment Interaction",
+      "summary": "arXiv:2610.27847v1 Announce Type: new Abstract: Scaling the training of Large Language Model (LLM) agents typically requires a large collection of executable environments, whose construction, maintenance, and operation constrain the expansion of training experience. Existing offline trajectories offer an opportunity to reuse interaction experience, yet effectively refining the current policy witho",
+      "url": "https://arxiv.org/abs/2610.27847",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "b0f48bd5cb0a",
+      "title": "Show HN: Hibi – an open source obsidian alternative",
+      "summary": "i shared hibi here in september as an open-source obsidian alternative but i wasn't able to attend to it much: https://news.ycombinator.com/item?id=49782528 for context, hibi is a free, open-source markdown/latex/typst/and more editor that keeps files in your own folders and it is my beloved hobby project that i use everyday in the previous post, i was asked how mature the addon architecture was a",
+      "url": "https://github.com/schmayterling/hibi",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-21T01:06:10.000Z"
+    },
+    {
+      "id": "f1de81be4247",
+      "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
+      "summary": "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into external tools during live conversations. It can run on your own infrastructure or through EU-hosted APIs to keep data under your control. The article Mistral AI launches",
+      "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-20T17:17:55.000Z"
+    },
+    {
+      "id": "a27bd79e7831",
+      "title": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
+      "summary": "OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra. For COBOL migration specifically, GPT-6.1 Sol reaches up to 97.9 percent accuracy, a result that could matter for modernizing critical financial inf",
+      "url": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-20T16:40:29.000Z"
     },
     {
       "id": "1c7f791b566f",
@@ -181,7 +465,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-20T16:38:14.000Z"
+      "publishedAt": "2026-10-21T04:06:50.000Z"
     },
     {
       "id": "3c1e7a008192",
@@ -196,7 +480,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-20T16:38:14.000Z"
+      "publishedAt": "2026-10-21T04:06:50.000Z"
     },
     {
       "id": "9ce6c1be2fd4",
@@ -211,7 +495,139 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-20T16:38:14.000Z"
+      "publishedAt": "2026-10-21T04:06:50.000Z"
+    },
+    {
+      "id": "2fcea2f96dad",
+      "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
+      "summary": "arXiv:2610.26924v1 Announce Type: new Abstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable evidence. Training these capabilities requires diverse and challenging tasks. However, generating tasks directly from raw data often overlooks deeper questions that emerge through analysis ",
+      "url": "https://arxiv.org/abs/2610.26924",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "f8b76d305df0",
+      "title": "Does Multi-Agent Collaboration Reduce Hallucination in Clinical Tasks?",
+      "summary": "arXiv:2610.27027v1 Announce Type: new Abstract: Multi-agent LLM systems improve performance on clinical tasks, and that improvement is often read as evidence of a more trustworthy system. However, the two are not the same claim. A clinician acts on the stated reasoning and not only on the conclusion, so whether collaboration reduces hallucination, and what decides when it does, has to be measured ",
+      "url": "https://arxiv.org/abs/2610.27027",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "28dde1b6eb90",
+      "title": "An LLM-Based Agent for Legal Compliance Assessment: Architecture, Memory, and Evaluation in a Canadian and Quebec Context",
+      "summary": "arXiv:2610.27347v1 Announce Type: new Abstract: Checking whether a text complies with a body of law is slow when done by hand and fragile when done with keyword rules. This paper presents ComplianceAgent, the legal compliance sub-agent of COMPASS, a multi-agent framework that evaluates texts along four axes: digital sovereignty, carbon impact, compliance, and ethics. The agent relies on a large la",
+      "url": "https://arxiv.org/abs/2610.27347",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "8a7778c72efb",
+      "title": "Harness Self-Evolution for Long-Horizon Terminal Agents",
+      "summary": "arXiv:2610.27435v1 Announce Type: new Abstract: Long-horizon terminal agents may solve a task in one run yet fail across repeated runs. Stochastic errors can propagate through actions and context, creating a gap between capability and reliable execution. We present RiseHarness, a framework for iteratively improving agent harnesses with model weights fixed. It focuses on flipping tasks with both su",
+      "url": "https://arxiv.org/abs/2610.27435",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "8cf7ea9c679f",
+      "title": "MemDev-Bench: Does Memory Help Code Agents?Benchmarking Memory Systems over Real Repository Histories",
+      "summary": "arXiv:2610.27524v1 Announce Type: new Abstract: Code agents increasingly work on evolving real repositories, and memory systems aim to help them reuse earlier experience. However, such experience is diverse and evolving, so it remains unclear how memory systems organize it and thereby affect code agents. Existing benchmarks cannot answer this reliably because they lack either temporally valid hist",
+      "url": "https://arxiv.org/abs/2610.27524",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "45f049fcded0",
+      "title": "Beyond Experience: Knowledge-Guided Evolution for NPU Kernel Generation",
+      "summary": "arXiv:2610.27588v1 Announce Type: new Abstract: LLM agents have become capable kernel engineers on mainstream GPU stacks, but they struggle on emerging accelerators such as Ascend NPUs, whose programming model is barely represented in pretraining data. Recent NPU agents address this gap largely through experience: they accumulate memory from their own generation and optimization trials and reuse i",
+      "url": "https://arxiv.org/abs/2610.27588",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "6f0249c7c7de",
+      "title": "Privacy-preserving inference on hosted models: a learned input-embedding transform for frozen Qwen3.8-27B",
+      "summary": "arXiv:2610.27817v1 Announce Type: new Abstract: Every prompt sent to a hosted language model is readable by whoever runs it. We study whether the prompt can remain on the client while the host receives transformed vectors that stand in for it. A language model converts text to vectors exactly once, with a public lookup table; we perform that step locally and pass the vectors through a small traine",
+      "url": "https://arxiv.org/abs/2610.27817",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "5ef8b2a3f092",
+      "title": "MMEnterprise-Bench: Evaluating Enterprise Agents over Evolving Multimodal Records",
+      "summary": "arXiv:2610.27911v1 Announce Type: new Abstract: Enterprise agents answer questions over workplace records that evolve through team collaboration. As information is shared, corrected, and revised across documents, chats, and figures, multiple versions of the same information accumulate in the workspace. Reliable question answering therefore requires agents to reason over sufficient evidence, resolv",
+      "url": "https://arxiv.org/abs/2610.27911",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "b8b2b6db0f43",
+      "title": "ACE-Compression: An Ability-Centric Evaluation of Compressed Large Language Models",
+      "summary": "arXiv:2610.27913v1 Announce Type: new Abstract: Model compression makes large language models deployable, but today's evaluation tells an incomplete story. Standard practice measures retained task performance and stops there. This misses a critical fact: compression perturbs the distributed knowledge embedded across billions of weights, and task scores alone cannot reveal which underlying abilitie",
+      "url": "https://arxiv.org/abs/2610.27913",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -240,7 +656,7 @@
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-20T16:38:14.000Z"
+      "publishedAt": "2026-10-21T04:06:50.000Z"
     },
     {
       "id": "8abc7708741b",
@@ -255,631 +671,225 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-20T16:38:14.000Z"
+      "publishedAt": "2026-10-21T04:06:50.000Z"
     },
     {
-      "id": "68c728cf7b6b",
-      "title": "MiniMax M3.1 Flash shows China&#039;s AI price race has no floor in sight",
-      "summary": "MiniMax's M3.1 Flash jumps 13 points over its predecessor to 42 on the Artificial Analysis Intelligence Index, at half the cost. It also hits 73.7 percent on the DeepSWE v1.1 coding benchmark for under $0.30 per task, matching Deepseek V4.1 Flash 1017 on both performance and price. The article MiniMax M3.1 Flash shows China&#039;s AI price race has no floor in sight appeared first on The Decoder .",
-      "url": "https://the-decoder.com/minimax-m3-1-flash-shows-chinas-ai-price-race-has-no-floor-in-sight/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "e8d171837ddd",
+      "title": "Agent Manager by HF",
+      "summary": "Article URL: https://github.com/huggingface/agent-manager Comments URL: https://news.ycombinator.com/item?id=50175964 Points: 1 # Comments: 0",
+      "url": "https://github.com/huggingface/agent-manager",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
         "open_source",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-19T18:22:30.000Z"
+      "publishedAt": "2026-10-21T04:05:19.000Z"
     },
     {
-      "id": "4da00bd7170a",
-      "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
-      "summary": "Anthropic is hiring fewer and fewer junior staff in technical roles. The share of junior positions among new hires dropped from 27 to 9 percent since early 2025. By August 2026, AI agents across the company were already logging six times as many hours as humans. Researchers warn of a \"tragedy of the cognitive commons\": if junior positions disappear, experienced specialists will be in short supply ",
-      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "323081293693",
+      "title": "SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents",
+      "summary": "arXiv:2610.26995v1 Announce Type: new Abstract: LLM-based agents increasingly rely on reusable skills. However, scaling skill libraries makes efficient and accurate skill use difficult. Full skill loading incurs high token and runtime overhead. In contrast, flat semantic retrieval treats skills as independent text entries, ignoring dependencies, execution order, state transitions, and data flow co",
+      "url": "https://arxiv.org/abs/2610.26995",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "4b5afff27674",
+      "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+      "summary": "arXiv:2610.27103v1 Announce Type: new Abstract: Recent Omni LLMs (OLLMs) have demonstrated remarkable capabilities in joint audio-visual reasoning, yet cross-modal hallucinations remain a major challenge. Existing mitigation methods mainly operate at the output level, overlooking the entanglement of grounding evidence and learned priors within fused representations. To address this issue, we propo",
+      "url": "https://arxiv.org/abs/2610.27103",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-18T13:22:26.000Z"
+      "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
-      "id": "70c0b23aa346",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-13T16:00:00.000Z"
-    },
-    {
-      "id": "d5e9b9a87420",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "summary": "",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "0019ae2665a3",
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "summary": "",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "9c95afa451ef",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "summary": "",
-      "url": "https://huggingface.co/blog/baseten",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-08-06T00:00:00.000Z"
-    },
-    {
-      "id": "0ee73a62fb00",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-07-23T00:00:00.000Z"
-    },
-    {
-      "id": "ca43a0fca568",
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "summary": "",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-07-07T00:00:00.000Z"
-    },
-    {
-      "id": "9f9adabca49d",
-      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-      "summary": "",
-      "url": "https://huggingface.co/blog/eee-community-evals",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-06-30T00:00:00.000Z"
-    },
-    {
-      "id": "9ec7eee9f01c",
-      "title": "MadsLorentzen / ai-job-search (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "dc9854b0a62f",
+      "title": "PORA: Learning When More Reasoning Pays Off for LLM Agents",
+      "summary": "arXiv:2610.27119v1 Announce Type: new Abstract: LLM agents perform tasks over multiple steps and revise their actions based on feedback. As the total reasoning budget is often limited and must support future steps, the agent must choose between short and long reasoning before each action. Longer reasoning may improve the final task outcome by preventing later errors, but it also uses budget capaci",
+      "url": "https://arxiv.org/abs/2610.27119",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
         "new_model",
         "industry"
       ],
-      "score": 3,
-      "publishedAt": "2026-10-20T16:38:14.000Z"
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
-      "id": "7570f36dcbb8",
-      "title": "headroomlabs-ai / headroom (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-20T16:38:14.000Z"
-    },
-    {
-      "id": "decf2fff003a",
-      "title": "Best LLM Fine-Tuning Services: What to Look for in 2026",
-      "summary": "Article URL: https://www.rebiha.com/best-llm-fine-tuning-services Comments URL: https://news.ycombinator.com/item?id=50168792 Points: 1 # Comments: 0",
-      "url": "https://www.rebiha.com/best-llm-fine-tuning-services",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-20T16:24:45.000Z"
-    },
-    {
-      "id": "62670d4c2067",
-      "title": "Show HN: Agent Archive – Session Handoffs and Backups for Claude Code and Codex",
-      "summary": "I often switch between Claude Code and Codex throughout the week, and between my laptop and an older machine I leave running at home. I built agent-archive to make it easier to pick up where I left off, especially when i hit usage limits. It lets you (or a coding agent) find past coding sessions and hand their conversation context to another agent. You can try local handoffs without setup, or conn",
-      "url": "https://github.com/wangjohn/agent-archive",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "f9865177e311",
+      "title": "EDMA: Entropy-Driven Multimodal Answering",
+      "summary": "arXiv:2610.27120v1 Announce Type: new Abstract: Multimodal question answering (MMQA) is based on integrating heterogeneous data sources, selectively leveraging relevant modalities, and ignoring distractors. Existing approaches based on Multimodal Large Language Models (MLLMs) improve performance by splitting the task into intermediate steps, but do not quantify how each modality contributes to rea",
+      "url": "https://arxiv.org/abs/2610.27120",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
         "new_model",
         "industry"
       ],
-      "score": 3,
-      "publishedAt": "2026-10-20T15:54:31.000Z"
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
-      "id": "5e9c37ca89d2",
-      "title": "I built Dowse, free open-source way to find any file on your PC by describing it",
-      "summary": "Article URL: https://walidhadri-iron.github.io/dowse/ Comments URL: https://news.ycombinator.com/item?id=50167993 Points: 1 # Comments: 0",
-      "url": "https://walidhadri-iron.github.io/dowse/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "af03914c1cc1",
+      "title": "Learned Control Variates for Rare Grid-Outage Estimation at Electric Vehicle Charging Stations",
+      "summary": "arXiv:2610.27159v1 Announce Type: new Abstract: Public charging of electric vehicles (EVs) adds a large and synchronized load to the distribution feeders. In most networks, it is rare to overload a feeder at the same time. When it does happen, the consequences can be severe: an overloaded feeder stresses its transformers and can trigger cascading outages across a city. Planners who design for high",
+      "url": "https://arxiv.org/abs/2610.27159",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
-        "open_source"
+        "open_source",
+        "industry"
       ],
-      "score": 3,
-      "publishedAt": "2026-10-20T15:36:31.000Z"
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
-      "id": "8dc33b071dd0",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
+      "id": "c53df04d85fc",
+      "title": "REM: What to Store, When to Recall, What to Forget in Experience Memory for Coding Agents",
+      "summary": "arXiv:2610.27377v1 Announce Type: new Abstract: Large language model (LLM) agents now autonomously complete long-horizon tasks, such as repository-level coding, through hundreds of think-act steps, yet the experience each run produces is rarely reused on the next. Prior memory systems concentrate on retrieval, finding the most relevant past trajectory. Retrieval cannot observe the running agent, s",
+      "url": "https://arxiv.org/abs/2610.27377",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "ff71566628f5",
+      "title": "Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment",
+      "summary": "arXiv:2610.27548v1 Announce Type: new Abstract: When an LLM agent acts on behalf of a user, it is expected to act within the authorization scope the user grants. Existing agent evaluations largely measure task completion or harmful consequences and can therefore overlook actions that violate this delegation without producing conventional safety or privacy harms. We introduce AuthorizationBench, a ",
+      "url": "https://arxiv.org/abs/2610.27548",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "c6417a528592",
+      "title": "DuplexLedger: Benchmarking Transactional Memory in Full-Duplex Speech Agents",
+      "summary": "arXiv:2610.27581v1 Announce Type: new Abstract: Full-duplex speech agents must update persistent memory while listening and speaking, yet it remains unclear which events should be stored, revised, or excluded. Existing benchmarks isolate interaction timing from memory outcomes, obscuring the state transitions behind a correct answer. We introduce DuplexLedger, a bilingual benchmark of 1,094 persis",
+      "url": "https://arxiv.org/abs/2610.27581",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "29716f52b74e",
+      "title": "From Encoding to Generation: Towards Empathetic Large Language Models",
+      "summary": "arXiv:2610.27603v1 Announce Type: new Abstract: Empathetic interaction involves two distinguishable capacities: representing another person's emotional state (cognitive empathy) and generating an appropriate response to that state (affective empathy). We apply this distinction to examine how emotion-related information is internally organized, selectively attended to, and carried through response ",
+      "url": "https://arxiv.org/abs/2610.27603",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "f2ae5ac403be",
+      "title": "How Fine-Tuning Objectives Shape Layer-Wise Information in LLM Hallucination Detection",
+      "summary": "arXiv:2610.27711v1 Announce Type: new Abstract: Under matched conditions, classifier-head fine-tuning (\\textsc{cls}) paradigm consistently outperforms the LLM-as-Judge sequence-to-sequence (\\textsc{s2s}) on binary hallucination detection. We trace this gap to the representations induced by the two objectives. Static analysis shows that \\textsc{cls} learns a task-specific discriminative direction, ",
+      "url": "https://arxiv.org/abs/2610.27711",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "272d296be76d",
+      "title": "RSI Control: Can AI Models Perform Covert Sabotage in the Self-Improvement Process?",
+      "summary": "arXiv:2610.27735v1 Announce Type: new Abstract: Recursive self-improvement, in which frontier AI models work on training the next generation, is quickly becoming a reality. However, the safety of this process has received far less attention than it should. A misaligned model training its successor can shape what that successor knows, how it behaves, and what it wants, and the harm carries forward ",
+      "url": "https://arxiv.org/abs/2610.27735",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
         "new_model",
         "industry"
       ],
-      "score": 3,
-      "publishedAt": "2026-10-20T15:19:48.000Z"
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
-      "id": "fe1b5dfbdc5a",
-      "title": "US bans Deepseek technology across federal civilian agencies",
-      "summary": "The US Department of Homeland Security has banned federal civilian agencies from using AI technology from Chinese lab Deepseek. The article US bans Deepseek technology across federal civilian agencies appeared first on The Decoder .",
-      "url": "https://the-decoder.com/us-bans-deepseek-technology-across-federal-civilian-agencies/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-20T11:34:54.000Z"
-    },
-    {
-      "id": "858945812f14",
-      "title": "Holo4: powering generalist computer-use agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-09-28T09:44:05.000Z"
-    },
-    {
-      "id": "cc2a6bf3277b",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "summary": "",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "edd47e9eda4e",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-25T15:14:14.000Z"
-    },
-    {
-      "id": "cd7544ff7730",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-25T11:39:24.000Z"
-    },
-    {
-      "id": "6d7eaed422a4",
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-18T00:00:00.000Z"
-    },
-    {
-      "id": "d59cc540f8e8",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "summary": "",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-07-27T00:00:00.000Z"
-    },
-    {
-      "id": "b05f6a03c08c",
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-07-07T15:20:06.000Z"
-    },
-    {
-      "id": "ab443d026ff2",
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "summary": "",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-06-26T00:00:00.000Z"
-    },
-    {
-      "id": "64716538a2f9",
-      "title": "Why scraping isn't enough for AI agents and how DNS-verified profiles could help",
-      "summary": "Article URL: https://github.com/skindotorg/foundation/blob/main/publishing-for-ai-agents.md Comments URL: https://news.ycombinator.com/item?id=50168366 Points: 2 # Comments: 0",
-      "url": "https://github.com/skindotorg/foundation/blob/main/publishing-for-ai-agents.md",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "d700e262e8db",
+      "title": "Give the Model a Finger: Developmentally Aligned Evaluation of Counting in Vision-Language Models",
+      "summary": "arXiv:2610.27756v1 Announce Type: new Abstract: Vision-language models (VLMs) are exact on small sets and drift into estimation on larger ones, a profile reminiscent of children before they master counting. Children cross the barrier with epistemic actions: pointing at each item while reciting number words, moving counted items aside, partitioning the array. We give VLMs the same actions as dumb i",
+      "url": "https://arxiv.org/abs/2610.27756",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
         "industry"
       ],
-      "score": 2,
-      "publishedAt": "2026-10-20T15:59:42.000Z"
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
-      "id": "f28f19a8f49c",
-      "title": "Ask HN: As developers from low-income countries,how to cope with AI replacement?",
-      "summary": "programming is fun and all of that is fine but how do I compete with a developer with a 200$/500$ Claude subscription? I was fine with making pennies,now I can't even make that. I was fine with competing against thousands of people who claimed competence, I could prove it by making stuff, but now I am just a dot in an ocean that people were wholeheartedly glad to discard and i have no way to get b",
-      "url": "https://news.ycombinator.com/item?id=50168362",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-20T15:59:25.000Z"
-    },
-    {
-      "id": "96aa1b422852",
-      "title": "Two German courts now hold Google liable for what its AI overviews say",
-      "summary": "Google tried to overturn a landmark Munich ruling on AI search liability by appealing, then quietly settled. The strategy isn't working. The Aachen Regional Court just applied the exact same reasoning in a new case where Google's AI falsely attributed criminal offenses to a doctor that actually involved someone else. A consistent legal view is forming across German courts, and it treats Google's A",
-      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-19T14:54:39.000Z"
-    },
-    {
-      "id": "34d205a75b2b",
-      "title": "Anthropic plans fund for workers threatened by AI, Musk counters with SpaceX shares for children",
-      "summary": "Anthropic wants to put five percent of its shares into a new public benefit fund that will also look into direct payments to workers at risk of losing their jobs. The fund is a company-owned LLC, so Anthropic keeps control of it as a possible IPO approaches. By offering the option of direct payments, Anthropic goes further than its competitors. Elon Musk says on X the company should just give the ",
-      "url": "https://the-decoder.com/anthropic-plans-fund-for-workers-threatened-by-ai-musk-counters-with-spacex-shares-for-children/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-19T11:19:12.000Z"
-    },
-    {
-      "id": "33232a605791",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-15T13:04:03.000Z"
-    },
-    {
-      "id": "cc94bb1db283",
-      "title": "Redesigning source control at Anthropic",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-13T23:00:06.000Z"
-    },
-    {
-      "id": "758160f5c6a9",
-      "title": "llm-gemini 0.35",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-13T22:28:54.000Z"
-    },
-    {
-      "id": "2035386f90b7",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
+      "id": "b8fedaa22de5",
+      "title": "Toward Agentic AI for the 6G Physical Layer: From Algorithm Discovery to Verified Baseband Silicon",
+      "summary": "arXiv:2610.27797v1 Announce Type: new Abstract: 6G will be designed faster than it can be built: AI-driven search already proposes physical-layer algorithms at machine speed, while carrying a single one onto embedded baseband silicon remains specialist work. That silicon imposes hard memory and numeric limits, but also exposes cost structures a GPU lacks, and a design flow that never runs on the t",
+      "url": "https://arxiv.org/abs/2610.27797",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
         "industry"
       ],
-      "score": 2,
-      "publishedAt": "2026-10-02T04:01:31.000Z"
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
-      "id": "1f4a554892a3",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
+      "id": "08c7953ba2d7",
+      "title": "COMPASS: Routing via Capability-Oriented Model Profiling with Adaptive Search, Selection, and Tool Use",
+      "summary": "arXiv:2610.27822v1 Announce Type: new Abstract: LLM routing aims to select a capable model at low cost, but specialized routers can require updates as models and tasks change. We propose COMPASS, an agentic router in which an LLM follows a routing recipe, gathers performance and cost evidence through tools, and optionally inspects candidate answers before selecting a model. Our evaluations on LLMR",
+      "url": "https://arxiv.org/abs/2610.27822",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
         "industry"
       ],
-      "score": 2,
-      "publishedAt": "2026-09-29T13:07:00.000Z"
-    },
-    {
-      "id": "31b1ab840744",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "summary": "",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "ba1189a3e38b",
-      "title": "Recreating a 70-year love story frame by frame",
-      "summary": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-09T16:00:00.000Z"
-    },
-    {
-      "id": "1fc8f7f56947",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "summary": "",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "43e3a994b253",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-08-18T18:09:38.000Z"
-    },
-    {
-      "id": "b8baa8a2a87a",
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-06-30T18:32:50.000Z"
-    },
-    {
-      "id": "91ec28eef31c",
-      "title": "cloudflare / security-audit-skill (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-20T16:38:14.000Z"
-    },
-    {
-      "id": "279657933dec",
-      "title": "DietrichGebert / ponytail (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-20T16:38:14.000Z"
-    },
-    {
-      "id": "f95d52dc52e4",
-      "title": "msitarzewski / agency-agents (Shell)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-20T16:38:14.000Z"
-    },
-    {
-      "id": "7634e71f943c",
-      "title": "Show HN: Koody for Business – AI bookkeeping for people who aren't accountants",
-      "summary": "Hi HN, I'm Hallie, founder of Koody. Today, I'm launching Koody for Business: AI-powered accounting, bookkeeping, and tax prep software for sole proprietors and small businesses. For years, I used accounting software for my business. I went into it to create invoices, categorize and reconcile transactions, and work with my accountant to prepare our books. I often dreaded having to do it. There wer",
-      "url": "https://koody.com/business",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-20T16:09:44.000Z"
-    },
-    {
-      "id": "fcbd64c2a07b",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-20T16:09:19.000Z"
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
     }
   ]
 }
