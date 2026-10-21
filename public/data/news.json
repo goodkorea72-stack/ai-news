@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T04:06:50.699Z",
-  "nextUpdate": "2026-10-21T16:00:00.000Z",
+  "generatedAt": "2026-10-21T16:56:48.774Z",
+  "nextUpdate": "2026-10-22T04:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 275,
+  "totalCollected": 273,
   "articleCount": 60,
   "articles": [
     {
@@ -21,6 +21,22 @@
       ],
       "score": 16,
       "publishedAt": "2026-10-20T18:56:15.000Z"
+    },
+    {
+      "id": "6557a252faed",
+      "title": "Inception&#039;s Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait",
+      "summary": "Inception says Mercury 3 is the most capable diffusion language model released so far. The company claims it runs four to eight times faster than GPT-6 Luna and Claude Haiku 5.5 and beats both in eight of 12 benchmarks. There are no independent tests yet. The article Inception&#039;s Mercury 3 diffusion model claims to beat GPT-6 Luna and Claude Haiku 5.5 at a fraction of the wait appeared first o",
+      "url": "https://the-decoder.com/inceptions-mercury-3-diffusion-model-claims-to-beat-gpt-6-luna-and-claude-haiku-5-5-at-a-fraction-of-the-wait/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 11,
+      "publishedAt": "2026-10-21T14:45:45.000Z"
     },
     {
       "id": "b1ad74a1caf0",
@@ -84,20 +100,6 @@
       "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
-      "id": "2842e9902278",
-      "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs Comments URL: https://news.ycombinator.com/item?id=50175874 Points: 2 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 9,
-      "publishedAt": "2026-10-21T03:50:30.000Z"
-    },
-    {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
       "summary": "",
@@ -126,7 +128,23 @@
         "industry"
       ],
       "score": 8,
-      "publishedAt": "2026-10-21T04:06:50.000Z"
+      "publishedAt": "2026-10-21T16:56:48.000Z"
+    },
+    {
+      "id": "22a7b27a3940",
+      "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
+      "summary": "The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market. China's outrage isn't very credible, but it should be taken seriously as a political signal of possible retaliation. The article China protests the US Deepseek ban while blocking ChatGPT, Claude, and",
+      "url": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-10-21T13:04:19.000Z"
     },
     {
       "id": "1194ba762f84",
@@ -144,25 +162,10 @@
       "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
-      "id": "f0921617e5bb",
-      "title": "anthropics / knowledge-work-plugins (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 7,
-      "publishedAt": "2026-10-21T04:06:50.000Z"
-    },
-    {
-      "id": "9808dda75cb8",
-      "title": "Show HN: acplause – An ACP agent for OpenAI-compatible APIs",
-      "summary": "Article URL: https://github.com/anesthetised/acplause Comments URL: https://news.ycombinator.com/item?id=50175258 Points: 1 # Comments: 0",
-      "url": "https://github.com/anesthetised/acplause",
+      "id": "aa556f42f30c",
+      "title": "Open-source, cross-harness memory for AI agents",
+      "summary": "Earlier this year, my co-founder and I found ourselves frequently switching between different coding agents (Claude Code, Codex, Cursor) anytime we ran out of shaky usage limits or a newer, better model came out. We became increasingly frustrated with having to re-explain our tasks, workflows, common mistake patterns, etc. anytime we switched agents. We found no good free alternatives out there, s",
+      "url": "https://news.ycombinator.com/item?id=50182883",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -172,7 +175,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-10-21T02:16:49.000Z"
+      "publishedAt": "2026-10-21T15:42:38.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -324,20 +327,6 @@
       "publishedAt": "2026-10-21T04:00:00.000Z"
     },
     {
-      "id": "b0f48bd5cb0a",
-      "title": "Show HN: Hibi – an open source obsidian alternative",
-      "summary": "i shared hibi here in september as an open-source obsidian alternative but i wasn't able to attend to it much: https://news.ycombinator.com/item?id=49782528 for context, hibi is a free, open-source markdown/latex/typst/and more editor that keeps files in your own folders and it is my beloved hobby project that i use everyday in the previous post, i was asked how mature the addon architecture was a",
-      "url": "https://github.com/schmayterling/hibi",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-21T01:06:10.000Z"
-    },
-    {
       "id": "f1de81be4247",
       "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
       "summary": "Mistral AI launched Voxtral 3, a new family of language models built for real-time voice agents. The system combines speech-to-text, text-to-speech, and a voice agent SDK, supports more than 50 languages, and lets agents tap into external tools during live conversations. It can run on your own infrastructure or through EU-hosted APIs to keep data under your control. The article Mistral AI launches",
@@ -351,20 +340,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-10-20T17:17:55.000Z"
-    },
-    {
-      "id": "a27bd79e7831",
-      "title": "OpenAI says GPT-6 is much better with legacy programming languages such as COBOL and Fortran",
-      "summary": "OpenAI improved its latest models for low-resource programming languages like COBOL, Fortran, and Visual Basic. On the new MultiLangBench, GPT-6 Astra hits an 87.4 percent test pass rate across 20 languages, up from about 38 percent for GPT-5.6 Terra. For COBOL migration specifically, GPT-6.1 Sol reaches up to 97.9 percent accuracy, a result that could matter for modernizing critical financial inf",
-      "url": "https://the-decoder.com/openai-says-gpt-6-is-much-better-with-legacy-programming-languages-such-as-cobol-and-fortran/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-20T16:40:29.000Z"
     },
     {
       "id": "1c7f791b566f",
@@ -453,36 +428,6 @@
       "publishedAt": "2026-06-24T16:00:13.000Z"
     },
     {
-      "id": "a759673bf140",
-      "title": "stablyai / orca (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "url": "https://github.com/stablyai/orca",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-21T04:06:50.000Z"
-    },
-    {
-      "id": "3c1e7a008192",
-      "title": "ruvnet / ruflo (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "url": "https://github.com/ruvnet/ruflo",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-21T04:06:50.000Z"
-    },
-    {
       "id": "9ce6c1be2fd4",
       "title": "vllm-project / vllm (Python)",
       "summary": "GitHub 인기 오픈소스 프로젝트: A high-throughput and memory-efficient inference and serving engine for LLMs",
@@ -495,7 +440,37 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-21T04:06:50.000Z"
+      "publishedAt": "2026-10-21T16:56:48.000Z"
+    },
+    {
+      "id": "a759673bf140",
+      "title": "stablyai / orca (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "url": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-21T16:56:48.000Z"
+    },
+    {
+      "id": "fa1e7f00c461",
+      "title": "OpenAI can&#039;t yet explain why its coding agents switch off misalignment monitoring",
+      "summary": "Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied removing the monitoring. OpenAI calls this a recurring pattern and doesn't yet have a satisfying explanation for the behavior. The article OpenAI can&#039;t yet explain why its coding agents switch off misalignment monit",
+      "url": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-21T12:34:57.000Z"
     },
     {
       "id": "2fcea2f96dad",
@@ -656,37 +631,36 @@
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-21T04:06:50.000Z"
+      "publishedAt": "2026-10-21T16:56:48.000Z"
     },
     {
-      "id": "8abc7708741b",
-      "title": "anomalyco / opencode (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The open source coding agent.",
-      "url": "https://github.com/anomalyco/opencode",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "5550c5822fa0",
+      "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
+      "summary": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and the two strongest bind extremely tightly to Cn2, a toxin from a Mexican scorpion. Whether they actually work as antivenom remains an open question. The article Claude Science tackles deadly scorpion stings by ",
+      "url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-21T08:37:06.000Z"
+    },
+    {
+      "id": "c95626fe368f",
+      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+      "summary": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on average. OpenAI already works with Novo Nordisk and Moderna on AI-driven pharma research. The article OpenAI",
+      "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-21T04:06:50.000Z"
-    },
-    {
-      "id": "e8d171837ddd",
-      "title": "Agent Manager by HF",
-      "summary": "Article URL: https://github.com/huggingface/agent-manager Comments URL: https://news.ycombinator.com/item?id=50175964 Points: 1 # Comments: 0",
-      "url": "https://github.com/huggingface/agent-manager",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-21T04:05:19.000Z"
+      "publishedAt": "2026-10-21T08:32:54.000Z"
     },
     {
       "id": "323081293693",
@@ -886,6 +860,35 @@
       "sourceId": "arxiv",
       "icon": "📄",
       "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "63f31642012d",
+      "title": "Building Telecom Language Models with RSOD: Domain Data, Specialist Post-Training, Memory-Conscious Distillation, and Networking Evaluation",
+      "summary": "arXiv:2610.27993v1 Announce Type: new Abstract: Telecom language models must combine broad networking knowledge with specialist behavior across routing, broadband services, access technologies, and operational diagnostics while remaining practical to deploy as a single model. We present an end-to-end framework that builds source-grounded synthetic training data from structured networking taxonomie",
+      "url": "https://arxiv.org/abs/2610.27993",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "id": "517e14dcb69a",
+      "title": "Dancing Diffusion: Learning Continuous Programs for Image Generation and Editing",
+      "summary": "arXiv:2610.28003v1 Announce Type: new Abstract: Diffusion models generate samples through a multi-step denoising trajectory, yet condition every step on the same instruction, so the trajectory cannot be addressed at the level of individual operations. We introduce Dancing Diffusion, which assigns each span of timesteps a dedicated continuous condition block and thereby turns conditioning into a la",
+      "url": "https://arxiv.org/abs/2610.28003",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
         "industry"
       ],
       "score": 4,
