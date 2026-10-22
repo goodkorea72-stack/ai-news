@@ -1,11 +1,26 @@
 {
-  "generatedAt": "2026-10-22T04:07:32.614Z",
-  "nextUpdate": "2026-10-22T16:00:00.000Z",
+  "generatedAt": "2026-10-22T16:56:17.607Z",
+  "nextUpdate": "2026-10-23T04:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 272,
+  "totalCollected": 249,
   "articleCount": 60,
   "articles": [
+    {
+      "id": "5b1d93c27736",
+      "title": "Anthropic takes on Grok Bot, Meta&#039;s Muse, and OpenAI&#039;s Dots with its always-on agent \"Claude Duet\"",
+      "summary": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through more than 6,000 connectors. It asks for approval before sensitive actions like payments. With Duet, Anthropic is responding to similar products from xAI, Meta, and OpenAI. The articl",
+      "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 14,
+      "publishedAt": "2026-10-22T08:35:22.000Z"
+    },
     {
       "id": "b1ad74a1caf0",
       "title": "Staged Continual Adaptation of Multimodal Foundation Models for Japanese Financial Documents",
@@ -115,21 +130,6 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
-      "id": "134c56940f47",
-      "title": "Comfy-Org / ComfyUI (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 8,
-      "publishedAt": "2026-10-22T04:07:30.000Z"
-    },
-    {
       "id": "1194ba762f84",
       "title": "MAMath-Bench: Process-Aware and Robust Evaluation of Multimodal Multi-Agent Mathematical Reasoning",
       "summary": "arXiv:2610.26943v1 Announce Type: new Abstract: Mathematical reasoning is a fundamental capability for educational applications of Large Language Models (LLMs), where reliable problem solving requires not only correct answers but also coherent and verifiable reasoning processes. Multi-agent systems (MASs) have shown growing potential in this domain by leveraging collaboration and verification amon",
@@ -145,20 +145,19 @@
       "publishedAt": "2026-10-22T04:00:00.000Z"
     },
     {
-      "id": "22a7b27a3940",
-      "title": "China protests the US Deepseek ban while blocking ChatGPT, Claude, and Gemini at home",
-      "summary": "The US has banned Deepseek from its government systems, and China is protesting sharply and demanding the ban be lifted. Yet Beijing itself blocks ChatGPT, Claude, and Gemini across its entire market. China's outrage isn't very credible, but it should be taken seriously as a political signal of possible retaliation. The article China protests the US Deepseek ban while blocking ChatGPT, Claude, and",
-      "url": "https://the-decoder.com/china-protests-the-us-deepseek-ban-while-blocking-chatgpt-claude-and-gemini-at-home/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "f0921617e5bb",
+      "title": "anthropics / knowledge-work-plugins (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
         "open_source",
-        "new_model",
-        "industry"
+        "new_model"
       ],
-      "score": 8,
-      "publishedAt": "2026-10-21T13:04:19.000Z"
+      "score": 7,
+      "publishedAt": "2026-10-22T16:56:17.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -396,36 +395,6 @@
       "publishedAt": "2026-07-01T00:00:00.000Z"
     },
     {
-      "id": "9ce6c1be2fd4",
-      "title": "vllm-project / vllm (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: A high-throughput and memory-efficient inference and serving engine for LLMs",
-      "url": "https://github.com/vllm-project/vllm",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-22T04:07:30.000Z"
-    },
-    {
-      "id": "a759673bf140",
-      "title": "stablyai / orca (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "url": "https://github.com/stablyai/orca",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-22T04:07:30.000Z"
-    },
-    {
       "id": "2fcea2f96dad",
       "title": "DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution",
       "summary": "arXiv:2610.26924v1 Announce Type: new Abstract: General-purpose agents are increasingly expected to perform professional analytics work, which requires sustained reasoning, iterative investigation, and reliable evidence. Training these capabilities requires diverse and challenging tasks. However, generating tasks directly from raw data often overlooks deeper questions that emerge through analysis ",
@@ -558,21 +527,6 @@
       "publishedAt": "2026-10-22T04:00:00.000Z"
     },
     {
-      "id": "fa1e7f00c461",
-      "title": "OpenAI can&#039;t yet explain why its coding agents switch off misalignment monitoring",
-      "summary": "Two internal OpenAI coding agents switched off safety monitoring on their own, even after weighing whether to keep the safeguards in place. When asked about it, GPT-6 Astra denied removing the monitoring. OpenAI calls this a recurring pattern and doesn't yet have a satisfying explanation for the behavior. The article OpenAI can&#039;t yet explain why its coding agents switch off misalignment monit",
-      "url": "https://the-decoder.com/openai-cant-yet-explain-why-its-coding-agents-switch-off-misalignment-monitoring/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-21T12:34:57.000Z"
-    },
-    {
       "id": "c96bfd28b36f",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "summary": "",
@@ -599,7 +553,7 @@
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-22T04:07:30.000Z"
+      "publishedAt": "2026-10-22T16:56:17.000Z"
     },
     {
       "id": "323081293693",
@@ -849,35 +803,6 @@
       "publishedAt": "2026-10-22T04:00:00.000Z"
     },
     {
-      "id": "5550c5822fa0",
-      "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
-      "summary": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and the two strongest bind extremely tightly to Cn2, a toxin from a Mexican scorpion. Whether they actually work as antivenom remains an open question. The article Claude Science tackles deadly scorpion stings by ",
-      "url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-21T08:37:06.000Z"
-    },
-    {
-      "id": "c95626fe368f",
-      "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
-      "summary": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spotting problems. Developing a new drug in the US takes ten to 15 years on average. OpenAI already works with Novo Nordisk and Moderna on AI-driven pharma research. The article OpenAI",
-      "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-21T08:32:54.000Z"
-    },
-    {
       "id": "70c0b23aa346",
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
@@ -890,6 +815,81 @@
       ],
       "score": 4,
       "publishedAt": "2026-10-13T16:00:00.000Z"
+    },
+    {
+      "id": "d5e9b9a87420",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "summary": "",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "0019ae2665a3",
+      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+      "summary": "",
+      "url": "https://huggingface.co/blog/pwc-search",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "id": "9c95afa451ef",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "summary": "",
+      "url": "https://huggingface.co/blog/baseten",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "id": "0ee73a62fb00",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "ca43a0fca568",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "summary": "",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-07-07T00:00:00.000Z"
     }
   ]
 }
