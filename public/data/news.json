@@ -1,26 +1,11 @@
 {
-  "generatedAt": "2026-10-23T04:11:00.516Z",
-  "nextUpdate": "2026-10-23T16:00:00.000Z",
+  "generatedAt": "2026-10-23T16:48:21.525Z",
+  "nextUpdate": "2026-10-24T04:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 269,
+  "totalCollected": 248,
   "articleCount": 60,
   "articles": [
-    {
-      "id": "5b1d93c27736",
-      "title": "Anthropic takes on Grok Bot, Meta&#039;s Muse, and OpenAI&#039;s Dots with its always-on agent \"Claude Duet\"",
-      "summary": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through more than 6,000 connectors. It asks for approval before sensitive actions like payments. With Duet, Anthropic is responding to similar products from xAI, Meta, and OpenAI. The articl",
-      "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 14,
-      "publishedAt": "2026-10-22T08:35:22.000Z"
-    },
     {
       "id": "56daa2316f29",
       "title": "D-Skill: Distilling Teacher Knowledge through Agent Skills",
@@ -68,21 +53,6 @@
       ],
       "score": 9,
       "publishedAt": "2026-10-23T04:00:00.000Z"
-    },
-    {
-      "id": "353dd928ebda",
-      "title": "Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three",
-      "summary": "Google Cloud is the first major cloud provider to offer Gemini, Claude, and OpenAI's GPTs on a single platform. At launch, GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna are available as a private preview for enterprise customers. The article Google Cloud now offers OpenAI models alongside Gemini and Claude, becoming the only major provider with all three appeared first on The Decoder .",
-      "url": "https://the-decoder.com/google-cloud-now-offers-openai-models-alongside-gemini-and-claude-becoming-the-only-major-provider-with-all-three/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 9,
-      "publishedAt": "2026-10-21T17:44:22.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -144,7 +114,22 @@
         "new_model"
       ],
       "score": 7,
-      "publishedAt": "2026-10-23T04:11:00.000Z"
+      "publishedAt": "2026-10-23T16:48:15.000Z"
+    },
+    {
+      "id": "11e5ceb22096",
+      "title": "Anthropic&#039;s Claude now writes code and proves it safe automatically",
+      "summary": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed. Anthropic's goal: making formal verification with AI as routine as standard testing. The article Anthropic&#039;s Claude now writes code and proves it safe automatical",
+      "url": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-23T11:32:19.000Z"
     },
     {
       "id": "bde8b98a4cc4",
@@ -236,20 +221,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-10-23T04:00:00.000Z"
-    },
-    {
-      "id": "e16120cfe293",
-      "title": "OpenAI&#039;s GPT-5.6 Sol and Google&#039;s Gemini 4 Argon found critical PHP flaw affecting millions of websites",
-      "summary": "OpenAI's GPT-5.6 Sol discovered a critical PHP vulnerability as part of the Patch the Planet initiative that could affect millions of websites. Security firm Wiz independently found the same flaw using Google's Gemini 4 Argon. OpenAI warns that the same AI capabilities that find vulnerabilities can help attackers too. The article OpenAI&#039;s GPT-5.6 Sol and Google&#039;s Gemini 4 Argon found cri",
-      "url": "https://the-decoder.com/openais-gpt-5-6-sol-and-gemini-4-argon-discovered-the-critical-php-vulnerability-affecting-millions-of-websites/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-21T19:45:01.000Z"
     },
     {
       "id": "1c7f791b566f",
@@ -470,20 +441,6 @@
       ],
       "score": 5,
       "publishedAt": "2026-08-13T17:16:04.000Z"
-    },
-    {
-      "id": "0e73dde60ec6",
-      "title": "Graphify-Labs / graphify (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-23T04:11:00.000Z"
     },
     {
       "id": "86cfbcc78673",
@@ -718,21 +675,6 @@
       "publishedAt": "2026-10-23T04:00:00.000Z"
     },
     {
-      "id": "b4d3a4c67239",
-      "title": "Show HN: What LLM fits my GPU? – VRAM measured on real hardware for 117 models",
-      "summary": "Article URL: https://quantized.uk/ Comments URL: https://news.ycombinator.com/item?id=50204153 Points: 1 # Comments: 0",
-      "url": "https://quantized.uk/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-23T03:25:46.000Z"
-    },
-    {
       "id": "70c0b23aa346",
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
@@ -837,21 +779,6 @@
       "publishedAt": "2026-06-30T00:00:00.000Z"
     },
     {
-      "id": "65d36c8bef85",
-      "title": "luongnv89 / claude-howto (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-23T04:11:00.000Z"
-    },
-    {
       "id": "f906ec44a329",
       "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
       "summary": "arXiv:2610.28698v1 Announce Type: new Abstract: Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to virtual worlds with different visual styles, dynamics, controls, and objectives remains unclear. We investigate this question through a controlled study of",
@@ -884,6 +811,78 @@
       "title": "Fig: Automated Multiagent Behavior Elicitor",
       "summary": "arXiv:2610.28891v1 Announce Type: new Abstract: Many social evaluations for multiagent systems study behaviors as they emerge from environments instead of systematically intervening in the environment to elicit such behaviors. We introduce Fig (Finding Interactions in Games), an agentic system that performs targeted elicitation interventions on game environments. It takes a natural language behavi",
       "url": "https://arxiv.org/abs/2610.28891",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "id": "d836248dfb8d",
+      "title": "Simply Logical -- The First Three Decades",
+      "summary": "arXiv:2610.28912v1 Announce Type: new Abstract: This paper charts the evolution of the Prolog textbook Simply Logical -- Intelligent Reasoning by Example from print with runnable programmes on a 3.5-inch diskette published in 1994, via various intermediate online versions, to the fully interactive online edition available today. Our aim is to investigate -- from both the writer's and the reader's ",
+      "url": "https://arxiv.org/abs/2610.28912",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "id": "655207fe294c",
+      "title": "Inheritance as an Admission Test for LLM Prompt Merge Operators",
+      "summary": "arXiv:2610.29023v1 Announce Type: new Abstract: Large language model (LLM) agents are often improved by iterating until a fixed verifier is done. Once that verifier saturates, the loop has nothing left to climb. We instead score agents against the current population, and a frozen panel records whether anyone got better. The panel mean can rise inside the seeds by elimination alone. We therefore co",
+      "url": "https://arxiv.org/abs/2610.29023",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "id": "44309b52c71d",
+      "title": "Recursive Self-Improvement on a Budget: Scoring Code Edits Before They Run",
+      "summary": "arXiv:2610.29121v1 Announce Type: new Abstract: A coding agent that rewrites its own scaffold has to choose which proposed edit to expand before that edit has been evaluated, and the search then has to return one agent. Each run fits one linear readout on the parent's steering-split solve rate and eight coordinates of the proposed diff, from 96 scaffold edits labeled by four evaluations of a 16-in",
+      "url": "https://arxiv.org/abs/2610.29121",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "id": "9f0f372c9e10",
+      "title": "LLM-Based Exogenous World Modeling for Dynamic Scheduling",
+      "summary": "arXiv:2610.29308v1 Announce Type: new Abstract: Dynamic scheduling requires dispatching online arrivals while anticipating future jobs, as poor decisions can compound downstream costs under nonlinear tardiness objectives. We show that a pretrained large language model (LLM) can serve as the exogenous component of a structured world model, forecasting uncertain future job arrivals. Specifically, we",
+      "url": "https://arxiv.org/abs/2610.29308",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "id": "8d49e2492945",
+      "title": "From Prompts to Posteriors: Can LLM Agents Perform Bayesian Inference in Context?",
+      "summary": "arXiv:2610.29331v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied across the scientific discovery pipeline, from synthesizing literature to generating hypotheses to informing experimental design. A unifying principle behind these tasks is the need to continuously update beliefs as evidence accumulates, for which Bayesian inference provides a natural framework. H",
+      "url": "https://arxiv.org/abs/2610.29331",
       "source": "arXiv cs.AI",
       "sourceId": "arxiv",
       "icon": "📄",
