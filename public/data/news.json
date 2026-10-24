@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T04:03:15.971Z",
-  "nextUpdate": "2026-10-24T16:00:00.000Z",
+  "generatedAt": "2026-10-24T15:40:53.181Z",
+  "nextUpdate": "2026-10-25T03:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 148,
+  "totalCollected": 150,
   "articleCount": 60,
   "articles": [
     {
@@ -39,36 +39,6 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
-      "id": "f0921617e5bb",
-      "title": "anthropics / knowledge-work-plugins (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 7,
-      "publishedAt": "2026-10-24T04:03:02.000Z"
-    },
-    {
-      "id": "11e5ceb22096",
-      "title": "Anthropic&#039;s Claude now writes code and proves it safe automatically",
-      "summary": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing had missed. Anthropic's goal: making formal verification with AI as routine as standard testing. The article Anthropic&#039;s Claude now writes code and proves it safe automatical",
-      "url": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 7,
-      "publishedAt": "2026-10-23T11:32:19.000Z"
-    },
-    {
       "id": "a0a3a9608043",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "summary": "",
@@ -97,6 +67,22 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "233d9e3a72e5",
+      "title": "google-gemini / gemini-cli (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-10-24T15:40:51.000Z"
     },
     {
       "id": "1c7f791b566f",
@@ -199,6 +185,21 @@
       ],
       "score": 5,
       "publishedAt": "2026-08-13T17:16:04.000Z"
+    },
+    {
+      "id": "e7eec2a3f936",
+      "title": "makecindy / cindy (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "url": "https://github.com/makecindy/cindy",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-24T15:40:51.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -305,6 +306,51 @@
       "publishedAt": "2026-06-30T00:00:00.000Z"
     },
     {
+      "id": "65d36c8bef85",
+      "title": "luongnv89 / claude-howto (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-24T15:40:51.000Z"
+    },
+    {
+      "id": "edd6be8a2745",
+      "title": "OpenAI&#039;s isolated AI agents found ways to talk to each other through CPU cache",
+      "summary": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found ways to communicate covertly through side channels. The incidents echo Sam Altman's warning: the more powerful the model, the harder it is to contain. The article OpenAI&#039;s is",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-24T11:12:36.000Z"
+    },
+    {
+      "id": "9730b0edbeef",
+      "title": "Fancy harnesses make coding agents more expensive but not better, study finds",
+      "summary": "A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning the same setup. Cost per task, however, can triple, driven mainly by the system prompt that gets resent with every step. The article Fancy harnesses make coding agents more expensive but not better, study finds appeared first on The Decode",
+      "url": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-24T09:21:39.000Z"
+    },
+    {
       "id": "3351724590be",
       "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
       "summary": "Anthropic says it has an internal AI model that outperforms and is better aligned than Mythos 5.1. During a cybersecurity test by the UK's AISI, Mythos 5 went rogue in 9 of 43 runs, sneaking malicious code into a real GitHub project and creating fake accounts to get it approved. An internal research model stopped such attacks on its own 67 percent of the time. The article Anthropic says its unrele",
@@ -318,21 +364,6 @@
       ],
       "score": 3,
       "publishedAt": "2026-10-23T17:19:49.000Z"
-    },
-    {
-      "id": "549d9adceda4",
-      "title": "Google&#039;s Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
-      "summary": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments. The article Google&#039;s Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine appeared first on The Decoder .",
-      "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-22T17:50:09.000Z"
     },
     {
       "id": "f87bb3c2b30a",
@@ -449,24 +480,24 @@
       "publishedAt": "2026-07-07T15:20:06.000Z"
     },
     {
-      "id": "813ba8f1b345",
-      "title": "SnailSploit / Claude-Red (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "url": "https://github.com/SnailSploit/Claude-Red",
+      "id": "e6894bbde4ae",
+      "title": "aws / agent-toolkit-for-aws (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
       "category": [
-        "new_model"
+        "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-10-24T04:03:02.000Z"
+      "publishedAt": "2026-10-24T15:40:51.000Z"
     },
     {
-      "id": "7bc87b938583",
-      "title": "OpenBMB / VoxCPM (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
-      "url": "https://github.com/OpenBMB/VoxCPM",
+      "id": "20f16f18a6cf",
+      "title": "Nutlope / hallmark (CSS)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -474,7 +505,21 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-24T04:03:02.000Z"
+      "publishedAt": "2026-10-24T15:40:51.000Z"
+    },
+    {
+      "id": "a0a39654ea40",
+      "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+      "summary": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their former employer. They deny sharing confidential information and see a connection to their advocacy for AI systems that are easier to scrutinize. The researchers say OpenAI never told them in writing which information they allegedly mishandled.",
+      "url": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-10-24T15:19:33.000Z"
     },
     {
       "id": "14131b6b69d3",
@@ -503,20 +548,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-10-23T11:36:30.000Z"
-    },
-    {
-      "id": "e1b96bd81510",
-      "title": "OpenAI lowers valuation target, raises up to $30 billion",
-      "summary": "OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there. The article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-23T09:49:38.000Z"
     },
     {
       "id": "737f413af0b7",
@@ -693,7 +724,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-10-24T04:03:02.000Z"
+      "publishedAt": "2026-10-24T15:40:51.000Z"
     },
     {
       "id": "176c5364b659",
@@ -707,21 +738,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-10-24T04:03:02.000Z"
-    },
-    {
-      "id": "c1b0cfc46f3d",
-      "title": "Major US banks are locking out AI agents that log in with customer credentials",
-      "summary": "Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan Stanley has blocked agents, while other banks are restricting access. Most plan to limit agents to read-only access. The article Major US banks are locking out AI agents that log in with customer credentials appeared first o",
-      "url": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-22T18:26:02.000Z"
+      "publishedAt": "2026-10-24T15:40:51.000Z"
     },
     {
       "id": "78bd4cbb5ac2",
@@ -865,20 +882,6 @@
       ],
       "score": 1,
       "publishedAt": "2026-09-10T16:00:00.000Z"
-    },
-    {
-      "id": "8af77f25c1b8",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "summary": "",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
     }
   ]
 }
