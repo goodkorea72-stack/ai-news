@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T15:40:53.181Z",
-  "nextUpdate": "2026-10-25T03:00:00.000Z",
+  "generatedAt": "2026-10-25T04:04:52.796Z",
+  "nextUpdate": "2026-10-25T16:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
   "totalCollected": 150,
@@ -82,7 +82,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-10-24T15:40:51.000Z"
+      "publishedAt": "2026-10-25T04:04:52.000Z"
     },
     {
       "id": "1c7f791b566f",
@@ -199,7 +199,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-24T15:40:51.000Z"
+      "publishedAt": "2026-10-25T04:04:52.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -318,7 +318,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-24T15:40:51.000Z"
+      "publishedAt": "2026-10-25T04:04:52.000Z"
     },
     {
       "id": "edd6be8a2745",
@@ -491,7 +491,7 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-10-24T15:40:51.000Z"
+      "publishedAt": "2026-10-25T04:04:52.000Z"
     },
     {
       "id": "20f16f18a6cf",
@@ -505,7 +505,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-24T15:40:51.000Z"
+      "publishedAt": "2026-10-25T04:04:52.000Z"
     },
     {
       "id": "a0a39654ea40",
@@ -724,7 +724,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-10-24T15:40:51.000Z"
+      "publishedAt": "2026-10-25T04:04:52.000Z"
     },
     {
       "id": "176c5364b659",
@@ -738,7 +738,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-10-24T15:40:51.000Z"
+      "publishedAt": "2026-10-25T04:04:52.000Z"
     },
     {
       "id": "78bd4cbb5ac2",
