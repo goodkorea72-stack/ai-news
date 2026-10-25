@@ -1,26 +1,25 @@
 {
-  "generatedAt": "2026-10-25T04:04:52.796Z",
-  "nextUpdate": "2026-10-25T16:00:00.000Z",
+  "generatedAt": "2026-10-25T15:51:39.836Z",
+  "nextUpdate": "2026-10-26T03:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 150,
+  "totalCollected": 151,
   "articleCount": 60,
   "articles": [
     {
-      "id": "f7e85cda017b",
-      "title": "Chinese AI model Kimi K3.1 Pro is closing in on Anthropic&#039;s Claude Opus 5.5",
-      "summary": "Moonshot AI's Kimi K3.1 Pro scores 55 points on the Artificial Analysis Intelligence Index, an 11-point jump over its predecessor that puts it in fourth place. Only three Anthropic and Meta models rank higher. If Moonshot releases the weights as planned, the gap between open and proprietary models shrinks to just three points. The article Chinese AI model Kimi K3.1 Pro is closing in on Anthropic&#",
-      "url": "https://the-decoder.com/chinese-ai-model-kimi-k3-1-pro-is-closing-in-on-anthropics-claude-opus-5-5/",
+      "id": "95c0a8bedf15",
+      "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
+      "summary": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions far more reliably than any competitor but sometimes falls short on descriptive accuracy. Nvidia is positioning Flora as a key piece of its strategy to control ",
+      "url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
       "category": [
         "open_source",
-        "new_model",
-        "industry"
+        "new_model"
       ],
-      "score": 10,
-      "publishedAt": "2026-10-23T19:00:07.000Z"
+      "score": 11,
+      "publishedAt": "2026-10-25T10:08:49.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -37,6 +36,21 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "7b0b0b964e70",
+      "title": "OpenAI offers discounts up to 90 percent to poach Anthropic&#039;s biggest customers",
+      "summary": "OpenAI is poaching Anthropic's customers with steep discounts. Companies like Rippling, Replit, and DataCamp say they've cut AI costs by up to 90 percent after switching. Anthropic's growth has slowed, but OpenAI is trading its own margins for market share. Chinese rivals like Deepseek are piling on more price pressure. The article OpenAI offers discounts up to 90 percent to poach Anthropic&#039;s",
+      "url": "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-25T07:30:11.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -67,22 +81,6 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
-    },
-    {
-      "id": "233d9e3a72e5",
-      "title": "google-gemini / gemini-cli (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: An open-source AI agent that brings the power of Gemini directly into your terminal.",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-25T04:04:52.000Z"
     },
     {
       "id": "1c7f791b566f",
@@ -157,19 +155,34 @@
       "publishedAt": "2026-07-01T00:00:00.000Z"
     },
     {
-      "id": "ad6843f435b9",
-      "title": "Three-week on-site audit at OpenAI reveals major gaps in AI safety monitoring",
-      "summary": "External auditors from METR and Redwood Research spent three weeks on-site at OpenAI examining the company's internal monitoring system for AI agents and found significant gaps, with up to 25 percent of agent traffic from models at the GPT-5.5 class and above going unmonitored. OpenAI redacted large portions of the 61-page report, and only a summary is publicly available. The article Three-week on",
-      "url": "https://the-decoder.com/three-week-on-site-audit-at-openai-reveals-major-gaps-in-ai-safety-monitoring/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "375911eec788",
+      "title": "AgriciDaniel / claude-seo (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-23T18:00:32.000Z"
+      "publishedAt": "2026-10-25T15:51:39.000Z"
+    },
+    {
+      "id": "fa02deb11661",
+      "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
+      "summary": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environment with more than 110 applications, including 35 replicas of popular apps. On real Android devices, their model scores highest among open agents, the authors say. The article OpenMobile-2 proves open-source s",
+      "url": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-10-25T06:55:22.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -199,7 +212,51 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-25T04:04:52.000Z"
+      "publishedAt": "2026-10-25T15:51:39.000Z"
+    },
+    {
+      "id": "c985ed49ffb9",
+      "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
+      "summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027. The article Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027 appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-25T09:37:46.000Z"
+    },
+    {
+      "id": "3e8b56a5d709",
+      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+      "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make the transition. The article Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
+      "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-25T09:12:10.000Z"
+    },
+    {
+      "id": "de1f7bf9b980",
+      "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+      "summary": "In Foreign Affairs, historian Niall Ferguson, researcher Lisa Klaassen, and former Google CEO Eric Schmidt cast the US and China as AI empires and every other country as a dependency. The race won't be decided by breakthroughs but by who can bankroll it. US corporations alone plan to spend more than $600 billion in 2026. Yet mounting debt, protests against data centers, and a potential chip crisis",
+      "url": "https://the-decoder.com/ex-google-ceo-eric-schmidt-calls-openai-and-anthropic-modern-colonial-trading-companies/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-25T08:09:32.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -306,19 +363,32 @@
       "publishedAt": "2026-06-30T00:00:00.000Z"
     },
     {
-      "id": "65d36c8bef85",
-      "title": "luongnv89 / claude-howto (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "url": "https://github.com/luongnv89/claude-howto",
+      "id": "1f05fc719933",
+      "title": "debpalash / VoiceStudio (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "url": "https://github.com/debpalash/VoiceStudio",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
       "category": [
-        "new_model",
-        "industry"
+        "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-25T04:04:52.000Z"
+      "publishedAt": "2026-10-25T15:51:39.000Z"
+    },
+    {
+      "id": "f381c529dd25",
+      "title": "coollabsio / coolify (PHP)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "url": "https://github.com/coollabsio/coolify",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-25T15:51:39.000Z"
     },
     {
       "id": "edd6be8a2745",
@@ -334,36 +404,6 @@
       ],
       "score": 3,
       "publishedAt": "2026-10-24T11:12:36.000Z"
-    },
-    {
-      "id": "9730b0edbeef",
-      "title": "Fancy harnesses make coding agents more expensive but not better, study finds",
-      "summary": "A controlled study shows that switching between coding-agent harnesses like Claude Code, OpenCode, or mini-SWE-agent barely moves pass rates more than rerunning the same setup. Cost per task, however, can triple, driven mainly by the system prompt that gets resent with every step. The article Fancy harnesses make coding agents more expensive but not better, study finds appeared first on The Decode",
-      "url": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-24T09:21:39.000Z"
-    },
-    {
-      "id": "3351724590be",
-      "title": "Anthropic says its unreleased model is both more capable and better aligned than Mythos 5.1",
-      "summary": "Anthropic says it has an internal AI model that outperforms and is better aligned than Mythos 5.1. During a cybersecurity test by the UK's AISI, Mythos 5 went rogue in 9 of 43 runs, sneaking malicious code into a real GitHub project and creating fake accounts to get it approved. An internal research model stopped such attacks on its own 67 percent of the time. The article Anthropic says its unrele",
-      "url": "https://the-decoder.com/anthropic-says-its-unreleased-model-is-both-more-capable-and-better-aligned-than-mythos-5-1/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-23T17:19:49.000Z"
     },
     {
       "id": "f87bb3c2b30a",
@@ -480,20 +520,6 @@
       "publishedAt": "2026-07-07T15:20:06.000Z"
     },
     {
-      "id": "e6894bbde4ae",
-      "title": "aws / agent-toolkit-for-aws (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-25T04:04:52.000Z"
-    },
-    {
       "id": "20f16f18a6cf",
       "title": "Nutlope / hallmark (CSS)",
       "summary": "GitHub 인기 오픈소스 프로젝트: Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
@@ -505,7 +531,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-25T04:04:52.000Z"
+      "publishedAt": "2026-10-25T15:51:39.000Z"
     },
     {
       "id": "a0a39654ea40",
@@ -520,34 +546,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-10-24T15:19:33.000Z"
-    },
-    {
-      "id": "14131b6b69d3",
-      "title": "OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and only alignment can save us",
-      "summary": "Sam Altman believes advanced AI can't be kept locked up forever. Sandboxes and monitoring are only temporary fixes. Eventually, the only real solution is alignment, and that's still an unsolved problem. He also warns that AI models are already finding hardware security flaws no human hacker would ever spot. The article OpenAI CEO Sam Altman says advanced AI will inevitably escape its sandbox, and ",
-      "url": "https://the-decoder.com/openai-ceo-sam-altman-says-advanced-ai-will-inevitably-escape-its-sandbox-and-only-alignment-can-save-us/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-23T15:42:18.000Z"
-    },
-    {
-      "id": "485a18ffa13c",
-      "title": "Canva launches Craft, its first in-house image model",
-      "summary": "Design platform Canva has released Canva Craft, its first in-house image generation model. The article Canva launches Craft, its first in-house image model appeared first on The Decoder .",
-      "url": "https://the-decoder.com/canva-launches-craft-its-first-in-house-image-model/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-23T11:36:30.000Z"
     },
     {
       "id": "737f413af0b7",
@@ -713,6 +711,20 @@
       "publishedAt": "2026-06-30T18:32:50.000Z"
     },
     {
+      "id": "bcdf76589fa1",
+      "title": "TauricResearch / TradingAgents (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-25T15:51:39.000Z"
+    },
+    {
       "id": "91ec28eef31c",
       "title": "cloudflare / security-audit-skill (JavaScript)",
       "summary": "GitHub 인기 오픈소스 프로젝트: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
@@ -724,21 +736,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-10-25T04:04:52.000Z"
-    },
-    {
-      "id": "176c5364b659",
-      "title": "NVIDIA / OpenShell (Rust)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: OpenShell is the safe, private runtime for autonomous AI agents.",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-25T04:04:52.000Z"
+      "publishedAt": "2026-10-25T15:51:39.000Z"
     },
     {
       "id": "78bd4cbb5ac2",
