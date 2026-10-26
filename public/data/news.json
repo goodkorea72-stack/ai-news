@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-26T04:08:52.110Z",
-  "nextUpdate": "2026-10-26T16:00:00.000Z",
+  "generatedAt": "2026-10-26T18:32:23.792Z",
+  "nextUpdate": "2026-10-27T06:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 270,
+  "totalCollected": 254,
   "articleCount": 60,
   "articles": [
     {
@@ -326,35 +326,6 @@
       "publishedAt": "2026-10-26T04:00:00.000Z"
     },
     {
-      "id": "70aab011be24",
-      "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
-      "summary": "Hi HN, we're Mike and Thom. Agents of the future should only have one tool (the interpreter, ideally a LISP eval), nothing more or less; to interact with the world. Agents remember by writing markdown files. NODECODE remembers by rewriting itself. And that is in itself a new paradigm in working with agents. What if memories, skills, MCPs, provider connectors, tools, etc. all live under the same im",
-      "url": "https://github.com/nodecode-ai/nodecode",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-26T03:30:18.000Z"
-    },
-    {
-      "id": "7327211a7b6c",
-      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
-      "summary": "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 76 # Comments: 35",
-      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-26T01:47:46.000Z"
-    },
-    {
       "id": "1c7f791b566f",
       "title": "Transformers now runs llama.cpp quants",
       "summary": "",
@@ -427,10 +398,10 @@
       "publishedAt": "2026-07-01T00:00:00.000Z"
     },
     {
-      "id": "375911eec788",
-      "title": "AgriciDaniel / claude-seo (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "id": "ef88d0791c07",
+      "title": "nightly-labs / openbot (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "url": "https://github.com/nightly-labs/openbot",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -439,7 +410,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-26T04:08:51.000Z"
+      "publishedAt": "2026-10-26T18:32:23.000Z"
     },
     {
       "id": "951cb31241e6",
@@ -532,21 +503,6 @@
       "publishedAt": "2026-10-26T04:00:00.000Z"
     },
     {
-      "id": "fa02deb11661",
-      "title": "OpenMobile-2 proves open-source smartphone agents can rival proprietary models",
-      "summary": "Smartphone agents don't get better by processing more data. They improve by training on as many different apps as possible. The researchers behind OpenMobile-2 built an open training environment with more than 110 applications, including 35 replicas of popular apps. On real Android devices, their model scores highest among open agents, the authors say. The article OpenMobile-2 proves open-source s",
-      "url": "https://the-decoder.com/openmobile-2-proves-open-source-smartphone-agents-can-rival-proprietary-models/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-25T06:55:22.000Z"
-    },
-    {
       "id": "c96bfd28b36f",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "summary": "",
@@ -574,7 +530,37 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-26T04:08:51.000Z"
+      "publishedAt": "2026-10-26T18:32:23.000Z"
+    },
+    {
+      "id": "1a8ce30019c4",
+      "title": "affaan-m / ECC (JavaScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-26T18:32:23.000Z"
+    },
+    {
+      "id": "4cb7ff3a442a",
+      "title": "NVIDIA / SkillSpector (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-26T18:32:23.000Z"
     },
     {
       "id": "c828da3f47da",
@@ -888,6 +874,21 @@
       "sourceId": "arxiv",
       "icon": "📄",
       "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-26T04:00:00.000Z"
+    },
+    {
+      "id": "725d0b944c70",
+      "title": "Autoregressive Multimodal Anomaly Detection with Large Language Models for Microservice Systems",
+      "summary": "arXiv:2610.31722v1 Announce Type: cross Abstract: Microservice systems have become a dominant architecture for large-scale cloud applications, enabling rapid deployment and elastic scaling. However, ensuring the reliability and availability of microservice systems critically relies on effective anomaly detection, as failures and performance anomalies can quickly propagate across services and sever",
+      "url": "https://arxiv.org/abs/2610.31722",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
         "industry"
       ],
       "score": 4,
