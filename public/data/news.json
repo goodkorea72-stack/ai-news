@@ -1,26 +1,11 @@
 {
-  "generatedAt": "2026-10-27T04:28:30.985Z",
-  "nextUpdate": "2026-10-27T16:00:00.000Z",
+  "generatedAt": "2026-10-27T17:47:21.960Z",
+  "nextUpdate": "2026-10-28T05:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 254,
+  "totalCollected": 270,
   "articleCount": 60,
   "articles": [
-    {
-      "id": "95c0a8bedf15",
-      "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
-      "summary": "Nvidia's new data engine Flora labels one hour of robot video for 72 cents instead of $88 with GPT-6 Astra, while scoring slightly higher on quality. The open system, built on three fine-tuned Qwen3.5 models, catches errors in robot actions far more reliably than any competitor but sometimes falls short on descriptive accuracy. Nvidia is positioning Flora as a key piece of its strategy to control ",
-      "url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 11,
-      "publishedAt": "2026-10-25T10:08:49.000Z"
-    },
     {
       "id": "7aaf3a0cd19f",
       "title": "How To Build A Modern Diffusion Language Model",
@@ -83,6 +68,52 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "9787c335b5a4",
+      "title": "Former Deepmind researcher thinks AlphaGo&#039;s playbook can cure AI hallucinations",
+      "summary": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence. So far, though, there's no working system and no benchmarks. The article Former Deepmind researcher thinks AlphaGo&#039;s playbook ",
+      "url": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-10-27T13:55:24.000Z"
+    },
+    {
+      "id": "941d0a9c9d8d",
+      "title": "Google Deepmind&#039;s Genie 4 puts a modern spin on agent designs that predate LLMs",
+      "summary": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent. Genie 4 is still an early research model, and longer sessions lead to visual inconsistencies. The article Google Deepmind&#039;s Genie 4 puts a modern spin on agent designs that predate L",
+      "url": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-27T17:25:09.000Z"
+    },
+    {
+      "id": "65e033417c14",
+      "title": "OpenAI&#039;s Ted Sanders shares a rule of thumb for picking the right GPT-model",
+      "summary": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas. Sanders says model size, reasoning effort, and multi-agent systems are distinct dimensions that can’t be reduced to a single \"IQ score.\" The article OpenAI&#039;s Ted Sanders shares a rule",
+      "url": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-10-27T10:09:26.000Z"
     },
     {
       "id": "90f1d2722a6b",
@@ -321,7 +352,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-27T04:28:30.000Z"
+      "publishedAt": "2026-10-27T17:47:20.000Z"
     },
     {
       "id": "a8e7b5172fd0",
@@ -468,7 +499,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-27T04:28:30.000Z"
+      "publishedAt": "2026-10-27T17:47:20.000Z"
     },
     {
       "id": "1a8ce30019c4",
@@ -483,22 +514,64 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-27T04:28:30.000Z"
+      "publishedAt": "2026-10-27T17:47:20.000Z"
     },
     {
-      "id": "4cb7ff3a442a",
-      "title": "NVIDIA / SkillSpector (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "a60f0c1463af",
+      "title": "Open-source n8n and MCP workflows for UCP store audits and B2B signals",
+      "summary": "Article URL: https://github.com/edtool79-collab/hirepulse-mcp/blob/main/templates/SUPER_TOOLS_PLAYBOOK.md Comments URL: https://news.ycombinator.com/item?id=50262699 Points: 1 # Comments: 0",
+      "url": "https://github.com/edtool79-collab/hirepulse-mcp/blob/main/templates/SUPER_TOOLS_PLAYBOOK.md",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
-        "new_model",
+        "open_source",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-27T04:28:30.000Z"
+      "publishedAt": "2026-10-27T17:33:13.000Z"
+    },
+    {
+      "id": "014a5b71b993",
+      "title": "I benchmarked 4 web search APIs for AI agents on 30 live queries",
+      "summary": "Article URL: https://github.com/psinglap/websearch-api-eval Comments URL: https://news.ycombinator.com/item?id=50262573 Points: 1 # Comments: 0",
+      "url": "https://github.com/psinglap/websearch-api-eval",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-27T17:25:18.000Z"
+    },
+    {
+      "id": "381cc3627798",
+      "title": "DeepMind unveils Genie 4 world model promising more realistic physics and humans",
+      "summary": "Article URL: https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/ Comments URL: https://news.ycombinator.com/item?id=50261676 Points: 4 # Comments: 1",
+      "url": "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-27T16:31:22.000Z"
+    },
+    {
+      "id": "97e527649c27",
+      "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
+      "summary": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to provide helpful answers. The article Anthropic uses its IPO letter to renew its pledge that Claude will never show ads appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-27T11:20:51.000Z"
     },
     {
       "id": "786384d5ab19",
@@ -820,79 +893,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "id": "4ea6d165675c",
-      "title": "Harness-Model Collaboration for Long-Horizon Continual Learning",
-      "summary": "arXiv:2610.34724v1 Announce Type: new Abstract: Long-horizon agents continuously encounter reusable procedural knowledge, yet existing systems typically rely either on model adaptation or external memory, trading persistent learning for rapid reuse. This limitation is especially important for Web agents that repeatedly execute related multi-step workflows. We propose HaMo, a Harness-Model collabor",
-      "url": "https://arxiv.org/abs/2610.34724",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "id": "5dfec15c7b25",
-      "title": "Query-Driven Learning for Lifted Reasoning",
-      "summary": "arXiv:2610.34747v1 Announce Type: new Abstract: Learning and reasoning are both essential to intelligent agents, but have traditionally been treated as two separate stages: first learning a knowledge base from data (or taking one as given), and then verifying queries as if the knowledge base were complete. This separation has been shown to be inefficient when the downstream goal is to verify only ",
-      "url": "https://arxiv.org/abs/2610.34747",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-27T04:00:00.000Z"
-    },
-    {
-      "id": "c985ed49ffb9",
-      "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
-      "summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arrive by 2027. The article Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027 appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-25T09:37:46.000Z"
-    },
-    {
-      "id": "3e8b56a5d709",
-      "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
-      "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic has published a migration kit on GitHub to help teams make the transition. The article Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
-      "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-25T09:12:10.000Z"
-    },
-    {
-      "id": "70c0b23aa346",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-13T16:00:00.000Z"
     }
   ]
 }
