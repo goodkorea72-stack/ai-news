@@ -1,11 +1,26 @@
 {
-  "generatedAt": "2026-10-28T04:59:00.829Z",
-  "nextUpdate": "2026-10-28T16:00:00.000Z",
+  "generatedAt": "2026-10-28T18:11:21.447Z",
+  "nextUpdate": "2026-10-29T06:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 271,
+  "totalCollected": 254,
   "articleCount": 60,
   "articles": [
+    {
+      "id": "690ec1f24851",
+      "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+      "summary": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents finish UI tasks 77 percent faster while using up to three times fewer tokens. Android development is becoming agent-centric too. The article",
+      "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 10,
+      "publishedAt": "2026-10-28T16:59:59.000Z"
+    },
     {
       "id": "967f1dbbc152",
       "title": "InfraDev: Can Coding Agents Develop AI Infrastructure, and How Can We Tell?",
@@ -36,6 +51,21 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "ebc261ebb5f2",
+      "title": "Nvidia&#039;s open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+      "summary": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text prompts. It leads several benchmarks and uses only a sixth of the active parameters of its strongest open rival. Nvidia is also shipping a dataset with more than 800,000 hours of speech, along with tools for fine-tuning. T",
+      "url": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-10-28T15:49:39.000Z"
     },
     {
       "id": "7ef046893098",
@@ -115,21 +145,6 @@
       "publishedAt": "2026-10-27T17:25:09.000Z"
     },
     {
-      "id": "65e033417c14",
-      "title": "OpenAI&#039;s Ted Sanders shares a rule of thumb for picking the right GPT-model",
-      "summary": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas. Sanders says model size, reasoning effort, and multi-agent systems are distinct dimensions that can’t be reduced to a single \"IQ score.\" The article OpenAI&#039;s Ted Sanders shares a rule",
-      "url": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-10-27T10:09:26.000Z"
-    },
-    {
       "id": "a0a3a9608043",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "summary": "",
@@ -158,22 +173,6 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
-    },
-    {
-      "id": "bf5bf47ec65e",
-      "title": "Show HN: SelfClaw – Self-hosted multi-model AI chat with OpenAI-compatible API",
-      "summary": "SelfClaw aggregates multiple LLM providers behind a single OpenAI-compatible API. Built with Python, Streamlit, and FastAPI. MIT licensed. Comments URL: https://news.ycombinator.com/item?id=50269473 Points: 2 # Comments: 0",
-      "url": "https://github.com/Alanzj/SelfClaw",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-28T04:52:34.000Z"
     },
     {
       "id": "0dbc5ddc44ae",
@@ -249,21 +248,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-10-28T04:00:00.000Z"
-    },
-    {
-      "id": "9bee04e2127f",
-      "title": "GPT-6.1 Terra halves OpenAI&#039;s API prices and still gains ground on its larger models",
-      "summary": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control. The article GPT-6.1 Terra halves OpenAI&#039;s API prices and still gains ground on its larger models appeared first on The Decoder .",
-      "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-10-26T20:30:55.000Z"
     },
     {
       "id": "1c7f791b566f",
@@ -350,7 +334,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-28T04:58:58.000Z"
+      "publishedAt": "2026-10-28T18:11:21.000Z"
     },
     {
       "id": "09790fc5669f",
@@ -469,22 +453,35 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-28T04:58:58.000Z"
+      "publishedAt": "2026-10-28T18:11:21.000Z"
     },
     {
-      "id": "1a8ce30019c4",
-      "title": "affaan-m / ECC (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "f21daf30b1ba",
+      "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
+      "summary": "Anthropic is adding pre-built templates to Claude for Legal. These interactive overviews and tables simplify setup for legal teams and speed up routine work like contract reviews, while more than 60 integrations let firms connect their own databases directly. The article Claude for Legal now verifies sources automatically, then hands the file to a lawyer appeared first on The Decoder .",
+      "url": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "new_model",
-        "industry"
+        "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-28T04:58:58.000Z"
+      "publishedAt": "2026-10-28T16:20:03.000Z"
+    },
+    {
+      "id": "1fc7f9919801",
+      "title": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers at Anthropic",
+      "summary": "Anthropic manager Felix Rieseberg says the classic coding interview is dead because Claude now solves small programming tasks better than job candidates do. He'd rather see prototypes that show taste, empathy, and principled thinking, since in his words, \"hunger beats tenure.\" That sounds empowering, but it pushes the bar for newcomers toward entrepreneurial thinking and assumes a hustle mentality",
+      "url": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-10-28T11:15:00.000Z"
     },
     {
       "id": "7a88f58e3853",
@@ -689,20 +686,6 @@
       "publishedAt": "2026-10-27T19:45:49.000Z"
     },
     {
-      "id": "97e527649c27",
-      "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
-      "summary": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to provide helpful answers. The article Anthropic uses its IPO letter to renew its pledge that Claude will never show ads appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-27T11:20:51.000Z"
-    },
-    {
       "id": "70c0b23aa346",
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
@@ -803,7 +786,37 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-28T04:58:58.000Z"
+      "publishedAt": "2026-10-28T18:11:21.000Z"
+    },
+    {
+      "id": "386ae8a35fe1",
+      "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+      "summary": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" and weekly Codex users in Germany have grown twentyfold since January. A clear subtext ran through the sessions and the repeated nods to ChatGPT's 1.2 billion weekly users: OpenAI wants developers to bu",
+      "url": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-28T16:25:02.000Z"
+    },
+    {
+      "id": "4cf6e512a06f",
+      "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
+      "summary": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes how deep the breach went. The incident shows how vulnerable even leading AI labs are through their external software dependencies. The article AI agents hacked Anthropic, maker of ar",
+      "url": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-28T10:56:24.000Z"
     },
     {
       "id": "62ec5a503c5d",
@@ -866,20 +879,6 @@
       "title": "MAREval: A Multi-Agent Framework for Evaluating Natural Language Recommendation Explanations",
       "summary": "arXiv:2610.36389v1 Announce Type: new Abstract: Evaluating natural language explanations in recommender systems is essential for fostering user trust, transparency, and engagement. However, existing evaluation approaches like human evaluations, while accurate, are resource-intensive and impractical at the scale required by modern recommendation platforms. Also, automated methods using single-agent",
       "url": "https://arxiv.org/abs/2610.36389",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-28T04:00:00.000Z"
-    },
-    {
-      "id": "a772effacef6",
-      "title": "Your Agent Acts Differently When You're Around: How User Presence Changes Agent Behavior in Negotiation",
-      "summary": "arXiv:2610.36435v1 Announce Type: new Abstract: LLM agents increasingly interact with other agents on behalf of users, yet how users in the loop affect their agents' behavior--for better or worse--remains poorly understood. We study this question through the lens of negotiation, where agents must represent users while strategically bargaining with other agents. To isolate the effect of user presen",
-      "url": "https://arxiv.org/abs/2610.36435",
       "source": "arXiv cs.AI",
       "sourceId": "arxiv",
       "icon": "📄",
