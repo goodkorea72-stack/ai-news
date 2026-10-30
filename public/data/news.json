@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-29T18:17:14.079Z",
-  "nextUpdate": "2026-10-30T06:00:00.000Z",
+  "generatedAt": "2026-10-30T05:11:37.431Z",
+  "nextUpdate": "2026-10-30T17:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 151,
+  "totalCollected": 171,
   "articleCount": 60,
   "articles": [
     {
@@ -65,21 +65,6 @@
       ],
       "score": 8,
       "publishedAt": "2026-10-29T13:20:14.000Z"
-    },
-    {
-      "id": "ebc261ebb5f2",
-      "title": "Nvidia&#039;s open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
-      "summary": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text prompts. It leads several benchmarks and uses only a sixth of the active parameters of its strongest open rival. Nvidia is also shipping a dataset with more than 800,000 hours of speech, along with tools for fine-tuning. T",
-      "url": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 8,
-      "publishedAt": "2026-10-28T15:49:39.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -211,7 +196,7 @@
         "new_model"
       ],
       "score": 5,
-      "publishedAt": "2026-10-29T18:17:14.000Z"
+      "publishedAt": "2026-10-30T05:11:37.000Z"
     },
     {
       "id": "ef88d0791c07",
@@ -226,7 +211,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-29T18:17:14.000Z"
+      "publishedAt": "2026-10-30T05:11:37.000Z"
     },
     {
       "id": "3f435e6004f6",
@@ -241,7 +226,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-10-29T18:17:14.000Z"
+      "publishedAt": "2026-10-30T05:11:37.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -271,13 +256,13 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-10-29T18:17:14.000Z"
+      "publishedAt": "2026-10-30T05:11:37.000Z"
     },
     {
-      "id": "f21daf30b1ba",
-      "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
-      "summary": "Anthropic is adding pre-built templates to Claude for Legal. These interactive overviews and tables simplify setup for legal teams and speed up routine work like contract reviews, while more than 60 integrations let firms connect their own databases directly. The article Claude for Legal now verifies sources automatically, then hands the file to a lawyer appeared first on The Decoder .",
-      "url": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/",
+      "id": "341cf6efba2e",
+      "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+      "summary": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More efficient models like Terra and Sol should push usable capacity even higher. The move comes just ahead of Anthropic's IPO, as both companies fight for B2B dominance in AI. The article OpenAI doubles usage limits on Pro plans as competition with A",
+      "url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -285,7 +270,7 @@
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-28T16:20:03.000Z"
+      "publishedAt": "2026-10-29T20:01:27.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -388,7 +373,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-10-29T18:17:14.000Z"
+      "publishedAt": "2026-10-30T05:11:37.000Z"
     },
     {
       "id": "49f1b14381da",
@@ -403,7 +388,79 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-10-29T18:17:14.000Z"
+      "publishedAt": "2026-10-30T05:11:37.000Z"
+    },
+    {
+      "id": "79d902dc0ab1",
+      "title": "What Claude Code's 30-second agent summary call costs, read from the binary",
+      "summary": "Article URL: https://theainewsreport.com/2026-10-29-claude-code-agent-summary-cost-explained.html Comments URL: https://news.ycombinator.com/item?id=50300003 Points: 1 # Comments: 0",
+      "url": "https://theainewsreport.com/2026-10-29-claude-code-agent-summary-cost-explained.html",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-30T04:58:26.000Z"
+    },
+    {
+      "id": "7dacf3e21608",
+      "title": "Building oversight tools into a model's weights",
+      "summary": "Article URL: https://divagr.com/blog/building-oversight-tools-into-a-models-weights Comments URL: https://news.ycombinator.com/item?id=50299568 Points: 2 # Comments: 0",
+      "url": "https://divagr.com/blog/building-oversight-tools-into-a-models-weights",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-30T03:30:20.000Z"
+    },
+    {
+      "id": "e43c5cd51563",
+      "title": "How Open Source Communities Help Respond Quickly to Security Risks",
+      "summary": "Article URL: https://openteams.com/engineering-blog/emudhra-pip-install-hijacked/ Comments URL: https://news.ycombinator.com/item?id=50298930 Points: 1 # Comments: 0",
+      "url": "https://openteams.com/engineering-blog/emudhra-pip-install-hijacked/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-30T01:52:34.000Z"
+    },
+    {
+      "id": "f1ba5257e4c3",
+      "title": "Show HN: Cubic Doggo 07B Wouf: A low-cost open-source quadruped with ST3215",
+      "summary": "Cubic Doggo 07B Wouf is a ROS2-controlled 12-DOF untethered quadruped, built with ST3215 smart servos fully with off-the-shelf components and 3D-printed parts Featuring: * 12 ST-3215-C018 servos, usually on a bundled sale because of SO-ARM101 * Walking forward with a payload of 1 kg * Smart servos as required for closed-loop reinforcement learning capability * FreeCAD models fully available for ed",
+      "url": "https://github.com/SphericalCowww/CubicDoggo_07B",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-30T00:28:52.000Z"
+    },
+    {
+      "id": "a9133695169b",
+      "title": "Experts adopt AI agent&#039;s random opinions and think they&#039;re their own, Anthropic study finds",
+      "summary": "Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent's view up to 86 percent of the time on judgment calls, and most believed the conclusions were their own. The article Experts adopt AI agent&#039;s random opinions and think they&#039;re their own, Anthropic study finds appeared first on The Decoder .",
+      "url": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-10-29T19:33:37.000Z"
     },
     {
       "id": "21910bde8801",
@@ -549,6 +606,20 @@
       "publishedAt": "2026-07-07T15:20:06.000Z"
     },
     {
+      "id": "6138ca55a588",
+      "title": "Same agent-memory accuracy with 8x fewer tokens by changing the embedding model",
+      "summary": "Article URL: https://github.com/goyohan0611-png/turnbook Comments URL: https://news.ycombinator.com/item?id=50299763 Points: 1 # Comments: 0",
+      "url": "https://github.com/goyohan0611-png/turnbook",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-10-30T04:06:35.000Z"
+    },
+    {
       "id": "12960046aa40",
       "title": "Build specialized multimodal models with LFM3",
       "summary": "",
@@ -592,23 +663,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-10-22T22:24:34.000Z"
-    },
-    {
-      "id": "33232a605791",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-15T13:04:03.000Z"
     },
     {
       "id": "2035386f90b7",
@@ -706,7 +760,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-10-29T18:17:14.000Z"
+      "publishedAt": "2026-10-30T05:11:37.000Z"
     },
     {
       "id": "de165929c39e",
@@ -720,7 +774,80 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-10-29T18:17:14.000Z"
+      "publishedAt": "2026-10-30T05:11:37.000Z"
+    },
+    {
+      "id": "b94a935d0497",
+      "title": "Show HN: Breatic – Collaborative canvases and documents with an AI agent",
+      "summary": "Article URL: https://github.com/orime-org/breatic Comments URL: https://news.ycombinator.com/item?id=50299847 Points: 2 # Comments: 0",
+      "url": "https://github.com/orime-org/breatic",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-30T04:23:59.000Z"
+    },
+    {
+      "id": "355ed52d3fb2",
+      "title": "A Defense Contractor Gave Their AI Agent Access to a Secure Pentagon System",
+      "summary": "Article URL: https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/ Comments URL: https://news.ycombinator.com/item?id=50299603 Points: 2 # Comments: 0",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-30T03:37:14.000Z"
+    },
+    {
+      "id": "1c5d4990d40b",
+      "title": "Elephant-goldfish-model: skills for designing and reviewing software with agents",
+      "summary": "Article URL: https://github.com/google/elephant-goldfish-model Comments URL: https://news.ycombinator.com/item?id=50299033 Points: 1 # Comments: 0",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-30T02:09:30.000Z"
+    },
+    {
+      "id": "4618e1614524",
+      "title": "GitHub trending projects with bilingual AI reviews and MCP access",
+      "summary": "Article URL: https://hotrepo.ai Comments URL: https://news.ycombinator.com/item?id=50298275 Points: 1 # Comments: 0",
+      "url": "https://hotrepo.ai",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-30T00:25:34.000Z"
+    },
+    {
+      "id": "82595f000f65",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "summary": "",
+      "url": {
+        "@_href": "https://simonwillison.net/2026/Oct/29/api-credits/",
+        "@_rel": "alternate"
+      },
+      "source": "Simon Willison",
+      "sourceId": "simonwillison",
+      "icon": "🧪",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-29T22:48:29.000Z"
     },
     {
       "id": "78bd4cbb5ac2",
@@ -752,132 +879,6 @@
       ],
       "score": 1,
       "publishedAt": "2026-10-21T17:35:36.000Z"
-    },
-    {
-      "id": "337b479f8449",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-13T17:05:48.000Z"
-    },
-    {
-      "id": "13fb9f934753",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-03T22:56:48.000Z"
-    },
-    {
-      "id": "aa94f7750a6e",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-02T15:00:00.000Z"
-    },
-    {
-      "id": "fcdb740546fd",
-      "title": "Making global data easier to explore",
-      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-17T20:00:00.000Z"
-    },
-    {
-      "id": "e10aa3054613",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-15T16:00:44.000Z"
-    },
-    {
-      "id": "8d3fd42b9606",
-      "title": "DevFest is back",
-      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-14T16:00:00.000Z"
-    },
-    {
-      "id": "707cc711d602",
-      "title": "3 ways to prep for your next big race with Search",
-      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-10T16:00:00.000Z"
-    },
-    {
-      "id": "8af77f25c1b8",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "summary": "",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "9d08925b94a9",
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-01T21:39:07.000Z"
     }
   ]
 }
