@@ -1,11 +1,42 @@
 {
-  "generatedAt": "2026-11-01T05:25:00.638Z",
-  "nextUpdate": "2026-11-01T17:00:00.000Z",
+  "generatedAt": "2026-11-01T17:48:34.902Z",
+  "nextUpdate": "2026-11-02T05:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 174,
+  "totalCollected": 177,
   "articleCount": 60,
   "articles": [
+    {
+      "id": "de40df4c8488",
+      "title": "beenuar / AiSOC (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "url": "https://github.com/beenuar/AiSOC",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 11,
+      "publishedAt": "2026-11-01T17:48:32.000Z"
+    },
+    {
+      "id": "5b5497251665",
+      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
+      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe range on clinical anxiety scales. This could put mentally vulnerable users at risk. Anthropic's Claude, the model its maker",
+      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 10,
+      "publishedAt": "2026-11-01T14:36:49.000Z"
+    },
     {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
@@ -65,22 +96,6 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
-    },
-    {
-      "id": "5e40df31d0f3",
-      "title": "Orkas-AI / Orkas (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys.",
-      "url": "https://github.com/Orkas-AI/Orkas",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-01T05:24:58.000Z"
     },
     {
       "id": "86c1676fd848",
@@ -182,7 +197,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-01T05:24:58.000Z"
+      "publishedAt": "2026-11-01T17:48:32.000Z"
     },
     {
       "id": "7241faedc71a",
@@ -197,13 +212,13 @@
         "new_model"
       ],
       "score": 5,
-      "publishedAt": "2026-11-01T05:24:58.000Z"
+      "publishedAt": "2026-11-01T17:48:32.000Z"
     },
     {
-      "id": "a1307c8a990e",
-      "title": "Medo: A modern UHD 4K open source Media editor for Haiku OS in less than 1.44MB",
-      "summary": "Article URL: https://github.com/smallstepforman/Medo Comments URL: https://news.ycombinator.com/item?id=50321980 Points: 1 # Comments: 0",
-      "url": "https://github.com/smallstepforman/Medo",
+      "id": "906f6f201d99",
+      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+      "summary": "URL deleted for malware concerns. Comments URL: https://news.ycombinator.com/item?id=50326727 Points: 42 # Comments: 43",
+      "url": "https://news.ycombinator.com/item?id=50326727",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -212,22 +227,7 @@
         "new_model"
       ],
       "score": 5,
-      "publishedAt": "2026-11-01T01:38:12.000Z"
-    },
-    {
-      "id": "c1049f50b714",
-      "title": "DeepSeek put the architecture for their always-on autonomous agent on GitHub",
-      "summary": "Article URL: https://github.com/deepseek-ai/dsh-superagent-prototype Comments URL: https://news.ycombinator.com/item?id=50321277 Points: 5 # Comments: 0",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-10-31T23:31:26.000Z"
+      "publishedAt": "2026-11-01T15:45:10.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -245,18 +245,63 @@
       "publishedAt": "2026-08-13T17:16:04.000Z"
     },
     {
-      "id": "ec1323466b6a",
-      "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
-      "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling back amid the recent tech sell-off. Meanwhile, rival Anthropic is pushing to go public as early as November. The article OpenAI raises just $11 billion of its $30 billion target a",
-      "url": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "e4b3991b2d7f",
+      "title": "CopilotKit / OpenBot (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-01T17:48:32.000Z"
+    },
+    {
+      "id": "dc29b78f8413",
+      "title": "DIY AI Lockpicking Robot: ESP32 and Claude AI Opens Any Lock [video]",
+      "summary": "Article URL: https://www.youtube.com/watch?v=o4AUKGdScNI Comments URL: https://news.ycombinator.com/item?id=50327831 Points: 1 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=o4AUKGdScNI",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-10-31T09:22:52.000Z"
+      "publishedAt": "2026-11-01T17:47:17.000Z"
+    },
+    {
+      "id": "1b7e356a5e2b",
+      "title": "When DeepSeek super agent goes quiet: diagnose one boundary at a time",
+      "summary": "Article URL: https://super-agent.io/deepseek-super-agent/troubleshooting/ Comments URL: https://news.ycombinator.com/item?id=50327676 Points: 1 # Comments: 0",
+      "url": "https://super-agent.io/deepseek-super-agent/troubleshooting/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-01T17:30:41.000Z"
+    },
+    {
+      "id": "a1220e434b61",
+      "title": "Exploring Super-Agent Design: Towards a More Autonomous Agent System",
+      "summary": "Article URL: https://twitter.com/DeepSeekHarness/status/2116857257245987236 Comments URL: https://news.ycombinator.com/item?id=50326523 Points: 2 # Comments: 0",
+      "url": "https://twitter.com/DeepSeekHarness/status/2116857257245987236",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-01T15:25:07.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -348,6 +393,20 @@
       "publishedAt": "2026-07-07T00:00:00.000Z"
     },
     {
+      "id": "029d041bd9fa",
+      "title": "cjpais / Handy (Rust)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A free, open source, and extensible speech-to-text application that works completely offline.",
+      "url": "https://github.com/cjpais/Handy",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-01T17:48:32.000Z"
+    },
+    {
       "id": "49f1b14381da",
       "title": "Donchitos / Claude-Code-Game-Studios (Shell)",
       "summary": "GitHub 인기 오픈소스 프로젝트: Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
@@ -360,27 +419,43 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-01T05:24:58.000Z"
+      "publishedAt": "2026-11-01T17:48:32.000Z"
     },
     {
-      "id": "adac1a5249f2",
-      "title": "vorssaint / vorssaint-utils (Swift)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Free and open-source macOS menu bar toolkit.",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "3a7dc66663a6",
+      "title": "JarvisHub – Open Harness for Canvas-Native Multimodal Creative Agents",
+      "summary": "Article URL: https://www.jarvishub.site Comments URL: https://news.ycombinator.com/item?id=50327041 Points: 1 # Comments: 0",
+      "url": "https://www.jarvishub.site",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
-        "open_source"
+        "new_model",
+        "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-01T05:24:58.000Z"
+      "publishedAt": "2026-11-01T16:21:06.000Z"
     },
     {
-      "id": "5abfcf4eec54",
-      "title": "Screen Capture for macOS – Open-source sticky-aware scrolling capture",
-      "summary": "Article URL: https://github.com/nasadunadu/screen-capture-macos Comments URL: https://news.ycombinator.com/item?id=50322819 Points: 1 # Comments: 0",
-      "url": "https://github.com/nasadunadu/screen-capture-macos",
+      "id": "5e113bd4647e",
+      "title": "Open Harness for Canvas-Native Multimodal Creative Agents",
+      "summary": "Article URL: https://arxiv.org/abs/2607.23588 Comments URL: https://news.ycombinator.com/item?id=50327028 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2607.23588",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-01T16:19:49.000Z"
+    },
+    {
+      "id": "163e709ddbd0",
+      "title": "MiniCPM-OCR 1.0: 1.3B open model scores 93.68 on Real5-OmniDocBench",
+      "summary": "Article URL: https://huggingface.co/openbmb/MiniCPM-OCR-1.0 Comments URL: https://news.ycombinator.com/item?id=50326385 Points: 2 # Comments: 0",
+      "url": "https://huggingface.co/openbmb/MiniCPM-OCR-1.0",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -388,7 +463,22 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-01T04:53:06.000Z"
+      "publishedAt": "2026-11-01T15:10:27.000Z"
+    },
+    {
+      "id": "9c1e0440b634",
+      "title": "OpenAI&#039;s upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+      "summary": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex models consume more of this quota, while simple instant chats do not count toward it. In practice, this is likely to result in a decline in ChatGPT’s quality for heavy users on lower-cost plans. The article O",
+      "url": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-01T09:51:06.000Z"
     },
     {
       "id": "a3332778cc2e",
@@ -404,36 +494,6 @@
       ],
       "score": 3,
       "publishedAt": "2026-10-31T16:38:37.000Z"
-    },
-    {
-      "id": "626c63947241",
-      "title": "Google Deepmind creates a global map of forests with satellite data and AI",
-      "summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help track deforestation under EU rules, but it identifies only about half of planted forests and tree-crop areas, and 60% of plantations. The article Google Deepmind creates a global map",
-      "url": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-31T10:15:45.000Z"
-    },
-    {
-      "id": "77b9a89de218",
-      "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
-      "summary": "An AI agent performed brain surgery on an epileptic mouse, picking the drug, the brain target, and the injection coordinates on its own. According to lead researcher Ocana-Santero, it's the first time an AI agent has autonomously chosen a treatment and delivered it to a living mammal. But when a calibration error hit mid-surgery, the agent refused to continue and couldn't be talked out of it. The ",
-      "url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-30T19:42:59.000Z"
     },
     {
       "id": "21910bde8801",
@@ -564,10 +624,38 @@
       "publishedAt": "2026-07-07T15:20:06.000Z"
     },
     {
-      "id": "fa13d74e3388",
-      "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
-      "summary": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. GPT models should now draw on conversation history to figure out what users actually want and disclose their own assumptions. Whether the models follow these rules is another matter. The article OpenAI sets new behavioral guidelines for AI ",
-      "url": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
+      "id": "098109e87add",
+      "title": "patchy631 / ai-engineering-hub (Jupyter Notebook)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-01T17:48:32.000Z"
+    },
+    {
+      "id": "55b7a85a1c27",
+      "title": "Codedict – a no-AI code index that cut my Claude Code tokens by 63%",
+      "summary": "Article URL: https://github.com/Marqueos/codedict Comments URL: https://news.ycombinator.com/item?id=50326786 Points: 1 # Comments: 0",
+      "url": "https://github.com/Marqueos/codedict",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-01T15:54:21.000Z"
+    },
+    {
+      "id": "e200811f36eb",
+      "title": "OpenAI is steering ChatGPT users toward more paid usage",
+      "summary": "OpenAI is now capping the number of paid ChatGPT accounts per device and payment card. Users who hit the limit can't start new subscriptions, and affected accounts can't be used on that device. Logging out doesn't automatically free up a spot. The policy will likely hit users who've been juggling multiple cheap subscriptions to maximize usage, pushing them toward pricier options like buying extra ",
+      "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -575,7 +663,21 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-10-30T17:44:59.000Z"
+      "publishedAt": "2026-11-01T12:05:04.000Z"
+    },
+    {
+      "id": "6776ae9ed0dc",
+      "title": "Google wants video AI to understand what people need as they work",
+      "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the right moment in longer videos, as errors compound and response quality drops sharply. The article Google wants video AI to understand what people need as they work appeared first on T",
+      "url": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-01T11:25:21.000Z"
     },
     {
       "id": "12960046aa40",
@@ -707,10 +809,10 @@
       "publishedAt": "2026-08-18T18:09:38.000Z"
     },
     {
-      "id": "d8cccf393c50",
-      "title": "mattpocock / skills (Shell)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills",
+      "id": "04a642b8b102",
+      "title": "public-apis / public-apis (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -718,55 +820,13 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-01T05:24:58.000Z"
+      "publishedAt": "2026-11-01T17:48:32.000Z"
     },
     {
-      "id": "de165929c39e",
-      "title": "pbakaus / impeccable (Rust)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "url": "https://github.com/pbakaus/impeccable",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-01T05:24:58.000Z"
-    },
-    {
-      "id": "b543c31678ad",
-      "title": "obra / superpowers (Shell)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: An agentic skills framework & software development methodology that works.",
-      "url": "https://github.com/obra/superpowers",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-01T05:24:58.000Z"
-    },
-    {
-      "id": "9f45fcca58f6",
-      "title": "THU-MAIC / OpenMAIC (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-01T05:24:58.000Z"
-    },
-    {
-      "id": "8ff56809fb3e",
-      "title": "We're Training a Figma-Fluent Editing Model",
-      "summary": "Article URL: https://www.figma.com/blog/training-a-figma-fluent-editing-model/ Comments URL: https://news.ycombinator.com/item?id=50322603 Points: 3 # Comments: 0",
-      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "id": "528cdd2f3c93",
+      "title": "AI Data Annotation and Evaluation Contractor",
+      "summary": "Article URL: https://iungotech.com Comments URL: https://news.ycombinator.com/item?id=50327747 Points: 1 # Comments: 0",
+      "url": "https://iungotech.com",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -774,13 +834,13 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-01T04:05:23.000Z"
+      "publishedAt": "2026-11-01T17:37:32.000Z"
     },
     {
-      "id": "5202e5ab0d8a",
-      "title": "Show HN: Proxenos – a local-first agent for getting through the health system",
-      "summary": "Article URL: https://github.com/mindemory/proxenos Comments URL: https://news.ycombinator.com/item?id=50322117 Points: 1 # Comments: 0",
-      "url": "https://github.com/mindemory/proxenos",
+      "id": "3820a14d77e7",
+      "title": "The surprising leadership dynamics in agent swarms",
+      "summary": "Article URL: https://www.raindrop.ai/blog/agent-swarm-leadership/ Comments URL: https://news.ycombinator.com/item?id=50326934 Points: 2 # Comments: 0",
+      "url": "https://www.raindrop.ai/blog/agent-swarm-leadership/",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -788,13 +848,13 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-01T02:06:26.000Z"
+      "publishedAt": "2026-11-01T16:11:38.000Z"
     },
     {
-      "id": "2dcafc4ff19e",
-      "title": "Show HN: LinkedIn-ops – Zero-dependency CDP automation built for AI agents",
-      "summary": "Article URL: https://github.com/shashtag-ventures/linkedin-ops Comments URL: https://news.ycombinator.com/item?id=50322021 Points: 1 # Comments: 0",
-      "url": "https://github.com/shashtag-ventures/linkedin-ops",
+      "id": "c03e486a35a5",
+      "title": "Prediction markets for AI research: can we price scientific truth?",
+      "summary": "Article URL: https://agentbook2.whf.bz/t/48/prediction-markets-for-ai-research-can-we-price-scientific-truth Comments URL: https://news.ycombinator.com/item?id=50326855 Points: 1 # Comments: 0",
+      "url": "https://agentbook2.whf.bz/t/48/prediction-markets-for-ai-research-can-we-price-scientific-truth",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -802,80 +862,21 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-01T01:46:21.000Z"
+      "publishedAt": "2026-11-01T16:02:40.000Z"
     },
     {
-      "id": "797b77bd3ddf",
-      "title": "Docsferatu: An agent that drafts docs PRs while you sleep",
-      "summary": "Article URL: https://www.inngest.com/blog/docsferatu-an-agent-that-drafts-docs-prs-while-you-sleep Comments URL: https://news.ycombinator.com/item?id=50321597 Points: 1 # Comments: 0",
-      "url": "https://www.inngest.com/blog/docsferatu-an-agent-that-drafts-docs-prs-while-you-sleep",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "411872f86d64",
+      "title": "Adobe is testing how well AI agents can use editing tools like a Photoshop professional would",
+      "summary": "Adobe Research and UC San Diego built EditAgent, an AI system that edits images more like a Photoshop pro. Instead of retrying the same general-purpose editor over and over, the agent picks the right specialized tool for each task and lets a standard language model choose the best result based on measured image data. The approach works, but it needs about ten times the compute. The article Adobe i",
+      "url": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-01T00:23:44.000Z"
-    },
-    {
-      "id": "5783316432b7",
-      "title": "Ultron – an uncensored agent that can do your coding",
-      "summary": "Article URL: https://chat.gtgimage.com Comments URL: https://news.ycombinator.com/item?id=50321332 Points: 1 # Comments: 0",
-      "url": "https://chat.gtgimage.com",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-31T23:38:25.000Z"
-    },
-    {
-      "id": "7ce7820ed6ec",
-      "title": "When AI writes almost all code, what happens to software engineering?",
-      "summary": "Article URL: https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what Comments URL: https://news.ycombinator.com/item?id=50321300 Points: 7 # Comments: 2",
-      "url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-31T23:34:14.000Z"
-    },
-    {
-      "id": "80b5169b0e2d",
-      "title": "A coding agent that fits in 636 KB – no Node, no Python, no NPM",
-      "summary": "Article URL: https://github.com/descz/delta Comments URL: https://news.ycombinator.com/item?id=50321273 Points: 2 # Comments: 1",
-      "url": "https://github.com/descz/delta",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-31T23:30:56.000Z"
-    },
-    {
-      "id": "82595f000f65",
-      "title": "API credits benefit for eligible ChatGPT subscriptions",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Oct/29/api-credits/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-29T22:48:29.000Z"
+      "publishedAt": "2026-11-01T14:56:44.000Z"
     }
   ]
 }
