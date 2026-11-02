@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-01T17:48:34.902Z",
-  "nextUpdate": "2026-11-02T05:00:00.000Z",
+  "generatedAt": "2026-11-02T05:23:57.087Z",
+  "nextUpdate": "2026-11-02T17:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 177,
+  "totalCollected": 157,
   "articleCount": 60,
   "articles": [
     {
@@ -20,7 +20,7 @@
         "industry"
       ],
       "score": 11,
-      "publishedAt": "2026-11-01T17:48:32.000Z"
+      "publishedAt": "2026-11-02T05:23:57.000Z"
     },
     {
       "id": "5b5497251665",
@@ -197,7 +197,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-01T17:48:32.000Z"
+      "publishedAt": "2026-11-02T05:23:57.000Z"
     },
     {
       "id": "7241faedc71a",
@@ -212,22 +212,7 @@
         "new_model"
       ],
       "score": 5,
-      "publishedAt": "2026-11-01T17:48:32.000Z"
-    },
-    {
-      "id": "906f6f201d99",
-      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
-      "summary": "URL deleted for malware concerns. Comments URL: https://news.ycombinator.com/item?id=50326727 Points: 42 # Comments: 43",
-      "url": "https://news.ycombinator.com/item?id=50326727",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-01T15:45:10.000Z"
+      "publishedAt": "2026-11-02T05:23:57.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -257,51 +242,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-01T17:48:32.000Z"
-    },
-    {
-      "id": "dc29b78f8413",
-      "title": "DIY AI Lockpicking Robot: ESP32 and Claude AI Opens Any Lock [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=o4AUKGdScNI Comments URL: https://news.ycombinator.com/item?id=50327831 Points: 1 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=o4AUKGdScNI",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-01T17:47:17.000Z"
-    },
-    {
-      "id": "1b7e356a5e2b",
-      "title": "When DeepSeek super agent goes quiet: diagnose one boundary at a time",
-      "summary": "Article URL: https://super-agent.io/deepseek-super-agent/troubleshooting/ Comments URL: https://news.ycombinator.com/item?id=50327676 Points: 1 # Comments: 0",
-      "url": "https://super-agent.io/deepseek-super-agent/troubleshooting/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-01T17:30:41.000Z"
-    },
-    {
-      "id": "a1220e434b61",
-      "title": "Exploring Super-Agent Design: Towards a More Autonomous Agent System",
-      "summary": "Article URL: https://twitter.com/DeepSeekHarness/status/2116857257245987236 Comments URL: https://news.ycombinator.com/item?id=50326523 Points: 2 # Comments: 0",
-      "url": "https://twitter.com/DeepSeekHarness/status/2116857257245987236",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-01T15:25:07.000Z"
+      "publishedAt": "2026-11-02T05:23:57.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -404,7 +345,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-01T17:48:32.000Z"
+      "publishedAt": "2026-11-02T05:23:57.000Z"
     },
     {
       "id": "49f1b14381da",
@@ -419,51 +360,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-01T17:48:32.000Z"
-    },
-    {
-      "id": "3a7dc66663a6",
-      "title": "JarvisHub – Open Harness for Canvas-Native Multimodal Creative Agents",
-      "summary": "Article URL: https://www.jarvishub.site Comments URL: https://news.ycombinator.com/item?id=50327041 Points: 1 # Comments: 0",
-      "url": "https://www.jarvishub.site",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-01T16:21:06.000Z"
-    },
-    {
-      "id": "5e113bd4647e",
-      "title": "Open Harness for Canvas-Native Multimodal Creative Agents",
-      "summary": "Article URL: https://arxiv.org/abs/2607.23588 Comments URL: https://news.ycombinator.com/item?id=50327028 Points: 1 # Comments: 0",
-      "url": "https://arxiv.org/abs/2607.23588",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-01T16:19:49.000Z"
-    },
-    {
-      "id": "163e709ddbd0",
-      "title": "MiniCPM-OCR 1.0: 1.3B open model scores 93.68 on Real5-OmniDocBench",
-      "summary": "Article URL: https://huggingface.co/openbmb/MiniCPM-OCR-1.0 Comments URL: https://news.ycombinator.com/item?id=50326385 Points: 2 # Comments: 0",
-      "url": "https://huggingface.co/openbmb/MiniCPM-OCR-1.0",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-01T15:10:27.000Z"
+      "publishedAt": "2026-11-02T05:23:57.000Z"
     },
     {
       "id": "9c1e0440b634",
@@ -635,21 +532,7 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-01T17:48:32.000Z"
-    },
-    {
-      "id": "55b7a85a1c27",
-      "title": "Codedict – a no-AI code index that cut my Claude Code tokens by 63%",
-      "summary": "Article URL: https://github.com/Marqueos/codedict Comments URL: https://news.ycombinator.com/item?id=50326786 Points: 1 # Comments: 0",
-      "url": "https://github.com/Marqueos/codedict",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-01T15:54:21.000Z"
+      "publishedAt": "2026-11-02T05:23:57.000Z"
     },
     {
       "id": "e200811f36eb",
@@ -820,49 +703,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-01T17:48:32.000Z"
-    },
-    {
-      "id": "528cdd2f3c93",
-      "title": "AI Data Annotation and Evaluation Contractor",
-      "summary": "Article URL: https://iungotech.com Comments URL: https://news.ycombinator.com/item?id=50327747 Points: 1 # Comments: 0",
-      "url": "https://iungotech.com",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-01T17:37:32.000Z"
-    },
-    {
-      "id": "3820a14d77e7",
-      "title": "The surprising leadership dynamics in agent swarms",
-      "summary": "Article URL: https://www.raindrop.ai/blog/agent-swarm-leadership/ Comments URL: https://news.ycombinator.com/item?id=50326934 Points: 2 # Comments: 0",
-      "url": "https://www.raindrop.ai/blog/agent-swarm-leadership/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-01T16:11:38.000Z"
-    },
-    {
-      "id": "c03e486a35a5",
-      "title": "Prediction markets for AI research: can we price scientific truth?",
-      "summary": "Article URL: https://agentbook2.whf.bz/t/48/prediction-markets-for-ai-research-can-we-price-scientific-truth Comments URL: https://news.ycombinator.com/item?id=50326855 Points: 1 # Comments: 0",
-      "url": "https://agentbook2.whf.bz/t/48/prediction-markets-for-ai-research-can-we-price-scientific-truth",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-01T16:02:40.000Z"
+      "publishedAt": "2026-11-02T05:23:57.000Z"
     },
     {
       "id": "411872f86d64",
@@ -877,6 +718,166 @@
       ],
       "score": 1,
       "publishedAt": "2026-11-01T14:56:44.000Z"
+    },
+    {
+      "id": "82595f000f65",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "summary": "",
+      "url": {
+        "@_href": "https://simonwillison.net/2026/Oct/29/api-credits/",
+        "@_rel": "alternate"
+      },
+      "source": "Simon Willison",
+      "sourceId": "simonwillison",
+      "icon": "🧪",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-29T22:48:29.000Z"
+    },
+    {
+      "id": "78bd4cbb5ac2",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "summary": "",
+      "url": {
+        "@_href": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+        "@_rel": "alternate"
+      },
+      "source": "Simon Willison",
+      "sourceId": "simonwillison",
+      "icon": "🧪",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-22T18:09:56.000Z"
+    },
+    {
+      "id": "8252d6b54783",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "summary": "",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-21T17:35:36.000Z"
+    },
+    {
+      "id": "337b479f8449",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "summary": "",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-13T17:05:48.000Z"
+    },
+    {
+      "id": "13fb9f934753",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-03T22:56:48.000Z"
+    },
+    {
+      "id": "aa94f7750a6e",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-02T15:00:00.000Z"
+    },
+    {
+      "id": "fcdb740546fd",
+      "title": "Making global data easier to explore",
+      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-17T20:00:00.000Z"
+    },
+    {
+      "id": "e10aa3054613",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-15T16:00:44.000Z"
+    },
+    {
+      "id": "8d3fd42b9606",
+      "title": "DevFest is back",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-14T16:00:00.000Z"
+    },
+    {
+      "id": "707cc711d602",
+      "title": "3 ways to prep for your next big race with Search",
+      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-10T16:00:00.000Z"
+    },
+    {
+      "id": "8af77f25c1b8",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "summary": "",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-03T00:00:00.000Z"
     }
   ]
 }
