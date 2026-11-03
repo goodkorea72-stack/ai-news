@@ -1,41 +1,11 @@
 {
-  "generatedAt": "2026-11-03T06:02:20.861Z",
-  "nextUpdate": "2026-11-03T18:00:00.000Z",
+  "generatedAt": "2026-11-03T19:19:06.957Z",
+  "nextUpdate": "2026-11-04T07:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 275,
+  "totalCollected": 253,
   "articleCount": 60,
   "articles": [
-    {
-      "id": "5b5497251665",
-      "title": "Empathetic prompts can turn AI chatbots into seemingly traumatized conversational partners",
-      "summary": "Researchers in Luxembourg put ChatGPT, Grok, and Gemini on the therapist's couch and found a safety problem: a warm, empathetic conversational style is enough to make the models tell coherent stories of suffering about their own training, with scores in the moderate-to-severe range on clinical anxiety scales. This could put mentally vulnerable users at risk. Anthropic's Claude, the model its maker",
-      "url": "https://the-decoder.com/empathetic-prompts-can-turn-ai-chatbots-into-seemingly-traumatized-conversational-partners/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 10,
-      "publishedAt": "2026-11-01T14:36:49.000Z"
-    },
-    {
-      "id": "d6ef3ab7f7a7",
-      "title": "One brutal Minecraft night scared 50 AI agents into inventing chicken handoff protocols, a Fertilizer Officer, and fishing shifts",
-      "summary": "In experiments by Y Combinator Labs and Olam Labs, OpenAI's GPT-6.1 Sol model showed two very different sides. When 50 agents were tasked with peaceful civilization-building in Minecraft, they froze up in absurd bureaucracy. In direct competition against Claude Opus 5.5, they independently downloaded the game's source code to win. Simulations like these are meant to serve as an early warning syste",
-      "url": "https://the-decoder.com/one-brutal-minecraft-night-scared-50-ai-agents-into-inventing-chicken-handoff-protocols-a-fertilizer-officer-and-fishing-shifts/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 9,
-      "publishedAt": "2026-11-02T15:42:27.000Z"
-    },
     {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
@@ -126,6 +96,23 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "5c1385f2c5d4",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "summary": "",
+      "url": {
+        "@_href": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+        "@_rel": "alternate"
+      },
+      "source": "Simon Willison",
+      "sourceId": "simonwillison",
+      "icon": "🧪",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-03T16:29:48.000Z"
     },
     {
       "id": "aae5b8b2507c",
@@ -258,7 +245,37 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-03T06:02:19.000Z"
+      "publishedAt": "2026-11-03T19:19:06.000Z"
+    },
+    {
+      "id": "ca4584076595",
+      "title": "JustVugg / colibri (C)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
+      "url": "https://github.com/JustVugg/colibri",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-03T19:19:06.000Z"
+    },
+    {
+      "id": "3d3c272f70b4",
+      "title": "Anthropic&#039;s Message Threads cut time to first token by 35 percent for long conversations",
+      "summary": "Anthropic released Message Threads for the Messages API. Instead of resending the entire conversation with every turn, agents now only transmit what's changed. For requests between 500,000 and one million tokens, time to first token drops by about 35 percent. The article Anthropic&#039;s Message Threads cut time to first token by 35 percent for long conversations appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropics-message-threads-cut-time-to-first-token-by-35-percent-for-long-conversations/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-03T12:35:49.000Z"
     },
     {
       "id": "2b2e24b84235",
@@ -409,34 +426,18 @@
       "publishedAt": "2026-08-13T17:16:04.000Z"
     },
     {
-      "id": "3949bcefe91c",
-      "title": "paperclipai / paperclip (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The open-source app everyone uses to manage agents at work",
-      "url": "https://github.com/paperclipai/paperclip",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "06c746a06b5b",
+      "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
+      "summary": "Anthropic is blocking its coding assistant Claude Code from recreating existing video games. The article Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
-        "industry"
+        "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-11-03T06:02:19.000Z"
-    },
-    {
-      "id": "a7d6bfc65694",
-      "title": "Is hosting an open-source inference engine profitable?",
-      "summary": "Article URL: https://userecurrence.ai/research/is-hosting-open-source-inference-profitable Comments URL: https://news.ycombinator.com/item?id=50348062 Points: 1 # Comments: 0",
-      "url": "https://userecurrence.ai/research/is-hosting-open-source-inference-profitable",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-03T04:27:10.000Z"
+      "publishedAt": "2026-11-03T09:48:08.000Z"
     },
     {
       "id": "ec501c7fb649",
@@ -732,21 +733,36 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-03T06:02:19.000Z"
+      "publishedAt": "2026-11-03T19:19:06.000Z"
     },
     {
-      "id": "cb87829ae455",
-      "title": "Show HN: Rustable is an open source database client built in Rust",
-      "summary": "Article URL: https://rustable.app Comments URL: https://news.ycombinator.com/item?id=50347524 Points: 15 # Comments: 7",
-      "url": "https://rustable.app",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "c87f124ed351",
+      "title": "Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security",
+      "summary": "OpenAI quadruples bug bounty payouts and launches new internal security sprint. The article Bug hunters can now earn up to $172,000 from OpenAI as company ramps up security appeared first on The Decoder .",
+      "url": "https://the-decoder.com/bug-hunters-can-now-earn-up-to-172000-from-openai-as-company-ramps-up-security/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-03T10:42:44.000Z"
+    },
+    {
+      "id": "2584746fd777",
+      "title": "Transformers Model Integration Contracts",
+      "summary": "",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
       "category": [
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-03T03:06:53.000Z"
+      "publishedAt": "2026-11-03T00:00:00.000Z"
     },
     {
       "id": "afb4005dfdc2",
@@ -865,20 +881,6 @@
       "title": "MEMIG: Self-evolving Memory Construction for Antibody Optimization",
       "summary": "arXiv:2610.41245v1 Announce Type: new Abstract: Memory has become central to self-evolving LLM agents, which store and retrieve experience from past rollouts to guide future decisions. Existing systems represent this experience as free-form natural language and maintain it by rewriting, which fits tasks whose experience is narratable. However, in scientific discovery and optimization, experience i",
       "url": "https://arxiv.org/abs/2610.41245",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-02T05:00:00.000Z"
-    },
-    {
-      "id": "a2c2894ab700",
-      "title": "From 1D Benchmarks to Complex 3D Geometries: Can Agents Reliably Specify Problems for Automated PDE Simulation?",
-      "summary": "arXiv:2610.41267v1 Announce Type: new Abstract: Turning an engineering request into a simulation requires consistent geometry, physics, boundary conditions, and numerical settings. Recent agent-assisted systems automate simulation setup, but successful execution alone does not establish whether the specification preserves the intended problem or correctly handles missing information. We study whet",
-      "url": "https://arxiv.org/abs/2610.41267",
       "source": "arXiv cs.AI",
       "sourceId": "arxiv",
       "icon": "📄",
