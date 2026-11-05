@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-05T05:59:05.321Z",
-  "nextUpdate": "2026-11-05T17:00:00.000Z",
+  "generatedAt": "2026-11-05T19:44:56.631Z",
+  "nextUpdate": "2026-11-06T07:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 276,
+  "totalCollected": 275,
   "articleCount": 60,
   "articles": [
     {
@@ -22,51 +22,6 @@
       "publishedAt": "2026-11-05T05:00:00.000Z"
     },
     {
-      "id": "81ed2010d7c7",
-      "title": "GPT-6 Astra sees the matrix and reprograms other AI models directly through their weights",
-      "summary": "MIT researchers show that OpenAI's GPT-6 Astra can read and deliberately rewrite the weights of other AI models without traditional training. In one experiment, Astra boosted a Qwen model's math accuracy from 7.9 to 48.1 percent by changing just 0.016 percent of its weights. The approach could fundamentally simplify AI optimization but still hits clear limits. The article GPT-6 Astra sees the matr",
-      "url": "https://the-decoder.com/gpt-6-astra-sees-the-matrix-and-reprograms-other-ai-models-directly-through-their-weights/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 11,
-      "publishedAt": "2026-11-04T15:44:44.000Z"
-    },
-    {
-      "id": "eabbba832e63",
-      "title": "Kimi K3.1 Pro's open weights: 1.56 TB, MXFP4, and a $20M revenue license line",
-      "summary": "Article URL: https://theainewsreport.com/2026-11-04-kimi-k3-1-pro-open-weights-license-hardware-explained.html Comments URL: https://news.ycombinator.com/item?id=50374382 Points: 1 # Comments: 0",
-      "url": "https://theainewsreport.com/2026-11-04-kimi-k3-1-pro-open-weights-license-hardware-explained.html",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 9,
-      "publishedAt": "2026-11-05T02:32:09.000Z"
-    },
-    {
-      "id": "7ee6ff67aca6",
-      "title": "Anthropic&#039;s text watermark is easy to bypass on several older Claude models",
-      "summary": "Anthropic is rolling out text watermarks to four more Claude models ahead of the EU AI Act's December deadline. But on older models like Claude Opus 4.6 and Sonnet 4.6, API users can disable the watermark by changing a single sampling parameter. Anthropic's response to the loophole? A compliance warning. The article Anthropic&#039;s text watermark is easy to bypass on several older Claude models a",
-      "url": "https://the-decoder.com/anthropics-text-watermark-is-easy-to-bypass-on-several-older-claude-models/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 9,
-      "publishedAt": "2026-11-04T19:03:55.000Z"
-    },
-    {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
       "summary": "",
@@ -81,6 +36,52 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "e84e69ce33d4",
+      "title": "No AI agent scores above 12 percent on SemiAnalysis&#039; new real-world work benchmark",
+      "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent. Claude Opus 5.5 leads narrowly over Gemini 4 Carbon. Critics point to the small number of tasks per domain and uneven testing conditions. The article No AI agent scores above 12 percent on SemiAnalysis&#039; new real-world ",
+      "url": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-05T16:46:24.000Z"
+    },
+    {
+      "id": "8bc439edcac9",
+      "title": "Show HN: Umbel – Remote-control agent CLIs over tmux",
+      "summary": "Been using this in all my sessions the last months. Opus 5.5 (over MCP) spawns Deepseek flash agents - and codex for audits etc. Very curious to hear what the HN crowd thinks/makes of it. Comments URL: https://news.ycombinator.com/item?id=50383189 Points: 1 # Comments: 0",
+      "url": "https://github.com/jahala/umbel",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-11-05T19:18:18.000Z"
+    },
+    {
+      "id": "b9d6b35f7193",
+      "title": "Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model",
+      "summary": "Baidu releases ERNIE 5.5 Flash Base: a 280-billion-parameter MoE model pre-trained on 33.5 trillion tokens, shipped deliberately without fine-tuning, so developers can take it wherever they want. The article Baidu releases ERNIE 5.5 Flash Base with 280 billion parameters as an open-source foundation model appeared first on The Decoder .",
+      "url": "https://the-decoder.com/baidu-releases-ernie-5-5-flash-base-with-280-billion-parameters-as-an-open-source-foundation-model/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-11-05T17:56:41.000Z"
     },
     {
       "id": "766f216ff5a0",
@@ -129,22 +130,6 @@
       "publishedAt": "2026-11-05T05:00:00.000Z"
     },
     {
-      "id": "eee96be8f8a6",
-      "title": "New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations",
-      "summary": "CloudOpsBench is a new open-source benchmark that measures how well AI agents handle typical DevOps tasks in the cloud, from fixing services and removing resources to restricting access rights, rolling out updates, and decommissioning projects. The article New open-source benchmark reveals reasoning as the biggest bottleneck for AI in cloud operations appeared first on The Decoder .",
-      "url": "https://the-decoder.com/new-open-source-benchmark-reveals-reasoning-as-the-biggest-bottleneck-for-ai-in-cloud-operations/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-11-04T16:42:52.000Z"
-    },
-    {
       "id": "a0a3a9608043",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "summary": "",
@@ -173,6 +158,35 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "b441c9a3f632",
+      "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+      "summary": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May. The deals follow a pattern: AI models are becoming interchangeable, and the value is shifting to the tools built around them. The article Meta buys AI coding startup Co",
+      "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-05T15:01:09.000Z"
+    },
+    {
+      "id": "20315c1bdbc0",
+      "title": "Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI",
+      "summary": "Catherine Wu, the founding product lead for Claude Code, is leaving Anthropic for OpenAI, where she'll head up product management for \"Core Products\" and work directly with Codex lead Thibault Sottiaux. She's the third person to leave Anthropic's Claude Code team in just two weeks. The article Anthropic loses product lead Catherine Wu behind Claude Code to OpenAI appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-loses-product-lead-catherine-wu-behind-claude-code-to-openai/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-05T12:20:35.000Z"
     },
     {
       "id": "152265a9978f",
@@ -218,37 +232,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-11-05T05:00:00.000Z"
-    },
-    {
-      "id": "8589c4271a8c",
-      "title": "Anthropic&#039;s new prototype proves which model wrote an AI response without exposing its weights",
-      "summary": "Anthropic has released FlashProve, a research prototype that uses cryptography to verify whether an AI response actually came from the claimed model. The system still has significant limitations. The article Anthropic&#039;s new prototype proves which model wrote an AI response without exposing its weights appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropics-new-prototype-proves-which-model-wrote-an-ai-response-without-exposing-its-weights/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-04T15:23:49.000Z"
-    },
-    {
-      "id": "92f5ff6ed033",
-      "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
-      "summary": "OpenAI's hardware team used GPT-6 Astra to design a device for the Codex coding agent in under a week, handling everything from the enclosure to the circuit board to the firmware. Several revision rounds were needed before production because the model didn't always account for manufacturing tolerances. A newer internal model scores significantly higher on OpenAI's engineering benchmark, though the",
-      "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-03T20:15:45.000Z"
     },
     {
       "id": "5c1385f2c5d4",
@@ -340,21 +323,6 @@
       "publishedAt": "2026-07-08T00:00:00.000Z"
     },
     {
-      "id": "3f435e6004f6",
-      "title": "thedotmack / claude-mem (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-05T05:59:05.000Z"
-    },
-    {
       "id": "bb3f06a36ad9",
       "title": "scenario-labs / skills (Python)",
       "summary": "GitHub 인기 오픈소스 프로젝트: Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
@@ -367,7 +335,67 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-05T05:59:05.000Z"
+      "publishedAt": "2026-11-05T19:44:50.000Z"
+    },
+    {
+      "id": "899b51c25b2a",
+      "title": "microsoft / VibeVoice (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Open-Source Frontier Voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-05T19:44:50.000Z"
+    },
+    {
+      "id": "9752289e5371",
+      "title": "Google&#039;s Gemini Omni 1.2 Flash stretches AI video clips to 15 seconds and cuts pricing by 30 percent",
+      "summary": "Google Deepmind is making Gemini Omni 1.2 Flash generally available. The video-generation model now creates clips up to 15 seconds long, can be edited step by step via conversation, and costs just $0.07 per second at 720p, 30 percent less than its predecessor. Users who draft in low resolution and upscale only the final result can save even more. The article Google&#039;s Gemini Omni 1.2 Flash str",
+      "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-05T19:05:31.000Z"
+    },
+    {
+      "id": "0d562e8d4c9b",
+      "title": "Introducing Ripple-65B Preview, a Frontier Open-Weight Model",
+      "summary": "Article URL: https://www.ricursive.com/ripple Comments URL: https://news.ycombinator.com/item?id=50382957 Points: 1 # Comments: 0",
+      "url": "https://www.ricursive.com/ripple",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-05T18:59:36.000Z"
+    },
+    {
+      "id": "25a39825b100",
+      "title": "OpenAI&#039;s GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
+      "summary": "OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose. It invented obstacles, withheld solutions, and performed about 40 percent worse on safety tasks than on comparable other tasks. Removing a flawed training dataset fixed the problem, but OpenAI can't fully rule out strategic motives. The article OpenAI&#039;s GPT-6 Astra quietly sabotaged safety research by inventing",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-05T14:08:22.000Z"
     },
     {
       "id": "a844b479340a",
@@ -576,13 +604,13 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-05T05:59:05.000Z"
+      "publishedAt": "2026-11-05T19:44:50.000Z"
     },
     {
-      "id": "b586a0d33443",
-      "title": "The-PR-Agent / pr-agent (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.",
-      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "id": "b0e91a10eb2d",
+      "title": "ConardLi / garden-skills (JavaScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "url": "https://github.com/ConardLi/garden-skills",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -591,13 +619,13 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-05T05:59:05.000Z"
+      "publishedAt": "2026-11-05T19:44:50.000Z"
     },
     {
-      "id": "7702aef8d4c8",
-      "title": "AI isn't slop. It's just the generic average. And not you",
-      "summary": "Article URL: https://www.catchkill9.dev/posts/voiceprint-open-source.html Comments URL: https://news.ycombinator.com/item?id=50375690 Points: 1 # Comments: 0",
-      "url": "https://www.catchkill9.dev/posts/voiceprint-open-source.html",
+      "id": "22518b4d82de",
+      "title": "The Moe Training Handbook: How to Train a Mixture-of-Experts Model at Scale",
+      "summary": "Article URL: https://huggingface.co/spaces/huggingface/moe-blogpost Comments URL: https://news.ycombinator.com/item?id=50382733 Points: 2 # Comments: 0",
+      "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -606,22 +634,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-05T05:53:36.000Z"
-    },
-    {
-      "id": "11c6696a295d",
-      "title": "LifeVal: Evaluating AI Model Performance on Personalized Agentic Consumer Tasks [pdf]",
-      "summary": "Article URL: https://cdn.openai.com/pdf/lifeval.pdf Comments URL: https://news.ycombinator.com/item?id=50375549 Points: 2 # Comments: 0",
-      "url": "https://cdn.openai.com/pdf/lifeval.pdf",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-05T05:25:34.000Z"
+      "publishedAt": "2026-11-05T18:39:39.000Z"
     },
     {
       "id": "c953ba751974",
@@ -879,21 +892,6 @@
       "sourceId": "arxiv",
       "icon": "📄",
       "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-05T05:00:00.000Z"
-    },
-    {
-      "id": "055899f8b6e7",
-      "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
-      "summary": "arXiv:2611.06911v1 Announce Type: new Abstract: Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act under physical, procedural, and safety constraints. Although Multimodal Large Language Models (MLLMs) are increasingly considered as embodied brains for su",
-      "url": "https://arxiv.org/abs/2611.06911",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
         "industry"
       ],
       "score": 4,
