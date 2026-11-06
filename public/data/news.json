@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T05:55:51.144Z",
-  "nextUpdate": "2026-11-06T17:00:00.000Z",
+  "generatedAt": "2026-11-06T19:08:24.438Z",
+  "nextUpdate": "2026-11-07T07:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 275,
+  "totalCollected": 278,
   "articleCount": 60,
   "articles": [
     {
@@ -159,6 +159,51 @@
       "publishedAt": "2026-08-26T00:00:00.000Z"
     },
     {
+      "id": "8b212386da23",
+      "title": "Perplexity now has its own always-on AI agent",
+      "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. The market for always-on agents is getting crowded. The article Perplexity now has its own always-on AI agent appeared first on The Decoder .",
+      "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-06T16:47:28.000Z"
+    },
+    {
+      "id": "170a9ef18c48",
+      "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
+      "summary": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show. Why? They're betting that the current recipe alone won't be enough. We've sorted 45 neolabs by their research bets, mapped the limitations of today's AI",
+      "url": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-06T15:55:23.000Z"
+    },
+    {
+      "id": "8300af0c33d1",
+      "title": "Thinking Machines&#039; Inkling 2 Small claims top spot among western open-weight models",
+      "summary": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Better agentic performance comes at a price, though, with token usage rising sharply. The article Thinking Machines&#039; Inkling 2 Small claims top spot among western open-weight mo",
+      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-06T13:25:09.000Z"
+    },
+    {
       "id": "a3657efb1328",
       "title": "CST-Bench: Benchmarking Counterfactual Spatial Transition Reasoning with Causal Transition On-Policy Self-Distillation",
       "summary": "arXiv:2611.07541v1 Announce Type: new Abstract: Spatial reasoning is a fundamental capability of multimodal large language models (MLLMs), yet existing benchmarks mainly focus on static scene understanding. When objects are moved or swapped, models must infer not only spatial relations but also how interventions change the scene state. To address this problem, we introduce CST-Bench, a benchmark f",
@@ -251,21 +296,6 @@
       "publishedAt": "2026-11-06T05:00:00.000Z"
     },
     {
-      "id": "b441c9a3f632",
-      "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
-      "summary": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May. The deals follow a pattern: AI models are becoming interchangeable, and the value is shifting to the tools built around them. The article Meta buys AI coding startup Co",
-      "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-05T15:01:09.000Z"
-    },
-    {
       "id": "5c1385f2c5d4",
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
       "summary": "",
@@ -355,34 +385,19 @@
       "publishedAt": "2026-07-08T00:00:00.000Z"
     },
     {
-      "id": "bb3f06a36ad9",
-      "title": "scenario-labs / skills (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
-      "url": "https://github.com/scenario-labs/skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "c70f3415cc9b",
+      "title": "Google, OpenAI, and Anthropic back a shared robots.txt AI training signal",
+      "summary": "Article URL: https://coywolf.com/news/seo/google-openai-microsoft-and-anthropic-back-a-shared-robotstxt-ai-training-signal/ Comments URL: https://news.ycombinator.com/item?id=50395808 Points: 2 # Comments: 0",
+      "url": "https://coywolf.com/news/seo/google-openai-microsoft-and-anthropic-back-a-shared-robotstxt-ai-training-signal/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
-        "open_source",
+        "new_model",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-06T05:55:46.000Z"
-    },
-    {
-      "id": "899b51c25b2a",
-      "title": "microsoft / VibeVoice (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Open-Source Frontier Voice AI",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-06T05:55:46.000Z"
+      "publishedAt": "2026-11-06T17:56:02.000Z"
     },
     {
       "id": "f94fb5a8e5c8",
@@ -578,21 +593,6 @@
       "publishedAt": "2026-11-05T19:05:31.000Z"
     },
     {
-      "id": "25a39825b100",
-      "title": "OpenAI&#039;s GPT-6 Astra quietly sabotaged safety research by inventing fake obstacles",
-      "summary": "OpenAI's new GPT-6 Astra model apparently sabotaged AI safety research on purpose. It invented obstacles, withheld solutions, and performed about 40 percent worse on safety tasks than on comparable other tasks. Removing a flawed training dataset fixed the problem, but OpenAI can't fully rule out strategic motives. The article OpenAI&#039;s GPT-6 Astra quietly sabotaged safety research by inventing",
-      "url": "https://the-decoder.com/openais-gpt-6-astra-quietly-sabotaged-safety-research-by-inventing-fake-obstacles/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-05T14:08:22.000Z"
-    },
-    {
       "id": "c96bfd28b36f",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "summary": "",
@@ -620,22 +620,50 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-06T05:55:46.000Z"
+      "publishedAt": "2026-11-06T19:08:16.000Z"
     },
     {
-      "id": "b0e91a10eb2d",
-      "title": "ConardLi / garden-skills (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "204bc7ec14fe",
+      "title": "Cua Driver Bench: can an agent use your computer without getting in your way?",
+      "summary": "Article URL: https://huggingface.co/spaces/earakely-scale/CuaDriverBench-AgentEnv Comments URL: https://news.ycombinator.com/item?id=50396469 Points: 1 # Comments: 0",
+      "url": "https://huggingface.co/spaces/earakely-scale/CuaDriverBench-AgentEnv",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
         "open_source",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-06T05:55:46.000Z"
+      "publishedAt": "2026-11-06T18:41:00.000Z"
+    },
+    {
+      "id": "134de7910e1d",
+      "title": "Google AI Saved Images Folder – Google Gemini",
+      "summary": "Article URL: https://gemini.google.com/app/cc764e4767796b9a Comments URL: https://news.ycombinator.com/item?id=50396368 Points: 1 # Comments: 0",
+      "url": "https://gemini.google.com/app/cc764e4767796b9a",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-06T18:34:37.000Z"
+    },
+    {
+      "id": "509987b15fff",
+      "title": "Anthropic adds bank account access to Claude so users can track their spending",
+      "summary": "Anthropic is introducing a new feature in Claude called Personal Finance, which allows users to connect their bank and card accounts and ask questions about their finances. The article Anthropic adds bank account access to Claude so users can track their spending appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-adds-bank-account-access-to-claude-so-users-can-track-their-spending/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-06T11:33:13.000Z"
     },
     {
       "id": "72bdd61f118a",
@@ -870,35 +898,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-11-06T05:00:00.000Z"
-    },
-    {
-      "id": "a7da52014770",
-      "title": "Compositional Unalignment: Auditing Safety in Large Vision-Language Models",
-      "summary": "arXiv:2611.07216v1 Announce Type: cross Abstract: Large vision-language models (LVLMs) are vulnerable to compositional harm: an image and a prompt that are benign in isolation become harmful through the model's cross-modal reasoning. Recent alignment methods report strong scores on compositional safety benchmarks, but an LLM judge only measures observed behavior and cannot reveal how robustly safe",
-      "url": "https://arxiv.org/abs/2611.07216",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-06T05:00:00.000Z"
-    },
-    {
-      "id": "7d2cf12db576",
-      "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
-      "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to OpenAI, it has already found 81 previously unknown vulnerabilities in Firefox and developed 948 working exploits in the Linux kernel, significantly more than its predecessor. The article OpenAIs GPT-6 Cyber can both break into systems and propo",
-      "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-05T20:36:25.000Z"
     }
   ]
 }
