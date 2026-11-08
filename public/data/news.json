@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-07T17:38:52.618Z",
-  "nextUpdate": "2026-11-08T05:00:00.000Z",
+  "generatedAt": "2026-11-08T05:27:26.898Z",
+  "nextUpdate": "2026-11-08T17:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
   "totalCollected": 175,
@@ -21,21 +21,6 @@
       ],
       "score": 11,
       "publishedAt": "2026-11-07T15:35:50.000Z"
-    },
-    {
-      "id": "911d9d4b7f64",
-      "title": "Show HN: AIVim – an open-source, Vim-inspired AI editor",
-      "summary": "I thought it would be cool to have a modern, Vim-inspired editor with AI, so I built AIVim. Just revamped it. Try it in an isolated Python environment with Ollama or a hosted API. Fast token generation makes the interaction feel responsive. Comments URL: https://news.ycombinator.com/item?id=50405893 Points: 1 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=50405893",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 10,
-      "publishedAt": "2026-11-07T16:39:45.000Z"
     },
     {
       "id": "64c152dd601d",
@@ -99,6 +84,20 @@
       "publishedAt": "2026-08-26T00:00:00.000Z"
     },
     {
+      "id": "5dd837f47a10",
+      "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+      "summary": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has also recently had to cut its valuation. The article Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation appeared fir",
+      "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-07T17:37:25.000Z"
+    },
+    {
       "id": "63c79189ef79",
       "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
       "summary": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of supervised fine-tuning. The political bias is \"applied late, it is applied thin,\" the team writes. The article State propag",
@@ -126,20 +125,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-11-06T16:47:28.000Z"
-    },
-    {
-      "id": "170a9ef18c48",
-      "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
-      "summary": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billions with no product to show. Why? They're betting that the current recipe alone won't be enough. We've sorted 45 neolabs by their research bets, mapped the limitations of today's AI",
-      "url": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-06T15:55:23.000Z"
     },
     {
       "id": "5c1385f2c5d4",
@@ -243,7 +228,22 @@
         "new_model"
       ],
       "score": 5,
-      "publishedAt": "2026-11-07T17:38:52.000Z"
+      "publishedAt": "2026-11-08T05:27:26.000Z"
+    },
+    {
+      "id": "82a7c774cda5",
+      "title": "VindexLLM – Windows Vulkan GPU GGUF LLM inference engine written in Delphi 12",
+      "summary": "Article URL: https://github.com/tinyBigGAMES/VindexLLM Comments URL: https://news.ycombinator.com/item?id=50410646 Points: 1 # Comments: 0",
+      "url": "https://github.com/tinyBigGAMES/VindexLLM",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-08T05:25:50.000Z"
     },
     {
       "id": "d869d17e24a3",
@@ -288,13 +288,13 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-07T17:38:52.000Z"
+      "publishedAt": "2026-11-08T05:27:26.000Z"
     },
     {
-      "id": "cfcffea6780b",
-      "title": "Tell HN: Hanzo AI Is Spamming From GitHub Contributions",
-      "summary": "Email received: Hey $name, Wanted to invite you to the Hanzo beta — we're looking for top open-source devs to help us shape the future of agentic AI. Join the beta: https://hanzo[.]app/beta I was checking out your open-source work on s3tools/s3cmd (especially what you've been building with Open-Source AI / ML) — really impressive engineering. We've been exploring autonomous decision systems and to",
-      "url": "https://news.ycombinator.com/item?id=50406105",
+      "id": "496447f25196",
+      "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
+      "summary": "Article URL: https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/ Comments URL: https://news.ycombinator.com/item?id=50409687 Points: 1 # Comments: 3",
+      "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -303,7 +303,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-07T17:06:04.000Z"
+      "publishedAt": "2026-11-08T01:24:19.000Z"
     },
     {
       "id": "4cb30575c2bf",
@@ -407,21 +407,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-07T17:38:52.000Z"
-    },
-    {
-      "id": "670b444c15a2",
-      "title": "The largest open-source DLE collection",
-      "summary": "Article URL: https://github.com/trizoza/dles/blob/main/assets/daily-games/DLES.md Comments URL: https://news.ycombinator.com/item?id=50406043 Points: 1 # Comments: 0",
-      "url": "https://github.com/trizoza/dles/blob/main/assets/daily-games/DLES.md",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-07T16:58:23.000Z"
+      "publishedAt": "2026-11-08T05:27:26.000Z"
     },
     {
       "id": "bac00d317d68",
@@ -437,49 +423,6 @@
       ],
       "score": 3,
       "publishedAt": "2026-11-07T16:31:00.000Z"
-    },
-    {
-      "id": "503eefdd26c1",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "summary": "Article URL: https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/ Comments URL: https://news.ycombinator.com/item?id=50405821 Points: 1 # Comments: 0",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-07T16:28:42.000Z"
-    },
-    {
-      "id": "4bfa09c831db",
-      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-      "summary": "Article URL: https://github.com/Video-Rebirth/hyperflow-h3-flash Comments URL: https://news.ycombinator.com/item?id=50405263 Points: 4 # Comments: 0",
-      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-07T15:16:01.000Z"
-    },
-    {
-      "id": "4b13944b4bc0",
-      "title": "Google AI's Opinions on How Ansible Has Changed",
-      "summary": "Article URL: https://laserllama.substack.com/p/google-ais-opinions-on-how-ansible Comments URL: https://news.ycombinator.com/item?id=50405050 Points: 1 # Comments: 0",
-      "url": "https://laserllama.substack.com/p/google-ais-opinions-on-how-ansible",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-07T14:52:24.000Z"
     },
     {
       "id": "0cf27b4fb5bc",
@@ -611,10 +554,10 @@
       "publishedAt": "2026-07-27T00:00:00.000Z"
     },
     {
-      "id": "3ae0de396c76",
-      "title": "Agent Memory Poisoning: How to Find a Bad Memory, Trace It, and Undo the Damage",
-      "summary": "Article URL: https://medium.com/@MirArshadTalpur/agent-memory-poisoning-how-to-find-a-bad-memory-trace-it-and-undo-the-damage-7e9974c2583b Comments URL: https://news.ycombinator.com/item?id=50405405 Points: 1 # Comments: 0",
-      "url": "https://medium.com/@MirArshadTalpur/agent-memory-poisoning-how-to-find-a-bad-memory-trace-it-and-undo-the-damage-7e9974c2583b",
+      "id": "ddc9dba2204d",
+      "title": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
+      "summary": "Article URL: https://www.mirastacklabs.ai/ Comments URL: https://news.ycombinator.com/item?id=50410369 Points: 1 # Comments: 0",
+      "url": "https://www.mirastacklabs.ai/",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -622,7 +565,21 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-07T15:33:47.000Z"
+      "publishedAt": "2026-11-08T04:15:58.000Z"
+    },
+    {
+      "id": "dd1788191457",
+      "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
+      "summary": "Article URL: https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/ Comments URL: https://news.ycombinator.com/item?id=50409992 Points: 4 # Comments: 5",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-08T02:39:59.000Z"
     },
     {
       "id": "12960046aa40",
@@ -751,7 +708,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-07T17:38:52.000Z"
+      "publishedAt": "2026-11-08T05:27:26.000Z"
     },
     {
       "id": "91ec28eef31c",
@@ -765,7 +722,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-07T17:38:52.000Z"
+      "publishedAt": "2026-11-08T05:27:26.000Z"
     },
     {
       "id": "96c18f974986",
@@ -779,7 +736,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-07T17:38:52.000Z"
+      "publishedAt": "2026-11-08T05:27:26.000Z"
     },
     {
       "id": "d8cccf393c50",
@@ -793,7 +750,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-07T17:38:52.000Z"
+      "publishedAt": "2026-11-08T05:27:26.000Z"
     },
     {
       "id": "353ecfd01f02",
@@ -807,7 +764,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-07T17:38:52.000Z"
+      "publishedAt": "2026-11-08T05:27:26.000Z"
     },
     {
       "id": "5451b93081d6",
@@ -821,7 +778,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-07T17:38:52.000Z"
+      "publishedAt": "2026-11-08T05:27:26.000Z"
     },
     {
       "id": "a68a75da687f",
@@ -835,13 +792,13 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-07T17:38:52.000Z"
+      "publishedAt": "2026-11-08T05:27:26.000Z"
     },
     {
-      "id": "ed605d80befc",
-      "title": "Google Described Its Agent Sandbox. I Built One with Firecracker and Measured It",
-      "summary": "Article URL: https://antonau.tech/posts/2026/11/agents-microvm-firecracker/ Comments URL: https://news.ycombinator.com/item?id=50405649 Points: 9 # Comments: 4",
-      "url": "https://antonau.tech/posts/2026/11/agents-microvm-firecracker/",
+      "id": "055c3b8489c6",
+      "title": "Show HN: We Build Shareable Context Layer for Agent Teams",
+      "summary": "Article URL: https://github.com/volcengine/OpenViking Comments URL: https://news.ycombinator.com/item?id=50410477 Points: 1 # Comments: 1",
+      "url": "https://github.com/volcengine/OpenViking",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -849,13 +806,13 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-07T16:01:40.000Z"
+      "publishedAt": "2026-11-08T04:44:14.000Z"
     },
     {
-      "id": "9b11b305abee",
-      "title": "Using AI should be joyful",
-      "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-using-ai-should-be-joyful Comments URL: https://news.ycombinator.com/item?id=50405439 Points: 2 # Comments: 2",
-      "url": "https://12gramsofcarbon.com/p/agentics-using-ai-should-be-joyful",
+      "id": "1c87874bbeef",
+      "title": "Elephant-Goldfish Model (Agent Skill)",
+      "summary": "Article URL: https://github.com/google/elephant-goldfish-model Comments URL: https://news.ycombinator.com/item?id=50410270 Points: 1 # Comments: 0",
+      "url": "https://github.com/google/elephant-goldfish-model",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -863,13 +820,13 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-07T15:37:42.000Z"
+      "publishedAt": "2026-11-08T03:50:34.000Z"
     },
     {
-      "id": "f076fd6fddad",
-      "title": "Securing AI Agents [at Uber]: Lessons from Real-World Deployment",
-      "summary": "Article URL: https://www.uber.com/us/en/blog/securing-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50405330 Points: 2 # Comments: 0",
-      "url": "https://www.uber.com/us/en/blog/securing-ai-agents/",
+      "id": "4578a6a3dd88",
+      "title": "Uncensored LLMs in agent loops: 31 models, 5 tasks, most fail half the time",
+      "summary": "Article URL: https://openuncensored.com/blog/uncensored-models-in-agent-loops Comments URL: https://news.ycombinator.com/item?id=50409685 Points: 1 # Comments: 1",
+      "url": "https://openuncensored.com/blog/uncensored-models-in-agent-loops",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -877,7 +834,52 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-07T15:23:58.000Z"
+      "publishedAt": "2026-11-08T01:24:17.000Z"
+    },
+    {
+      "id": "78dddd33e4f5",
+      "title": "Show HN: RenderPixels – Generate images from any AI via MCP, 50 free renders",
+      "summary": "Article URL: https://renderpixels.com Comments URL: https://news.ycombinator.com/item?id=50409628 Points: 1 # Comments: 0",
+      "url": "https://renderpixels.com",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-08T01:12:02.000Z"
+    },
+    {
+      "id": "0b897a4e760e",
+      "title": "datasette-agent 0.5a0",
+      "summary": "",
+      "url": {
+        "@_href": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+        "@_rel": "alternate"
+      },
+      "source": "Simon Willison",
+      "sourceId": "simonwillison",
+      "icon": "🧪",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-03T23:13:45.000Z"
+    },
+    {
+      "id": "f2fbb1135c8b",
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Here are Google’s latest AI updates from October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-02T17:45:00.000Z"
     }
   ]
 }
