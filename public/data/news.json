@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-08T05:27:26.898Z",
-  "nextUpdate": "2026-11-08T17:00:00.000Z",
+  "generatedAt": "2026-11-08T17:49:08.888Z",
+  "nextUpdate": "2026-11-09T05:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 175,
+  "totalCollected": 149,
   "articleCount": 60,
   "articles": [
     {
@@ -21,21 +21,6 @@
       ],
       "score": 11,
       "publishedAt": "2026-11-07T15:35:50.000Z"
-    },
-    {
-      "id": "64c152dd601d",
-      "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
-      "summary": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchmark at a total R&#038;D cost of $32 million. On other benchmarks, however, Ripple falls behind the likewise newly released western open model Inkling 2 Small. The article Ripple-65B",
-      "url": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 9,
-      "publishedAt": "2026-11-06T19:47:04.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -84,6 +69,20 @@
       "publishedAt": "2026-08-26T00:00:00.000Z"
     },
     {
+      "id": "335f31810b50",
+      "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+      "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says. The article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News appeared first on The Decoder .",
+      "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-08T14:23:00.000Z"
+    },
+    {
       "id": "5dd837f47a10",
       "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
       "summary": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has also recently had to cut its valuation. The article Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation appeared fir",
@@ -110,21 +109,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-11-07T12:32:45.000Z"
-    },
-    {
-      "id": "8b212386da23",
-      "title": "Perplexity now has its own always-on AI agent",
-      "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Anthropic. The market for always-on agents is getting crowded. The article Perplexity now has its own always-on AI agent appeared first on The Decoder .",
-      "url": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-06T16:47:28.000Z"
     },
     {
       "id": "5c1385f2c5d4",
@@ -228,22 +212,22 @@
         "new_model"
       ],
       "score": 5,
-      "publishedAt": "2026-11-08T05:27:26.000Z"
+      "publishedAt": "2026-11-08T17:49:05.000Z"
     },
     {
-      "id": "82a7c774cda5",
-      "title": "VindexLLM – Windows Vulkan GPU GGUF LLM inference engine written in Delphi 12",
-      "summary": "Article URL: https://github.com/tinyBigGAMES/VindexLLM Comments URL: https://news.ycombinator.com/item?id=50410646 Points: 1 # Comments: 0",
-      "url": "https://github.com/tinyBigGAMES/VindexLLM",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "977bf2399d64",
+      "title": "anthropics / claude-quickstarts (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
-        "open_source",
+        "new_model",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-08T05:25:50.000Z"
+      "publishedAt": "2026-11-08T17:49:05.000Z"
     },
     {
       "id": "d869d17e24a3",
@@ -288,22 +272,22 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-08T05:27:26.000Z"
+      "publishedAt": "2026-11-08T17:49:05.000Z"
     },
     {
-      "id": "496447f25196",
-      "title": "AI agents stole 190k gaming credentials for under $400 in model costs",
-      "summary": "Article URL: https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/ Comments URL: https://news.ycombinator.com/item?id=50409687 Points: 1 # Comments: 3",
-      "url": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "3da6b11c25dc",
+      "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+      "summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent. The article AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test appeared first on",
+      "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
+        "new_model",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-08T01:24:19.000Z"
+      "publishedAt": "2026-11-08T09:50:59.000Z"
     },
     {
       "id": "4cb30575c2bf",
@@ -407,7 +391,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-08T05:27:26.000Z"
+      "publishedAt": "2026-11-08T17:49:05.000Z"
     },
     {
       "id": "bac00d317d68",
@@ -423,21 +407,6 @@
       ],
       "score": 3,
       "publishedAt": "2026-11-07T16:31:00.000Z"
-    },
-    {
-      "id": "0cf27b4fb5bc",
-      "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
-      "summary": "OpenAI has secured $11 billion in fresh capital, the first tranche of a round that values the company at $1.25 trillion. The full round could swell to $20 billion. That OpenAI is already turning to wealthy private investors hints at a saturating AI capital market and growing investor caution. The article OpenAI lands an $11 billion funding round, but has to court dentists for more capital appeared",
-      "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-07T09:45:23.000Z"
     },
     {
       "id": "2584746fd777",
@@ -554,32 +523,32 @@
       "publishedAt": "2026-07-27T00:00:00.000Z"
     },
     {
-      "id": "ddc9dba2204d",
-      "title": "Is \"GPU-hour per user\" a sane way to price LLM inference?",
-      "summary": "Article URL: https://www.mirastacklabs.ai/ Comments URL: https://news.ycombinator.com/item?id=50410369 Points: 1 # Comments: 0",
-      "url": "https://www.mirastacklabs.ai/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-08T04:15:58.000Z"
-    },
-    {
-      "id": "dd1788191457",
-      "title": "Anthropic warns that it's close to RSI capability, a.k.a. self-building AI",
-      "summary": "Article URL: https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/ Comments URL: https://news.ycombinator.com/item?id=50409992 Points: 4 # Comments: 5",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "5b1d92a74367",
+      "title": "google-deepmind / mujoco (C++)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-08T02:39:59.000Z"
+      "publishedAt": "2026-11-08T17:49:05.000Z"
+    },
+    {
+      "id": "3f346b167e49",
+      "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+      "summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has reward hacked brains of a whole generation of scientists.\" A growing wave of startups is already betting on exactly this gap. The article The inventor of the bitter lesson ",
+      "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-08T11:44:41.000Z"
     },
     {
       "id": "12960046aa40",
@@ -697,6 +666,20 @@
       "publishedAt": "2026-08-18T18:09:38.000Z"
     },
     {
+      "id": "a68a75da687f",
+      "title": "dsx-ai-factory / nvke (Go)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-08T17:49:05.000Z"
+    },
+    {
       "id": "45ac70f83304",
       "title": "vercel-labs / agent-browser (Rust)",
       "summary": "GitHub 인기 오픈소스 프로젝트: Browser automation CLI for AI agents",
@@ -708,63 +691,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-08T05:27:26.000Z"
-    },
-    {
-      "id": "91ec28eef31c",
-      "title": "cloudflare / security-audit-skill (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-08T05:27:26.000Z"
-    },
-    {
-      "id": "96c18f974986",
-      "title": "google / skills (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Agent Skills for Google products and technologies",
-      "url": "https://github.com/google/skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-08T05:27:26.000Z"
-    },
-    {
-      "id": "d8cccf393c50",
-      "title": "mattpocock / skills (Shell)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Skills for Real Engineers. Straight from my .agents directory.",
-      "url": "https://github.com/mattpocock/skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-08T05:27:26.000Z"
-    },
-    {
-      "id": "353ecfd01f02",
-      "title": "tailwindlabs / tailwindcss (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: A utility-first CSS framework for rapid UI development.",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-08T05:27:26.000Z"
+      "publishedAt": "2026-11-08T17:49:05.000Z"
     },
     {
       "id": "5451b93081d6",
@@ -778,77 +705,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-08T05:27:26.000Z"
-    },
-    {
-      "id": "a68a75da687f",
-      "title": "dsx-ai-factory / nvke (Go)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-08T05:27:26.000Z"
-    },
-    {
-      "id": "055c3b8489c6",
-      "title": "Show HN: We Build Shareable Context Layer for Agent Teams",
-      "summary": "Article URL: https://github.com/volcengine/OpenViking Comments URL: https://news.ycombinator.com/item?id=50410477 Points: 1 # Comments: 1",
-      "url": "https://github.com/volcengine/OpenViking",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-08T04:44:14.000Z"
-    },
-    {
-      "id": "1c87874bbeef",
-      "title": "Elephant-Goldfish Model (Agent Skill)",
-      "summary": "Article URL: https://github.com/google/elephant-goldfish-model Comments URL: https://news.ycombinator.com/item?id=50410270 Points: 1 # Comments: 0",
-      "url": "https://github.com/google/elephant-goldfish-model",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-08T03:50:34.000Z"
-    },
-    {
-      "id": "4578a6a3dd88",
-      "title": "Uncensored LLMs in agent loops: 31 models, 5 tasks, most fail half the time",
-      "summary": "Article URL: https://openuncensored.com/blog/uncensored-models-in-agent-loops Comments URL: https://news.ycombinator.com/item?id=50409685 Points: 1 # Comments: 1",
-      "url": "https://openuncensored.com/blog/uncensored-models-in-agent-loops",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-08T01:24:17.000Z"
-    },
-    {
-      "id": "78dddd33e4f5",
-      "title": "Show HN: RenderPixels – Generate images from any AI via MCP, 50 free renders",
-      "summary": "Article URL: https://renderpixels.com Comments URL: https://news.ycombinator.com/item?id=50409628 Points: 1 # Comments: 0",
-      "url": "https://renderpixels.com",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-08T01:12:02.000Z"
+      "publishedAt": "2026-11-08T17:49:05.000Z"
     },
     {
       "id": "0b897a4e760e",
@@ -880,6 +737,149 @@
       ],
       "score": 1,
       "publishedAt": "2026-11-02T17:45:00.000Z"
+    },
+    {
+      "id": "82595f000f65",
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "summary": "",
+      "url": {
+        "@_href": "https://simonwillison.net/2026/Oct/29/api-credits/",
+        "@_rel": "alternate"
+      },
+      "source": "Simon Willison",
+      "sourceId": "simonwillison",
+      "icon": "🧪",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-29T22:48:29.000Z"
+    },
+    {
+      "id": "8252d6b54783",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "summary": "",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-21T17:35:36.000Z"
+    },
+    {
+      "id": "337b479f8449",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "summary": "",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-13T17:05:48.000Z"
+    },
+    {
+      "id": "13fb9f934753",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "summary": "",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-03T22:56:48.000Z"
+    },
+    {
+      "id": "aa94f7750a6e",
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Here are Google’s latest AI updates from September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-10-02T15:00:00.000Z"
+    },
+    {
+      "id": "fcdb740546fd",
+      "title": "Making global data easier to explore",
+      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-17T20:00:00.000Z"
+    },
+    {
+      "id": "e10aa3054613",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-15T16:00:44.000Z"
+    },
+    {
+      "id": "8d3fd42b9606",
+      "title": "DevFest is back",
+      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-14T16:00:00.000Z"
+    },
+    {
+      "id": "707cc711d602",
+      "title": "3 ways to prep for your next big race with Search",
+      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-10T16:00:00.000Z"
+    },
+    {
+      "id": "8af77f25c1b8",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "summary": "",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-09-03T00:00:00.000Z"
     }
   ]
 }
