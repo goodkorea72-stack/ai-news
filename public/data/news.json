@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-09T05:38:33.695Z",
-  "nextUpdate": "2026-11-09T17:00:00.000Z",
+  "generatedAt": "2026-11-09T22:08:38.390Z",
+  "nextUpdate": "2026-11-10T10:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 160,
+  "totalCollected": 171,
   "articleCount": 60,
   "articles": [
     {
-      "id": "3b425c53f3a3",
-      "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
-      "summary": "In the Vals AI benchmark, OpenAI's GPT-6 Sol Daybreak hits 80.8 percent of attack objectives in simulated corporate networks. Worse, the open-weight model DeepSeek V4.1 Flash reaches 72.8 percent at a tenth of the cost. Because open models can no longer be restricted, analysts say the window for defenders is shrinking fast. The article The gap between open and closed AI models in cyber capabilitie",
-      "url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+      "id": "0cbeaaa8881d",
+      "title": "Tencent&#039;s AI chief says AI bioweapons are coming, but closing off models isn&#039;t the answer",
+      "summary": "Tencent chief AI scientist Vinces Yao Shunyu warns that AI will soon be able to develop bioweapons and argues for a middle ground between open and closed models. While safety filters on open-source systems can be easily stripped through abliteration, closed models like Anthropic's Claude often block too aggressively. For its upcoming open-weight model Hy4, Tencent is filtering dangerous hacking kn",
+      "url": "https://the-decoder.com/tencents-ai-chief-says-ai-bioweapons-are-coming-but-closing-off-models-isnt-the-answer/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -20,7 +20,7 @@
         "industry"
       ],
       "score": 11,
-      "publishedAt": "2026-11-07T15:35:50.000Z"
+      "publishedAt": "2026-11-09T15:44:53.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -37,6 +37,21 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "c4f1b8934dea",
+      "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
+      "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes to actual programming tasks. The article Meta launches Muse Ember, a small AI model built for the repetitive ",
+      "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-09T19:41:51.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -81,34 +96,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-11-08T14:23:00.000Z"
-    },
-    {
-      "id": "5dd837f47a10",
-      "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
-      "summary": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgiving. Rival OpenAI has also recently had to cut its valuation. The article Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation appeared fir",
-      "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-07T17:37:25.000Z"
-    },
-    {
-      "id": "63c79189ef79",
-      "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
-      "summary": "Nous Research retrained Alibaba's Qwen3.8-27B to produce Arete-27B, largely stripping out its pro-Chinese bias. The propaganda rate dropped from 22 percent to less than one percent, while general capabilities remained intact in tests. The method relied on 53 million tokens of supervised fine-tuning. The political bias is \"applied late, it is applied thin,\" the team writes. The article State propag",
-      "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-07T12:32:45.000Z"
     },
     {
       "id": "5c1385f2c5d4",
@@ -200,34 +187,49 @@
       "publishedAt": "2026-07-08T00:00:00.000Z"
     },
     {
-      "id": "aded7892a1de",
-      "title": "Pay per pre-configured GPU hour or per token for open-source LLM inference?",
-      "summary": "Is it worth paying for a pre-configured GPU for open-source LLM inference instead of using a traditional pay-per-token provider? The biggest advantage seems to be having no usage limits Comments URL: https://news.ycombinator.com/item?id=50420874 Points: 4 # Comments: 0",
-      "url": "https://news.ycombinator.com/item?id=50420874",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-09T03:52:55.000Z"
-    },
-    {
-      "id": "d869d17e24a3",
-      "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
-      "summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search is tuned, the more false alarms pile up. That's not yet enough for reliable safety checks. The article AI auditors catch most agent misbehavior but flood reviewers with false alar",
-      "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "977bf2399d64",
+      "title": "anthropics / claude-quickstarts (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-07T16:56:38.000Z"
+      "publishedAt": "2026-11-09T22:08:38.000Z"
+    },
+    {
+      "id": "7241faedc71a",
+      "title": "milind-soni / OpenMausBot (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-09T22:08:38.000Z"
+    },
+    {
+      "id": "88fa920b19ff",
+      "title": "I handed my open-source project to Claude, and it fixed every single issue",
+      "summary": "Article URL: https://github.com/lava/matplotlib-cpp Comments URL: https://news.ycombinator.com/item?id=50431510 Points: 2 # Comments: 1",
+      "url": "https://github.com/lava/matplotlib-cpp",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-09T20:26:36.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -245,34 +247,48 @@
       "publishedAt": "2026-08-13T17:16:04.000Z"
     },
     {
-      "id": "3da6b11c25dc",
-      "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
-      "summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On older benchmarks, the same models score above 99 percent. The article AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test appeared first on",
-      "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "c88840b65065",
+      "title": "meta / astryx (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: An open source design system that's fully customizable and agent ready",
+      "url": "https://github.com/meta/astryx",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
-        "new_model",
+        "open_source",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-08T09:50:59.000Z"
+      "publishedAt": "2026-11-09T22:08:38.000Z"
     },
     {
-      "id": "4cb30575c2bf",
-      "title": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts&#039; bar",
-      "summary": "The \"Into the Unknown\" benchmark tasks nine AI agents with tackling open research questions from U.S. national laboratories. None of the 135 submissions meets all requirements. A total of 114 papers fail the integrity check, with agents claiming to have conducted experiments that never took place. GPT-6 Astra performs best but still doesn't meet the experts' standards. The article Nine AI agents t",
-      "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+      "id": "093d0baada7d",
+      "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic&#039;s AI lead just before its IPO",
+      "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operating systems, and write more than 90 percent of the changes merged into Anthropic's core code, according to the company. ",
+      "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
       "category": [
-        "new_model",
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-09T21:15:23.000Z"
+    },
+    {
+      "id": "e8e3572e0292",
+      "title": "AetherScope v2.2.1 – open-source SAST",
+      "summary": "Article URL: https://github.com/maxxwwim/AetherScope-SAST-150-CWE-MCP Comments URL: https://news.ycombinator.com/item?id=50432050 Points: 2 # Comments: 0",
+      "url": "https://github.com/maxxwwim/AetherScope-SAST-150-CWE-MCP",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-07T11:13:42.000Z"
+      "publishedAt": "2026-11-09T20:59:51.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -349,75 +365,63 @@
       "publishedAt": "2026-07-23T00:00:00.000Z"
     },
     {
-      "id": "b0ebe1153e4a",
-      "title": "Show HN: A diffusion model that runs in pure CSS, no JavaScript",
-      "summary": "Article URL: https://metrix187.github.io/diffusion.css/ Comments URL: https://news.ycombinator.com/item?id=50421012 Points: 2 # Comments: 0",
-      "url": "https://metrix187.github.io/diffusion.css/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-09T04:16:07.000Z"
-    },
-    {
-      "id": "231940e7dc4b",
-      "title": "Show HN: Just Dashboard, an open-source VPS management dashboard",
-      "summary": "Article URL: https://github.com/JustDashboard/Just-Dashboard Comments URL: https://news.ycombinator.com/item?id=50420962 Points: 2 # Comments: 0",
-      "url": "https://github.com/JustDashboard/Just-Dashboard",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-09T04:08:20.000Z"
-    },
-    {
-      "id": "f90600aefb03",
-      "title": "AML Cycle 2 results are approaching: What should agent memory benchmarks reveal?",
-      "summary": "Article URL: https://twitter.com/AgentMemoryL/status/2118704959344493029 Comments URL: https://news.ycombinator.com/item?id=50420732 Points: 3 # Comments: 0",
-      "url": "https://twitter.com/AgentMemoryL/status/2118704959344493029",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-09T03:34:59.000Z"
-    },
-    {
-      "id": "1993d2372fc6",
-      "title": "Revolut Cut AI Costs 90% and Started Shipping Faster",
-      "summary": "Article URL: https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models Comments URL: https://news.ycombinator.com/item?id=50420025 Points: 2 # Comments: 0",
-      "url": "https://linas.substack.com/p/revolut-ai-coding-costs-open-source-models",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-09T01:56:17.000Z"
-    },
-    {
-      "id": "bac00d317d68",
-      "title": "Thinking Machines&#039; Inkling 2 Small drops 316 F-bombs across benchmark runs",
-      "summary": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. The profanity typically shows up late in long runs that fail anyway. But it doesn't work as a warning signal: 96 percent of failed runs contained no cursing at all. The article Thinking Machines&#039; Inkling 2 Small drops 316 F-bombs across ",
-      "url": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "e5a03accdd1e",
+      "title": "anthropics / skills (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Public repository for Agent Skills",
+      "url": "https://github.com/anthropics/skills",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-07T16:31:00.000Z"
+      "publishedAt": "2026-11-09T22:08:38.000Z"
+    },
+    {
+      "id": "ac3e57272591",
+      "title": "homeassistant-ai / ha-mcp (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-09T22:08:38.000Z"
+    },
+    {
+      "id": "db83b2372856",
+      "title": "Fireworks AI Hacked",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-09/nvidia-backed-fireworks-ai-notifies-customers-of-its-second-hack-in-weeks Comments URL: https://news.ycombinator.com/item?id=50432415 Points: 5 # Comments: 1",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-backed-fireworks-ai-notifies-customers-of-its-second-hack-in-weeks",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-09T21:26:09.000Z"
+    },
+    {
+      "id": "9a06c1a8df40",
+      "title": "Safely scaling multi-agent teams with Claude Fable 5.2nd PostgreSQL",
+      "summary": "Article URL: https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/ Comments URL: https://news.ycombinator.com/item?id=50430968 Points: 2 # Comments: 0",
+      "url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-09T19:54:33.000Z"
     },
     {
       "id": "2584746fd777",
@@ -534,24 +538,24 @@
       "publishedAt": "2026-07-27T00:00:00.000Z"
     },
     {
-      "id": "34da3af20cda",
-      "title": "Anthropic secures $3.4B generator deal for AI data centers",
-      "summary": "Article URL: https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/ Comments URL: https://news.ycombinator.com/item?id=50421371 Points: 2 # Comments: 0",
-      "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "5b1d92a74367",
+      "title": "google-deepmind / mujoco (C++)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-09T05:20:26.000Z"
+      "publishedAt": "2026-11-09T22:08:38.000Z"
     },
     {
-      "id": "56ea65b8e1ff",
-      "title": "P2P model hosting and inference WebGPU,libp2p,IPFS",
-      "summary": "Article URL: https://metaversejs.github.io/peercompute/inference/ Comments URL: https://news.ycombinator.com/item?id=50420822 Points: 1 # Comments: 1",
-      "url": "https://metaversejs.github.io/peercompute/inference/",
+      "id": "73e1b0d87216",
+      "title": "We Benchmarked Fireworks, Together, Baseten, Modal, DeepInfra, Z.ai and Keln",
+      "summary": "Article URL: https://keln.ai/blog/ai-inference-provider-benchmark-2026 Comments URL: https://news.ycombinator.com/item?id=50431519 Points: 1 # Comments: 0",
+      "url": "https://keln.ai/blog/ai-inference-provider-benchmark-2026",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -559,7 +563,35 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-09T03:46:23.000Z"
+      "publishedAt": "2026-11-09T20:26:56.000Z"
+    },
+    {
+      "id": "bf22f59a585a",
+      "title": "G-harness-evals: Which agent harness does tasks best, for the least cost?",
+      "summary": "Article URL: https://github.com/garrytan/g-harness-evals Comments URL: https://news.ycombinator.com/item?id=50430971 Points: 2 # Comments: 0",
+      "url": "https://github.com/garrytan/g-harness-evals",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-09T19:55:00.000Z"
+    },
+    {
+      "id": "51574f33b31a",
+      "title": "Google ships four TPU variants in one year as it ramps up competition with Nvidia",
+      "summary": "Google is expanding its TPU 8 family with two specialized variants: the TPU 8tx keeps sensitive data encrypted even during processing, while the TPU 8i Max doubles compute power and memory by placing two chips on a single package. With nearly 100 external customers now on board, Google is increasingly positioning its in-house chips as an alternative to Nvidia's GPUs. The article Google ships four ",
+      "url": "https://the-decoder.com/google-ships-four-tpu-variants-in-one-year-as-it-ramps-up-competition-with-nvidia/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-09T12:59:02.000Z"
     },
     {
       "id": "3f346b167e49",
@@ -674,38 +706,38 @@
       "publishedAt": "2026-08-18T18:09:38.000Z"
     },
     {
-      "id": "1cf418ddd31c",
-      "title": "Best-Effort Extent-Same, a btrfs dedupe agent",
-      "summary": "Article URL: https://github.com/Zygo/bees Comments URL: https://news.ycombinator.com/item?id=50420981 Points: 2 # Comments: 0",
-      "url": "https://github.com/Zygo/bees",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "7fba3b41f028",
+      "title": "garrytan / gbrain (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "url": "https://github.com/garrytan/gbrain",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-09T04:11:31.000Z"
+      "publishedAt": "2026-11-09T22:08:38.000Z"
     },
     {
-      "id": "7a1091df14ab",
-      "title": "Show HN: Mindfries- AI Interviewer based on real eng skill not on L**tC*de",
-      "summary": "Hi HN Family, I am Chandan, and have built an AI intrviewer tool that assess the candidate based on real skills of engineering, like working on large codebase to fix, build, and enhance and many deployment type works too with the help of built in AI agent. Google had also introduced the same round for their candidates and all the other platform are checking the Competitive programming which is not",
-      "url": "https://company.mindfries.com/login",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "45ac70f83304",
+      "title": "vercel-labs / agent-browser (Rust)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Browser automation CLI for AI agents",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-09T03:30:04.000Z"
+      "publishedAt": "2026-11-09T22:08:38.000Z"
     },
     {
-      "id": "ba670be6d6d9",
-      "title": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code",
-      "summary": "Article URL: https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/ Comments URL: https://news.ycombinator.com/item?id=50420532 Points: 11 # Comments: 10",
-      "url": "https://itsfoss.com/news/asahi-linux-drops-mit-for-gpl/",
+      "id": "a49936cfc6cf",
+      "title": "USB: A trust layer for AI skills and MCP servers",
+      "summary": "Article URL: https://github.com/PeepSick/usbplus Comments URL: https://news.ycombinator.com/item?id=50432661 Points: 2 # Comments: 1",
+      "url": "https://github.com/PeepSick/usbplus",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -713,7 +745,91 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-09T03:06:55.000Z"
+      "publishedAt": "2026-11-09T21:42:46.000Z"
+    },
+    {
+      "id": "28a296d96cab",
+      "title": "Show HN: Agent-email-guard – agent tried to send 400 receipts, stopped at 5",
+      "summary": "Article URL: https://github.com/agentisend/agent-email-guard Comments URL: https://news.ycombinator.com/item?id=50432613 Points: 1 # Comments: 1",
+      "url": "https://github.com/agentisend/agent-email-guard",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-09T21:39:06.000Z"
+    },
+    {
+      "id": "2e157b00e82b",
+      "title": "Show HN: Emma, a real-time AI video persona from Nuance Labs",
+      "summary": "Hi HN! I'm Claudia, first employee and founding researcher at Nuance Labs. We're a research startup based in Seattle and have just released what we've been working on for the past 18 months. Emma, a conversational audio-visual AI that you can have a video call with in real time. It might be a little rough around the edges but we think it's better than anything else out there (we're biased, of cour",
+      "url": "https://app.nuancelabs.ai/try",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-09T21:38:00.000Z"
+    },
+    {
+      "id": "aab830f780f6",
+      "title": "Exact: A new agent-native app framework written in Rust, from Expo team",
+      "summary": "Article URL: https://twitter.com/ccheever/status/2119764253242695754 Comments URL: https://news.ycombinator.com/item?id=50432303 Points: 2 # Comments: 0",
+      "url": "https://twitter.com/ccheever/status/2119764253242695754",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-09T21:18:03.000Z"
+    },
+    {
+      "id": "407a67d8a087",
+      "title": "Lawyer builds private AI server with eight used Nvidia V100 GPUs",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board Comments URL: https://news.ycombinator.com/item?id=50431054 Points: 2 # Comments: 0",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-09T19:58:42.000Z"
+    },
+    {
+      "id": "7b2c5d844d18",
+      "title": "AI is the last of capitalism's distraction",
+      "summary": "Article URL: https://fredrocha.net/2026/10/20/ai-is-the-last-of-capitalisms-distraction/ Comments URL: https://news.ycombinator.com/item?id=50430940 Points: 1 # Comments: 0",
+      "url": "https://fredrocha.net/2026/10/20/ai-is-the-last-of-capitalisms-distraction/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-09T19:52:44.000Z"
+    },
+    {
+      "id": "d0adaea22990",
+      "title": "Nvidia espionage scandal weakens Huang&#039;s lobby against tighter AI chip export controls",
+      "summary": "Nvidia CEO Jensen Huang has admitted to an extramarital affair with a woman US intelligence agencies classify as a suspected Chinese informant. The board has launched an independent investigation. The affair weakens Huang's lobbying efforts against stricter AI chip export controls, with a newly elected Democratic Congress poised to ramp up scrutiny of AI chip smuggling to China and push for tighte",
+      "url": "https://the-decoder.com/nvidia-espionage-scandal-weakens-huangs-lobby-against-tighter-ai-chip-export-controls/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-09T11:38:43.000Z"
     },
     {
       "id": "0b897a4e760e",
@@ -762,118 +878,6 @@
       ],
       "score": 1,
       "publishedAt": "2026-10-29T22:48:29.000Z"
-    },
-    {
-      "id": "8252d6b54783",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-21T17:35:36.000Z"
-    },
-    {
-      "id": "337b479f8449",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-13T17:05:48.000Z"
-    },
-    {
-      "id": "13fb9f934753",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-03T22:56:48.000Z"
-    },
-    {
-      "id": "aa94f7750a6e",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-02T15:00:00.000Z"
-    },
-    {
-      "id": "fcdb740546fd",
-      "title": "Making global data easier to explore",
-      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-17T20:00:00.000Z"
-    },
-    {
-      "id": "e10aa3054613",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-15T16:00:44.000Z"
-    },
-    {
-      "id": "8d3fd42b9606",
-      "title": "DevFest is back",
-      "summary": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-14T16:00:00.000Z"
-    },
-    {
-      "id": "707cc711d602",
-      "title": "3 ways to prep for your next big race with Search",
-      "summary": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-10T16:00:00.000Z"
     }
   ]
 }
