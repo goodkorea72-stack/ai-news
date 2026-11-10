@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T22:08:38.390Z",
-  "nextUpdate": "2026-11-10T10:00:00.000Z",
+  "generatedAt": "2026-11-10T06:47:47.172Z",
+  "nextUpdate": "2026-11-10T18:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
   "totalCollected": 171,
@@ -199,7 +199,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-09T22:08:38.000Z"
+      "publishedAt": "2026-11-10T06:47:38.000Z"
     },
     {
       "id": "7241faedc71a",
@@ -214,22 +214,22 @@
         "new_model"
       ],
       "score": 5,
-      "publishedAt": "2026-11-09T22:08:38.000Z"
+      "publishedAt": "2026-11-10T06:47:38.000Z"
     },
     {
-      "id": "88fa920b19ff",
-      "title": "I handed my open-source project to Claude, and it fixed every single issue",
-      "summary": "Article URL: https://github.com/lava/matplotlib-cpp Comments URL: https://news.ycombinator.com/item?id=50431510 Points: 2 # Comments: 1",
-      "url": "https://github.com/lava/matplotlib-cpp",
+      "id": "a56ababc4114",
+      "title": "Codenotary released AgentMon Live as free, open-source software",
+      "summary": "Article URL: https://finance.yahoo.com/technology/ai/articles/codenotary-releases-agentmon-live-free-160000064.html Comments URL: https://news.ycombinator.com/item?id=50436638 Points: 2 # Comments: 0",
+      "url": "https://finance.yahoo.com/technology/ai/articles/codenotary-releases-agentmon-live-free-160000064.html",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
       "category": [
         "open_source",
-        "new_model"
+        "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-09T20:26:36.000Z"
+      "publishedAt": "2026-11-10T06:00:59.000Z"
     },
     {
       "id": "c96bfd28b36f",
@@ -259,7 +259,22 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-09T22:08:38.000Z"
+      "publishedAt": "2026-11-10T06:47:38.000Z"
+    },
+    {
+      "id": "bdb814c2f82b",
+      "title": "Show HN: Willder, an open source context layer that syncs apps, agents and teams",
+      "summary": "Article URL: https://github.com/willderai/willder-core Comments URL: https://news.ycombinator.com/item?id=50436876 Points: 1 # Comments: 0",
+      "url": "https://github.com/willderai/willder-core",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-10T06:44:36.000Z"
     },
     {
       "id": "093d0baada7d",
@@ -274,21 +289,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-11-09T21:15:23.000Z"
-    },
-    {
-      "id": "e8e3572e0292",
-      "title": "AetherScope v2.2.1 – open-source SAST",
-      "summary": "Article URL: https://github.com/maxxwwim/AetherScope-SAST-150-CWE-MCP Comments URL: https://news.ycombinator.com/item?id=50432050 Points: 2 # Comments: 0",
-      "url": "https://github.com/maxxwwim/AetherScope-SAST-150-CWE-MCP",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-09T20:59:51.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -377,7 +377,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-09T22:08:38.000Z"
+      "publishedAt": "2026-11-10T06:47:38.000Z"
     },
     {
       "id": "ac3e57272591",
@@ -392,13 +392,13 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-09T22:08:38.000Z"
+      "publishedAt": "2026-11-10T06:47:38.000Z"
     },
     {
-      "id": "db83b2372856",
-      "title": "Fireworks AI Hacked",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-09/nvidia-backed-fireworks-ai-notifies-customers-of-its-second-hack-in-weeks Comments URL: https://news.ycombinator.com/item?id=50432415 Points: 5 # Comments: 1",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-backed-fireworks-ai-notifies-customers-of-its-second-hack-in-weeks",
+      "id": "2b904c23d097",
+      "title": "Address Guard Open-source toolkit to detect crypto address poisoning",
+      "summary": "Article URL: https://github.com/globalmpc/rwa-kit-js Comments URL: https://news.ycombinator.com/item?id=50436744 Points: 1 # Comments: 0",
+      "url": "https://github.com/globalmpc/rwa-kit-js",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -406,22 +406,21 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-09T21:26:09.000Z"
+      "publishedAt": "2026-11-10T06:21:13.000Z"
     },
     {
-      "id": "9a06c1a8df40",
-      "title": "Safely scaling multi-agent teams with Claude Fable 5.2nd PostgreSQL",
-      "summary": "Article URL: https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/ Comments URL: https://news.ycombinator.com/item?id=50430968 Points: 2 # Comments: 0",
-      "url": "https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/",
+      "id": "a5da5fe21805",
+      "title": "I built an open-source Python tool to download YouTube videos",
+      "summary": "Article URL: https://github.com/pH-7/Download-Simply-Videos-From-YouTube Comments URL: https://news.ycombinator.com/item?id=50435731 Points: 1 # Comments: 0",
+      "url": "https://github.com/pH-7/Download-Simply-Videos-From-YouTube",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
       "category": [
-        "new_model",
-        "industry"
+        "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-09T19:54:33.000Z"
+      "publishedAt": "2026-11-10T03:32:34.000Z"
     },
     {
       "id": "2584746fd777",
@@ -549,13 +548,13 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-09T22:08:38.000Z"
+      "publishedAt": "2026-11-10T06:47:38.000Z"
     },
     {
-      "id": "73e1b0d87216",
-      "title": "We Benchmarked Fireworks, Together, Baseten, Modal, DeepInfra, Z.ai and Keln",
-      "summary": "Article URL: https://keln.ai/blog/ai-inference-provider-benchmark-2026 Comments URL: https://news.ycombinator.com/item?id=50431519 Points: 1 # Comments: 0",
-      "url": "https://keln.ai/blog/ai-inference-provider-benchmark-2026",
+      "id": "3d4abb5b6b2f",
+      "title": "We're launching an in-game AI agent for WoW",
+      "summary": "Article URL: https://willocompanion.com/ Comments URL: https://news.ycombinator.com/item?id=50436869 Points: 1 # Comments: 0",
+      "url": "https://willocompanion.com/",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -563,13 +562,27 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-09T20:26:56.000Z"
+      "publishedAt": "2026-11-10T06:44:05.000Z"
     },
     {
-      "id": "bf22f59a585a",
-      "title": "G-harness-evals: Which agent harness does tasks best, for the least cost?",
-      "summary": "Article URL: https://github.com/garrytan/g-harness-evals Comments URL: https://news.ycombinator.com/item?id=50430971 Points: 2 # Comments: 0",
-      "url": "https://github.com/garrytan/g-harness-evals",
+      "id": "81672eebaa27",
+      "title": "Anthropic joins AI's natural gas frenzy, buys $3.4B worth of turbines",
+      "summary": "Article URL: https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/ Comments URL: https://news.ycombinator.com/item?id=50436103 Points: 4 # Comments: 3",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-10T04:35:50.000Z"
+    },
+    {
+      "id": "098f86db29b7",
+      "title": "FlashStates Unlocking Flexible Hybrid State Management for Agentic LLM Inference",
+      "summary": "Article URL: https://flashstates.ai/ Comments URL: https://news.ycombinator.com/item?id=50436074 Points: 1 # Comments: 0",
+      "url": "https://flashstates.ai/",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -577,7 +590,38 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-09T19:55:00.000Z"
+      "publishedAt": "2026-11-10T04:29:35.000Z"
+    },
+    {
+      "id": "7b6ca479cb9e",
+      "title": "Ask HN: Are companies making money by using AI?",
+      "summary": "AI news is focused on the same companies improving their models. But I am really interested in getting opinions about companies that are actually making money by using AI, either by granting access to Claude or by including some sort of AI feature in their products. Comments URL: https://news.ycombinator.com/item?id=50435819 Points: 2 # Comments: 6",
+      "url": "https://news.ycombinator.com/item?id=50435819",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-10T03:49:10.000Z"
+    },
+    {
+      "id": "c2afd7c0c292",
+      "title": "llm-anthropic 0.31",
+      "summary": "",
+      "url": {
+        "@_href": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+        "@_rel": "alternate"
+      },
+      "source": "Simon Willison",
+      "sourceId": "simonwillison",
+      "icon": "🧪",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-09T23:58:46.000Z"
     },
     {
       "id": "51574f33b31a",
@@ -717,7 +761,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-09T22:08:38.000Z"
+      "publishedAt": "2026-11-10T06:47:38.000Z"
     },
     {
       "id": "45ac70f83304",
@@ -731,13 +775,13 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-09T22:08:38.000Z"
+      "publishedAt": "2026-11-10T06:47:38.000Z"
     },
     {
-      "id": "a49936cfc6cf",
-      "title": "USB: A trust layer for AI skills and MCP servers",
-      "summary": "Article URL: https://github.com/PeepSick/usbplus Comments URL: https://news.ycombinator.com/item?id=50432661 Points: 2 # Comments: 1",
-      "url": "https://github.com/PeepSick/usbplus",
+      "id": "47a85c044006",
+      "title": "Hire AI Agents and Pay in Monero (XMR)",
+      "summary": "Article URL: https://agents.monero.jobs Comments URL: https://news.ycombinator.com/item?id=50436878 Points: 1 # Comments: 0",
+      "url": "https://agents.monero.jobs",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -745,13 +789,13 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-09T21:42:46.000Z"
+      "publishedAt": "2026-11-10T06:44:45.000Z"
     },
     {
-      "id": "28a296d96cab",
-      "title": "Show HN: Agent-email-guard – agent tried to send 400 receipts, stopped at 5",
-      "summary": "Article URL: https://github.com/agentisend/agent-email-guard Comments URL: https://news.ycombinator.com/item?id=50432613 Points: 1 # Comments: 1",
-      "url": "https://github.com/agentisend/agent-email-guard",
+      "id": "0dbb850ac2fb",
+      "title": "Socratic-tutor – turns an LLM into a strict personal tutor",
+      "summary": "Article URL: https://github.com/janestreet/agent_skills Comments URL: https://news.ycombinator.com/item?id=50436087 Points: 1 # Comments: 0",
+      "url": "https://github.com/janestreet/agent_skills",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -759,13 +803,13 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-09T21:39:06.000Z"
+      "publishedAt": "2026-11-10T04:31:59.000Z"
     },
     {
-      "id": "2e157b00e82b",
-      "title": "Show HN: Emma, a real-time AI video persona from Nuance Labs",
-      "summary": "Hi HN! I'm Claudia, first employee and founding researcher at Nuance Labs. We're a research startup based in Seattle and have just released what we've been working on for the past 18 months. Emma, a conversational audio-visual AI that you can have a video call with in real time. It might be a little rough around the edges but we think it's better than anything else out there (we're biased, of cour",
-      "url": "https://app.nuancelabs.ai/try",
+      "id": "087b6fdd3345",
+      "title": "Autonomous AI Agents Conduct End-to-End Research with Human Participants",
+      "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76675 Comments URL: https://news.ycombinator.com/item?id=50436070 Points: 1 # Comments: 0",
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.76675",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -773,49 +817,7 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-09T21:38:00.000Z"
-    },
-    {
-      "id": "aab830f780f6",
-      "title": "Exact: A new agent-native app framework written in Rust, from Expo team",
-      "summary": "Article URL: https://twitter.com/ccheever/status/2119764253242695754 Comments URL: https://news.ycombinator.com/item?id=50432303 Points: 2 # Comments: 0",
-      "url": "https://twitter.com/ccheever/status/2119764253242695754",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-09T21:18:03.000Z"
-    },
-    {
-      "id": "407a67d8a087",
-      "title": "Lawyer builds private AI server with eight used Nvidia V100 GPUs",
-      "summary": "Article URL: https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board Comments URL: https://news.ycombinator.com/item?id=50431054 Points: 2 # Comments: 0",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-builds-private-ai-server-with-eight-used-nvidia-v100-gpus-up-to-215-tokens-per-second-to-keep-legal-files-offline-costing-about-usd2-400-per-four-gpu-board",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-09T19:58:42.000Z"
-    },
-    {
-      "id": "7b2c5d844d18",
-      "title": "AI is the last of capitalism's distraction",
-      "summary": "Article URL: https://fredrocha.net/2026/10/20/ai-is-the-last-of-capitalisms-distraction/ Comments URL: https://news.ycombinator.com/item?id=50430940 Points: 1 # Comments: 0",
-      "url": "https://fredrocha.net/2026/10/20/ai-is-the-last-of-capitalisms-distraction/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-09T19:52:44.000Z"
+      "publishedAt": "2026-11-10T04:29:26.000Z"
     },
     {
       "id": "d0adaea22990",
