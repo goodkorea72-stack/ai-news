@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-11T05:35:45.709Z",
-  "nextUpdate": "2026-11-11T17:00:00.000Z",
+  "generatedAt": "2026-11-11T19:26:03.106Z",
+  "nextUpdate": "2026-11-12T07:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 272,
+  "totalCollected": 250,
   "articleCount": 60,
   "articles": [
     {
@@ -99,36 +99,6 @@
       "publishedAt": "2026-11-11T05:00:00.000Z"
     },
     {
-      "id": "0765e5cff30c",
-      "title": "Show HN: Caramel: a speech-to-speech conversation model trained only on audio",
-      "summary": "I trained a speech-to-speech model last night, inspired by Dessa. I'm calling the model caramel-1. The model learned from recordings of people talking and nothing else, and has never seen a single word of text. The code, the training recipe and the weights are open source. caramel-1 sounds incredibly human. Most of what caramel-1 says doesn't make sense yet, but the sentences make a little more se",
-      "url": "https://naklecha.com/research/caramel-1",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 8,
-      "publishedAt": "2026-11-11T03:05:24.000Z"
-    },
-    {
-      "id": "c4f1b8934dea",
-      "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
-      "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar than Claude Haiku 5.5 or GPT-6 Luna. But it falls short when it comes to actual programming tasks. The article Meta launches Muse Ember, a small AI model built for the repetitive ",
-      "url": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 8,
-      "publishedAt": "2026-11-09T19:41:51.000Z"
-    },
-    {
       "id": "a044546cb5e9",
       "title": "Reliability of Claude Code as an Agentic AI Grading System for Handwritten University Exams",
       "summary": "arXiv:2611.13217v1 Announce Type: new Abstract: This study examines the reliability of Claude Code, an agentic deployment of the Claude Opus 4.6 large language model, as a grading system for handwritten university exams. Four research questions addressed agreement with expert human grading on total scores (RQ1), agreement across five question types from multiple choice to evaluative judgement (RQ2",
@@ -190,21 +160,6 @@
       "publishedAt": "2026-11-11T05:00:00.000Z"
     },
     {
-      "id": "a7502ed24197",
-      "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
-      "summary": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative. The companies commit to shutdown mechanisms, independent audits, and disclosing known risks, but the agreement lacks binding sanctions or deadlines. The article Eight countries and top AI labs agree to shutdown mechani",
-      "url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model"
-      ],
-      "score": 7,
-      "publishedAt": "2026-11-10T13:37:16.000Z"
-    },
-    {
       "id": "a0a3a9608043",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "summary": "",
@@ -233,6 +188,21 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "ebedce75ae64",
+      "title": "Anthropic says AI is eroding Nvidia&#039;s CUDA lead, cutting an AMD chip switch from months to three days",
+      "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies. The article Anthropic says AI is eroding Nvidia&#039;s CUDA lead, cutting an AMD chip switch from months ",
+      "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-11T14:25:20.000Z"
     },
     {
       "id": "630cc9a0b7f4",
@@ -310,35 +280,6 @@
       "publishedAt": "2026-11-11T05:00:00.000Z"
     },
     {
-      "id": "8df64ea74131",
-      "title": "Weird licenses and the new open source",
-      "summary": "Article URL: https://dustri.org/b/weird-licenses-and-the-new-open-source.html Comments URL: https://news.ycombinator.com/item?id=50449560 Points: 4 # Comments: 0",
-      "url": "https://dustri.org/b/weird-licenses-and-the-new-open-source.html",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-11T03:50:32.000Z"
-    },
-    {
-      "id": "4db9dbdffafb",
-      "title": "Gemini 4 Carbon arrives just in time to feel like yesterday&#039;s news in the fastest model cycle yet",
-      "summary": "Google is making Gemini 4 Carbon generally available after a two-week testing phase. The model ranks first in several benchmarks, in some cases ahead of Anthropic's new Fable 5.2, at less than half the per-task cost. Google is also previewing coordinated agent teams through the \"/swarm\" feature, which split up complex tasks in real time. The article Gemini 4 Carbon arrives just in time to feel lik",
-      "url": "https://the-decoder.com/gemini-4-carbon-arrives-just-in-time-to-feel-like-yesterdays-news-in-the-fastest-model-cycle-yet/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-10T18:19:13.000Z"
-    },
-    {
       "id": "5c1385f2c5d4",
       "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
       "summary": "",
@@ -414,19 +355,49 @@
       "publishedAt": "2026-08-10T00:00:00.000Z"
     },
     {
-      "id": "977bf2399d64",
-      "title": "anthropics / claude-quickstarts (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "993bf330f47c",
+      "title": "Google Deepmind&#039;s AlphaProof Code verified Signal&#039;s cryptographic core in four weeks instead of years",
+      "summary": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percent for human review. Deepmind plans to extend the method to critical infrastructure like power grids and medical devices. The article Google ",
+      "url": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-11T05:35:45.000Z"
+      "publishedAt": "2026-11-11T18:18:25.000Z"
+    },
+    {
+      "id": "ef6af8d34123",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-11T18:00:00.000Z"
+    },
+    {
+      "id": "b28a64c8eff8",
+      "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+      "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are involved, and export controls barely apply. The article US data brokers are selling half a billion dollars in RL t",
+      "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-11T13:51:11.000Z"
     },
     {
       "id": "be913ed9da61",
@@ -574,22 +545,21 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-11T05:35:45.000Z"
+      "publishedAt": "2026-11-11T19:26:03.000Z"
     },
     {
-      "id": "6493b6a3840b",
-      "title": "My AI Agents Found an Unmapped Maya Site in Mexico",
-      "summary": "Article URL: https://pietromiotti.com/latest/maya-site/ Comments URL: https://news.ycombinator.com/item?id=50449945 Points: 2 # Comments: 0",
-      "url": "https://pietromiotti.com/latest/maya-site/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "1b7b98b86422",
+      "title": "Enterprise sales push OpenAI&#039;s quarterly revenue to $10 billion, though it still trails Anthropic",
+      "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue. To close the gap, OpenAI is now fueling a price war for enterprise customers. The article Enterprise sales push OpenAI&#039;s quarterly revenue to $10 billion,",
+      "url": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
-        "industry"
+        "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-11-11T05:09:10.000Z"
+      "publishedAt": "2026-11-11T12:12:47.000Z"
     },
     {
       "id": "f4902a30988c",
@@ -783,21 +753,6 @@
       "publishedAt": "2026-11-11T05:00:00.000Z"
     },
     {
-      "id": "6dd8147fad2a",
-      "title": "Matching product records with a decision model",
-      "summary": "Article URL: https://codecut.ai/typesafe-jev-vs-rapidfuzz-sentence-transformers/ Comments URL: https://news.ycombinator.com/item?id=50449193 Points: 1 # Comments: 0",
-      "url": "https://codecut.ai/typesafe-jev-vs-rapidfuzz-sentence-transformers/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-11T02:45:14.000Z"
-    },
-    {
       "id": "d244d6f3a984",
       "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
       "summary": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take notes, is coming soon. Step by step, Anthropic is turning Claude into a central work platform for teams that brings many other apps together in one place. The article Anth",
@@ -810,48 +765,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-11-10T19:48:40.000Z"
-    },
-    {
-      "id": "de2cfe4a3567",
-      "title": "Google DeepMind&#039;s Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
-      "summary": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent. The article Google DeepMind&#039;s Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot ap",
-      "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-10T17:11:10.000Z"
-    },
-    {
-      "id": "cd02712c83dc",
-      "title": "Anthropic&#039;s Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
-      "summary": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra. A year ago the top score was 2.5 percent. Areas like product design and animation remain a weak spot. The article Anthropic&#039;s Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
-      "url": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-10T14:07:47.000Z"
-    },
-    {
-      "id": "093d0baada7d",
-      "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic&#039;s AI lead just before its IPO",
-      "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show stronger cybersecurity capabilities, design functioning operating systems, and write more than 90 percent of the changes merged into Anthropic's core code, according to the company. ",
-      "url": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-09T21:15:23.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -896,6 +809,93 @@
       ],
       "score": 4,
       "publishedAt": "2026-08-21T00:00:00.000Z"
+    },
+    {
+      "id": "9c95afa451ef",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "summary": "",
+      "url": "https://huggingface.co/blog/baseten",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "id": "0ee73a62fb00",
+      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "ac3e57272591",
+      "title": "homeassistant-ai / ha-mcp (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-11T19:26:03.000Z"
+    },
+    {
+      "id": "276bae81b5b8",
+      "title": "AI Governance Should Prioritize Control and Knowledge Boundaries Over Limiting Intelligence",
+      "summary": "arXiv:2611.12941v1 Announce Type: new Abstract: The rapid proliferation of autonomously acting AI agents makes the governance of agentic systems urgent. We propose the competence circuit, summarized as IKC + KC + C, that decomposes an agent's real-world impact into three pathways: intelligence-mediated discovery, procedural know-how, and direct control. Using the canonical fast-takeoff debate as a",
+      "url": "https://arxiv.org/abs/2611.12941",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "id": "b6df01b423a0",
+      "title": "Tabular Foundation Models vs Tuned Gradient Boosting for Telecom Churn: A Profit- and Calibration-Aware Evaluation",
+      "summary": "arXiv:2611.12942v1 Announce Type: new Abstract: Tabular foundation models (TFMs) predict from a labelled context in a single forward pass. A recent benchmark reported that they decisively outperform tree ensembles for customer churn, but it compared them with untuned gradient-boosted trees (GBDTs) and scored only ranking metrics, while a retention campaign is judged in money. We re-evaluate TabPFN",
+      "url": "https://arxiv.org/abs/2611.12942",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-11T05:00:00.000Z"
+    },
+    {
+      "id": "ec369e9e3ff5",
+      "title": "Agent Architecture Cost-Success Trade-offs: A Controlled Evaluation across Enterprise-Style SOPs",
+      "summary": "arXiv:2611.12953v1 Announce Type: new Abstract: Enterprises increasingly use large language model agents to execute standard operating procedures (SOPs): long, branching, tool-intensive workflows. Yet there is little controlled evidence for choosing among competing agentic architectures. Holding the model, tasks, and tools fixed and varying only the architecture, we compare four designs (a functio",
+      "url": "https://arxiv.org/abs/2611.12953",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-11T05:00:00.000Z"
     }
   ]
 }
