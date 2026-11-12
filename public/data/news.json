@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-12T06:41:15.890Z",
-  "nextUpdate": "2026-11-12T18:00:00.000Z",
+  "generatedAt": "2026-11-12T19:43:53.366Z",
+  "nextUpdate": "2026-11-13T07:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 150,
+  "totalCollected": 173,
   "articleCount": 60,
   "articles": [
     {
@@ -21,6 +21,51 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "984b8d8f5f78",
+      "title": "QwenLM / qwen-code (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: An open-source AI coding agent that lives in your terminal.",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-11-12T19:43:44.000Z"
+    },
+    {
+      "id": "3c5cefaa2e8f",
+      "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
+      "summary": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning. The analysis shows that the loss of transparency is not a law of nature but also reflects tradeoffs around capability and cost. The article OpenAI’s data s",
+      "url": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-11-12T16:58:11.000Z"
+    },
+    {
+      "id": "831b209b9dc5",
+      "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
+      "summary": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r",
+      "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-11-12T13:48:19.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -51,6 +96,34 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "c7adbdabf916",
+      "title": "OpenAI, Google, Anthropic hit with lawsuit to stop AI development",
+      "summary": "Article URL: https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/ Comments URL: https://news.ycombinator.com/item?id=50473015 Points: 3 # Comments: 0",
+      "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-12T19:38:52.000Z"
+    },
+    {
+      "id": "ea13618115f1",
+      "title": "Hugging Face CEO vows to keep fighting for open-source AI",
+      "summary": "Article URL: https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/ Comments URL: https://news.ycombinator.com/item?id=50471673 Points: 9 # Comments: 0",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-12T18:17:29.000Z"
     },
     {
       "id": "0c55d748cbb6",
@@ -188,21 +261,6 @@
       "publishedAt": "2026-11-11T18:00:00.000Z"
     },
     {
-      "id": "b28a64c8eff8",
-      "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
-      "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments previously built for OpenAI or Anthropic. At least nine firms are involved, and export controls barely apply. The article US data brokers are selling half a billion dollars in RL t",
-      "url": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-11T13:51:11.000Z"
-    },
-    {
       "id": "c96bfd28b36f",
       "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
       "summary": "",
@@ -230,7 +288,82 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-12T06:41:15.000Z"
+      "publishedAt": "2026-11-12T19:43:44.000Z"
+    },
+    {
+      "id": "e4b3991b2d7f",
+      "title": "CopilotKit / OpenBot (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-12T19:43:44.000Z"
+    },
+    {
+      "id": "47b8c0814701",
+      "title": "ggml-org / llama.cpp (C++)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: LLM inference in C/C++",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-12T19:43:44.000Z"
+    },
+    {
+      "id": "aa5348a5b38a",
+      "title": "Air-LLM: Broadcasting AI Weights for Edge LLM Inference via RF Computing",
+      "summary": "Article URL: https://arxiv.org/abs/2610.00465 Comments URL: https://news.ycombinator.com/item?id=50471658 Points: 1 # Comments: 0",
+      "url": "https://arxiv.org/abs/2610.00465",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-12T18:16:13.000Z"
+    },
+    {
+      "id": "854946218bf7",
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "summary": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents - Web-grounded workflows - A range of sandboxes and computer environments - Thousands of tools and integrations -",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-12T18:15:48.000Z"
+    },
+    {
+      "id": "2238fe9b5b0b",
+      "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
+      "summary": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor. The model is available for noncommercial research through an API and is set to be integrated into Google's agentic platfor",
+      "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-12T12:09:43.000Z"
     },
     {
       "id": "4a518e3ba5bd",
@@ -245,20 +378,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-11-11T19:35:11.000Z"
-    },
-    {
-      "id": "1b7b98b86422",
-      "title": "Enterprise sales push OpenAI&#039;s quarterly revenue to $10 billion, though it still trails Anthropic",
-      "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17 billion in revenue. To close the gap, OpenAI is now fueling a price war for enterprise customers. The article Enterprise sales push OpenAI&#039;s quarterly revenue to $10 billion,",
-      "url": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-11T12:12:47.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -335,19 +454,60 @@
       "publishedAt": "2026-07-23T00:00:00.000Z"
     },
     {
-      "id": "ac3e57272591",
-      "title": "homeassistant-ai / ha-mcp (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "817b422d1a91",
+      "title": "Stay-in-sight – everything you need for email outbound – open-source",
+      "summary": "Article URL: https://stayinsight.sleeksite.ai/ Comments URL: https://news.ycombinator.com/item?id=50472638 Points: 1 # Comments: 0",
+      "url": "https://stayinsight.sleeksite.ai/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
-        "new_model",
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-12T19:14:37.000Z"
+    },
+    {
+      "id": "4b1452634da2",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-12T19:07:35.000Z"
+    },
+    {
+      "id": "51e14b4ccc78",
+      "title": "Show HN: Headwig - Run and test parallel AI agents without Git worktrees",
+      "summary": "Hey HN! I am Harsh, been developing software for quite sometime now. Since agents came into my local SD workflow I had been facing a bottleneck. Event though agents are great in working parallelly, testing their changes and iterating is a pain. (Brain, storage & memory overhead) We all use Git worktrees to code in parallel. But how do we test those changes? Still linearly. Or patched up multi-envi",
+      "url": "https://harsh-kr-jha.github.io/headwig/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-12T06:41:15.000Z"
+      "publishedAt": "2026-11-12T18:57:22.000Z"
+    },
+    {
+      "id": "acaa69765fb0",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-12T00:00:00.000Z"
     },
     {
       "id": "6700611aa6c7",
@@ -518,7 +678,63 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-12T06:41:15.000Z"
+      "publishedAt": "2026-11-12T19:43:44.000Z"
+    },
+    {
+      "id": "9d5050feaa6c",
+      "title": "ashhart / TensorFold (Zig)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: LLM Inference Engine for Metal, CUDA and Vulkan.",
+      "url": "https://github.com/ashhart/TensorFold",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-12T19:43:44.000Z"
+    },
+    {
+      "id": "e28d0e3b4e16",
+      "title": "Alishahryar1 / free-claude-code (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-12T19:43:44.000Z"
+    },
+    {
+      "id": "ad4920ebfdfd",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-12T18:00:00.000Z"
+    },
+    {
+      "id": "797c58c717ec",
+      "title": "Australia&#039;s proposed AI safety bill would force frontier model makers to open up to independent testing",
+      "summary": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep penalties for violations. With this move, Canberra is deliberately prioritizing domestic regulation before entering international talks. The article Australia&#039;s prop",
+      "url": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-12T10:09:56.000Z"
     },
     {
       "id": "b5667f168a2f",
@@ -536,20 +752,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-11-11T15:11:59.000Z"
-    },
-    {
-      "id": "a2f5c8f5776e",
-      "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI&#039;s own sales pipeline",
-      "summary": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default access setting. SpaceXSI took only its own 24 employee apps offline. The rest remain accessible. The article Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI&#039",
-      "url": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-11T12:53:07.000Z"
     },
     {
       "id": "9b49911070c8",
@@ -682,205 +884,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "43e3a994b253",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-08-18T18:09:38.000Z"
-    },
-    {
-      "id": "e9b4334f974f",
-      "title": "addyosmani / agent-skills (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Production-grade engineering skills for AI coding agents.",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-12T06:41:15.000Z"
-    },
-    {
-      "id": "45ac70f83304",
-      "title": "vercel-labs / agent-browser (Rust)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Browser automation CLI for AI agents",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-12T06:41:15.000Z"
-    },
-    {
-      "id": "42e36197e935",
-      "title": "Helsing built an AI system that prepares targets for weapons systems and says every decision will carry a human name",
-      "summary": "Helsing has unveiled Clarity, an AI platform that uses agents to distill sensor data into target recommendations for weapons systems, all under human oversight and European control. But experience from the Iran war, Gaza, and a near-miss involving China shows that the speed of automation and data fusion create risks that are hard to contain. The article Helsing built an AI system that prepares tar",
-      "url": "https://the-decoder.com/helsing-built-an-ai-system-that-prepares-targets-for-weapons-systems-and-says-every-decision-will-carry-a-human-name/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-11T15:12:53.000Z"
-    },
-    {
-      "id": "9ccedd4456f6",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "summary": "",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-11T05:01:16.000Z"
-    },
-    {
-      "id": "2619b8938696",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "summary": "",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-11T00:00:00.000Z"
-    },
-    {
-      "id": "0b897a4e760e",
-      "title": "datasette-agent 0.5a0",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-03T23:13:45.000Z"
-    },
-    {
-      "id": "f2fbb1135c8b",
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "Here are Google’s latest AI updates from October 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-02T17:45:00.000Z"
-    },
-    {
-      "id": "8252d6b54783",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-21T17:35:36.000Z"
-    },
-    {
-      "id": "337b479f8449",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "summary": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-13T17:05:48.000Z"
-    },
-    {
-      "id": "13fb9f934753",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-03T22:56:48.000Z"
-    },
-    {
-      "id": "aa94f7750a6e",
-      "title": "The latest AI news we announced in September 2026",
-      "summary": "Here are Google’s latest AI updates from September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-10-02T15:00:00.000Z"
-    },
-    {
-      "id": "fcdb740546fd",
-      "title": "Making global data easier to explore",
-      "summary": "Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-17T20:00:00.000Z"
-    },
-    {
-      "id": "e10aa3054613",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-09-15T16:00:44.000Z"
     }
   ]
 }
