@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T05:57:40.726Z",
-  "nextUpdate": "2026-11-13T17:00:00.000Z",
+  "generatedAt": "2026-11-13T19:26:09.285Z",
+  "nextUpdate": "2026-11-14T07:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 153,
+  "totalCollected": 152,
   "articleCount": 60,
   "articles": [
     {
@@ -22,6 +22,37 @@
       "publishedAt": "2026-11-12T19:58:43.000Z"
     },
     {
+      "id": "38970a85706e",
+      "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
+      "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method reads characteristic chip signatures directly from published model weights. He estimates the hardware behind the five training runs cost more than half a billion dollars. The",
+      "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 10,
+      "publishedAt": "2026-11-13T15:21:04.000Z"
+    },
+    {
+      "id": "bac370ecde7f",
+      "title": "Meta&#039;s Muse now calls businesses for you, but many companies might just hang up on the AI",
+      "summary": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta's AI chief Alexandr Wang. Google Gemini, Instinct, and xAI's Grok Bot offer the same feature, but many businesses hang up as soon as they detect an AI on the line. The article Meta&#039;s Muse now ca",
+      "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-11-13T15:12:44.000Z"
+    },
+    {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
       "summary": "",
@@ -38,25 +69,10 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
-      "id": "984b8d8f5f78",
-      "title": "QwenLM / qwen-code (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: An open-source AI coding agent that lives in your terminal.",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-11-13T05:57:40.000Z"
-    },
-    {
-      "id": "3c5cefaa2e8f",
-      "title": "OpenAI’s data suggests that frontier models are hiding their thoughts because developers optimize for capability and compute",
-      "summary": "OpenAI's safety team systematically investigated why the chains of thought in frontier models like GPT-6 Astra are increasingly evading oversight. Four training steps drive the erosion, including architecture choices and reinforcement learning. The analysis shows that the loss of transparency is not a law of nature but also reflects tradeoffs around capability and cost. The article OpenAI’s data s",
-      "url": "https://the-decoder.com/openais-data-suggests-that-frontier-models-are-hiding-their-thoughts-because-developers-optimize-for-capability-and-compute/",
+      "id": "05e0e1679e06",
+      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
+      "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens. Rivals such as Anthropic, Meta, and xAI already have their agents making purchases. The article OpenAI rebuilt AI shopping f",
+      "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -65,22 +81,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-11-12T16:58:11.000Z"
-    },
-    {
-      "id": "831b209b9dc5",
-      "title": "ElevenLabs Scribe v3 Live uses conversational context to stop voice agents from cutting off callers mid-sentence",
-      "summary": "ElevenLabs has released Scribe v3 and Scribe v3 Live, two new speech recognition models designed to transcribe accurately through background noise and crosstalk. Benchmarks from Artificial Analysis confirm that Scribe v3 narrowly beats competitors like OpenAI, Google, and Microsoft on accuracy. That precision comes at a cost, though. Rivals like Microsoft and xAI run many times faster and charge r",
-      "url": "https://the-decoder.com/elevenlabs-scribe-v3-live-uses-conversational-context-to-stop-voice-agents-from-cutting-off-callers-mid-sentence/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-11-12T13:48:19.000Z"
+      "publishedAt": "2026-11-13T18:55:21.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -111,21 +112,6 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
-    },
-    {
-      "id": "0c55d748cbb6",
-      "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
-      "summary": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite, according to Google. The article Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
-      "url": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-11T20:12:46.000Z"
     },
     {
       "id": "5c1385f2c5d4",
@@ -203,6 +189,36 @@
       "publishedAt": "2026-08-10T00:00:00.000Z"
     },
     {
+      "id": "8586835aa6c8",
+      "title": "alibaba / open-code-review (Go)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-13T19:25:55.000Z"
+    },
+    {
+      "id": "9d1189863c7e",
+      "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
+      "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and Anthropic's products aren't available in either region anyway. The article Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls ap",
+      "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-13T18:01:53.000Z"
+    },
+    {
       "id": "8ebf49dbe8ca",
       "title": "Claude Meetings lets Anthropic&#039;s AI join your video calls",
       "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic&#039;s AI join your video calls appeared first on The Decoder .",
@@ -216,21 +232,6 @@
       ],
       "score": 5,
       "publishedAt": "2026-11-12T20:26:50.000Z"
-    },
-    {
-      "id": "993bf330f47c",
-      "title": "Google Deepmind&#039;s AlphaProof Code verified Signal&#039;s cryptographic core in four weeks instead of years",
-      "summary": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percent for human review. Deepmind plans to extend the method to critical infrastructure like power grids and medical devices. The article Google ",
-      "url": "https://the-decoder.com/google-deepminds-alphaproof-code-verified-signals-cryptographic-core-in-four-weeks-instead-of-years/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-11T18:18:25.000Z"
     },
     {
       "id": "ef6af8d34123",
@@ -263,70 +264,10 @@
       "publishedAt": "2026-08-13T17:16:04.000Z"
     },
     {
-      "id": "c88840b65065",
-      "title": "meta / astryx (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: An open source design system that's fully customizable and agent ready",
-      "url": "https://github.com/meta/astryx",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-13T05:57:40.000Z"
-    },
-    {
-      "id": "e4b3991b2d7f",
-      "title": "CopilotKit / OpenBot (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "url": "https://github.com/CopilotKit/OpenBot",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-13T05:57:40.000Z"
-    },
-    {
-      "id": "47b8c0814701",
-      "title": "ggml-org / llama.cpp (C++)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: LLM inference in C/C++",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-13T05:57:40.000Z"
-    },
-    {
-      "id": "2238fe9b5b0b",
-      "title": "Google Deepmind shifts genomics AI from bulk tissue predictions to single cell type resolution with AlphaGenome 2",
-      "summary": "Google Deepmind has unveiled AlphaGenome 2, an AI model that analyzes genetic variants for individual cell types rather than across bulk tissue. Trained on more than 107 million cell profiles, it identifies nearly twice as many disease-relevant gene changes as its predecessor. The model is available for noncommercial research through an API and is set to be integrated into Google's agentic platfor",
-      "url": "https://the-decoder.com/google-deepmind-shifts-genomics-ai-from-bulk-tissue-predictions-to-single-cell-type-resolution-with-alphagenome-2/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-12T12:09:43.000Z"
-    },
-    {
-      "id": "4a518e3ba5bd",
-      "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
-      "summary": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support is emerging as a new growth driver, but it may bring lower margins than the coding business that has fueled spending so far. The article US corporate AI spending hits a new high in October, but growth ",
-      "url": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
+      "id": "e9556d3b5230",
+      "title": "Anthropic&#039;s Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+      "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval. The plugin doesn't control physical machines yet, but Anthropic is separately developing the Model Hardware Standard for that. The",
+      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -334,7 +275,7 @@
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-11-11T19:35:11.000Z"
+      "publishedAt": "2026-11-13T16:37:01.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -409,6 +350,35 @@
       ],
       "score": 4,
       "publishedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "73c367a11028",
+      "title": "OpenAI enters the cybersecurity market with two Daybreak products",
+      "summary": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-13T15:08:57.000Z"
+    },
+    {
+      "id": "cc912a10168d",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-13T14:05:22.000Z"
     },
     {
       "id": "4b1452634da2",
@@ -607,27 +577,13 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-13T05:57:40.000Z"
+      "publishedAt": "2026-11-13T19:25:55.000Z"
     },
     {
-      "id": "9d5050feaa6c",
-      "title": "ashhart / TensorFold (Zig)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: LLM Inference Engine for Metal, CUDA and Vulkan.",
-      "url": "https://github.com/ashhart/TensorFold",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-13T05:57:40.000Z"
-    },
-    {
-      "id": "e28d0e3b4e16",
-      "title": "Alishahryar1 / free-claude-code (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "id": "c9bcb241dbec",
+      "title": "tradermonty / claude-trading-skills (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -635,7 +591,35 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-13T05:57:40.000Z"
+      "publishedAt": "2026-11-13T19:25:55.000Z"
+    },
+    {
+      "id": "89db4a049c0d",
+      "title": "ChromeDevTools / chrome-devtools-mcp (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Chrome DevTools for coding agents",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-13T19:25:55.000Z"
+    },
+    {
+      "id": "1c2d25ee8731",
+      "title": "Anthropic&#039;s IPO is six times oversubscribed and on track to become the largest public offering in history",
+      "summary": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic&#039;s IPO is six times oversubscribed and on track to become the largest public offering in history appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-13T15:15:08.000Z"
     },
     {
       "id": "1e4cb337017b",
@@ -667,20 +651,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-11-12T18:00:00.000Z"
-    },
-    {
-      "id": "797c58c717ec",
-      "title": "Australia&#039;s proposed AI safety bill would force frontier model makers to open up to independent testing",
-      "summary": "Australia's government, led by Prime Minister Anthony Albanese, wants to enshrine mandatory safety rules for frontier AI companies in law for the first time. A new regulator would enforce independent model audits and impose steep penalties for violations. With this move, Canberra is deliberately prioritizing domestic regulation before entering international talks. The article Australia&#039;s prop",
-      "url": "https://the-decoder.com/australias-proposed-ai-safety-bill-would-force-frontier-model-makers-to-open-up-to-independent-testing/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-12T10:09:56.000Z"
     },
     {
       "id": "b5667f168a2f",
@@ -857,13 +827,13 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-13T05:57:40.000Z"
+      "publishedAt": "2026-11-13T19:25:55.000Z"
     },
     {
-      "id": "e9b4334f974f",
-      "title": "addyosmani / agent-skills (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Production-grade engineering skills for AI coding agents.",
-      "url": "https://github.com/addyosmani/agent-skills",
+      "id": "89f5e7b0dc31",
+      "title": "backnotprop / plannotator (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "url": "https://github.com/backnotprop/plannotator",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -871,7 +841,21 @@
         "industry"
       ],
       "score": 1,
-      "publishedAt": "2026-11-13T05:57:40.000Z"
+      "publishedAt": "2026-11-13T19:25:55.000Z"
+    },
+    {
+      "id": "4d18732bf47c",
+      "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
+      "summary": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over autonomous vehicles. California banned so-called bossware. All of this is happening while nearly 70 percent of US government agencies already use generative AI. ",
+      "url": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-13T15:53:49.000Z"
     },
     {
       "id": "9ccedd4456f6",
@@ -886,6 +870,20 @@
       ],
       "score": 1,
       "publishedAt": "2026-11-11T05:01:16.000Z"
+    },
+    {
+      "id": "2619b8938696",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "summary": "",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-11T00:00:00.000Z"
     }
   ]
 }
