@@ -1,11 +1,26 @@
 {
-  "generatedAt": "2026-11-12T19:43:53.366Z",
-  "nextUpdate": "2026-11-13T07:00:00.000Z",
+  "generatedAt": "2026-11-13T05:57:40.726Z",
+  "nextUpdate": "2026-11-13T17:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 173,
+  "totalCollected": 153,
   "articleCount": 60,
   "articles": [
+    {
+      "id": "a0a8d4526806",
+      "title": "Google&#039;s Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
+      "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.1 Sol and still falls short on agentic coding. The article Google&#039;s Gemini 4 Hydrogen outscores the bigger Ar",
+      "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 11,
+      "publishedAt": "2026-11-12T19:58:43.000Z"
+    },
     {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
@@ -35,7 +50,7 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-11-12T19:43:44.000Z"
+      "publishedAt": "2026-11-13T05:57:40.000Z"
     },
     {
       "id": "3c5cefaa2e8f",
@@ -98,34 +113,6 @@
       "publishedAt": "2026-08-26T00:00:00.000Z"
     },
     {
-      "id": "c7adbdabf916",
-      "title": "OpenAI, Google, Anthropic hit with lawsuit to stop AI development",
-      "summary": "Article URL: https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/ Comments URL: https://news.ycombinator.com/item?id=50473015 Points: 3 # Comments: 0",
-      "url": "https://www.reuters.com/business/openai-google-anthropic-hit-with-lawsuit-seeking-halt-frontier-ai-development-2026-11-12/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-12T19:38:52.000Z"
-    },
-    {
-      "id": "ea13618115f1",
-      "title": "Hugging Face CEO vows to keep fighting for open-source AI",
-      "summary": "Article URL: https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/ Comments URL: https://news.ycombinator.com/item?id=50471673 Points: 9 # Comments: 0",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-12T18:17:29.000Z"
-    },
-    {
       "id": "0c55d748cbb6",
       "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
       "summary": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite, according to Google. The article Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
@@ -139,21 +126,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-11-11T20:12:46.000Z"
-    },
-    {
-      "id": "ebedce75ae64",
-      "title": "Anthropic says AI is eroding Nvidia&#039;s CUDA lead, cutting an AMD chip switch from months to three days",
-      "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies. The article Anthropic says AI is eroding Nvidia&#039;s CUDA lead, cutting an AMD chip switch from months ",
-      "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-11T14:25:20.000Z"
     },
     {
       "id": "5c1385f2c5d4",
@@ -231,6 +203,21 @@
       "publishedAt": "2026-08-10T00:00:00.000Z"
     },
     {
+      "id": "8ebf49dbe8ca",
+      "title": "Claude Meetings lets Anthropic&#039;s AI join your video calls",
+      "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic&#039;s AI join your video calls appeared first on The Decoder .",
+      "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-12T20:26:50.000Z"
+    },
+    {
       "id": "993bf330f47c",
       "title": "Google Deepmind&#039;s AlphaProof Code verified Signal&#039;s cryptographic core in four weeks instead of years",
       "summary": "Google Deepmind's AlphaProof Code mathematically verified Signal's cryptographic core code in four weeks, a process that typically takes years. AI agents powered by Gemini Carbon wrote more than six million lines of proof code and flagged only about one percent for human review. Deepmind plans to extend the method to critical infrastructure like power grids and medical devices. The article Google ",
@@ -288,7 +275,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-12T19:43:44.000Z"
+      "publishedAt": "2026-11-13T05:57:40.000Z"
     },
     {
       "id": "e4b3991b2d7f",
@@ -303,7 +290,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-12T19:43:44.000Z"
+      "publishedAt": "2026-11-13T05:57:40.000Z"
     },
     {
       "id": "47b8c0814701",
@@ -318,37 +305,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-12T19:43:44.000Z"
-    },
-    {
-      "id": "aa5348a5b38a",
-      "title": "Air-LLM: Broadcasting AI Weights for Edge LLM Inference via RF Computing",
-      "summary": "Article URL: https://arxiv.org/abs/2610.00465 Comments URL: https://news.ycombinator.com/item?id=50471658 Points: 1 # Comments: 0",
-      "url": "https://arxiv.org/abs/2610.00465",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-12T18:16:13.000Z"
-    },
-    {
-      "id": "854946218bf7",
-      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-      "summary": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-run-smarter-ag... . It includes what we originally built for our own agent harness: - Self-improving agents - Web-grounded workflows - A range of sandboxes and computer environments - Thousands of tools and integrations -",
-      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-12T18:15:48.000Z"
+      "publishedAt": "2026-11-13T05:57:40.000Z"
     },
     {
       "id": "2238fe9b5b0b",
@@ -454,20 +411,6 @@
       "publishedAt": "2026-07-23T00:00:00.000Z"
     },
     {
-      "id": "817b422d1a91",
-      "title": "Stay-in-sight – everything you need for email outbound – open-source",
-      "summary": "Article URL: https://stayinsight.sleeksite.ai/ Comments URL: https://news.ycombinator.com/item?id=50472638 Points: 1 # Comments: 0",
-      "url": "https://stayinsight.sleeksite.ai/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-12T19:14:37.000Z"
-    },
-    {
       "id": "4b1452634da2",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "summary": "",
@@ -480,20 +423,6 @@
       ],
       "score": 3,
       "publishedAt": "2026-11-12T19:07:35.000Z"
-    },
-    {
-      "id": "51e14b4ccc78",
-      "title": "Show HN: Headwig - Run and test parallel AI agents without Git worktrees",
-      "summary": "Hey HN! I am Harsh, been developing software for quite sometime now. Since agents came into my local SD workflow I had been facing a bottleneck. Event though agents are great in working parallelly, testing their changes and iterating is a pain. (Brain, storage & memory overhead) We all use Git worktrees to code in parallel. But how do we test those changes? Still linearly. Or patched up multi-envi",
-      "url": "https://harsh-kr-jha.github.io/headwig/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-12T18:57:22.000Z"
     },
     {
       "id": "acaa69765fb0",
@@ -678,7 +607,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-12T19:43:44.000Z"
+      "publishedAt": "2026-11-13T05:57:40.000Z"
     },
     {
       "id": "9d5050feaa6c",
@@ -692,7 +621,7 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-12T19:43:44.000Z"
+      "publishedAt": "2026-11-13T05:57:40.000Z"
     },
     {
       "id": "e28d0e3b4e16",
@@ -706,7 +635,24 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-12T19:43:44.000Z"
+      "publishedAt": "2026-11-13T05:57:40.000Z"
+    },
+    {
+      "id": "1e4cb337017b",
+      "title": "llm-gemini 0.37",
+      "summary": "",
+      "url": {
+        "@_href": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+        "@_rel": "alternate"
+      },
+      "source": "Simon Willison",
+      "sourceId": "simonwillison",
+      "icon": "🧪",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-12T22:55:19.000Z"
     },
     {
       "id": "ad4920ebfdfd",
@@ -884,6 +830,62 @@
       ],
       "score": 2,
       "publishedAt": "2026-09-03T00:00:00.000Z"
+    },
+    {
+      "id": "43e3a994b253",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-08-18T18:09:38.000Z"
+    },
+    {
+      "id": "33cdfd5b2acf",
+      "title": "GoogleChrome / modern-web-guidance-src (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Keep your coding agent up to date with the latest web best practices",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-13T05:57:40.000Z"
+    },
+    {
+      "id": "e9b4334f974f",
+      "title": "addyosmani / agent-skills (JavaScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Production-grade engineering skills for AI coding agents.",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-13T05:57:40.000Z"
+    },
+    {
+      "id": "9ccedd4456f6",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-11T05:01:16.000Z"
     }
   ]
 }
