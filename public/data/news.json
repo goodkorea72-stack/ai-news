@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-14T05:46:22.078Z",
-  "nextUpdate": "2026-11-14T17:00:00.000Z",
+  "generatedAt": "2026-11-14T17:49:57.472Z",
+  "nextUpdate": "2026-11-15T05:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 252,
+  "totalCollected": 275,
   "articleCount": 60,
   "articles": [
     {
@@ -23,6 +23,21 @@
       "publishedAt": "2026-11-14T05:00:00.000Z"
     },
     {
+      "id": "a6b0c2ae334c",
+      "title": "Runway&#039;s open-source Praxis-1 turns video AI into a robot controller",
+      "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its own, though. The article Runway&#039;s open-source Praxis-1 turns video AI into a robot controller app",
+      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 12,
+      "publishedAt": "2026-11-14T09:45:45.000Z"
+    },
+    {
       "id": "8f4ffa0c9939",
       "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
       "summary": "arXiv:2611.14924v1 Announce Type: new Abstract: Deployment of retrieval-augmented generation (RAG) for Edge-AI is constrained by memory and bandwidth limitations. A standard 7B parameter model consumes 14 GB Video Random Access Memory (VRAM) in half-precision (FP16), precluding co-location of vector indices and Key-Value (KV) caches. This paper presents an engineering integration and empirical eva",
@@ -39,20 +54,19 @@
       "publishedAt": "2026-11-14T05:00:00.000Z"
     },
     {
-      "id": "38970a85706e",
-      "title": "Former OpenAI researcher says he found Nvidia Blackwell fingerprints hidden inside six Chinese AI models",
-      "summary": "Former OpenAI researcher Will DePue says he has produced the first technical evidence that DeepSeek, Moonshot AI, MiniMax, and Ant Group are using Nvidia's latest Blackwell GPUs despite US export controls. His forensic method reads characteristic chip signatures directly from published model weights. He estimates the hardware behind the five training runs cost more than half a billion dollars. The",
-      "url": "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/",
+      "id": "6f7c7f299c23",
+      "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+      "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first ",
+      "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
       "category": [
-        "open_source",
         "new_model",
         "industry"
       ],
-      "score": 10,
-      "publishedAt": "2026-11-13T15:21:04.000Z"
+      "score": 9,
+      "publishedAt": "2026-11-14T16:48:01.000Z"
     },
     {
       "id": "3d7abde17d5f",
@@ -69,21 +83,6 @@
       ],
       "score": 9,
       "publishedAt": "2026-11-14T05:00:00.000Z"
-    },
-    {
-      "id": "bac370ecde7f",
-      "title": "Meta&#039;s Muse now calls businesses for you, but many companies might just hang up on the AI",
-      "summary": "Meta's AI agent Muse can now call businesses on behalf of paying US subscribers, handling everything from cable providers to restaurants. The agent already has over 10 million users, according to Meta's AI chief Alexandr Wang. Google Gemini, Instinct, and xAI's Grok Bot offer the same feature, but many businesses hang up as soon as they detect an AI on the line. The article Meta&#039;s Muse now ca",
-      "url": "https://the-decoder.com/metas-muse-now-calls-businesses-for-you-but-many-companies-might-just-hang-up-on-the-ai/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 9,
-      "publishedAt": "2026-11-13T15:12:44.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -164,6 +163,21 @@
       "publishedAt": "2026-11-14T05:00:00.000Z"
     },
     {
+      "id": "984b8d8f5f78",
+      "title": "QwenLM / qwen-code (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: An open-source AI coding agent that lives in your terminal.",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-11-14T17:49:57.000Z"
+    },
+    {
       "id": "06dcc9a0fd07",
       "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
       "summary": "arXiv:2611.14794v1 Announce Type: new Abstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35% ",
@@ -239,6 +253,48 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "7ccbf27f371e",
+      "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+      "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T16:42:56.000Z"
+    },
+    {
+      "id": "a83a30c2155f",
+      "title": "Ask HN: Open-source projects with notably good online documentation",
+      "summary": "Which open source projects have notably good online documentation? Bonus points: what makes the documentation so good? Note: I'm asking about online docs in a browser sense, not a top-tier man page. I'm considering options for a revamped/reworked documentation site for an open source project next year, and seeing some candidates that do docs really well would be very helpful. Thank you. Comments U",
+      "url": "https://news.ycombinator.com/item?id=50498200",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T16:16:34.000Z"
+    },
+    {
+      "id": "ce684304d6e1",
+      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+      "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity. The article Anthropic can already retrain ",
+      "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T11:21:41.000Z"
     },
     {
       "id": "f623e81a0ced",
@@ -508,7 +564,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-14T05:46:19.000Z"
+      "publishedAt": "2026-11-14T17:49:57.000Z"
     },
     {
       "id": "b70368cd0c1b",
@@ -569,21 +625,6 @@
       "publishedAt": "2026-11-13T18:01:53.000Z"
     },
     {
-      "id": "8ebf49dbe8ca",
-      "title": "Claude Meetings lets Anthropic&#039;s AI join your video calls",
-      "summary": "Anthropic is adding Claude directly to video calls. Claude Meetings joins Google Meet sessions and creates documents, whiteboards, and meeting notes in real time. The feature launches in beta for Team and Enterprise plans, with more platforms coming later. The article Claude Meetings lets Anthropic&#039;s AI join your video calls appeared first on The Decoder .",
-      "url": "https://the-decoder.com/claude-meetings-lets-anthropics-ai-join-your-video-calls/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-12T20:26:50.000Z"
-    },
-    {
       "id": "ef6af8d34123",
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
@@ -612,6 +653,35 @@
       ],
       "score": 5,
       "publishedAt": "2026-08-13T17:16:04.000Z"
+    },
+    {
+      "id": "ce391d9bf451",
+      "title": "dream-num / univer (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "url": "https://github.com/dream-num/univer",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T17:49:57.000Z"
+    },
+    {
+      "id": "c7ca3d2eff56",
+      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+      "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company frames as a way to accelerate its robotics efforts. The article OpenAI reassigns robotics researchers ",
+      "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T11:40:51.000Z"
     },
     {
       "id": "ec4f252048c5",
@@ -832,79 +902,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-11-14T05:00:00.000Z"
-    },
-    {
-      "id": "e9556d3b5230",
-      "title": "Anthropic&#039;s Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
-      "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval. The plugin doesn't control physical machines yet, but Anthropic is separately developing the Model Hardware Standard for that. The",
-      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-13T16:37:01.000Z"
-    },
-    {
-      "id": "70c0b23aa346",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-13T16:00:00.000Z"
-    },
-    {
-      "id": "d5e9b9a87420",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "summary": "",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "0019ae2665a3",
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "summary": "",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "9c95afa451ef",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "summary": "",
-      "url": "https://huggingface.co/blog/baseten",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-08-06T00:00:00.000Z"
     }
   ]
 }
