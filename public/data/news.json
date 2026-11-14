@@ -1,25 +1,42 @@
 {
-  "generatedAt": "2026-11-13T19:26:09.285Z",
-  "nextUpdate": "2026-11-14T07:00:00.000Z",
+  "generatedAt": "2026-11-14T05:46:22.078Z",
+  "nextUpdate": "2026-11-14T17:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 152,
+  "totalCollected": 252,
   "articleCount": 60,
   "articles": [
     {
-      "id": "a0a8d4526806",
-      "title": "Google&#039;s Gemini 4 Hydrogen outscores the bigger Argon just four weeks after its launch",
-      "summary": "Google's Gemini 4 Hydrogen replaces the Flash series, but benchmarks suggest it also makes the pricier Argon obsolete. On the independent Artificial Analysis Intelligence Index, Hydrogen nearly matches Claude Sonnet 5.5 for less money but costs about 2.5 times more per task than GPT-6.1 Sol and still falls short on agentic coding. The article Google&#039;s Gemini 4 Hydrogen outscores the bigger Ar",
-      "url": "https://the-decoder.com/googles-gemini-4-hydrogen-outscores-the-bigger-argon-just-four-weeks-after-its-launch/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "b013ceb881e2",
+      "title": "Large Language Models as Digital Twins: a Distribution-Aware Questionnaire-Based Evaluation",
+      "summary": "arXiv:2611.16586v1 Announce Type: new Abstract: This paper investigates whether Large Language Models can answer a personality questionnaire as a specific individual would. Given a user's social-media posts, the model completes the BFI-2-60 Big Five questionnaire as that user. The predicted responses are converted into trait scores and compared with the user's actual scores. We evaluate GPT-4, Gem",
+      "url": "https://arxiv.org/abs/2611.16586",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
+        "open_source",
         "new_model",
         "industry"
       ],
-      "score": 11,
-      "publishedAt": "2026-11-12T19:58:43.000Z"
+      "score": 13,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "8f4ffa0c9939",
+      "title": "Edge-Native Multimodal RAG: Hardware-Aware Quantization and Architectural Optimization for Consumer GPUs",
+      "summary": "arXiv:2611.14924v1 Announce Type: new Abstract: Deployment of retrieval-augmented generation (RAG) for Edge-AI is constrained by memory and bandwidth limitations. A standard 7B parameter model consumes 14 GB Video Random Access Memory (VRAM) in half-precision (FP16), precluding co-location of vector indices and Key-Value (KV) caches. This paper presents an engineering integration and empirical eva",
+      "url": "https://arxiv.org/abs/2611.14924",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 10,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
     },
     {
       "id": "38970a85706e",
@@ -36,6 +53,22 @@
       ],
       "score": 10,
       "publishedAt": "2026-11-13T15:21:04.000Z"
+    },
+    {
+      "id": "3d7abde17d5f",
+      "title": "Small Language Models for Inference-Capability Routing: Effects of Model Capacity and Prompt Optimization on Downstream Quality and Efficiency",
+      "summary": "arXiv:2611.16414v1 Announce Type: new Abstract: Optional reasoning, retrieval, web search, and tool use can improve large language model responses but incur unnecessary computation when activated indiscriminately. This study investigates whether prompt optimization can compensate for limited router capacity and whether classification gains translate into downstream efficiency. The proposed framewo",
+      "url": "https://arxiv.org/abs/2611.16414",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
     },
     {
       "id": "bac370ecde7f",
@@ -67,6 +100,100 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "708db6f65819",
+      "title": "Towards Robust Vision-Language Reasoning: A Multi-Stage Optimization Pipeline with Masked Diffusion Model",
+      "summary": "arXiv:2611.15238v1 Announce Type: new Abstract: Discrete diffusion generation is emerging as a competitive alternative to autoregressive generation by denoising the entire token sequence through iterative refinement. Its global planning and progressive correction capabilities are particularly well suited to autonomous driving. However, transferring this generation paradigm from general-purpose set",
+      "url": "https://arxiv.org/abs/2611.15238",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "c9cfdf4c859e",
+      "title": "One Model, Two Precisions: Does Disagreement Between Quantized Copies Tell You When a Small Model Is Wrong?",
+      "summary": "arXiv:2611.16478v1 Announce Type: new Abstract: Local language models often exist at several precisions, and quantization is known to change individual answers. This study asks whether the disagreement between two precisions of the same weights, an 8-bit copy that answers and a lower-precision copy that reads the same prompt, works as a per-question error score for abstention, escalation and re-as",
+      "url": "https://arxiv.org/abs/2611.16478",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "9117a95088a7",
+      "title": "How many LLM-labelled rows does a decision encoder need, and how wrong can the labels be?",
+      "summary": "arXiv:2611.16498v1 Announce Type: new Abstract: A decision encoder such as Laya reads a question with named options (for example, which department should handle a ticket) and a text, and picks an option. It reads both in one forward pass and returns a probability for every option, without writing any text. We ask how many LLM-written training rows such an encoder needs and how wrong those labels m",
+      "url": "https://arxiv.org/abs/2611.16498",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "3cd95e0307fd",
+      "title": "AnalogLayoutWorld: An Open Benchmark for Agentic Analog Layout Design",
+      "summary": "arXiv:2611.16991v1 Announce Type: new Abstract: Coding agents have demonstrated strong capabilities in software development, yet their ability to tackle long-horizon engineering tasks governed by physical constraints remains less understood. We study this question through analog circuit layout, which demands domain knowledge, geometric reasoning, and iterative interaction with design and verificat",
+      "url": "https://arxiv.org/abs/2611.16991",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "06dcc9a0fd07",
+      "title": "When Is Proof-Step Verification Worth Its Cost? Operating Requirements of Certify-or-Decline Verification for Open-Weight Mathematical Reasoning",
+      "summary": "arXiv:2611.14794v1 Announce Type: new Abstract: Proof-step verification rewrites a solver's answer into typed steps and uses LLM judges to certify or decline. We evaluate this pipeline on open-weight models across GPQA, AIME-2025, and a MATH-500 subset. Certification raises answer-key-match precision by 31 percentage points on the strong GPQA configuration and 46 on AIME, while answering only 35% ",
+      "url": "https://arxiv.org/abs/2611.14794",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "abc2053f26b7",
+      "title": "Effective Teacher Support for Reasoning Distillation",
+      "summary": "arXiv:2611.14850v1 Announce Type: new Abstract: Forward-KL language-model distillation normally computes dense teacher and student scores over the full vocabulary at every supervised position, making training and stored teacher targets expensive. We instead distill from the teacher's highest-probability vocabulary fraction, renormalizing the retained mass as we sweep support from 100% to 0.01%. Ou",
+      "url": "https://arxiv.org/abs/2611.14850",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
     },
     {
       "id": "05e0e1679e06",
@@ -112,6 +239,186 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "f623e81a0ced",
+      "title": "GenPFN: An In-Context Tabular Foundation Model Approach for Augmenting Small Datasets in Engineering",
+      "summary": "arXiv:2611.14804v1 Announce Type: new Abstract: Costly simulations and experiments limit the data available for engineering design. This paper proposes GenPFN, a training-free candidate generator guided by a pretrained tabular Prior-Data Fitted Network (TabPFN) classifier with fixed weights. The context contains evaluated designs labeled desired (Class 1) or undesired (Class 0). GenPFN interpolate",
+      "url": "https://arxiv.org/abs/2611.14804",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "9070517969c5",
+      "title": "Emergent Vision-Shaped Thinking in Text-Only Reasoning through Multimodal Training",
+      "summary": "arXiv:2611.14942v1 Announce Type: new Abstract: Does multimodal training shape how a language model thinks, even when the input is text only? We test this with targeted causal ablations across 10 multimodal configurations from 6 model families, with matched text-only backbones and cross-family transfer controls. We contrast spatial-imagery tasks that invite mental scene construction with symbol-ma",
+      "url": "https://arxiv.org/abs/2611.14942",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "548ba5cb7133",
+      "title": "Early Signals, Strong Decisions: Prefix-Guided Sampling for Parallel Test-Time Scaling",
+      "summary": "arXiv:2611.14965v1 Announce Type: new Abstract: Parallel test-time scaling (TTS) has been shown to enhance reasoning in large language models by generating and aggregating multiple independent reasoning paths. Internal confidence scores can further improve this process by identifying paths of varying quality. However, existing methods remain computationally inefficient, as low-quality paths are fu",
+      "url": "https://arxiv.org/abs/2611.14965",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "a01e975df8f2",
+      "title": "Can MLLMs Reason over Surround-View Driving Videos? A Multi-View Autonomous Driving QA Benchmark",
+      "summary": "arXiv:2611.15225v1 Announce Type: new Abstract: Surround-view video understanding in autonomous driving is a crucial capability for Multimodal Large Language Models (MLLMs) to achieve reliable driving reasoning. Real-world driving often requires information beyond the front-view camera. Existing MLLMs primarily focus on front-view information, while their spatio-temporal understanding and reasonin",
+      "url": "https://arxiv.org/abs/2611.15225",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "94b0eb9aa0d5",
+      "title": "Verify by Doing: Co-Evolving Agent Execution and Evaluation without External Feedback",
+      "summary": "arXiv:2611.15276v1 Announce Type: new Abstract: Agent self-improvement requires feedback about task success, yet external feedback may be unavailable at test time. Agents must then infer success from observable evidence, and incomplete verification can misguide subsequent updates. We introduce Verify by Doing (VbD), a method that co-evolves Actor and Evaluator harnesses within a single task while ",
+      "url": "https://arxiv.org/abs/2611.15276",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "4c8b5ca8840d",
+      "title": "Marginal-Preserving Coupled Diffusion Composition for Long-Horizon Planning",
+      "summary": "arXiv:2611.15585v1 Announce Type: new Abstract: Compositional diffusion planners extend short-horizon trajectory models to long-horizon goal-conditioned planning by generating and stitching multiple local trajectory chunks. However, in multimodal environments, local plausibility is not sufficient for global consistency: independently initialized chunks may denoise toward incompatible overlap modes",
+      "url": "https://arxiv.org/abs/2611.15585",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "f4bfac41c789",
+      "title": "DISCERN: Preserve at Write, Resolve at Read for Persistent LLM-Agent Memory",
+      "summary": "arXiv:2611.15729v1 Announce Type: new Abstract: Enterprise agents accumulate memory across dozens of sessions in which facts contradict, get superseded, and blur as similarly named entities collide in embedding space. The field treats this as a retrieval problem; we show it is not. On ENT-310, a synthetic enterprise sales-agent memory benchmark of 310 queries (210 answerable, 100 unanswerable), a ",
+      "url": "https://arxiv.org/abs/2611.15729",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "700a1a27017b",
+      "title": "Reward-Driven Collider Physics Challenges for Self-Improving Agentic AI via Reinforcement Learning",
+      "summary": "arXiv:2611.15885v1 Announce Type: new Abstract: Recent advances in agentic AI have demonstrated the potential to automate complex high-energy physics (HEP) workflows. We focus on the regime of HEP tasks where frontier models still struggle to provide correct and complete solutions, and introduce an open-ended optimization task format with continuous, automatically evaluated rewards. Unlike convent",
+      "url": "https://arxiv.org/abs/2611.15885",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "218702c06078",
+      "title": "Contain, Conform, Compare (Extended Version): A Red-Teamed Evaluation Kit for Small Coding Agents and the Full Record of Its Experiments",
+      "summary": "arXiv:2611.16485v1 Announce Type: new Abstract: A hosted score in the Gemma 4 Developer Agent competition is one noisy number, so development needs a local evaluator that is fast, safe for agent-written code, and matching the hosted scorer's prompts. drydock-eval evaluates a small coding agent (Gemma 4 E4B) at about 250 runs per hour on one RTX 5090. Contain runs each job in a fresh container with",
+      "url": "https://arxiv.org/abs/2611.16485",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "e5e1221a4299",
+      "title": "SignRot: LLM Quantization with Massive Outlier-Aware Sign-Adjusted Rotation",
+      "summary": "arXiv:2611.16502v1 Announce Type: new Abstract: While quantization compresses LLMs and accelerates inference, outlier activations impede efficient low-bit representation. In particular, massive outliers cause substantial performance degradation. Although rotation-based methods that rely on randomized Hadamard transforms for online inference aim to mitigate this, they can produce fragmented distrib",
+      "url": "https://arxiv.org/abs/2611.16502",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "bcc91ccf6067",
+      "title": "Singularity-Bench: Can Agents Build Agents?",
+      "summary": "arXiv:2611.16591v1 Announce Type: new Abstract: Frontier AI agents increasingly succeed on realistic, long-horizon tasks and are beginning to improve the systems through which they operate. Yet existing benchmarks often restrict agents to narrow action spaces, use simplified environments, or rely on verification methods that are unreliable for evaluating arbitrary agent-generated systems. We intro",
+      "url": "https://arxiv.org/abs/2611.16591",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "6f3be89145e8",
+      "title": "Compiling Known Rules into Compact Neural Agents: Weight-Space Programming on Unseen Games",
+      "summary": "arXiv:2611.16981v1 Announce Type: new Abstract: Weight-space programming (WSP) uses language models to construct neural network weights without training. We test whether known game mechanics can be compiled into compact agents that generalise to held-out levels, renderings and start states within a game family. Writers receive simulator source with held-out level data removed for 20 privately auth",
+      "url": "https://arxiv.org/abs/2611.16981",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
     },
     {
       "id": "5c1385f2c5d4",
@@ -201,7 +508,50 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-13T19:25:55.000Z"
+      "publishedAt": "2026-11-14T05:46:19.000Z"
+    },
+    {
+      "id": "b70368cd0c1b",
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "summary": "arXiv:2611.14681v1 Announce Type: new Abstract: Today's AI workloads are rapidly changing: new models are released more often, model architectures are increasingly diverse, and traffic distributions change frequently. The challenge we face at Together AI is continual optimization for these changing workloads. Compiling a deployment into an optimized forward pass is a challenge that is well-suited ",
+      "url": "https://arxiv.org/abs/2611.14681",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "1b645ad25a35",
+      "title": "MemCredit: From Relevance to Utility for Decision-Time Memory in Long-Horizon Web Agents",
+      "summary": "arXiv:2611.15600v1 Announce Type: new Abstract: Large language model (LLM) agents increasingly operate over long Web interaction histories, making memory management critical for reliable and efficient decision making. Existing methods primarily optimize storage, retrieval, or compression, but the memories most semantically relevant to the current state are not necessarily those that most improve t",
+      "url": "https://arxiv.org/abs/2611.15600",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "cdb55e85164d",
+      "title": "SPARC: Accurate Photonic Matrix Multiplication via Representative Vectors",
+      "summary": "arXiv:2611.16561v1 Announce Type: new Abstract: Photonic neural network accelerators have emerged as a promising solution for reducing the power consumption of deep neural network (DNN) inference by executing matrix multiplication on analog photonic hardware. However, their inference accuracy is limited by low-bit quantization required for photonic processing and by analog photonic noise. This pap",
+      "url": "https://arxiv.org/abs/2611.16561",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
     },
     {
       "id": "9d1189863c7e",
@@ -262,6 +612,226 @@
       ],
       "score": 5,
       "publishedAt": "2026-08-13T17:16:04.000Z"
+    },
+    {
+      "id": "ec4f252048c5",
+      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+      "summary": "arXiv:2611.14765v1 Announce Type: new Abstract: Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. Each data estate combines relational databases, a document store, and a data catal",
+      "url": "https://arxiv.org/abs/2611.14765",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "b51b50eb7e59",
+      "title": "Can an AI Agent Be Epistemically Akratic? Higher-Order Evidence & the Limits of Self-Correction",
+      "summary": "arXiv:2611.14889v1 Announce Type: new Abstract: When we judge that our reasoning was defective, it seems plausible that we should abandon the conclusion it produced. This thought has special force for AI agents built to assess and correct their own work. Yet obeying such judgments can make an agent worse at distinguishing sound reasoning from defective reasoning. An AI agent may rely on informatio",
+      "url": "https://arxiv.org/abs/2611.14889",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "1ddc89f13ebf",
+      "title": "HyperSkill: Training-Free Omnimodal GRPO via Hypergraph-Indexed Skill-Library Evolution",
+      "summary": "arXiv:2611.15178v1 Announce Type: new Abstract: Reinforcement learning sharpens LLM reasoning, but parameter updates are expensive, forgetful, and opaque; training-free libraries swap gradients for a textual store but still use trajectory-level, correlation-based admission and flat structure. To address both, we propose HyperSkill, a Training-Free Omnimodal GRPO framework that keeps the backbone f",
+      "url": "https://arxiv.org/abs/2611.15178",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "e22c48dc7c23",
+      "title": "WordInferBench: Can Agents Infer How to Edit from Word Document Context?",
+      "summary": "arXiv:2611.15189v1 Announce Type: new Abstract: Document editing is among the most common knowledge-work tasks, yet existing benchmarks for evaluating autonomous agents on Word document editing provide fully specified attribute-modification instructions. They do not evaluate agents' ability to infer the appropriate attributes from document context, a capability essential in real-world editing wher",
+      "url": "https://arxiv.org/abs/2611.15189",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "e18e02d706c5",
+      "title": "guardscope: Measuring Which Actions Runtime Controls Check in LLM Agent Systems",
+      "summary": "arXiv:2611.15223v1 Announce Type: new Abstract: Large-language model (LLM) agents execute actions on external systems through tool calls, and enterprises deploy runtime controls, such as agent gateways, to check this behavior in real time. However, a control can only evaluate the actions that cross the point where it is placed, and an agent can act through more paths than the tool-call channel; no",
+      "url": "https://arxiv.org/abs/2611.15223",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "c4885020a5b3",
+      "title": "Incentive-Responsive Agents: A Principal-Agent Framework, Metric Suite, and Runtime Architecture for Long-Lived Personal AI Agents",
+      "summary": "arXiv:2611.15515v1 Announce Type: new Abstract: Personal AI agents now persist: they hold accounts, mailboxes, long-term memory, and open-ended task streams, yet the dominant way to improve them remains capability-side: prompt engineering, larger models, longer thinking, and retrieval. We argue that long-lived agents are missing an incentive layer. We formalize an incentive not as text in a prompt",
+      "url": "https://arxiv.org/abs/2611.15515",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "d2ff7246b218",
+      "title": "Food Critic: An Agentic Visualization System for Auditable Restaurant-Safety Reasoning",
+      "summary": "arXiv:2611.15843v1 Announce Type: new Abstract: Generative AI agents are increasingly being embedded into visualization systems that can search data, invoke tools, summarize evidence, and produce recommendations. However, when agents rely solely on their own knowledge, the visualization problem is not only whether the agent provides a useful answer, but also whether users can inspect how that answ",
+      "url": "https://arxiv.org/abs/2611.15843",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "87bf77bfe68f",
+      "title": "Between Niti and Nyaya: A Society-Centered Framework for AI Governance",
+      "summary": "arXiv:2611.16173v1 Announce Type: new Abstract: Governments are making decisions about AI before they can measure its public effects, and those decisions determine whether a person can learn that AI influenced an outcome, challenge it, and see it corrected. Research has documented what AI governance produces: principles, strategies, registers, and audits. However, we lack shared language for under",
+      "url": "https://arxiv.org/abs/2611.16173",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "482a9cbc4b37",
+      "title": "One Fuzzer, Many Reasoners: Adaptive Neuro-Symbolic Fuzzing with Reliability-Calibrated and Context-Gated Guidance",
+      "summary": "arXiv:2611.16211v1 Announce Type: new Abstract: Neural-symbolic AI (NSAI) combines learned perception with programs, constraints, and compositional reasoning, but remains difficult to test because small semantics-preserving changes can alter grounded symbols and trigger discontinuous reasoning failures. Existing neural fuzzers mainly rely on neural coverage or representation-space feedback and do ",
+      "url": "https://arxiv.org/abs/2611.16211",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "1891d7f07397",
+      "title": "Causals: An Open Knowledge Graph for Research on Causal Reasoning",
+      "summary": "arXiv:2611.16267v1 Announce Type: new Abstract: Applying causal knowledge to a new event requires connecting the event to relevant entities and the relationships through which its consequences may unfold. We present Causals, an open knowledge graph for research on this form of reasoning. Its initial release, constructed from news reports, contains 369,184 nodes and 1,272,418 edges linking reported",
+      "url": "https://arxiv.org/abs/2611.16267",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "0dc4e8b3f296",
+      "title": "Fine-Tuned Small Language Model for Synthetic Clinical Data Generation and Predictive Healthcare Analytics",
+      "summary": "arXiv:2611.16460v1 Announce Type: new Abstract: The reduced availability of medical datasets represents an important challenge in the development of predictive models for remote healthcare solutions, especially when the available data are imbalanced or difficult to extend through traditional methods. Small Language Models (SLMs) have become a promising alternative to Large Language Models (LLMs) f",
+      "url": "https://arxiv.org/abs/2611.16460",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "b2074f58d3c5",
+      "title": "Recalibrating a Typed-Decision Model in an Afternoon: A Hands-On Recipe for Laya's Confidence Scores",
+      "summary": "arXiv:2611.16499v1 Announce Type: new Abstract: A typed-decision model such as Laya reads a text and a list of options that the caller defines, for example ticket categories, and returns a probability for each option. Code around it compares the top probability with a threshold to answer, abstain or escalate to a person. Earlier work reports, for a Turkish model, that temperature scaling can raise",
+      "url": "https://arxiv.org/abs/2611.16499",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "9f29d6bc1f3e",
+      "title": "AstroMemBench: A Benchmark for Memory Systems in Embodied Spacecraft Agents",
+      "summary": "arXiv:2611.16590v1 Announce Type: new Abstract: Long-term spacecraft autonomy requires embodied agents to use operational history under communication delays, time-critical operations, environmental uncertainty, complex physical interactions, power and computational constraints, and safety and reliability requirements. We introduce AstroMemBench and a Scenario-Challenge-Capability design method tha",
+      "url": "https://arxiv.org/abs/2611.16590",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "be9992b7ab7d",
+      "title": "Safety as a Budget: Calibrating the Control Channel of Constrained GRPO for Vision-Language Models",
+      "summary": "arXiv:2611.16628v1 Announce Type: new Abstract: Reinforcement learning can teach vision-language models (VLMs) to decline harmful image-text requests, but how safe the result becomes is set indirectly, through reward weights found by trial runs. Stating safety as budgets on the rate of harmful assistance and the rate of over-refusal, enforced by Lagrange multipliers inside GRPO with an off-the-she",
+      "url": "https://arxiv.org/abs/2611.16628",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
+    },
+    {
+      "id": "03c82c912dd6",
+      "title": "Primer: An AI Framework for Instructor-Centered Educational Simulation Creation",
+      "summary": "arXiv:2611.16986v1 Announce Type: new Abstract: Educational simulations are a well-established pedagogical technique that gives learners opportunities to apply knowledge, respond to challenges, and reflect on their performance. High-quality simulations, however, are difficult to build, requiring instructor input, scenario design, character development, scaffolding, technical implementation, and re",
+      "url": "https://arxiv.org/abs/2611.16986",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-14T05:00:00.000Z"
     },
     {
       "id": "e9556d3b5230",
@@ -335,555 +905,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-08-06T00:00:00.000Z"
-    },
-    {
-      "id": "0ee73a62fb00",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-07-23T00:00:00.000Z"
-    },
-    {
-      "id": "73c367a11028",
-      "title": "OpenAI enters the cybersecurity market with two Daybreak products",
-      "summary": "OpenAI has launched two security products under its Daybreak brand. The article OpenAI enters the cybersecurity market with two Daybreak products appeared first on The Decoder .",
-      "url": "https://the-decoder.com/openai-enters-the-cybersecurity-market-with-two-daybreak-products/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-13T15:08:57.000Z"
-    },
-    {
-      "id": "cc912a10168d",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-13T14:05:22.000Z"
-    },
-    {
-      "id": "4b1452634da2",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-12T19:07:35.000Z"
-    },
-    {
-      "id": "acaa69765fb0",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "summary": "",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-12T00:00:00.000Z"
-    },
-    {
-      "id": "6700611aa6c7",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-10T13:00:00.000Z"
-    },
-    {
-      "id": "5d1206337ba1",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "summary": "",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "id": "69baf8beffa3",
-      "title": "Decision Models in Hugging Face",
-      "summary": "",
-      "url": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "id": "2584746fd777",
-      "title": "Transformers Model Integration Contracts",
-      "summary": "",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "id": "21910bde8801",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-29T13:37:07.000Z"
-    },
-    {
-      "id": "858945812f14",
-      "title": "Holo4: powering generalist computer-use agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-09-28T09:44:05.000Z"
-    },
-    {
-      "id": "cc2a6bf3277b",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "summary": "",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "edd47e9eda4e",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-25T15:14:14.000Z"
-    },
-    {
-      "id": "cd7544ff7730",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-25T11:39:24.000Z"
-    },
-    {
-      "id": "6d7eaed422a4",
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-18T00:00:00.000Z"
-    },
-    {
-      "id": "d59cc540f8e8",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "summary": "",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-07-27T00:00:00.000Z"
-    },
-    {
-      "id": "ddbffa9c3612",
-      "title": "openai / codex-security (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-13T19:25:55.000Z"
-    },
-    {
-      "id": "c9bcb241dbec",
-      "title": "tradermonty / claude-trading-skills (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-13T19:25:55.000Z"
-    },
-    {
-      "id": "89db4a049c0d",
-      "title": "ChromeDevTools / chrome-devtools-mcp (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Chrome DevTools for coding agents",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-13T19:25:55.000Z"
-    },
-    {
-      "id": "1c2d25ee8731",
-      "title": "Anthropic&#039;s IPO is six times oversubscribed and on track to become the largest public offering in history",
-      "summary": "Anthropic is on track for the largest IPO ever, with orders exceeding available shares by a factor of six. The article Anthropic&#039;s IPO is six times oversubscribed and on track to become the largest public offering in history appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-13T15:15:08.000Z"
-    },
-    {
-      "id": "1e4cb337017b",
-      "title": "llm-gemini 0.37",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-12T22:55:19.000Z"
-    },
-    {
-      "id": "ad4920ebfdfd",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-12T18:00:00.000Z"
-    },
-    {
-      "id": "b5667f168a2f",
-      "title": "Anthropic's IPO roadshow video",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-11T15:11:59.000Z"
-    },
-    {
-      "id": "9b49911070c8",
-      "title": "llm-gemini 0.36",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-10T20:09:44.000Z"
-    },
-    {
-      "id": "89f18e75ebd8",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "id": "c2afd7c0c292",
-      "title": "llm-anthropic 0.31",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-09T23:58:46.000Z"
-    },
-    {
-      "id": "12960046aa40",
-      "title": "Build specialized multimodal models with LFM3",
-      "summary": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-27T17:16:52.000Z"
-    },
-    {
-      "id": "737f413af0b7",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-22T22:24:34.000Z"
-    },
-    {
-      "id": "2035386f90b7",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-02T04:01:31.000Z"
-    },
-    {
-      "id": "1f4a554892a3",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-29T13:07:00.000Z"
-    },
-    {
-      "id": "31b1ab840744",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "summary": "",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "1fc8f7f56947",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "summary": "",
-      "url": "https://huggingface.co/blog/funes",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "43e3a994b253",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-08-18T18:09:38.000Z"
-    },
-    {
-      "id": "33cdfd5b2acf",
-      "title": "GoogleChrome / modern-web-guidance-src (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Keep your coding agent up to date with the latest web best practices",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-13T19:25:55.000Z"
-    },
-    {
-      "id": "89f5e7b0dc31",
-      "title": "backnotprop / plannotator (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "url": "https://github.com/backnotprop/plannotator",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-13T19:25:55.000Z"
-    },
-    {
-      "id": "4d18732bf47c",
-      "title": "Nearly 70 percent of US agencies use generative AI, and unions are finally catching up with guardrails",
-      "summary": "US public-sector unions are increasingly pushing through protections against AI surveillance and automated firings. In Oakland, a strike vote forced retraining programs instead of layoffs, and a transport union in Ohio won veto power over autonomous vehicles. California banned so-called bossware. All of this is happening while nearly 70 percent of US government agencies already use generative AI. ",
-      "url": "https://the-decoder.com/nearly-70-percent-of-us-agencies-use-generative-ai-and-unions-are-finally-catching-up-with-guardrails/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-13T15:53:49.000Z"
-    },
-    {
-      "id": "9ccedd4456f6",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "summary": "",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-11T05:01:16.000Z"
-    },
-    {
-      "id": "2619b8938696",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "summary": "",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 1,
-      "publishedAt": "2026-11-11T00:00:00.000Z"
     }
   ]
 }
