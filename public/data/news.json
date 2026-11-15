@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-15T05:47:16.211Z",
-  "nextUpdate": "2026-11-15T17:00:00.000Z",
+  "generatedAt": "2026-11-15T18:40:38.136Z",
+  "nextUpdate": "2026-11-16T06:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 175,
+  "totalCollected": 172,
   "articleCount": 60,
   "articles": [
     {
@@ -20,6 +20,22 @@
       ],
       "score": 12,
       "publishedAt": "2026-11-14T09:45:45.000Z"
+    },
+    {
+      "id": "64a7e396bf92",
+      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs. The article Meituan releases a 1.6-trillion-parameter agent model that never tou",
+      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 10,
+      "publishedAt": "2026-11-15T10:06:06.000Z"
     },
     {
       "id": "6f7c7f299c23",
@@ -53,36 +69,6 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
-      "id": "984b8d8f5f78",
-      "title": "QwenLM / qwen-code (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: An open-source AI coding agent that lives in your terminal.",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-11-15T05:47:16.000Z"
-    },
-    {
-      "id": "05e0e1679e06",
-      "title": "OpenAI rebuilt AI shopping from scratch with ChatGPT Wallet",
-      "summary": "OpenAI is taking a second shot at AI-powered shopping with ChatGPT Wallet after scrapping its first approach, Instant Checkout. Users register a card once and confirm each purchase through Face ID or a fingerprint, while actual card details stay hidden behind payment tokens. Rivals such as Anthropic, Meta, and xAI already have their agents making purchases. The article OpenAI rebuilt AI shopping f",
-      "url": "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-11-13T18:55:21.000Z"
-    },
-    {
       "id": "a0a3a9608043",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "summary": "",
@@ -111,6 +97,21 @@
       ],
       "score": 7,
       "publishedAt": "2026-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "3d66e07f85af",
+      "title": "google-labs-code / stitch-skills (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-15T18:40:24.000Z"
     },
     {
       "id": "7ccbf27f371e",
@@ -228,22 +229,22 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-15T05:47:16.000Z"
+      "publishedAt": "2026-11-15T18:40:24.000Z"
     },
     {
-      "id": "9d1189863c7e",
-      "title": "Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls",
-      "summary": "Chinese investors are shut out of Anthropic's IPO, Bloomberg reports. Banks are rejecting buy orders from mainland China and Hong Kong, citing U.S. export control rules known as ITAR. Similar restrictions applied during SpaceX's IPO, and Anthropic's products aren't available in either region anyway. The article Banks bar Chinese and Hong Kong investors from Anthropic IPO over US export controls ap",
-      "url": "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+      "id": "fa9758e5a7ed",
+      "title": "Anthropic&#039;s Claude Fable 5.2 doesn&#039;t generate images, it paints them",
+      "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton.",
+      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
       "category": [
-        "open_source",
-        "new_model"
+        "new_model",
+        "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-13T18:01:53.000Z"
+      "publishedAt": "2026-11-15T15:42:03.000Z"
     },
     {
       "id": "ef6af8d34123",
@@ -288,22 +289,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-15T05:47:16.000Z"
-    },
-    {
-      "id": "af2df25b797e",
-      "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
-      "summary": "Article URL: https://www.youtube.com/watch?v=2K_Rm8cho1I Comments URL: https://news.ycombinator.com/item?id=50502453 Points: 2 # Comments: 2",
-      "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-15T00:07:46.000Z"
+      "publishedAt": "2026-11-15T18:40:24.000Z"
     },
     {
       "id": "c7ca3d2eff56",
@@ -318,20 +304,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-11-14T11:40:51.000Z"
-    },
-    {
-      "id": "e9556d3b5230",
-      "title": "Anthropic&#039;s Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
-      "summary": "Anthropic's new Claude for Manufacturing plugin connects the AI directly to Autodesk Fusion, Oracle NetSuite, and Infor. Its 17 specialized skills let the AI draft quotes, compare suppliers, and place backup orders when deliveries are delayed, all after human approval. The plugin doesn't control physical machines yet, but Anthropic is separately developing the Model Hardware Standard for that. The",
-      "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-13T16:37:01.000Z"
     },
     {
       "id": "70c0b23aa346",
@@ -420,13 +392,13 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-15T05:47:16.000Z"
+      "publishedAt": "2026-11-15T18:40:24.000Z"
     },
     {
-      "id": "e285cf9911cf",
-      "title": "Korea Tax Accountant Top Scorer Confesses AI Cheating",
-      "summary": "Article URL: https://www.chosun.com/english/national-en/2026/11/15/3AYAGNRWENBAJISSMVP6HZQZ3E/ Comments URL: https://news.ycombinator.com/item?id=50503069 Points: 3 # Comments: 0",
-      "url": "https://www.chosun.com/english/national-en/2026/11/15/3AYAGNRWENBAJISSMVP6HZQZ3E/",
+      "id": "8dad2a616364",
+      "title": "Eclipse Mosquitto – An open source MQTT broker",
+      "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 1 # Comments: 0",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -434,13 +406,13 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-15T01:29:52.000Z"
+      "publishedAt": "2026-11-15T18:36:40.000Z"
     },
     {
-      "id": "2a1f2413a09a",
-      "title": "OpenDoc – Free, open-source offline documentation browser",
-      "summary": "Article URL: https://github.com/daidarzzz/opendoc Comments URL: https://news.ycombinator.com/item?id=50502769 Points: 3 # Comments: 1",
-      "url": "https://github.com/daidarzzz/opendoc",
+      "id": "d5ffc5164d72",
+      "title": "Show HN: Learn Piano Easy App – Free and Open Source",
+      "summary": "Article URL: https://learn-piano-easy.app/ Comments URL: https://news.ycombinator.com/item?id=50509221 Points: 1 # Comments: 0",
+      "url": "https://learn-piano-easy.app/",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -448,7 +420,21 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-15T00:48:13.000Z"
+      "publishedAt": "2026-11-15T18:13:02.000Z"
+    },
+    {
+      "id": "ed1e16ea489b",
+      "title": "Show HN: Pocket Garden – a player interface to over 130 AI based web games",
+      "summary": "Play over 130 original web based games with a mobile friendly interface. New games arrive almost daily. Free and open source. Comments URL: https://news.ycombinator.com/item?id=50508977 Points: 1 # Comments: 0",
+      "url": "https://triptych.github.io/web-games-andrew/console/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-15T17:48:21.000Z"
     },
     {
       "id": "cc912a10168d",
@@ -650,20 +636,6 @@
       "publishedAt": "2026-07-27T00:00:00.000Z"
     },
     {
-      "id": "c9bcb241dbec",
-      "title": "tradermonty / claude-trading-skills (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-15T05:47:16.000Z"
-    },
-    {
       "id": "89db4a049c0d",
       "title": "ChromeDevTools / chrome-devtools-mcp (TypeScript)",
       "summary": "GitHub 인기 오픈소스 프로젝트: Chrome DevTools for coding agents",
@@ -675,13 +647,41 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-15T05:47:16.000Z"
+      "publishedAt": "2026-11-15T18:40:24.000Z"
     },
     {
-      "id": "9d5050feaa6c",
-      "title": "ashhart / TensorFold (Zig)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: LLM Inference Engine for Metal, CUDA and Vulkan.",
-      "url": "https://github.com/ashhart/TensorFold",
+      "id": "8bfdb7121715",
+      "title": "elementalsouls / Claude-BugHunter (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-15T18:40:24.000Z"
+    },
+    {
+      "id": "c9bcb241dbec",
+      "title": "tradermonty / claude-trading-skills (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-15T18:40:24.000Z"
+    },
+    {
+      "id": "152f3ced4702",
+      "title": "NVIDIA / SkillEvaluator (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -689,41 +689,13 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-15T05:47:16.000Z"
+      "publishedAt": "2026-11-15T18:40:24.000Z"
     },
     {
-      "id": "c94456d54440",
-      "title": "Anthropic bought a one-person, AI-powered biotech",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03640-9 Comments URL: https://news.ycombinator.com/item?id=50503888 Points: 1 # Comments: 0",
-      "url": "https://www.nature.com/articles/d41586-026-03640-9",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-15T04:01:16.000Z"
-    },
-    {
-      "id": "4d5a3d265802",
-      "title": "Atlas: A World Model for Spatial Intelligence",
-      "summary": "Article URL: https://worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=50503213 Points: 2 # Comments: 0",
-      "url": "https://worldlabs.ai/blog/atlas",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-15T01:53:15.000Z"
-    },
-    {
-      "id": "6f802c8f0651",
-      "title": "Microsoft patent describes using idle gaming GPUs into paid AI training hardware",
-      "summary": "Article URL: https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai Comments URL: https://news.ycombinator.com/item?id=50502675 Points: 4 # Comments: 2",
-      "url": "https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai",
+      "id": "0ffcccd03193",
+      "title": "Show HN: Local AI Video Agent",
+      "summary": "Hi HN, Hakim is here. I am trying to make video agent can be run fully local on the device instead of cloud. This might be more useful for people who are trying to cut cost of mass content production. We think this will be so helpful for people producing UGC content, storytelling, talkinghead, and more. It is still very early and honestly not really well refined plan, but yea that's the point for ",
+      "url": "https://www.wiyomi.com/",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -731,7 +703,7 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-15T00:34:55.000Z"
+      "publishedAt": "2026-11-15T17:55:38.000Z"
     },
     {
       "id": "fb26d1ca6e42",
@@ -746,20 +718,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-11-14T19:05:17.000Z"
-    },
-    {
-      "id": "eb1619c6d8d3",
-      "title": "Jensen Huang&#039;s ouster likely traces back to Nvidia&#039;s risky business practices more than his personal life",
-      "summary": "Jensen Huang likely left Nvidia more because of risky business practices than anything else, a Wall Street Journal report suggests. At the very least, those practices made him enemies internally. The company offered cloud providers billions in financial guarantees for chip purchases, including a planned $250 billion deal with OpenAI. Interim CEO and then-CFO Colette Kress tried to contain the risk",
-      "url": "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-13T20:07:34.000Z"
     },
     {
       "id": "1e4cb337017b",
@@ -884,6 +842,48 @@
       ],
       "score": 2,
       "publishedAt": "2026-10-22T22:24:34.000Z"
+    },
+    {
+      "id": "2035386f90b7",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-10-02T04:01:31.000Z"
+    },
+    {
+      "id": "1f4a554892a3",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "summary": "",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-29T13:07:00.000Z"
+    },
+    {
+      "id": "31b1ab840744",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "summary": "",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-22T00:00:00.000Z"
     }
   ]
 }
