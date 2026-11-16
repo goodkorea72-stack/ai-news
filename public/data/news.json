@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-16T05:46:39.730Z",
-  "nextUpdate": "2026-11-16T17:00:00.000Z",
+  "generatedAt": "2026-11-16T21:50:29.362Z",
+  "nextUpdate": "2026-11-17T09:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 252,
+  "totalCollected": 255,
   "articleCount": 60,
   "articles": [
     {
@@ -37,19 +37,20 @@
       "publishedAt": "2026-11-16T05:00:00.000Z"
     },
     {
-      "id": "a6b0c2ae334c",
-      "title": "Runway&#039;s open-source Praxis-1 turns video AI into a robot controller",
-      "summary": "Runway releases its robotics model Praxis-1 with open weights and source code under the Apache 2.0 license. The model uses knowledge from video training for robot control and leads the World Action Model category on Nvidia's RoboLab-120 benchmark. It can't yet plan complex action sequences on its own, though. The article Runway&#039;s open-source Praxis-1 turns video AI into a robot controller app",
-      "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+      "id": "32438c50c030",
+      "title": "Alibaba&#039;s Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
+      "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to release smaller Qwen4 models as open source. The article Alibaba&#039;s Qwen4-Max takes on Opus 5.5, GPT-6, and",
+      "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
       "category": [
         "open_source",
+        "new_model",
         "industry"
       ],
       "score": 12,
-      "publishedAt": "2026-11-14T09:45:45.000Z"
+      "publishedAt": "2026-11-16T16:56:04.000Z"
     },
     {
       "id": "64a7e396bf92",
@@ -98,21 +99,6 @@
       "publishedAt": "2026-11-16T05:00:00.000Z"
     },
     {
-      "id": "6f7c7f299c23",
-      "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
-      "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first ",
-      "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 9,
-      "publishedAt": "2026-11-14T16:48:01.000Z"
-    },
-    {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
       "summary": "",
@@ -127,6 +113,21 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "badbbee4df33",
+      "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
+      "summary": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more than 400. A \"Dreaming\" process retroactively corrects faulty memories. The article Anthropic says the key to agent memory i",
+      "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-16T15:25:48.000Z"
     },
     {
       "id": "7e026f367d67",
@@ -231,7 +232,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-16T05:46:39.000Z"
+      "publishedAt": "2026-11-16T21:50:15.000Z"
     },
     {
       "id": "54a6ec76b184",
@@ -337,32 +338,18 @@
       "publishedAt": "2026-11-16T05:00:00.000Z"
     },
     {
-      "id": "7ccbf27f371e",
-      "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
-      "summary": "Anthropic has made Claude Opus 5.5 the default model on all paid plans and published a guide that does away with old prompting habits. The main takeaway is to drop \"think hard\" and start at Medium effort. The article Anthropic says outdated prompting habits are slowing down Claude Opus 5.5 appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "615683b8febc",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "summary": "",
+      "url": "https://huggingface.co/blog/openrouter",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
       "category": [
-        "new_model"
+        "open_source"
       ],
       "score": 6,
-      "publishedAt": "2026-11-14T16:42:56.000Z"
-    },
-    {
-      "id": "ce684304d6e1",
-      "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
-      "summary": "Former OpenAI and Anthropic researcher Jacob Coxon points to a slide from Anthropic's IPO roadshow as a reason he left, saying it shows the company's algorithms are improving not just quickly but at an accelerating rate. Coxon continues to call for a pause on frontier model development so competitors can catch up and human-level AI can become a commodity. The article Anthropic can already retrain ",
-      "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-14T11:21:41.000Z"
+      "publishedAt": "2026-11-16T00:00:00.000Z"
     },
     {
       "id": "3f5439e812ee",
@@ -435,7 +422,22 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-16T05:46:39.000Z"
+      "publishedAt": "2026-11-16T21:50:15.000Z"
+    },
+    {
+      "id": "1af6b4258562",
+      "title": "kajisho5 / ffmpeg-skill (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-16T21:50:15.000Z"
     },
     {
       "id": "032791e18750",
@@ -642,7 +644,21 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-16T05:46:39.000Z"
+      "publishedAt": "2026-11-16T21:50:15.000Z"
+    },
+    {
+      "id": "2029d4bfa870",
+      "title": "OpenAI&#039;s GPT-6 Astra tackles the Standard Model&#039;s toughest math problem on a lattice",
+      "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of work remains before realistic simulations are possible. The article OpenAI&#039;s GPT-6 Astra tackles the Standard Mode",
+      "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-16T19:19:56.000Z"
     },
     {
       "id": "df59cb2e6317",
@@ -760,20 +776,6 @@
       "publishedAt": "2026-11-16T05:00:00.000Z"
     },
     {
-      "id": "c7ca3d2eff56",
-      "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
-      "summary": "OpenAI is dissolving its standalone robotics team for the second time, but not because it lacks data. General-purpose models like GPT-6 Astra can apparently control robots directly, making a dedicated unit unnecessary. The researchers are being redistributed across other teams in what the company frames as a way to accelerate its robotics efforts. The article OpenAI reassigns robotics researchers ",
-      "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-14T11:40:51.000Z"
-    },
-    {
       "id": "70c0b23aa346",
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
       "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
@@ -848,21 +850,6 @@
       "publishedAt": "2026-07-23T00:00:00.000Z"
     },
     {
-      "id": "bb6901a8be5e",
-      "title": "Tencent / LoopForge (Go)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-      "url": "https://github.com/Tencent/LoopForge",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-16T05:46:39.000Z"
-    },
-    {
       "id": "4af435723dfb",
       "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
       "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest te",
@@ -885,6 +872,21 @@
       "sourceId": "arxiv",
       "icon": "📄",
       "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "5468d0702c6d",
+      "title": "AI-Voyager: A Public-Interest System for Human-AI Civic Reasoning to Contest and Shape the Rules That Govern AI",
+      "summary": "arXiv:2611.17564v1 Announce Type: new Abstract: Governments are writing rules for artificial intelligence that decide what counts as an automated decision or a harm, often before the people they affect have a chance to question them. We introduce AI-Voyager, a public-interest system for human-AI civic reasoning, in which people and AI work together to understand, contest and shape the rules that g",
+      "url": "https://arxiv.org/abs/2611.17564",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
         "industry"
       ],
       "score": 3,
