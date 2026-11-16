@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-15T18:40:38.136Z",
-  "nextUpdate": "2026-11-16T06:00:00.000Z",
+  "generatedAt": "2026-11-16T05:46:39.730Z",
+  "nextUpdate": "2026-11-16T17:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 172,
+  "totalCollected": 252,
   "articleCount": 60,
   "articles": [
+    {
+      "id": "318b994d0079",
+      "title": "Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors",
+      "summary": "arXiv:2611.17846v1 Announce Type: new Abstract: Abliteration, a fine-tuning-free weight edit, removes refusal from open-weight large language models (LLMs). The developer of Arbitrary-Rank Ablation (ARA), an optimisation-based variant, reports that direction-based abliteration, which ablates a refusal direction, increasingly fails on newer models. On five release pairs, refusal removal did not bec",
+      "url": "https://arxiv.org/abs/2611.17846",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 20,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "7f9a5d33bcb0",
+      "title": "Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs",
+      "summary": "arXiv:2611.17339v1 Announce Type: new Abstract: Hallucination detection for large language models is dominated by methods evaluated on 7B-70B research models with abundant sampling budgets and exact-match or ROUGE correctness labels. The small models practitioners actually ship on-device, Phi-3-mini, Llama-3.2-3B-Instruct, Qwen2.5-3B-Instruct, and Gemma-2-2B-Instruct, typically at 4-bit precision,",
+      "url": "https://arxiv.org/abs/2611.17339",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 18,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
     {
       "id": "a6b0c2ae334c",
       "title": "Runway&#039;s open-source Praxis-1 turns video AI into a robot controller",
@@ -38,6 +68,36 @@
       "publishedAt": "2026-11-15T10:06:06.000Z"
     },
     {
+      "id": "7ce75ffcd475",
+      "title": "Safety Side Effects of Preventative Persona Steering: An Empirical Audit",
+      "summary": "arXiv:2611.17620v1 Announce Type: new Abstract: High-level behaviors such as sycophancy and hallucination correspond to directions in a model's activation space (Chen et al., 2025). These directions, known as persona vectors, can suppress undesirable traits either at inference time, subtracting the vector during generation, or through preventative steering, adding the vector during fine-tuning, so",
+      "url": "https://arxiv.org/abs/2611.17620",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "e720325ae8c9",
+      "title": "GraphScent: Calibrating Directional Relevance Signals for Bounded-Context Code Localization",
+      "summary": "arXiv:2611.17527v1 Announce Type: cross Abstract: Running open-weight language models locally on a single consumer GPU requires replacing expanding multi-turn exploration histories with short, stateless code inspections. Stateless repository localization, however, hinges on a foundational question: when a frozen language model evaluates an unedited code entity from a compact view, which structural",
+      "url": "https://arxiv.org/abs/2611.17527",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
       "id": "6f7c7f299c23",
       "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
       "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first ",
@@ -67,6 +127,66 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "7e026f367d67",
+      "title": "SWIFT: Sample-Wise Instance Fine-Tuning of Time-Series Foundation Models for Forecasting",
+      "summary": "arXiv:2611.17915v1 Announce Type: new Abstract: While current few-shot adaptation strategies for time series forecasting foundation models are predominantly dataset-centric, the necessity of obtaining an additional dataset for the finetuning process poses a significant hurdle for adoption. To address this constraint, we propose Sample-Wise Instance Fine-Tuning (SWIFT), a novel forecasting adaptati",
+      "url": "https://arxiv.org/abs/2611.17915",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "b84cc84f87c8",
+      "title": "Time-Consistent Evaluation of Hierarchical Code Graphs for SWE Agents",
+      "summary": "arXiv:2611.17388v1 Announce Type: cross Abstract: Evaluating repository-aware software engineering (SWE) agents requires strict separation between pre-existing repository knowledge and future code evolution, yet standard benchmarks frequently suffer from temporal contamination and prompt-level solution leakage. Building on the time-consistent benchmark protocol of Sun (2026), we enforce strict zer",
+      "url": "https://arxiv.org/abs/2611.17388",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "7442709fa6bb",
+      "title": "Diffusion Tree Sampling for Inference Time Adaptation of Crystal Generative Models",
+      "summary": "arXiv:2611.17462v1 Announce Type: cross Abstract: Diffusion-based generative models have become strong priors over plausible crystal structures, but turning that prior into promising candidates requires steering toward several conflicting properties at once. Fine-tuning is expensive and produces a new model for every new objective, while differentiable guidance is not applicable to many real-world",
+      "url": "https://arxiv.org/abs/2611.17462",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "725f69483d36",
+      "title": "Vision-as-a-Tool: Visual Harness for Multimodal Agentic Coding",
+      "summary": "arXiv:2611.17797v1 Announce Type: new Abstract: Multimodal agentic coding requires robust visual reasoning to analyze observations and evaluate generated artifacts. Current frameworks largely rely on a Thinking-with-Images paradigm, where agents depend on their intrinsic vision to execute visually grounded tasks. However, this architectural coupling introduces a fundamental bottleneck. Agent perfo",
+      "url": "https://arxiv.org/abs/2611.17797",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -111,7 +231,110 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-15T18:40:24.000Z"
+      "publishedAt": "2026-11-16T05:46:39.000Z"
+    },
+    {
+      "id": "54a6ec76b184",
+      "title": "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+      "summary": "arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selection during inference. Existing routing and encoder-based methods often require retraining when new ada",
+      "url": "https://arxiv.org/abs/2611.17340",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "03be840a90d6",
+      "title": "Advancing Quantization for R&R Models with Microscaling Formats",
+      "summary": "arXiv:2611.17501v1 Announce Type: new Abstract: Recommendation and Ranking (R&R) models, particularly in digital advertising, require massive inference throughput but exhibit extreme sensitivity to precision loss. Unlike Large Language Models (LLMs) that frequently tolerate quantization-induced accuracy drops of 1% or more, production-grade R&R models enforce a stringent launch bar: model quality ",
+      "url": "https://arxiv.org/abs/2611.17501",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "1f7d4c075c70",
+      "title": "Robustness Evaluation of GPU Cloud Pricing Benchmarks under Incomplete Observations: A Controlled Missingness Study",
+      "summary": "arXiv:2611.17796v1 Announce Type: new Abstract: Daily GPU rental-price benchmarks can fail when marketplace quotes are missing. This article stress-tests a fixed equal-weight median rule under four imposed masking mechanisms and four benchmark-level recovery methods. Across 5,800 Monte Carlo realisations in 27 scenarios on 190 held-out days, whole-source outages reduce publication coverage to 0.77",
+      "url": "https://arxiv.org/abs/2611.17796",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "9ca23a0c74d9",
+      "title": "Evaluating Large Language Models for Scientific Paper Search: Retrieval Success and Inference Latency on Mac Studio and NVIDIA A100",
+      "summary": "arXiv:2611.17929v1 Announce Type: new Abstract: Scientific literature search can benefit from locally deployed LLM assistants, which reduce reliance on hosted model providers while giving research teams greater control over their data and infrastructure. This work investigates whether open-weight models can support web-assisted paper retrieval under practical computing constraints. We first charac",
+      "url": "https://arxiv.org/abs/2611.17929",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "49ec8a246bb6",
+      "title": "WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents",
+      "summary": "arXiv:2611.17955v1 Announce Type: new Abstract: Web agents powered by large language and vision-language models are increasingly applied to realistic browser work that spans heterogeneous applications, multimodal content, and stateful workflows. However, existing reproducible web-agent benchmarks cover only a small number of web applications drawn from a few software categories, and restrict modal",
+      "url": "https://arxiv.org/abs/2611.17955",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "15b4a70e53ff",
+      "title": "JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams",
+      "summary": "arXiv:2611.18130v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied to finance, creating a need for benchmarks that evaluate their capabilities across financial systems with different regulations and practices. However, existing financial benchmarks provide limited coverage of country-specific financial systems, and they are difficult to keep up to date as release",
+      "url": "https://arxiv.org/abs/2611.18130",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "31a3b523fd5e",
+      "title": "Only as Safe as the Weakest Agent: A Break That Appears Only When the System Is Multi-Agent",
+      "summary": "arXiv:2611.17520v1 Announce Type: cross Abstract: Major industry multi-agent systems like Codex and Claude Code can be broken by attacks that have long been unsuccessful against modern frontier models. AI Safety as a discipline has largely focused on finding the bounds and vulnerabilities of AI models used in isolation. Yet as humans increasingly deploy these models as agents and multi-agent syste",
+      "url": "https://arxiv.org/abs/2611.17520",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
     },
     {
       "id": "7ccbf27f371e",
@@ -140,23 +363,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-11-14T11:21:41.000Z"
-    },
-    {
-      "id": "5c1385f2c5d4",
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "open_source"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-03T16:29:48.000Z"
     },
     {
       "id": "3f5439e812ee",
@@ -229,7 +435,154 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-15T18:40:24.000Z"
+      "publishedAt": "2026-11-16T05:46:39.000Z"
+    },
+    {
+      "id": "032791e18750",
+      "title": "Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction",
+      "summary": "arXiv:2611.17341v1 Announce Type: new Abstract: Medication prediction from electronic health records is a fixed vocabulary structured prediction problem, yet recent clinical RAG systems often treat it like open ended case based reasoning: retrieve similar patient admissions and ask an LLM to infer a medication set. This retrieval object is indirect the model receives retrieved patient records whil",
+      "url": "https://arxiv.org/abs/2611.17341",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "835b1e0b8db3",
+      "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+      "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defendant in the London silver-fixing litigation, in a market simulation built from real case transcripts. Across 260 simulations, the agent is asked to collude on the price of silver by a counterparty. We draw from behavior",
+      "url": "https://arxiv.org/abs/2611.17515",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "572dca9d88fc",
+      "title": "Verifiable pXRD: Hill-climbing pXRD structure determination with LLM agents",
+      "summary": "arXiv:2611.17539v1 Announce Type: new Abstract: Autonomous crystal-structure determination from powder X-ray diffraction (pXRD) remains a key bottleneck for self-driving materials laboratories. We formulate the task of pXRD structure determination as a verifiable agentic search problem: candidate structures can be assessed during inference through forward-simulated profile agreement and during eva",
+      "url": "https://arxiv.org/abs/2611.17539",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "7c50245809f6",
+      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+      "summary": "arXiv:2611.17621v1 Announce Type: new Abstract: Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input configurations drawn from real workloads. To address this requirement, we ",
+      "url": "https://arxiv.org/abs/2611.17621",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "5971b9b8e849",
+      "title": "Generated Evaluation Suites as Diversity-Driven Search for Real Agent Regressions",
+      "summary": "arXiv:2611.17632v1 Announce Type: new Abstract: Generating an evaluation suite from an agent's specification is diversity-driven search: a generator fills a descriptor space (requirements $\\times$ personas $\\times$ scenario kinds), and the suite it emits is an archive, then scored like a benchmark by its mean pass rate, which throws away the search's product. We inject 7 controlled defects into a ",
+      "url": "https://arxiv.org/abs/2611.17632",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "0875f74fae01",
+      "title": "A Spectral Framework for Universal Proxy Regularization in Model Merging",
+      "summary": "arXiv:2611.17728v1 Announce Type: new Abstract: Model merging constructs multi-task models without expensive joint training but often suffers from parameter interference. Some solutions mitigate this by constraining finetuning using data from the other tasks to be merged, violating the core independence and privacy assumption of model merging. Recent work offers preliminary empirical evidence that",
+      "url": "https://arxiv.org/abs/2611.17728",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "b88238613d22",
+      "title": "Measured from the feed: the unsustainable growth of AI video generation",
+      "summary": "arXiv:2611.17938v1 Announce Type: new Abstract: Text-to-video generation runs at commercial scale, but its broader environmental impacts remain, to our knowledge, understudied. Providers rarely disclose video volumes or energy needs; we measured the yearly video output of two commercial platforms and built a prospective model of such services' absolute footprint from training to storage. Our proje",
+      "url": "https://arxiv.org/abs/2611.17938",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "ae41db920783",
+      "title": "VLAN: Vision-Language Accessible Navigation",
+      "summary": "arXiv:2611.18346v1 Announce Type: new Abstract: Accessible mobility is user-conditioned rather than scene-intrinsic, as walkable paths for one embodiment are inaccessible to another. Yet, existing benchmarks evaluate traversability under a fixed and limited embodiment. We present Vision-Language Accessible Navigation (VLAN), containing 1,000 scenes, 20K navigation trajectories, and 160K keyframes ",
+      "url": "https://arxiv.org/abs/2611.18346",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "cd108add0e4e",
+      "title": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
+      "summary": "arXiv:2611.18494v1 Announce Type: new Abstract: Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks that require decomposition, exact computation, tool use, and verification. We introduce \\textbf{ARCHER}: \\textbf{A}ction-trace \\textbf{R}einforcement for \\textbf{C}alculator-grounded \\textbf{H}ierarchi",
+      "url": "https://arxiv.org/abs/2611.18494",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "58e3b251a177",
+      "title": "Can LLMs Write Backdoors? An Empirical Security Study of Weight-Space Programming",
+      "summary": "arXiv:2611.17395v1 Announce Type: cross Abstract: Recent advances in weight-space programming (WSP) have demonstrated that large language models (LLMs) can directly inspect and modify neural network weights without conventional gradient-based training. While this capability opens new possibilities for model improvement, it also raises an important security question: Can LLMs exploit weight-space p",
+      "url": "https://arxiv.org/abs/2611.17395",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
     },
     {
       "id": "fa9758e5a7ed",
@@ -289,7 +642,122 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-15T18:40:24.000Z"
+      "publishedAt": "2026-11-16T05:46:39.000Z"
+    },
+    {
+      "id": "df59cb2e6317",
+      "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+      "summary": "arXiv:2611.17610v1 Announce Type: new Abstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice confounds coordination with sample multiplicity and inference compute. We synthesize nine primary empirical evaluations comprising 516 unique multi-agent configurations organized along a resource vector R with six dimension",
+      "url": "https://arxiv.org/abs/2611.17610",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "eee916e3cc41",
+      "title": "Aligned, Conflicting, or Unspecified? A Diagnostic Benchmark for Multimodal Time Series Forecasting",
+      "summary": "arXiv:2611.17680v1 Announce Type: new Abstract: Artificial Intelligence of Things (AIoT) systems increasingly combine sensed time series with external text such as expert reports and news, yet how reliably models use text that agrees or conflicts with the sensed history remains unclear. We introduce the first real-world diagnostic benchmark organized by text-history relationship: 1,762 text-window",
+      "url": "https://arxiv.org/abs/2611.17680",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "77d157533fa9",
+      "title": "OCTAVE: A Capability-Resolved Benchmark for End-to-End HTML5 Game Generation",
+      "summary": "arXiv:2611.17681v1 Announce Type: new Abstract: Complete game generation requires agents to coordinate rules, interactions, states, and presentation over a long development process. A single aggregate score obscures which capabilities are implemented and which requirements remain unmet. We present OCTAVE, a benchmark for complete HTML5 game generation organized around eight Capability Dimensions, ",
+      "url": "https://arxiv.org/abs/2611.17681",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "9d6e228feba9",
+      "title": "G-CAST: Governed Continual Self-Training for E-Commerce Agents under Evolving Demands",
+      "summary": "arXiv:2611.17814v1 Announce Type: new Abstract: With the rapid advancement of Large Language Models (LLMs), an increasing number of users are turning to LLM-powered agents for conversational shopping in e-commerce. However, the user needs continue to change as new product categories, procurement scenarios, and feature requests emerge. At the same time, the product's execution harness-including its",
+      "url": "https://arxiv.org/abs/2611.17814",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "e2f6785c49a4",
+      "title": "OutfitterBench: Evaluating LLM Agents on Long-Horizon Resource Allocation and Commitment Coordination",
+      "summary": "arXiv:2611.17933v1 Announce Type: new Abstract: In many long-horizon settings, an agent's own choices create future constraints: committing finite capacity establishes future obligations and forecloses later opportunities. Sustaining performance therefore requires both keeping evolving plans feasible and comparing the value of resource allocations with the alternatives they displace. Recent benchm",
+      "url": "https://arxiv.org/abs/2611.17933",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "06f01cc162be",
+      "title": "Towards Explainable Sleep Stage Classification using Single-Channel Electroencephalogram",
+      "summary": "arXiv:2611.18434v1 Announce Type: new Abstract: Automated sleep staging has achieved strong bench- mark accuracy; however, clinical adoption remains limited due to a lack of interpretability. In this work, we fill the research gap by extending the SleepXAI sleep staging framework to systematically compare five different XAI methods. Further, attribution fidelity is evaluated using Spearman rank co",
+      "url": "https://arxiv.org/abs/2611.18434",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "a133c951ae8e",
+      "title": "When to Trust Simulated Patient Responses:Support-Gated World Models for Vasopressor Decision Support",
+      "summary": "arXiv:2611.18458v1 Announce Type: new Abstract: Clinical world models expose language-model agents to predicted patient responses, but simulations can be unreliable for poorly supported treatments or unfamiliar hospitals. We introduce Support-Gated World-Model decision support, a lightweight extension of a propose--simulate--refine agent. A recurrent dynamics ensemble predicts short-horizon physio",
+      "url": "https://arxiv.org/abs/2611.18458",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "id": "55fc0c581d63",
+      "title": "Interpreting Coding Agents Through Their Behavioral Trajectories",
+      "summary": "arXiv:2611.17440v1 Announce Type: cross Abstract: Standard coding-agent benchmarks primarily evaluate binary task success, treating execution as a black box and obscuring the behaviors that produce those outcomes. We analyze a large corpus of 143,209 execution trajectories from 125 agent configurations spanning 117 unique models. To enable comparisons across heterogeneous agent interfaces, we deve",
+      "url": "https://arxiv.org/abs/2611.17440",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
     },
     {
       "id": "c7ca3d2eff56",
@@ -392,498 +860,35 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-15T18:40:24.000Z"
+      "publishedAt": "2026-11-16T05:46:39.000Z"
     },
     {
-      "id": "8dad2a616364",
-      "title": "Eclipse Mosquitto – An open source MQTT broker",
-      "summary": "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 1 # Comments: 0",
-      "url": "https://github.com/eclipse-mosquitto/mosquitto",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-15T18:36:40.000Z"
-    },
-    {
-      "id": "d5ffc5164d72",
-      "title": "Show HN: Learn Piano Easy App – Free and Open Source",
-      "summary": "Article URL: https://learn-piano-easy.app/ Comments URL: https://news.ycombinator.com/item?id=50509221 Points: 1 # Comments: 0",
-      "url": "https://learn-piano-easy.app/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-15T18:13:02.000Z"
-    },
-    {
-      "id": "ed1e16ea489b",
-      "title": "Show HN: Pocket Garden – a player interface to over 130 AI based web games",
-      "summary": "Play over 130 original web based games with a mobile friendly interface. New games arrive almost daily. Free and open source. Comments URL: https://news.ycombinator.com/item?id=50508977 Points: 1 # Comments: 0",
-      "url": "https://triptych.github.io/web-games-andrew/console/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-15T17:48:21.000Z"
-    },
-    {
-      "id": "cc912a10168d",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-13T14:05:22.000Z"
-    },
-    {
-      "id": "4b1452634da2",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-12T19:07:35.000Z"
-    },
-    {
-      "id": "acaa69765fb0",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "summary": "",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-12T00:00:00.000Z"
-    },
-    {
-      "id": "6700611aa6c7",
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "summary": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-10T13:00:00.000Z"
-    },
-    {
-      "id": "5d1206337ba1",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "summary": "",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "id": "69baf8beffa3",
-      "title": "Decision Models in Hugging Face",
-      "summary": "",
-      "url": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-10T00:00:00.000Z"
-    },
-    {
-      "id": "2584746fd777",
-      "title": "Transformers Model Integration Contracts",
-      "summary": "",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-03T00:00:00.000Z"
-    },
-    {
-      "id": "21910bde8801",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-10-29T13:37:07.000Z"
-    },
-    {
-      "id": "858945812f14",
-      "title": "Holo4: powering generalist computer-use agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-09-28T09:44:05.000Z"
-    },
-    {
-      "id": "cc2a6bf3277b",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "summary": "",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-09-03T00:00:00.000Z"
-    },
-    {
-      "id": "edd47e9eda4e",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-25T15:14:14.000Z"
-    },
-    {
-      "id": "cd7544ff7730",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-25T11:39:24.000Z"
-    },
-    {
-      "id": "6d7eaed422a4",
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-08-18T00:00:00.000Z"
-    },
-    {
-      "id": "d59cc540f8e8",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "summary": "",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-07-27T00:00:00.000Z"
-    },
-    {
-      "id": "89db4a049c0d",
-      "title": "ChromeDevTools / chrome-devtools-mcp (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Chrome DevTools for coding agents",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "4af435723dfb",
+      "title": "When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors",
+      "summary": "arXiv:2611.17338v1 Announce Type: new Abstract: LLM memory systems often delete facts classified as stale. We show that this hard-filtering step can reduce downstream accuracy when resolver errors delete query-critical facts. Across three models, a controlled sensitivity intervention moves hard-drop from gains of +0.186 to +0.230 at perfect resolution to losses of -0.176 to -0.181 at the lowest te",
+      "url": "https://arxiv.org/abs/2611.17338",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
         "industry"
       ],
-      "score": 2,
-      "publishedAt": "2026-11-15T18:40:24.000Z"
+      "score": 3,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
     },
     {
-      "id": "8bfdb7121715",
-      "title": "elementalsouls / Claude-BugHunter (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-15T18:40:24.000Z"
-    },
-    {
-      "id": "c9bcb241dbec",
-      "title": "tradermonty / claude-trading-skills (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-15T18:40:24.000Z"
-    },
-    {
-      "id": "152f3ced4702",
-      "title": "NVIDIA / SkillEvaluator (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "8509416e2a78",
+      "title": "Model Annealing: Data-Efficient Learning through Review and Consolidation",
+      "summary": "arXiv:2611.17524v1 Announce Type: new Abstract: A small labelled dataset is memorized long before the training budget runs out, and the one-hot labels that remain to be fitted then mostly sharpen confidence. Model annealing spends the rest of the budget on review and consolidation, relearning from the network's own knowledge. Training is divided into episodes whose learning rate is raised again an",
+      "url": "https://arxiv.org/abs/2611.17524",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
         "industry"
       ],
-      "score": 2,
-      "publishedAt": "2026-11-15T18:40:24.000Z"
-    },
-    {
-      "id": "0ffcccd03193",
-      "title": "Show HN: Local AI Video Agent",
-      "summary": "Hi HN, Hakim is here. I am trying to make video agent can be run fully local on the device instead of cloud. This might be more useful for people who are trying to cut cost of mass content production. We think this will be so helpful for people producing UGC content, storytelling, talkinghead, and more. It is still very early and honestly not really well refined plan, but yea that's the point for ",
-      "url": "https://www.wiyomi.com/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-15T17:55:38.000Z"
-    },
-    {
-      "id": "fb26d1ca6e42",
-      "title": "Anthropic CEO Amodei admits \"there&#039;s a huge uncertainty in what&#039;s going to happen next year\" days before a record IPO",
-      "summary": "Days before what could be the largest IPO in history, Anthropic CEO Dario Amodei called buying compute 'the deepest business dilemma' his company faces. Anthropic's commitments now total nearly $901 billion, and it's still far from clear whether future revenue will justify those costs. The planned IPO is largely meant to serve as a financial buffer against that uncertainty. The article Anthropic C",
-      "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-14T19:05:17.000Z"
-    },
-    {
-      "id": "1e4cb337017b",
-      "title": "llm-gemini 0.37",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-12T22:55:19.000Z"
-    },
-    {
-      "id": "ad4920ebfdfd",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-12T18:00:00.000Z"
-    },
-    {
-      "id": "b5667f168a2f",
-      "title": "Anthropic's IPO roadshow video",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-11T15:11:59.000Z"
-    },
-    {
-      "id": "9b49911070c8",
-      "title": "llm-gemini 0.36",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-10T20:09:44.000Z"
-    },
-    {
-      "id": "89f18e75ebd8",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "id": "c2afd7c0c292",
-      "title": "llm-anthropic 0.31",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-09T23:58:46.000Z"
-    },
-    {
-      "id": "12960046aa40",
-      "title": "Build specialized multimodal models with LFM3",
-      "summary": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-27T17:16:52.000Z"
-    },
-    {
-      "id": "737f413af0b7",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-22T22:24:34.000Z"
-    },
-    {
-      "id": "2035386f90b7",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-02T04:01:31.000Z"
-    },
-    {
-      "id": "1f4a554892a3",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-29T13:07:00.000Z"
-    },
-    {
-      "id": "31b1ab840744",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "summary": "",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-22T00:00:00.000Z"
+      "score": 3,
+      "publishedAt": "2026-11-16T05:00:00.000Z"
     }
   ]
 }
