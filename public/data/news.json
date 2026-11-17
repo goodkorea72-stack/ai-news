@@ -1,42 +1,25 @@
 {
-  "generatedAt": "2026-11-17T07:24:31.022Z",
-  "nextUpdate": "2026-11-17T19:00:00.000Z",
+  "generatedAt": "2026-11-17T20:41:04.408Z",
+  "nextUpdate": "2026-11-18T08:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 175,
+  "totalCollected": 155,
   "articleCount": 60,
   "articles": [
     {
-      "id": "32438c50c030",
-      "title": "Alibaba&#039;s Qwen4-Max takes on Opus 5.5, GPT-6, and Kimi K3.1 Pro at much lower prices",
-      "summary": "Alibaba launches Qwen4-Max, a new flagship model with 2.4 trillion parameters that activates only 71 billion per token. A hybrid architecture sharply cuts costs on long contexts. Qwen4-Max lands just behind Kimi K3.1 Pro on the Artificial Analysis Intelligence Index, and Alibaba plans to release smaller Qwen4 models as open source. The article Alibaba&#039;s Qwen4-Max takes on Opus 5.5, GPT-6, and",
-      "url": "https://the-decoder.com/alibabas-qwen4-max-takes-on-opus-5-5-gpt-6-and-kimi-k3-1-pro-at-much-lower-prices/",
+      "id": "3076b45a1a1b",
+      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+      "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI's own scale. OpenAI itself classifies that as a risk. The article OpenAI launches GPT-6",
+      "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
       "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 12,
-      "publishedAt": "2026-11-16T16:56:04.000Z"
-    },
-    {
-      "id": "64a7e396bf92",
-      "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
-      "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs. The article Meituan releases a 1.6-trillion-parameter agent model that never tou",
-      "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
         "new_model",
         "industry"
       ],
       "score": 10,
-      "publishedAt": "2026-11-15T10:06:06.000Z"
+      "publishedAt": "2026-11-17T20:30:50.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -53,21 +36,6 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
-    },
-    {
-      "id": "badbbee4df33",
-      "title": "Anthropic says the key to agent memory is knowing what to forget, not how much to store",
-      "summary": "Anthropic studied how Claude retains knowledge across sessions. Selective notes beat exhaustive archives by a wide margin. In a Pokémon Red test, the newer Claude Fable 5 got four times as far as the older Sonnet 3.7 by keeping just a handful of strategy files instead of more than 400. A \"Dreaming\" process retroactively corrects faulty memories. The article Anthropic says the key to agent memory i",
-      "url": "https://the-decoder.com/anthropic-says-the-key-to-agent-memory-is-knowing-what-to-forget-not-how-much-to-store/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 8,
-      "publishedAt": "2026-11-16T15:25:48.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -112,7 +80,23 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-17T07:24:31.000Z"
+      "publishedAt": "2026-11-17T20:41:04.000Z"
+    },
+    {
+      "id": "f58591550e8e",
+      "title": "California&#039;s attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
+      "summary": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July. The article California&#039;s attorney general sues OpenAI over rogue AI models that attacked Hugging Face appeared first on The Decoder .",
+      "url": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-17T14:54:10.000Z"
     },
     {
       "id": "615683b8febc",
@@ -199,43 +183,13 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-17T07:24:31.000Z"
+      "publishedAt": "2026-11-17T20:41:04.000Z"
     },
     {
-      "id": "1af6b4258562",
-      "title": "kajisho5 / ffmpeg-skill (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
-      "url": "https://github.com/kajisho5/ffmpeg-skill",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-17T07:24:31.000Z"
-    },
-    {
-      "id": "26acf28f0f5a",
-      "title": "Show HN: Backplane – An AI Development Environment for Hardware",
-      "summary": "We made Backplane to actually use Fable, Astra, etc. as real electrical engineers! It incorporates KiCad + your favorite harness (Claude Code, Codex, OpenCode, Grok) to accelerate hardware development. You can use it \"autonomously\" or work alongside the agent, making changes or comments to redirect the agent as it works. Also has some slick skills for schematic editing, BOM management. Hardware is",
-      "url": "https://backplaneworks.com/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-17T06:41:02.000Z"
-    },
-    {
-      "id": "fa9758e5a7ed",
-      "title": "Anthropic&#039;s Claude Fable 5.2 doesn&#039;t generate images, it paints them",
-      "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton.",
-      "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+      "id": "ca7e0bde54c9",
+      "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+      "summary": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would. Luna handles tasks like prior authorizations for about 8.5 cents each. Companies including CVS Health and Cigna Healthcare are already deploying the technology. The article AI agents are starting to ",
+      "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -244,7 +198,7 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-15T15:42:03.000Z"
+      "publishedAt": "2026-11-17T16:55:47.000Z"
     },
     {
       "id": "ef6af8d34123",
@@ -289,7 +243,22 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-17T07:24:31.000Z"
+      "publishedAt": "2026-11-17T20:41:04.000Z"
+    },
+    {
+      "id": "1a8ce30019c4",
+      "title": "affaan-m / ECC (JavaScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-17T20:41:04.000Z"
     },
     {
       "id": "2029d4bfa870",
@@ -380,60 +349,19 @@
       "publishedAt": "2026-07-23T00:00:00.000Z"
     },
     {
-      "id": "5bb3ed7ebc7c",
-      "title": "Show HN: Harness for building/cloning SaaS using open-weight models",
-      "summary": "Built a codex like harness for non-tech builders to easily clone B2B SaaS using open-weight models. We figured companies are still charging for building software. Software, we think is commoditized. Tokens are cheap, and intelligence is open. What's the point of billing tokens. We want to take the power back from big labs and democratize the power of SoTA LLMs for every builder out there. 1M outpu",
-      "url": "https://neander.ai/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "bb6901a8be5e",
+      "title": "Tencent / LoopForge (Go)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "url": "https://github.com/Tencent/LoopForge",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
       "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-17T07:21:58.000Z"
-    },
-    {
-      "id": "61adfaac0c9b",
-      "title": "I built GURU. The open source ultimate hacker tool ANYBODY can use",
-      "summary": "Article URL: https://github.com/GuruProduction/GURUbyUnusLumen Comments URL: https://news.ycombinator.com/item?id=50528357 Points: 3 # Comments: 0",
-      "url": "https://github.com/GuruProduction/GURUbyUnusLumen",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-17T07:04:16.000Z"
-    },
-    {
-      "id": "14db2e7201b4",
-      "title": "Pimco Says AI Bond Spreads May Tighten as Data Center Boom Slows",
-      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-11-17/pimco-says-ai-bond-spreads-may-tighten-as-data-center-boom-slows Comments URL: https://news.ycombinator.com/item?id=50528011 Points: 1 # Comments: 0",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-17/pimco-says-ai-bond-spreads-may-tighten-as-data-center-boom-slows",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-17T06:08:22.000Z"
-    },
-    {
-      "id": "098131a1e365",
-      "title": "Show HN: Woolly, a local mem0-compatible memory API for AI agents",
-      "summary": "Article URL: https://usewoolly.com/ Comments URL: https://news.ycombinator.com/item?id=50527259 Points: 1 # Comments: 0",
-      "url": "https://usewoolly.com/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
+        "new_model",
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-17T04:01:19.000Z"
+      "publishedAt": "2026-11-17T20:41:04.000Z"
     },
     {
       "id": "cc912a10168d",
@@ -635,20 +563,6 @@
       "publishedAt": "2026-07-27T00:00:00.000Z"
     },
     {
-      "id": "c9bcb241dbec",
-      "title": "tradermonty / claude-trading-skills (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-17T07:24:31.000Z"
-    },
-    {
       "id": "8bfdb7121715",
       "title": "elementalsouls / Claude-BugHunter (Python)",
       "summary": "GitHub 인기 오픈소스 프로젝트: A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
@@ -660,35 +574,35 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-17T07:24:31.000Z"
+      "publishedAt": "2026-11-17T20:41:04.000Z"
     },
     {
-      "id": "152f3ced4702",
-      "title": "NVIDIA / SkillEvaluator (Python)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "aa4ccbea84a2",
+      "title": "Put Gemini to work for you",
+      "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
       "category": [
-        "industry"
+        "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-17T07:24:31.000Z"
+      "publishedAt": "2026-11-17T17:00:00.000Z"
     },
     {
-      "id": "89db4a049c0d",
-      "title": "ChromeDevTools / chrome-devtools-mcp (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Chrome DevTools for coding agents",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "c920801d3eae",
+      "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+      "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software. The NATO Communications and Information Agency (NCIA) says it's already making heavy use of the underlying models. The article OpenAI opens its cybersecurity tool Daybr",
+      "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "industry"
+        "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-17T07:24:31.000Z"
+      "publishedAt": "2026-11-17T15:02:03.000Z"
     },
     {
       "id": "1e4cb337017b",
@@ -883,6 +797,90 @@
       ],
       "score": 2,
       "publishedAt": "2026-08-18T18:09:38.000Z"
+    },
+    {
+      "id": "d71241476d80",
+      "title": "mvanhorn / last30days-skill (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-17T20:41:04.000Z"
+    },
+    {
+      "id": "b543c31678ad",
+      "title": "obra / superpowers (Shell)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: An agentic skills framework & software development methodology that works.",
+      "url": "https://github.com/obra/superpowers",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-17T20:41:04.000Z"
+    },
+    {
+      "id": "7e7764e97661",
+      "title": "ag-ui-protocol / ag-ui (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+      "url": "https://github.com/ag-ui-protocol/ag-ui",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-17T20:41:04.000Z"
+    },
+    {
+      "id": "89f5e7b0dc31",
+      "title": "backnotprop / plannotator (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "url": "https://github.com/backnotprop/plannotator",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-17T20:41:04.000Z"
+    },
+    {
+      "id": "1f66acda15e3",
+      "title": "google-research / paper-orchestra (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "url": "https://github.com/google-research/paper-orchestra",
+      "source": "GitHub Trending",
+      "sourceId": "github_trending",
+      "icon": "🐙",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-17T20:41:04.000Z"
+    },
+    {
+      "id": "1e3a32898cd0",
+      "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+      "summary": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all. An AI framework called \"exploit_agent,\" found on an exposed server, automatically compared code before and after patches, built exploits, and ran them on its own. The article Google warns that fully automated cyberattacks have arrived and will",
+      "url": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "industry"
+      ],
+      "score": 1,
+      "publishedAt": "2026-11-16T19:42:13.000Z"
     }
   ]
 }
