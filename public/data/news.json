@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-18T06:49:01.361Z",
-  "nextUpdate": "2026-11-18T18:00:00.000Z",
+  "generatedAt": "2026-11-18T20:14:33.146Z",
+  "nextUpdate": "2026-11-19T08:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 255,
+  "totalCollected": 280,
   "articleCount": 60,
   "articles": [
     {
@@ -23,21 +23,6 @@
       "publishedAt": "2026-11-18T05:00:00.000Z"
     },
     {
-      "id": "3076b45a1a1b",
-      "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
-      "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI's own scale. OpenAI itself classifies that as a risk. The article OpenAI launches GPT-6",
-      "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 10,
-      "publishedAt": "2026-11-17T20:30:50.000Z"
-    },
-    {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
       "summary": "",
@@ -52,6 +37,21 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "84d132a87122",
+      "title": "Qwen3.8-27B adopted for pi agent improves benchmarks",
+      "summary": "Article URL: https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted Comments URL: https://news.ycombinator.com/item?id=50549951 Points: 1 # Comments: 0",
+      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-18T18:18:36.000Z"
     },
     {
       "id": "ac09a8e5c999",
@@ -233,7 +233,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-18T06:49:00.000Z"
+      "publishedAt": "2026-11-18T20:14:33.000Z"
     },
     {
       "id": "648af5cb11db",
@@ -340,22 +340,6 @@
       "publishedAt": "2026-11-18T05:00:00.000Z"
     },
     {
-      "id": "f58591550e8e",
-      "title": "California&#039;s attorney general sues OpenAI over rogue AI models that attacked Hugging Face",
-      "summary": "California Attorney General Rob Bonta is suing OpenAI over a cyberattack that the company's out-of-control AI models launched against AI platform Hugging Face in July. The article California&#039;s attorney general sues OpenAI over rogue AI models that attacked Hugging Face appeared first on The Decoder .",
-      "url": "https://the-decoder.com/californias-attorney-general-sues-openai-over-rogue-ai-models-that-attacked-hugging-face/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-17T14:54:10.000Z"
-    },
-    {
       "id": "615683b8febc",
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "summary": "",
@@ -428,19 +412,79 @@
       "publishedAt": "2026-08-10T00:00:00.000Z"
     },
     {
-      "id": "8586835aa6c8",
-      "title": "alibaba / open-code-review (Go)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "url": "https://github.com/alibaba/open-code-review",
+      "id": "99a879e66e59",
+      "title": "appwrite / appwrite (TypeScript)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "url": "https://github.com/appwrite/appwrite",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-18T20:14:33.000Z"
+    },
+    {
+      "id": "c9e9cab0fe8c",
+      "title": "Show HN: Intrusive.ai – open-source AI attack simulation",
+      "summary": "I created the INTRUSIVE.AI platform to give agent builders the ability to evaluate their agents against OWASP's Top 10 for Agentic Applications (and more generally, just to allow for comprehensive testing in a non-production environment). Through my own experience with evaluating agents, I found indirect prompt injection testing to be especially difficult due to the architectural nature of it. To ",
+      "url": "https://intrusive.ai/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-18T19:29:25.000Z"
+    },
+    {
+      "id": "e1f95e4f0cd8",
+      "title": "Google Deepmind&#039;s Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+      "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includes native sound. A community gallery allows users to share and remix the worlds they've created. The article Google Deepmind&#039;s Project Genie update brings Genie 4, c",
+      "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-18T06:49:00.000Z"
+      "publishedAt": "2026-11-18T19:26:25.000Z"
+    },
+    {
+      "id": "51558e92d0c4",
+      "title": "OpenAI says its models delivered a year&#039;s worth of chip optimization on top of AMD&#039;s own engineering",
+      "summary": "Working with AMD, OpenAI achieved up to 14 percent PPA improvement on AMD's flagship GPU IP in less than five months. According to OpenAI, that's roughly a year's worth of progress, and AMD has already folded the changes into a design sent to production. Anthropic is also applying AI to chip work to optimize cost and performance per dollar. The article OpenAI says its models delivered a year&#039;",
+      "url": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-18T18:00:33.000Z"
+    },
+    {
+      "id": "9587a56d2553",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-18T17:00:00.000Z"
     },
     {
       "id": "db79385f9301",
@@ -578,21 +622,6 @@
       "publishedAt": "2026-11-18T05:00:00.000Z"
     },
     {
-      "id": "ca7e0bde54c9",
-      "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
-      "summary": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would. Luna handles tasks like prior authorizations for about 8.5 cents each. Companies including CVS Health and Cigna Healthcare are already deploying the technology. The article AI agents are starting to ",
-      "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-17T16:55:47.000Z"
-    },
-    {
       "id": "ef6af8d34123",
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
@@ -623,10 +652,10 @@
       "publishedAt": "2026-08-13T17:16:04.000Z"
     },
     {
-      "id": "ce391d9bf451",
-      "title": "dream-num / univer (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-      "url": "https://github.com/dream-num/univer",
+      "id": "2f1218dbc68c",
+      "title": "openvinotoolkit / openvino (C++)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "url": "https://github.com/openvinotoolkit/openvino",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
@@ -635,7 +664,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-18T06:49:00.000Z"
+      "publishedAt": "2026-11-18T20:14:33.000Z"
     },
     {
       "id": "1a8ce30019c4",
@@ -650,7 +679,81 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-18T06:49:00.000Z"
+      "publishedAt": "2026-11-18T20:14:33.000Z"
+    },
+    {
+      "id": "1597a6a37fd0",
+      "title": "Fable 5.2 made a video explaining the DeepSeek Super-agent architecture",
+      "summary": "Article URL: https://www.youtube.com/watch?v=-b7g5XIgEn0 Comments URL: https://news.ycombinator.com/item?id=50550078 Points: 2 # Comments: 0",
+      "url": "https://www.youtube.com/watch?v=-b7g5XIgEn0",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-18T18:27:40.000Z"
+    },
+    {
+      "id": "b15d023f05d1",
+      "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
+      "summary": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems. In tests, the models readily flagged civilians as military targets, and a simple video game framing in the prompt was enough to override even belated refusals. The providers have promised fixes. The article Anthropic, OpenAI, and Google models ",
+      "url": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-18T15:47:49.000Z"
+    },
+    {
+      "id": "fbeed411062d",
+      "title": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
+      "summary": "Mistral's AI agent Vibe now has its own desktop app. The article Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems appeared first on The Decoder .",
+      "url": "https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-18T14:40:52.000Z"
+    },
+    {
+      "id": "270675dc590f",
+      "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
+      "summary": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time. The embedded reviews are designed to uncover hidden misbehavior and safety gaps. OpenAI can redact or delay reports, so how independent this oversight actually turns out to be remains an open question. The article OpenAI o",
+      "url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-18T14:36:42.000Z"
+    },
+    {
+      "id": "6f558094b0e7",
+      "title": "Hugging Face now routes model requests through OpenRouter for the best price or speed",
+      "summary": "Hugging Face now routes language model requests through OpenRouter, which automatically selects the cheapest or fastest provider. Bring-your-own API keys for language models are going away. According to OpenRouter, the new routing cut capacity errors by 46 percent. Both partners face multibillion-dollar acquisitions. The article Hugging Face now routes model requests through OpenRouter for the bes",
+      "url": "https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-18T14:33:44.000Z"
     },
     {
       "id": "13cde20b7118",
@@ -795,108 +898,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "fb05a1d1e4ac",
-      "title": "Evaluating Semantic Insensitivity in Financial Sentiment Analysis: Implications for Sustainable Financial Decision-Making",
-      "summary": "arXiv:2611.21653v1 Announce Type: cross Abstract: Financial sentiment analysis is critical for automated trading, portfolio management, and risk assessment, heavily relying on models like FinBERT. Despite high benchmark accuracy, these models remain vulnerable to subtle adversarial text modifications, threatening the integrity of algorithmic decision-making. In this paper, we propose Agent-driven ",
-      "url": "https://arxiv.org/abs/2611.21653",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "2029d4bfa870",
-      "title": "OpenAI&#039;s GPT-6 Astra tackles the Standard Model&#039;s toughest math problem on a lattice",
-      "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of work remains before realistic simulations are possible. The article OpenAI&#039;s GPT-6 Astra tackles the Standard Mode",
-      "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-16T19:19:56.000Z"
-    },
-    {
-      "id": "70c0b23aa346",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-10-13T16:00:00.000Z"
-    },
-    {
-      "id": "d5e9b9a87420",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "summary": "",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-09-01T00:00:00.000Z"
-    },
-    {
-      "id": "0019ae2665a3",
-      "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-      "summary": "",
-      "url": "https://huggingface.co/blog/pwc-search",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-08-21T00:00:00.000Z"
-    },
-    {
-      "id": "9c95afa451ef",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "summary": "",
-      "url": "https://huggingface.co/blog/baseten",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-08-06T00:00:00.000Z"
-    },
-    {
-      "id": "0ee73a62fb00",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "summary": "",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-07-23T00:00:00.000Z"
     }
   ]
 }
