@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-19T06:50:22.565Z",
-  "nextUpdate": "2026-11-19T18:00:00.000Z",
+  "generatedAt": "2026-11-19T20:18:30.569Z",
+  "nextUpdate": "2026-11-20T08:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 259,
+  "totalCollected": 276,
   "articleCount": 60,
   "articles": [
     {
@@ -251,7 +251,22 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-19T06:50:22.000Z"
+      "publishedAt": "2026-11-19T20:18:25.000Z"
+    },
+    {
+      "id": "81876f29a9b5",
+      "title": "Google&#039;s latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
+      "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price. The article Google&#039;s latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago appeared first on The Decoder .",
+      "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-19T11:18:18.000Z"
     },
     {
       "id": "648af5cb11db",
@@ -430,19 +445,19 @@
       "publishedAt": "2026-08-10T00:00:00.000Z"
     },
     {
-      "id": "99a879e66e59",
-      "title": "appwrite / appwrite (TypeScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-      "url": "https://github.com/appwrite/appwrite",
-      "source": "GitHub Trending",
-      "sourceId": "github_trending",
-      "icon": "🐙",
+      "id": "6cec1232394d",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
       "category": [
-        "open_source",
+        "new_model",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-19T06:50:22.000Z"
+      "publishedAt": "2026-11-19T18:00:00.000Z"
     },
     {
       "id": "db79385f9301",
@@ -666,22 +681,37 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-19T06:50:22.000Z"
+      "publishedAt": "2026-11-19T20:18:25.000Z"
     },
     {
-      "id": "1a8ce30019c4",
-      "title": "affaan-m / ECC (JavaScript)",
-      "summary": "GitHub 인기 오픈소스 프로젝트: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC",
+      "id": "c2a8f386f05a",
+      "title": "Tracer-Cloud / opensre (Python)",
+      "summary": "GitHub 인기 오픈소스 프로젝트: The open-source agent for CI/CD reliability.",
+      "url": "https://github.com/Tracer-Cloud/opensre",
       "source": "GitHub Trending",
       "sourceId": "github_trending",
       "icon": "🐙",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-19T20:18:25.000Z"
+    },
+    {
+      "id": "ecb59c3bcc4f",
+      "title": "Show HN: Company docs didn't help our AI agent. Four shortnotes doubled accuracy",
+      "summary": "Article URL: https://contextflo.com/benchmarks/dabstep-haiku Comments URL: https://news.ycombinator.com/item?id=50564793 Points: 1 # Comments: 0",
+      "url": "https://contextflo.com/benchmarks/dabstep-haiku",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-19T06:50:22.000Z"
+      "publishedAt": "2026-11-19T19:14:24.000Z"
     },
     {
       "id": "13cde20b7118",
@@ -843,63 +873,33 @@
       "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
-      "id": "b15d023f05d1",
-      "title": "Anthropic, OpenAI, and Google models readily marked medics, journalists, and surrendering soldiers as kamikaze drone targets",
-      "summary": "A Vals AI investigation shows that leading AI models from Anthropic, OpenAI and Google have almost no safeguards against use in autonomous weapons systems. In tests, the models readily flagged civilians as military targets, and a simple video game framing in the prompt was enough to override even belated refusals. The providers have promised fixes. The article Anthropic, OpenAI, and Google models ",
-      "url": "https://the-decoder.com/anthropic-openai-and-google-models-readily-marked-medics-journalists-and-surrendering-soldiers-as-kamikaze-drone-targets/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "470cf1b70d07",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "summary": "",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-18T00:00:00.000Z"
+    },
+    {
+      "id": "70c0b23aa346",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
       "category": [
         "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-11-18T15:47:49.000Z"
-    },
-    {
-      "id": "fbeed411062d",
-      "title": "Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems",
-      "summary": "Mistral's AI agent Vibe now has its own desktop app. The article Mistral plays catch-up with Vibe Desktop as rivals already command full operating systems appeared first on The Decoder .",
-      "url": "https://the-decoder.com/mistral-plays-catch-up-with-vibe-desktop-as-rivals-already-command-full-operating-systems/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T14:40:52.000Z"
-    },
-    {
-      "id": "270675dc590f",
-      "title": "OpenAI opens its AI systems to four independent on-site auditors for the first time",
-      "summary": "OpenAI is giving four independent audit organizations, including Apollo Research and METR, direct access to unreleased models, source code, and training data for the first time. The embedded reviews are designed to uncover hidden misbehavior and safety gaps. OpenAI can redact or delay reports, so how independent this oversight actually turns out to be remains an open question. The article OpenAI o",
-      "url": "https://the-decoder.com/openai-opens-its-ai-systems-to-four-independent-on-site-auditors-for-the-first-time/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T14:36:42.000Z"
-    },
-    {
-      "id": "6f558094b0e7",
-      "title": "Hugging Face now routes model requests through OpenRouter for the best price or speed",
-      "summary": "Hugging Face now routes language model requests through OpenRouter, which automatically selects the cheapest or fastest provider. Bring-your-own API keys for language models are going away. According to OpenRouter, the new routing cut capacity errors by 46 percent. Both partners face multibillion-dollar acquisitions. The article Hugging Face now routes model requests through OpenRouter for the bes",
-      "url": "https://the-decoder.com/hugging-face-now-routes-model-requests-through-openrouter-for-the-best-price-or-speed/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T14:33:44.000Z"
+      "publishedAt": "2026-10-13T16:00:00.000Z"
     }
   ]
 }
