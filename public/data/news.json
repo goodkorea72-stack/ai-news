@@ -1,15 +1,46 @@
 {
-  "generatedAt": "2026-11-18T20:14:33.146Z",
-  "nextUpdate": "2026-11-19T08:00:00.000Z",
+  "generatedAt": "2026-11-19T06:50:22.565Z",
+  "nextUpdate": "2026-11-19T18:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 280,
+  "totalCollected": 259,
   "articleCount": 60,
   "articles": [
     {
+      "id": "121a27abd013",
+      "title": "DAQ: Decision-Aligned Post-Training Quantization for Spiking Transformers",
+      "summary": "arXiv:2611.22611v1 Announce Type: new Abstract: Spiking transformers combine attention-based representation learning with sparse spike communication, yet their weights and membrane variables still incur substantial storage and computation overhead. Post-training quantization (PTQ) offers a practical way to reduce these overheads, but preserving neuronal firing under weight and membrane quantizatio",
+      "url": "https://arxiv.org/abs/2611.22611",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 12,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "edbcd104de44",
+      "title": "PhysScope: Agentic Multimodal Physics Reasoning with Grounded Visual Memory",
+      "summary": "arXiv:2611.23010v1 Announce Type: new Abstract: Vision-language models (VLMs) can correctly interpret physics diagrams yet apply constraints outside the states or conditions in which they hold, causing premise errors to propagate through subsequent calculations. We introduce PhysScope, an inference-time visual harness that supports self-correction of these scope mismatches without updating model w",
+      "url": "https://arxiv.org/abs/2611.23010",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 11,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
       "id": "46f05a5c9c58",
       "title": "Language Models Can Rewrite Their Own Weights",
-      "summary": "arXiv:2611.21885v1 Announce Type: new Abstract: Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite its own weights to make itself better, and find that",
+      "summary": "arXiv:2611.21885v2 Announce Type: new Abstract: A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge for the first time, a language model rewrites its own weights by its own reasoning and becomes better, with no gradients and no traini",
       "url": "https://arxiv.org/abs/2611.21885",
       "source": "arXiv cs.AI",
       "sourceId": "arxiv",
@@ -20,7 +51,23 @@
         "industry"
       ],
       "score": 10,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "a31276753e7a",
+      "title": "ForecastGym: A Live, Controlled, and Replayable Benchmark for Forecasting Agents",
+      "summary": "arXiv:2611.23045v1 Announce Type: new Abstract: Agents built on large language models (LLMs) increasingly forecast real-world events by searching the Web and reasoning over what they find. How well such an agent forecasts depends on both the retrieved evidence and the model, making control over that evidence essential for evaluation. Live evaluations can mix retrieval with reasoning when each syst",
+      "url": "https://arxiv.org/abs/2611.23045",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 9,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "8fd73864f0eb",
@@ -39,21 +86,6 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
-      "id": "84d132a87122",
-      "title": "Qwen3.8-27B adopted for pi agent improves benchmarks",
-      "summary": "Article URL: https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted Comments URL: https://news.ycombinator.com/item?id=50549951 Points: 1 # Comments: 0",
-      "url": "https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 8,
-      "publishedAt": "2026-11-18T18:18:36.000Z"
-    },
-    {
       "id": "ac09a8e5c999",
       "title": "Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability",
       "summary": "arXiv:2611.21799v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting hidden goals, off-task behavior, and other failures in AI agents. One risk is that models could deliberately shape their reasoning to make it opaque to monitors. We stress-test this risk through persona-control training: supervised fine-tuning on mathematical reasoning traces rewritt",
@@ -67,7 +99,7 @@
         "industry"
       ],
       "score": 8,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "c77276537663",
@@ -82,7 +114,7 @@
         "industry"
       ],
       "score": 8,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "837f5b532961",
@@ -97,7 +129,7 @@
         "industry"
       ],
       "score": 8,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "2ee411083486",
@@ -113,37 +145,7 @@
         "industry"
       ],
       "score": 8,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "b1d66e7a9255",
-      "title": "Can an LLM dream? Testing the overfitted brain hypothesis on an agent with text memory",
-      "summary": "arXiv:2611.21648v1 Announce Type: cross Abstract: Hoel (2021) proposed that dreams distort replayed experience so that the brain does not overfit to recent events. We test this hypothesis on an LLM agent (Claude Opus 5.5) that stores what it learns in a text memory and rewrites that memory each night from the day's conversation transcript. The agent goes through ten simulated days of conversation ",
-      "url": "https://arxiv.org/abs/2611.21648",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 8,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "277e7fea1d2b",
-      "title": "Watermark Evidence under Open-Weight LLM Modification: Exact Bounds for Low-Rank Output Watermarks",
-      "summary": "arXiv:2611.21702v1 Announce Type: cross Abstract: Open-weight language models can continue generating after their released weights are modified, while a watermark verifier still scores outputs against the original base and marked models. We study how such modifications change the evidence available to an OpenStamp-style verifier. At each shared prefix, we represent the modification as a residual i",
-      "url": "https://arxiv.org/abs/2611.21702",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 8,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "5ac177e0ecf6",
@@ -158,12 +160,12 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "7f7a00eeb4ce",
       "title": "CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference",
-      "summary": "arXiv:2611.22563v1 Announce Type: new Abstract: CAD practitioners often work with proprietary parts that they are unwilling to share with external services. For individuals and small companies, bringing this work in-house also requires computational resources they can afford. We introduce CADMAGEDDON, an open-source agent that reconstructs editable CAD from meshes and can run locally on single-GPU",
+      "summary": "arXiv:2611.22563v2 Announce Type: new Abstract: CAD practitioners often work with proprietary parts that they are unwilling to share with external services. For individuals and small companies, bringing this work in-house also requires computational resources they can afford. We introduce CADMAGEDDON, an open-source agent that reconstructs editable CAD from meshes and can run locally on single-GPU",
       "url": "https://arxiv.org/abs/2611.22563",
       "source": "arXiv cs.AI",
       "sourceId": "arxiv",
@@ -173,13 +175,13 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
-      "id": "231af577cc44",
-      "title": "EgoLink: Egocentric Language-Vision Interactive Network Knowledge Challenge Summary",
-      "summary": "arXiv:2611.21690v1 Announce Type: cross Abstract: The EgoLink Challenge at ACM Multimedia 2026 benchmarks egocentric multimodal intelligence linking first-person perception, social reasoning, and interactive action. Unlike benchmarks centered on visible objects and activities, EgoLink evaluates whether models can interpret emotional and social cues, resolve visually grounded references, and conver",
-      "url": "https://arxiv.org/abs/2611.21690",
+      "id": "eff885e490f0",
+      "title": "Synergizing Evidence Retrieval and Utilization for Self-Improving Multimodal Scientific Document Reasoning",
+      "summary": "arXiv:2611.22837v1 Announce Type: new Abstract: Scientific document reasoning requires an agent to acquire and integrate evidence distributed across text, figures, and tables. Retrieval can identify relevant sources while missing complementary support, and answer-level feedback alone does not reveal whether an error stems from evidence acquisition or evidence use. We present an agentic Retriever--",
+      "url": "https://arxiv.org/abs/2611.22837",
       "source": "arXiv cs.AI",
       "sourceId": "arxiv",
       "icon": "📄",
@@ -188,7 +190,23 @@
         "industry"
       ],
       "score": 7,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "9af59dc36f01",
+      "title": "Residual-Guided Lightweight Reinforcement Learning for Risk-Aware Trajectory Selection with a Frozen World Model",
+      "summary": "arXiv:2611.22998v1 Announce Type: new Abstract: In automated driving, world models provide future scene predictions for evaluating candidate trajectories, but fixed selection rules may not capture scene-dependent trade-offs. We propose a residual-guided reinforcement learning (RL) framework for lightweight trajectory selection with a frozen world model and a fixed candidate bank. The framework use",
+      "url": "https://arxiv.org/abs/2611.22998",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -233,7 +251,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-18T20:14:33.000Z"
+      "publishedAt": "2026-11-19T06:50:22.000Z"
     },
     {
       "id": "648af5cb11db",
@@ -248,7 +266,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "295f2f3ea66b",
@@ -263,7 +281,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "dc30a27abef7",
@@ -278,7 +296,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "368e715fdcc4",
@@ -292,7 +310,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "9c8e98cc736c",
@@ -307,7 +325,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "fc9ef274e072",
@@ -322,22 +340,22 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
-      "id": "cbde76e88f41",
-      "title": "Can AI Help Explain AI? Effects of Multimodal LLM-Generated Explanations on Perceived Understanding and Perceived Trust in XAI Visualizations",
-      "summary": "arXiv:2611.21638v1 Announce Type: cross Abstract: Explainable artificial intelligence (XAI) aims to make machine learning models understandable, yet many XAI visualizations remain difficult for end-users to interpret. Here, we evaluate whether augmenting XAI outputs with textual explanations from multimodal LLMs improves perceived understanding and perceived trust. We conducted a pre-registered wi",
-      "url": "https://arxiv.org/abs/2611.21638",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
+      "id": "15c026c40ca1",
+      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
+      "summary": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input tokens and $15 per million output tokens, Neon is priced above previous Gemini 4 models. The article Google ships Gemini 4 Neon, its fourth new Gemini model in a month ap",
+      "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
         "new_model",
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
+      "publishedAt": "2026-11-18T21:03:23.000Z"
     },
     {
       "id": "615683b8febc",
@@ -424,22 +442,141 @@
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-18T20:14:33.000Z"
+      "publishedAt": "2026-11-19T06:50:22.000Z"
     },
     {
-      "id": "c9e9cab0fe8c",
-      "title": "Show HN: Intrusive.ai – open-source AI attack simulation",
-      "summary": "I created the INTRUSIVE.AI platform to give agent builders the ability to evaluate their agents against OWASP's Top 10 for Agentic Applications (and more generally, just to allow for comprehensive testing in a non-production environment). Through my own experience with evaluating agents, I found indirect prompt injection testing to be especially difficult due to the architectural nature of it. To ",
-      "url": "https://intrusive.ai/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "db79385f9301",
+      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
+      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Recent parallel draft architectures (DFlash, DSpark) improve draft quality ",
+      "url": "https://arxiv.org/abs/2611.21925",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
         "open_source",
         "industry"
       ],
       "score": 5,
-      "publishedAt": "2026-11-18T19:29:25.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "7766f6b0ee98",
+      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
+      "summary": "arXiv:2611.21950v1 Announce Type: new Abstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirect ongoing work remains a central design challenge. We present DiscoveryAgent, a domain-agnostic, scientist-centric system that combines autonomous investigation with scientist-directed hypothesis steering. Scientists select,",
+      "url": "https://arxiv.org/abs/2611.21950",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "50b594e9cee6",
+      "title": "Towards Physics-Constrained Rectified Flow for Climate Downscaling: What Projections Can Certify?",
+      "summary": "arXiv:2611.22283v1 Announce Type: new Abstract: Statistical downscaling restores the regional detail behind flooding and crop stress, but diffusion and flow-matching generators can produce sharp fields that break the conservation laws of their coarse input. Physics-Constrained Rectified Flow (PC-RF) is a conditional flow-matching downscaler. Its training penalties target wind divergence, negative ",
+      "url": "https://arxiv.org/abs/2611.22283",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "6ed3c1986b96",
+      "title": "AutoE2E: Don't speak - Language free end-to-end autonomy A Real-Time Driving Model for L2++ ADAS and L4 Robotaxis",
+      "summary": "arXiv:2611.22374v1 Announce Type: new Abstract: AutoE2E is an open-source end-to-end driving model developed by the Autoware Foundation Robotaxi Working Group. It introduces a temporal bird's-eye-view (BEV) architecture that combines multi-camera perception, HD-map information and route conditioning to predict future vehicle motion. The evaluated model uses a pretrained camera-BEV backbone, tempor",
+      "url": "https://arxiv.org/abs/2611.22374",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "3c788da4c6e6",
+      "title": "Towards Data-Efficient, Real-Time World Models",
+      "summary": "arXiv:2611.22497v1 Announce Type: new Abstract: State-of-the-art world models have been used to produce sequences of gameplay that accord with provided user-input actions. However, high quality, consistent gameplay generation often comes at the cost of inference speed, making real-time interactive play and ideation challenging. The substantial quantities of data used to train state-of-the-art mode",
+      "url": "https://arxiv.org/abs/2611.22497",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "0eaed34097ab",
+      "title": "When Agent Skills Go Stale: Runtime Behavior and Selective Maintenance in Evolving Environments",
+      "summary": "arXiv:2611.22525v1 Announce Type: new Abstract: Agent skills use past experience and current observations to guide decisions and actions on related tasks. This experience is retained in skill state, whose reuse can amortize inference-time reasoning and environment interaction. When environment changes, parts of this state can become outdated while others remain useful. Across four task settings an",
+      "url": "https://arxiv.org/abs/2611.22525",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "3cb8b5b0a543",
+      "title": "PACT: Plan-Action Consistency Training by Preserving Correct Plans and Repairing Actions in GUI Agents",
+      "summary": "arXiv:2611.22591v1 Announce Type: new Abstract: GUI agents can formulate a correct immediate plan in their reasoning yet emit an action that fails to execute it, creating an execution gap. This recurring mismatch undermines reliable task completion, as a single execution error can derail a multi-step workflow. In outcome-supervised reinforcement learning, broadcasting a negative response-level adv",
+      "url": "https://arxiv.org/abs/2611.22591",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "6d239b4ad47a",
+      "title": "VITAL: A Framework for Validating Agentic AI in Pharmaceutical Drug Development and Clinical Trial Operations",
+      "summary": "arXiv:2611.22973v1 Announce Type: new Abstract: Current assurance approaches do not establish whether evidence is sufficient to validate, monitor and govern agentic artificial intelligence (AI) within a pharmaceutical context of use. Plausible outputs may conceal failures in retrieval, reasoning, orchestration or human-control points, where reference standards are unavailable. We developed and ope",
+      "url": "https://arxiv.org/abs/2611.22973",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "9cba80d01f6c",
+      "title": "RagHarnessDebugger: Jev-Guided Agentic RAG in Contract Inference Repair Auditing",
+      "summary": "arXiv:2611.22991v1 Announce Type: new Abstract: Agentic systems using retrieval-augmented generation (RAG) must repair their own answers by gathering more evidence, testing alternative policies and deciding if, when, and what repairs are needed. Yet how do we know if a system's repairs are working when metrics like accuracy can be misleading? We present RagHarnessDebugger, a framework that records",
+      "url": "https://arxiv.org/abs/2611.22991",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "e1f95e4f0cd8",
@@ -487,141 +624,6 @@
       "publishedAt": "2026-11-18T17:00:00.000Z"
     },
     {
-      "id": "db79385f9301",
-      "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
-      "summary": "arXiv:2611.21925v1 Announce Type: new Abstract: Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Recent parallel draft architectures (DFlash, DSpark) improve draft quality ",
-      "url": "https://arxiv.org/abs/2611.21925",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "7766f6b0ee98",
-      "title": "DiscoveryAgent: A Framework for Scientist-centric Agentic AI",
-      "summary": "arXiv:2611.21950v1 Announce Type: new Abstract: AI agents can assist scientific research, but balancing autonomous investigation with scientists' ability to inspect and redirect ongoing work remains a central design challenge. We present DiscoveryAgent, a domain-agnostic, scientist-centric system that combines autonomous investigation with scientist-directed hypothesis steering. Scientists select,",
-      "url": "https://arxiv.org/abs/2611.21950",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "50b594e9cee6",
-      "title": "Towards Physics-Constrained Rectified Flow for Climate Downscaling: What Projections Can Certify?",
-      "summary": "arXiv:2611.22283v1 Announce Type: new Abstract: Statistical downscaling restores the regional detail behind flooding and crop stress, but diffusion and flow-matching generators can produce sharp fields that break the conservation laws of their coarse input. Physics-Constrained Rectified Flow (PC-RF) is a conditional flow-matching downscaler. Its training penalties target wind divergence, negative ",
-      "url": "https://arxiv.org/abs/2611.22283",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "6ed3c1986b96",
-      "title": "AutoE2E: Don't speak - Language free end-to-end autonomy A Real-Time Driving Model for L2++ ADAS and L4 Robotaxis",
-      "summary": "arXiv:2611.22374v1 Announce Type: new Abstract: AutoE2E is an open-source end-to-end driving model developed by the Autoware Foundation Robotaxi Working Group. It introduces a temporal bird's-eye-view (BEV) architecture that combines multi-camera perception, HD-map information and route conditioning to predict future vehicle motion. The evaluated model uses a pretrained camera-BEV backbone, tempor",
-      "url": "https://arxiv.org/abs/2611.22374",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "3c788da4c6e6",
-      "title": "Towards Data-Efficient, Real-Time World Models",
-      "summary": "arXiv:2611.22497v1 Announce Type: new Abstract: State-of-the-art world models have been used to produce sequences of gameplay that accord with provided user-input actions. However, high quality, consistent gameplay generation often comes at the cost of inference speed, making real-time interactive play and ideation challenging. The substantial quantities of data used to train state-of-the-art mode",
-      "url": "https://arxiv.org/abs/2611.22497",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "0eaed34097ab",
-      "title": "When Agent Skills Go Stale: Runtime Behavior and Selective Maintenance in Evolving Environments",
-      "summary": "arXiv:2611.22525v1 Announce Type: new Abstract: Agent skills use past experience and current observations to guide decisions and actions on related tasks. This experience is retained in skill state, whose reuse can amortize inference-time reasoning and environment interaction. When environment changes, parts of this state can become outdated while others remain useful. Across four task settings an",
-      "url": "https://arxiv.org/abs/2611.22525",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "3cb8b5b0a543",
-      "title": "PACT: Plan-Action Consistency Training by Preserving Correct Plans and Repairing Actions in GUI Agents",
-      "summary": "arXiv:2611.22591v1 Announce Type: new Abstract: GUI agents can formulate a correct immediate plan in their reasoning yet emit an action that fails to execute it, creating an execution gap. This recurring mismatch undermines reliable task completion, as a single execution error can derail a multi-step workflow. In outcome-supervised reinforcement learning, broadcasting a negative response-level adv",
-      "url": "https://arxiv.org/abs/2611.22591",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "2e736d5213c6",
-      "title": "Depth-Aware Activation Steering via Attention Residuals",
-      "summary": "arXiv:2611.21655v1 Announce Type: cross Abstract: Activation steering is a simple, training-free way to modulate LLM behavior, yet existing methods typically inject vectors at a single layer and lack mechanisms for depth-aware propagation or internal verification. We combine two recent ideas - Attention Residuals (AttnRes) providing learnable cross-layer pathways, and Jacobian-lens (J-space) conce",
-      "url": "https://arxiv.org/abs/2611.21655",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "668900771644",
-      "title": "Token Commitment as a Control Surface for Steering Masked Diffusion Generation",
-      "summary": "arXiv:2611.21669v1 Announce Type: cross Abstract: Masked diffusion models repeatedly predict provisional tokens before a sampler decides which predictions become permanent. Existing inference-time steering methods primarily modify activations, logits, or denoising trajectories, while treating this commitment policy as a fixed decoding detail. We instead study token commitment as a diffusion-specif",
-      "url": "https://arxiv.org/abs/2611.21669",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
       "id": "ef6af8d34123",
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
@@ -664,7 +666,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-18T20:14:33.000Z"
+      "publishedAt": "2026-11-19T06:50:22.000Z"
     },
     {
       "id": "1a8ce30019c4",
@@ -679,22 +681,166 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-18T20:14:33.000Z"
+      "publishedAt": "2026-11-19T06:50:22.000Z"
     },
     {
-      "id": "1597a6a37fd0",
-      "title": "Fable 5.2 made a video explaining the DeepSeek Super-agent architecture",
-      "summary": "Article URL: https://www.youtube.com/watch?v=-b7g5XIgEn0 Comments URL: https://news.ycombinator.com/item?id=50550078 Points: 2 # Comments: 0",
-      "url": "https://www.youtube.com/watch?v=-b7g5XIgEn0",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "13cde20b7118",
+      "title": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
+      "summary": "arXiv:2611.22177v1 Announce Type: new Abstract: Large language model (LLM) trading agents are tested on news, but news reaches stock prices within minutes, and a benchmark that replays headlines at their publication time finds no alpha in trading on them. Money can then remain in two places, before news whose date is known, such as earnings announcements, and after bad news, if the market's fall w",
+      "url": "https://arxiv.org/abs/2611.22177",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "5179cb3c80e7",
+      "title": "CorrectCast: Selective Multimodal Context for Scale-Aware Residual Correction in Precipitation Nowcasting",
+      "summary": "arXiv:2611.22178v1 Announce Type: new Abstract: Precipitation nowcasting models suffer from errors in intensity, location, and spatial structure. Addressing these errors by retraining nowcaster backbones can be computationally expensive and requires architecture-specific modifications. To overcome these limitations, we propose CorrectCast, a decoupled residual correction framework that refines com",
+      "url": "https://arxiv.org/abs/2611.22178",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "714389ec00b4",
+      "title": "The Fragility of Reasoning-Importance Attribution for Pruning Language Models",
+      "summary": "arXiv:2611.22234v1 Announce Type: new Abstract: Attribution-guided pruning scores components by their causal contribution and protects the important ones, and it is increasingly applied to compress reasoning language models without destroying their chain of thought. Its reliability rests on an unexamined assumption: that reasoning importance can be faithfully measured. Across four small reasoning ",
+      "url": "https://arxiv.org/abs/2611.22234",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "68fedc6bdbf2",
+      "title": "Multi-Agent Memory Inconsistency: Where Factual Conflicts Disappear in LLM Agents",
+      "summary": "arXiv:2611.22245v2 Announce Type: new Abstract: Multi-agent delegation lets LLM systems distribute evidence collection across workers with separate contexts. This creates a consistency challenge: facts retrieved by workers may be missing from the evidence available to the lead for a joint conclusion. We introduce a benchmark and evidence-flow profiler for studying multi-agent memory inconsistency ",
+      "url": "https://arxiv.org/abs/2611.22245",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "de38ec2d01f6",
+      "title": "SpecSearch: Towards Hardware-Aware Efficient Speculative Decoding",
+      "summary": "arXiv:2611.22296v1 Announce Type: new Abstract: Speculative decoding (SD) accelerates large language model (LLM) inference, but its optimal configuration depends jointly on workload characteristics, GPU hardware, and available memory. For example, on the RTX~5090, the state-of-the-art speculative drafter DFlash achieves $3.50\\times$ the throughput of autoregressive (AR) decoding at low concurrency",
+      "url": "https://arxiv.org/abs/2611.22296",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "fcd73e176ad5",
+      "title": "EviDARL: Evidence-Centric Dual-Agent Reasoning via Alternating Reinforcement Learning for Multi-Table Question Answering",
+      "summary": "arXiv:2611.22310v1 Announce Type: new Abstract: Despite advances in LLM-based table reasoning, most studies focus on single-table settings. Multi-table QA requires multi-hop reasoning over complex table relationships and evidence dispersed across long contexts, often without verifiable intermediate traces. To address these challenges, we introduce EviDA, an evidence-centric dual-agent framework co",
+      "url": "https://arxiv.org/abs/2611.22310",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "ea4359f5d2d6",
+      "title": "HealthCLBench:Evaluating Context Learning in Health Conversations through Controlled Case Clusters",
+      "summary": "arXiv:2611.22362v2 Announce Type: new Abstract: Complex health conversations require answers grounded in individual information and currently valid evidence. We evaluate health context learning: acquiring, integrating, and applying relevant context during inference with fixed model parameters to answer health questions and respond appropriately to changes in facts, evidence, or task goals. To our ",
+      "url": "https://arxiv.org/abs/2611.22362",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "5f426c360e9f",
+      "title": "SciWorkBench: A Benchmark for Real Scientific Workflows",
+      "summary": "arXiv:2611.22490v1 Announce Type: new Abstract: Language models are increasingly being used as agents capable of planning and executing projects, as well as refining their actions through feedback. This shift raises a question: can current agents complete projects like real scientists? To examine this question, we introduce SciWorkBench, a benchmark for evaluating agents' abilities on real science",
+      "url": "https://arxiv.org/abs/2611.22490",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "0c389ee11d89",
+      "title": "Right Diagnosis, Unsafe Route: Auditing Clinical AI Decision Trajectories and Corrective Oversight for Validity and Potential Harm",
+      "summary": "arXiv:2611.22612v1 Announce Type: new Abstract: A clinical AI system can reach a correct final diagnosis through intermediate decisions that could have harmed the patient, and can repair an error while introducing new risks. Most evaluations score final diagnoses; even stepwise benchmarks, which release a case's evidence over time, score whether systems reach the right diagnosis or gather the righ",
+      "url": "https://arxiv.org/abs/2611.22612",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "1a73195637e7",
+      "title": "Can Activation Steering Substitute for Prompt-Based Affective Priming in LLM Digital Twins?",
+      "summary": "arXiv:2611.22738v1 Announce Type: new Abstract: Affective priming -- asking participants to write about a recalled event, such as a time they felt grateful or lacked control, and then measuring the induced state and its spillover onto related judgments -- is a standard way to manipulate emotion in the social sciences, and it also shifts the responses of LLM-based digital twins. The writing task, h",
+      "url": "https://arxiv.org/abs/2611.22738",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
       "category": [
         "open_source",
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-18T18:27:40.000Z"
+      "publishedAt": "2026-11-19T05:00:00.000Z"
+    },
+    {
+      "id": "516ce79c9283",
+      "title": "Outcome-Balanced PPO and Policy-Induced Flow Rectification for Flow-Based VLA Policies",
+      "summary": "arXiv:2611.22878v1 Announce Type: new Abstract: Reinforcement learning (RL) enables post-training of flow-based vision-language-action (VLA) policies by optimizing expected task return through environment interaction. However, this optimization raises two challenges: policy updates can alter the velocity-field geometry underlying the score approximation used for stochastic transitions, and sparse ",
+      "url": "https://arxiv.org/abs/2611.22878",
+      "source": "arXiv cs.AI",
+      "sourceId": "arxiv",
+      "icon": "📄",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     },
     {
       "id": "b15d023f05d1",
@@ -754,150 +900,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-11-18T14:33:44.000Z"
-    },
-    {
-      "id": "13cde20b7118",
-      "title": "The Only Edge Was Memorized in Training: LLM Trading Agents Around Earnings and Bad News",
-      "summary": "arXiv:2611.22177v1 Announce Type: new Abstract: Large language model (LLM) trading agents are tested on news, but news reaches stock prices within minutes, and a benchmark that replays headlines at their publication time finds no alpha in trading on them. Money can then remain in two places, before news whose date is known, such as earnings announcements, and after bad news, if the market's fall w",
-      "url": "https://arxiv.org/abs/2611.22177",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "5179cb3c80e7",
-      "title": "CorrectCast: Selective Multimodal Context for Scale-Aware Residual Correction in Precipitation Nowcasting",
-      "summary": "arXiv:2611.22178v1 Announce Type: new Abstract: Precipitation nowcasting models suffer from errors in intensity, location, and spatial structure. Addressing these errors by retraining nowcaster backbones can be computationally expensive and requires architecture-specific modifications. To overcome these limitations, we propose CorrectCast, a decoupled residual correction framework that refines com",
-      "url": "https://arxiv.org/abs/2611.22178",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "714389ec00b4",
-      "title": "The Fragility of Reasoning-Importance Attribution for Pruning Language Models",
-      "summary": "arXiv:2611.22234v1 Announce Type: new Abstract: Attribution-guided pruning scores components by their causal contribution and protects the important ones, and it is increasingly applied to compress reasoning language models without destroying their chain of thought. Its reliability rests on an unexamined assumption: that reasoning importance can be faithfully measured. Across four small reasoning ",
-      "url": "https://arxiv.org/abs/2611.22234",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "68fedc6bdbf2",
-      "title": "Multi-Agent Memory Inconsistency: Where Factual Conflicts Disappear in LLM Agents",
-      "summary": "arXiv:2611.22245v1 Announce Type: new Abstract: Multi-agent delegation lets LLM systems distribute evidence collection across workers with separate contexts. This creates a consistency challenge: facts retrieved by workers may be missing from the evidence available to the lead for a joint conclusion. We introduce a benchmark and evidence-flow profiler for studying multi-agent memory inconsistency ",
-      "url": "https://arxiv.org/abs/2611.22245",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "de38ec2d01f6",
-      "title": "SpecSearch: Towards Hardware-Aware Efficient Speculative Decoding",
-      "summary": "arXiv:2611.22296v1 Announce Type: new Abstract: Speculative decoding (SD) accelerates large language model (LLM) inference, but its optimal configuration depends jointly on workload characteristics, GPU hardware, and available memory. For example, on the RTX~5090, the state-of-the-art speculative drafter DFlash achieves $3.50\\times$ the throughput of autoregressive (AR) decoding at low concurrency",
-      "url": "https://arxiv.org/abs/2611.22296",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "fcd73e176ad5",
-      "title": "EviDARL: Evidence-Centric Dual-Agent Reasoning via Alternating Reinforcement Learning for Multi-Table Question Answering",
-      "summary": "arXiv:2611.22310v1 Announce Type: new Abstract: Despite advances in LLM-based table reasoning, most studies focus on single-table settings. Multi-table QA requires multi-hop reasoning over complex table relationships and evidence dispersed across long contexts, often without verifiable intermediate traces. To address these challenges, we introduce EviDA, an evidence-centric dual-agent framework co",
-      "url": "https://arxiv.org/abs/2611.22310",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "ea4359f5d2d6",
-      "title": "HealthCLBench:Evaluating Context Learning in Health Conversations through Controlled Case Clusters",
-      "summary": "arXiv:2611.22362v1 Announce Type: new Abstract: Complex health conversations require answers grounded in individual information and currently valid evidence. We evaluate health context learning: acquiring, integrating, and applying relevant context during inference with fixed model parameters to answer health questions and respond appropriately to changes in facts, evidence, or task goals. To our ",
-      "url": "https://arxiv.org/abs/2611.22362",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "5f426c360e9f",
-      "title": "SciWorkBench: A Benchmark for Real Scientific Workflows",
-      "summary": "arXiv:2611.22490v1 Announce Type: new Abstract: Language models are increasingly being used as agents capable of planning and executing projects, as well as refining their actions through feedback. This shift raises a question: can current agents complete projects like real scientists? To examine this question, we introduce SciWorkBench, a benchmark for evaluating agents' abilities on real science",
-      "url": "https://arxiv.org/abs/2611.22490",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "9a2a0e1e2b1d",
-      "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
-      "summary": "arXiv:2611.14505v3 Announce Type: cross Abstract: Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied domain, serve each instance only once, and assume a single family of learner, so memory-based and weight-based systems are rarely co",
-      "url": "https://arxiv.org/abs/2611.14505",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
-    },
-    {
-      "id": "862c28d945c7",
-      "title": "Marimba: A System One Model for Speech",
-      "summary": "arXiv:2611.18330v1 Announce Type: cross Abstract: Speech applications require decisions about term presence, turn completion, and language within an audio window. We present Marimba, an interface for typed speech decisions built on frozen Qwen3-ASR 0.6B features. Lexical questions use zero-shot scoring of ASR transcripts; non-lexical questions use a question-conditioned head and a separate layer-1",
-      "url": "https://arxiv.org/abs/2611.18330",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-18T05:00:00.000Z"
     }
   ]
 }
