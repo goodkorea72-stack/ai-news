@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T06:39:00.094Z",
-  "nextUpdate": "2026-11-20T18:00:00.000Z",
+  "generatedAt": "2026-11-20T19:50:10.399Z",
+  "nextUpdate": "2026-11-21T07:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
   "totalCollected": 276,
@@ -35,6 +35,20 @@
       ],
       "score": 10,
       "publishedAt": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "id": "b6d4f097c91e",
+      "title": "Nvidia bets at least $500 million on Inception&#039;s diffusion models to strengthen its open-source Nemotron lineup",
+      "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the token-by-token generation used by models like ChatGPT. The deal would bolster Nvidia's own open-source models and its push into robotics. The article Nvidia bets at least ",
+      "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source"
+      ],
+      "score": 9,
+      "publishedAt": "2026-11-20T14:53:50.000Z"
     },
     {
       "id": "3107bd84589a",
@@ -188,7 +202,36 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-20T06:39:00.000Z"
+      "publishedAt": "2026-11-20T19:50:05.000Z"
+    },
+    {
+      "id": "4c28ba41bed7",
+      "title": "The use of AI based tools to find bugs in Open Source software",
+      "summary": "Article URL: https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software Comments URL: https://news.ycombinator.com/item?id=50580695 Points: 1 # Comments: 0",
+      "url": "https://www.haproxy.com/blog/on-the-use-of-ai-based-tools-to-find-bugs-in-open-source-software",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-20T19:39:15.000Z"
+    },
+    {
+      "id": "3ed5c35a64b2",
+      "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
+      "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your device while raising new barriers for competitors appeared first on The Decoder .",
+      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-20T15:03:25.000Z"
     },
     {
       "id": "b5c413c730ef",
@@ -281,36 +324,6 @@
       "publishedAt": "2026-11-20T05:00:00.000Z"
     },
     {
-      "id": "81876f29a9b5",
-      "title": "Google&#039;s latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago",
-      "summary": "Google DeepMind has released Gemini 4 Neon, its fourth model in seven weeks, which is nearly 2x faster than its sibling Carbon, outperforms it on most benchmarks and comes in at a significantly lower price. The article Google&#039;s latest AI model is faster, cheaper and smarter than its flagship predecessor from just weeks ago appeared first on The Decoder .",
-      "url": "https://the-decoder.com/googles-latest-ai-model-is-faster-cheaper-and-smarter-than-its-flagship-predecessor-from-just-weeks-ago/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-19T11:18:18.000Z"
-    },
-    {
-      "id": "15c026c40ca1",
-      "title": "Google ships Gemini 4 Neon, its fourth new Gemini model in a month",
-      "summary": "Google released Gemini 4 Neon, a new frontier model built for software development, knowledge work, and science. It handles text, images, video, audio, and PDFs with a context window of one million tokens. At $3 per million input tokens and $15 per million output tokens, Neon is priced above previous Gemini 4 models. The article Google ships Gemini 4 Neon, its fourth new Gemini model in a month ap",
-      "url": "https://the-decoder.com/google-ships-gemini-4-neon-its-fourth-new-gemini-model-in-a-month/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-18T21:03:23.000Z"
-    },
-    {
       "id": "615683b8febc",
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "summary": "",
@@ -365,22 +378,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-09-22T00:00:00.000Z"
-    },
-    {
-      "id": "0ee1d6e4536f",
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "summary": "",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "open_source",
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-08-10T00:00:00.000Z"
     },
     {
       "id": "040d0b2e8142",
@@ -487,21 +484,6 @@
       "publishedAt": "2026-11-19T18:00:00.000Z"
     },
     {
-      "id": "e1f95e4f0cd8",
-      "title": "Google Deepmind&#039;s Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
-      "summary": "With Genie 4, Google DeepMind is launching its most realistic world model to date for Google AI Ultra subscribers. It generates interactive 3D worlds that can be modified in real time via text input and, for the first time, includes native sound. A community gallery allows users to share and remix the worlds they've created. The article Google Deepmind&#039;s Project Genie update brings Genie 4, c",
-      "url": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 5,
-      "publishedAt": "2026-11-18T19:26:25.000Z"
-    },
-    {
       "id": "9587a56d2553",
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
@@ -559,7 +541,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-20T06:39:00.000Z"
+      "publishedAt": "2026-11-20T19:50:05.000Z"
     },
     {
       "id": "c2a8f386f05a",
@@ -574,7 +556,22 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-20T06:39:00.000Z"
+      "publishedAt": "2026-11-20T19:50:05.000Z"
+    },
+    {
+      "id": "b706f8985161",
+      "title": "Hermes Agent&#039;s Collective Wisdom feature turns one employee&#039;s AI trick into the whole team&#039;s skill",
+      "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent&#039;s Collective Wisdom feature turns one employee&#039;s AI trick into the whole team&#039;s skill appeared first on The Decoder .",
+      "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-20T09:59:51.000Z"
     },
     {
       "id": "e1244217cf6f",
@@ -724,21 +721,6 @@
       "publishedAt": "2026-11-20T05:00:00.000Z"
     },
     {
-      "id": "2978b0ab86c1",
-      "title": "Papr-embed-code SOTA at code retrieval open source",
-      "summary": "Article URL: https://qdrant.tech/blog/papr-embed-code/ Comments URL: https://news.ycombinator.com/item?id=50569422 Points: 1 # Comments: 0",
-      "url": "https://qdrant.tech/blog/papr-embed-code/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-20T02:27:48.000Z"
-    },
-    {
       "id": "ee2e905fa6f8",
       "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
       "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt injection as a possible trigger but cannot establish it as the sole cause. The article An OpenAI agent ",
@@ -824,7 +806,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-20T06:39:00.000Z"
+      "publishedAt": "2026-11-20T19:50:05.000Z"
     },
     {
       "id": "e7954e934545",
@@ -838,7 +820,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-20T06:39:00.000Z"
+      "publishedAt": "2026-11-20T19:50:05.000Z"
     },
     {
       "id": "2c1930c3e989",
@@ -852,49 +834,64 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-20T06:39:00.000Z"
+      "publishedAt": "2026-11-20T19:50:05.000Z"
     },
     {
-      "id": "b11b7a08dc30",
-      "title": "How should we evaluate image memory in AI agents?",
-      "summary": "Article URL: https://twitter.com/AgentMemoryL/status/2123418533950591252 Comments URL: https://news.ycombinator.com/item?id=50570866 Points: 1 # Comments: 0",
-      "url": "https://twitter.com/AgentMemoryL/status/2123418533950591252",
+      "id": "f9cfcb72cf9c",
+      "title": "China Is Mass-Producing One-Person AI Companies",
+      "summary": "Article URL: https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs Comments URL: https://news.ycombinator.com/item?id=50580788 Points: 1 # Comments: 0",
+      "url": "https://www.bloomberg.com/news/features/2026-11-12/how-china-is-creating-a-new-generation-of-ai-entrepreneurs",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
       "category": [
-        "industry"
+        "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-20T06:24:56.000Z"
+      "publishedAt": "2026-11-20T19:45:43.000Z"
     },
     {
-      "id": "a631bd0bd53c",
-      "title": "HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs",
-      "summary": "arXiv:2611.23398v1 Announce Type: new Abstract: The rapid scale-up of AI infrastructure has made datacenter reliability a cornerstone of the cloud business economy. Since hardware failures in hyper-scale AI clusters can stall multi-million dollar training workloads, the downtime of individual machines can cause outsized economic losses. Minimizing machine downtime, therefore, is more important tha",
-      "url": "https://arxiv.org/abs/2611.23398",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
+      "id": "37dca90e58d8",
+      "title": "A on device STT Wisper Flow alternative that uses Mistral Voxtral model and AFM",
+      "summary": "Article URL: https://github.com/ThriveEngineer/Whistral Comments URL: https://news.ycombinator.com/item?id=50580600 Points: 1 # Comments: 0",
+      "url": "https://github.com/ThriveEngineer/Whistral",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
-        "industry"
+        "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-20T05:00:00.000Z"
+      "publishedAt": "2026-11-20T19:34:03.000Z"
     },
     {
-      "id": "67b6f59ac7f9",
-      "title": "LusoClin: A Synthetic Clinical Note Dataset for Medical Information Retrieval in European Portuguese",
-      "summary": "arXiv:2611.23454v1 Announce Type: new Abstract: Access to large-scale clinical text collections is crucial for advancing medical information retrieval research, including clinical note search, patient cohort identification, and domain-adapted retrieval models. However, real clinical notes are rarely available due to privacy regulations, which particularly limits progress for low-resource languages",
-      "url": "https://arxiv.org/abs/2611.23454",
-      "source": "arXiv cs.AI",
-      "sourceId": "arxiv",
-      "icon": "📄",
+      "id": "921950594ea2",
+      "title": "Ask HN: Did you buy hardware for Local AI?",
+      "summary": "With the release of some new platforms having 128GB or more of unified memories, I am wondering if I should spend some money on those. I am looking for feedback and stories of people who bought hardware for local-first AI. - Did you identify a sweet spot in model size, and therefore hardware sizing? - Did you continue to use cloud / frontier models? Comments URL: https://news.ycombinator.com/item?",
+      "url": "https://news.ycombinator.com/item?id=50578897",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
+        "new_model",
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-20T05:00:00.000Z"
+      "publishedAt": "2026-11-20T17:50:07.000Z"
+    },
+    {
+      "id": "0947ce846a3c",
+      "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
+      "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank adviser Cai Fang warns that a larger AI shock is still ahead. The article Bloomberg analysis of 10 million job postings shows",
+      "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-20T15:56:03.000Z"
     }
   ]
 }
