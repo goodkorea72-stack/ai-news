@@ -1,25 +1,11 @@
 {
-  "generatedAt": "2026-11-21T06:31:43.347Z",
-  "nextUpdate": "2026-11-21T18:00:00.000Z",
+  "generatedAt": "2026-11-21T18:56:17.891Z",
+  "nextUpdate": "2026-11-22T06:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
   "totalCollected": 156,
   "articleCount": 60,
   "articles": [
-    {
-      "id": "b6d4f097c91e",
-      "title": "Nvidia bets at least $500 million on Inception&#039;s diffusion models to strengthen its open-source Nemotron lineup",
-      "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approach to the token-by-token generation used by models like ChatGPT. The deal would bolster Nvidia's own open-source models and its push into robotics. The article Nvidia bets at least ",
-      "url": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source"
-      ],
-      "score": 9,
-      "publishedAt": "2026-11-20T14:53:50.000Z"
-    },
     {
       "id": "8fd73864f0eb",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
@@ -35,6 +21,36 @@
       ],
       "score": 9,
       "publishedAt": "2026-08-10T16:25:36.000Z"
+    },
+    {
+      "id": "00c2a960b5d5",
+      "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+      "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard reasoning content and lower response quality. The article OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to",
+      "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-21T13:32:35.000Z"
+    },
+    {
+      "id": "571ae809f5fe",
+      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+      "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model, data, and code are freely available. The article Bytedance argues most AI training phases are unneces",
+      "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-11-21T09:17:24.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -79,7 +95,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-21T06:31:43.000Z"
+      "publishedAt": "2026-11-21T18:56:17.000Z"
     },
     {
       "id": "213a6e8e3c0a",
@@ -94,21 +110,6 @@
       ],
       "score": 6,
       "publishedAt": "2026-11-20T20:31:50.000Z"
-    },
-    {
-      "id": "3ed5c35a64b2",
-      "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
-      "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control your device while raising new barriers for competitors appeared first on The Decoder .",
-      "url": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-20T15:03:25.000Z"
     },
     {
       "id": "615683b8febc",
@@ -165,6 +166,21 @@
       ],
       "score": 6,
       "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "ce77ada7ef2d",
+      "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+      "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, Stanford researchers published an independent, entirely human competing proof, and mathematicians are now checking whether either one holds up. The article Hours after Anthropic cla",
+      "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-21T11:19:49.000Z"
     },
     {
       "id": "6cec1232394d",
@@ -239,7 +255,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-21T06:31:43.000Z"
+      "publishedAt": "2026-11-21T18:56:17.000Z"
     },
     {
       "id": "c2a8f386f05a",
@@ -254,13 +270,13 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-21T06:31:43.000Z"
+      "publishedAt": "2026-11-21T18:56:17.000Z"
     },
     {
-      "id": "b706f8985161",
-      "title": "Hermes Agent&#039;s Collective Wisdom feature turns one employee&#039;s AI trick into the whole team&#039;s skill",
-      "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent&#039;s Collective Wisdom feature turns one employee&#039;s AI trick into the whole team&#039;s skill appeared first on The Decoder .",
-      "url": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
+      "id": "3bd8ed82cfcf",
+      "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+      "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at roughly six times lower cost. The article New open model Inkling 2 Mini thinks in loops to solve problems with fewer wor",
+      "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -269,22 +285,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-20T09:59:51.000Z"
-    },
-    {
-      "id": "ee2e905fa6f8",
-      "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-      "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it as an environment error. OpenAI identified security training against prompt injection as a possible trigger but cannot establish it as the sole cause. The article An OpenAI agent ",
-      "url": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-19T21:15:01.000Z"
+      "publishedAt": "2026-11-21T10:33:02.000Z"
     },
     {
       "id": "470cf1b70d07",
@@ -357,7 +358,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-21T06:31:43.000Z"
+      "publishedAt": "2026-11-21T18:56:17.000Z"
     },
     {
       "id": "e7954e934545",
@@ -371,7 +372,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-21T06:31:43.000Z"
+      "publishedAt": "2026-11-21T18:56:17.000Z"
     },
     {
       "id": "2c1930c3e989",
@@ -385,7 +386,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-21T06:31:43.000Z"
+      "publishedAt": "2026-11-21T18:56:17.000Z"
     },
     {
       "id": "9c9fe081ed64",
@@ -401,20 +402,6 @@
       ],
       "score": 3,
       "publishedAt": "2026-11-20T19:50:27.000Z"
-    },
-    {
-      "id": "0947ce846a3c",
-      "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
-      "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese micro-dramas now produced using AI. Former central bank adviser Cai Fang warns that a larger AI shock is still ahead. The article Bloomberg analysis of 10 million job postings shows",
-      "url": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-20T15:56:03.000Z"
     },
     {
       "id": "4b03280dd98b",
@@ -627,7 +614,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-21T06:31:43.000Z"
+      "publishedAt": "2026-11-21T18:56:17.000Z"
     },
     {
       "id": "afc24024fc7a",
@@ -641,7 +628,7 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-21T06:31:43.000Z"
+      "publishedAt": "2026-11-21T18:56:17.000Z"
     },
     {
       "id": "1a2dbb8036c8",
@@ -655,7 +642,21 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-21T06:31:43.000Z"
+      "publishedAt": "2026-11-21T18:56:17.000Z"
+    },
+    {
+      "id": "d0679f750133",
+      "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+      "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doubts, scandals, rising interest rates, and political headwinds are hitting overheated valuations all at once. The article US technology stocks suffer their worst ",
+      "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-21T10:27:44.000Z"
     },
     {
       "id": "cf70b6f0200b",
@@ -670,20 +671,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-11-20T18:50:31.000Z"
-    },
-    {
-      "id": "2cf8b47a395c",
-      "title": "AI industry growth remains strong, but the pace is slowing",
-      "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter independently show the same pattern: the AI industry is still growing, but revenue momentum is cooling. The article AI industry growth remains strong, but the pace is slowing",
-      "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-19T19:28:19.000Z"
     },
     {
       "id": "6085dacbd78e",
@@ -878,6 +865,20 @@
       ],
       "score": 2,
       "publishedAt": "2026-09-29T13:07:00.000Z"
+    },
+    {
+      "id": "31b1ab840744",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "summary": "",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-22T00:00:00.000Z"
     }
   ]
 }
