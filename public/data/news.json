@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T18:56:17.891Z",
-  "nextUpdate": "2026-11-22T06:00:00.000Z",
+  "generatedAt": "2026-11-22T05:59:50.543Z",
+  "nextUpdate": "2026-11-22T17:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
   "totalCollected": 156,
@@ -95,7 +95,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-21T18:56:17.000Z"
+      "publishedAt": "2026-11-22T05:59:37.000Z"
     },
     {
       "id": "213a6e8e3c0a",
@@ -255,7 +255,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-21T18:56:17.000Z"
+      "publishedAt": "2026-11-22T05:59:37.000Z"
     },
     {
       "id": "c2a8f386f05a",
@@ -270,7 +270,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-21T18:56:17.000Z"
+      "publishedAt": "2026-11-22T05:59:37.000Z"
     },
     {
       "id": "3bd8ed82cfcf",
@@ -358,7 +358,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-21T18:56:17.000Z"
+      "publishedAt": "2026-11-22T05:59:37.000Z"
     },
     {
       "id": "e7954e934545",
@@ -372,7 +372,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-21T18:56:17.000Z"
+      "publishedAt": "2026-11-22T05:59:37.000Z"
     },
     {
       "id": "2c1930c3e989",
@@ -386,7 +386,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-21T18:56:17.000Z"
+      "publishedAt": "2026-11-22T05:59:37.000Z"
     },
     {
       "id": "9c9fe081ed64",
@@ -614,7 +614,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-21T18:56:17.000Z"
+      "publishedAt": "2026-11-22T05:59:37.000Z"
     },
     {
       "id": "afc24024fc7a",
@@ -628,7 +628,7 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-21T18:56:17.000Z"
+      "publishedAt": "2026-11-22T05:59:37.000Z"
     },
     {
       "id": "1a2dbb8036c8",
@@ -642,7 +642,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-21T18:56:17.000Z"
+      "publishedAt": "2026-11-22T05:59:37.000Z"
     },
     {
       "id": "d0679f750133",
@@ -671,6 +671,23 @@
       ],
       "score": 2,
       "publishedAt": "2026-11-20T18:50:31.000Z"
+    },
+    {
+      "id": "f01fc972518e",
+      "title": "llm-gemini 0.38.1",
+      "summary": "",
+      "url": {
+        "@_href": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+        "@_rel": "alternate"
+      },
+      "source": "Simon Willison",
+      "sourceId": "simonwillison",
+      "icon": "🧪",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-20T03:01:57.000Z"
     },
     {
       "id": "6085dacbd78e",
@@ -778,23 +795,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-11-11T15:11:59.000Z"
-    },
-    {
-      "id": "9b49911070c8",
-      "title": "llm-gemini 0.36",
-      "summary": "",
-      "url": {
-        "@_href": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
-        "@_rel": "alternate"
-      },
-      "source": "Simon Willison",
-      "sourceId": "simonwillison",
-      "icon": "🧪",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-10T20:09:44.000Z"
     },
     {
       "id": "89f18e75ebd8",
