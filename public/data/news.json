@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T05:59:50.543Z",
-  "nextUpdate": "2026-11-22T17:00:00.000Z",
+  "generatedAt": "2026-11-22T19:17:10.234Z",
+  "nextUpdate": "2026-11-23T07:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
   "totalCollected": 156,
@@ -23,6 +23,20 @@
       "publishedAt": "2026-08-10T16:25:36.000Z"
     },
     {
+      "id": "134e3022d755",
+      "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+      "summary": "OpenAI's GPT-6.2 Astra and Sol give much shorter, more direct answers than their predecessors, but they are also less willing to admit uncertainty. Anthropic's Claude models score well ahead on transparency. The article GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude appeared first on The Decoder .",
+      "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-22T09:41:37.000Z"
+    },
+    {
       "id": "00c2a960b5d5",
       "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
       "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing as well, since editing a conversation's history can discard reasoning content and lower response quality. The article OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to",
@@ -36,21 +50,6 @@
       ],
       "score": 8,
       "publishedAt": "2026-11-21T13:32:35.000Z"
-    },
-    {
-      "id": "571ae809f5fe",
-      "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
-      "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to carefully curated training data rather than ever more training steps. The model, data, and code are freely available. The article Bytedance argues most AI training phases are unneces",
-      "url": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-11-21T09:17:24.000Z"
     },
     {
       "id": "a0a3a9608043",
@@ -95,21 +94,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-22T05:59:37.000Z"
-    },
-    {
-      "id": "213a6e8e3c0a",
-      "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
-      "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 percent to 0.2 percent. The company is also suspending thousands to tens of thousands of accounts each week over coordinated distillation campaigns. The article OpenAI makes it much",
-      "url": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-20T20:31:50.000Z"
+      "publishedAt": "2026-11-22T19:17:02.000Z"
     },
     {
       "id": "615683b8febc",
@@ -166,6 +151,21 @@
       ],
       "score": 6,
       "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "e0d5818de6e8",
+      "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+      "summary": "METR reports that leading AI models like Opus 5.5 and GPT-6 Astra are improving rapidly at research tasks but getting harder to measure. Current data can't rule out a dangerous acceleration in AI development, the organization warns, though it also says common tests may overestimate what the models can actually do. The article AI is getting better faster than experts can reliably test whether new s",
+      "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-22T13:00:43.000Z"
     },
     {
       "id": "ce77ada7ef2d",
@@ -255,7 +255,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-22T05:59:37.000Z"
+      "publishedAt": "2026-11-22T19:17:02.000Z"
     },
     {
       "id": "c2a8f386f05a",
@@ -270,22 +270,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-22T05:59:37.000Z"
-    },
-    {
-      "id": "3bd8ed82cfcf",
-      "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
-      "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial Analysis's Intelligence Index, it ties with Qwen3.8 27B at roughly six times lower cost. The article New open model Inkling 2 Mini thinks in loops to solve problems with fewer wor",
-      "url": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-21T10:33:02.000Z"
+      "publishedAt": "2026-11-22T19:17:02.000Z"
     },
     {
       "id": "470cf1b70d07",
@@ -358,7 +343,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-22T05:59:37.000Z"
+      "publishedAt": "2026-11-22T19:17:02.000Z"
     },
     {
       "id": "e7954e934545",
@@ -372,7 +357,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-22T05:59:37.000Z"
+      "publishedAt": "2026-11-22T19:17:02.000Z"
     },
     {
       "id": "2c1930c3e989",
@@ -386,13 +371,13 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-22T05:59:37.000Z"
+      "publishedAt": "2026-11-22T19:17:02.000Z"
     },
     {
-      "id": "9c9fe081ed64",
-      "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-      "summary": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protections remain incomplete, including on macOS. Apple, Google, and Microsoft should follow suit. The article Signal blocks screenshots on iOS 27 and Android to stop AI agents from read",
-      "url": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+      "id": "c632200054c9",
+      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+      "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow. Even Opus 5.5 and Astra fall far short, solving fewer than one in ten tasks completely. The models finish clear, standalone assignments quickly, but they",
+      "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -401,7 +386,21 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-20T19:50:27.000Z"
+      "publishedAt": "2026-11-22T15:15:48.000Z"
+    },
+    {
+      "id": "4fbce891372a",
+      "title": "Perplexity&#039;s new Monitor API turns web search from a one-off query into a nonstop watchdog",
+      "summary": "Perplexity is launching a Monitor API that searches the web on a schedule and alerts agents via webhook only when relevant changes occur. Its own decision model filters out unimportant results. For Perplexity, the API is part of a broader strategy to stand out from an increasingly interchangeable chatbot business through developer tools. The article Perplexity&#039;s new Monitor API turns web sear",
+      "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "industry"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-22T14:20:28.000Z"
     },
     {
       "id": "4b03280dd98b",
@@ -614,7 +613,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-22T05:59:37.000Z"
+      "publishedAt": "2026-11-22T19:17:02.000Z"
     },
     {
       "id": "afc24024fc7a",
@@ -628,7 +627,7 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-22T05:59:37.000Z"
+      "publishedAt": "2026-11-22T19:17:02.000Z"
     },
     {
       "id": "1a2dbb8036c8",
@@ -642,35 +641,21 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-22T05:59:37.000Z"
+      "publishedAt": "2026-11-22T19:17:02.000Z"
     },
     {
-      "id": "d0679f750133",
-      "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
-      "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its record IPO. AI doubts, scandals, rising interest rates, and political headwinds are hitting overheated valuations all at once. The article US technology stocks suffer their worst ",
-      "url": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+      "id": "667b407f4ebd",
+      "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+      "summary": "Security researchers at Dragos used two million fake AI requests to uncover serious vulnerabilities in the AI supply chain, finding at least three compromised providers, hundreds of stolen AWS keys, and marketplace resellers who were simply reading customer requests. OpenRouter responded by removing three providers and 125 endpoints. The article Security researchers show how cheap AI inference pro",
+      "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
       "category": [
-        "new_model"
+        "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-21T10:27:44.000Z"
-    },
-    {
-      "id": "cf70b6f0200b",
-      "title": "Google&#039;s Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
-      "summary": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google&#039;s Gemini can now run Mac apps and finish desktop chores in the background while you keep working appeared first on The Decoder .",
-      "url": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-20T18:50:31.000Z"
+      "publishedAt": "2026-11-22T12:07:56.000Z"
     },
     {
       "id": "f01fc972518e",
@@ -879,6 +864,20 @@
       ],
       "score": 2,
       "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "1fc8f7f56947",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "summary": "",
+      "url": "https://huggingface.co/blog/funes",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-03T00:00:00.000Z"
     }
   ]
 }
