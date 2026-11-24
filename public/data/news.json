@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-24T09:18:22.635Z",
-  "nextUpdate": "2026-11-24T21:00:00.000Z",
+  "generatedAt": "2026-11-24T22:10:45.067Z",
+  "nextUpdate": "2026-11-25T10:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 176,
+  "totalCollected": 156,
   "articleCount": 60,
   "articles": [
+    {
+      "id": "3f2bbe3126d4",
+      "title": "Dozens of insiders say OpenAI and Anthropic&#039;s unreleased models have outgrown their safety measures",
+      "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even stop training altogether, while employee trust in leadership is eroding. The article Dozens of insiders say OpenAI and Anthropic&#039;s unreleased models have outgrown t",
+      "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 8,
+      "publishedAt": "2026-11-24T14:02:31.000Z"
+    },
+    {
+      "id": "6d162cd5d67b",
+      "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+      "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work more independently. The article Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents appeared first on The Decoder ",
+      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 7,
+      "publishedAt": "2026-11-24T19:23:41.000Z"
+    },
     {
       "id": "a0a3a9608043",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
@@ -49,21 +79,21 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-24T09:18:22.000Z"
+      "publishedAt": "2026-11-24T22:10:43.000Z"
     },
     {
-      "id": "c1d535804fb0",
-      "title": "Ernie 5.5 Flash Preview is now open source",
-      "summary": "Article URL: https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview Comments URL: https://news.ycombinator.com/item?id=50625707 Points: 1 # Comments: 0",
-      "url": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "423410cd0d45",
+      "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
+      "summary": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up drug development, he says, but it won't beat cancer in a decade. The real value lies \"somewhere in the middle.\" The article Novartis CEO says AI will shave four years off drug development, not cure all disease appeared f",
+      "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source"
+        "new_model"
       ],
       "score": 6,
-      "publishedAt": "2026-11-24T09:14:48.000Z"
+      "publishedAt": "2026-11-24T18:01:55.000Z"
     },
     {
       "id": "3d658033d6ac",
@@ -134,6 +164,21 @@
       ],
       "score": 6,
       "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "096892e1190f",
+      "title": "Anthropic&#039;s Claude Ship lets AI agents review, fix, and approve pull requests on their own",
+      "summary": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines. The article Anthropic&#039;s Claude Ship lets AI agents review, fix, and approve pull requests on their own appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-24T11:26:23.000Z"
     },
     {
       "id": "6cec1232394d",
@@ -208,7 +253,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-24T09:18:22.000Z"
+      "publishedAt": "2026-11-24T22:10:43.000Z"
     },
     {
       "id": "c2a8f386f05a",
@@ -223,22 +268,35 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-24T09:18:22.000Z"
+      "publishedAt": "2026-11-24T22:10:43.000Z"
     },
     {
-      "id": "269a632da61f",
-      "title": "Show HN: Harny – AI coding agent for VSCodium/VS Code tuned for small/local LLMs",
-      "summary": "Article URL: https://harny.dev/ Comments URL: https://news.ycombinator.com/item?id=50625336 Points: 1 # Comments: 0",
-      "url": "https://harny.dev/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "8ad5ed335a5e",
+      "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+      "summary": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough. You build one in chat without writing code, and it can add menu bar items, send notifications, and create transparent windows. The article Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "open_source",
-        "industry"
+        "new_model"
       ],
       "score": 4,
-      "publishedAt": "2026-11-24T08:26:49.000Z"
+      "publishedAt": "2026-11-24T20:42:29.000Z"
+    },
+    {
+      "id": "53e015b7106a",
+      "title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "summary": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "new_model"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-24T16:00:00.000Z"
     },
     {
       "id": "a62dd3b02e52",
@@ -253,20 +311,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-11-23T20:39:18.000Z"
-    },
-    {
-      "id": "7c2d63bc31f7",
-      "title": "GPT-6.2 Astra solved a math theorem no other AI could crack, then invented its own proof strategy",
-      "summary": "OpenAI's GPT-6.2 Astra independently produced a machine-verifiable Lean proof of Smoktunowicz's gap theorem, the first of its kind according to Vals AI. The model chose its own approach because key foundations were missing from Mathlib. On Autoform-Hard, Astra now leads the leaderboard with 49 of 56 tasks solved. The article GPT-6.2 Astra solved a math theorem no other AI could crack, then invente",
-      "url": "https://the-decoder.com/gpt-6-2-astra-solved-a-math-theorem-no-other-ai-could-crack-then-invented-its-own-proof-strategy/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-23T12:17:01.000Z"
     },
     {
       "id": "470cf1b70d07",
@@ -339,7 +383,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-24T09:18:22.000Z"
+      "publishedAt": "2026-11-24T22:10:43.000Z"
     },
     {
       "id": "e7954e934545",
@@ -353,7 +397,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-24T09:18:22.000Z"
+      "publishedAt": "2026-11-24T22:10:43.000Z"
     },
     {
       "id": "2c1930c3e989",
@@ -367,27 +411,13 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-24T09:18:22.000Z"
+      "publishedAt": "2026-11-24T22:10:43.000Z"
     },
     {
-      "id": "8874f9431a48",
-      "title": "Open Source Oura Ring Data",
-      "summary": "Article URL: https://github.com/Th0rgal/open_oura Comments URL: https://news.ycombinator.com/item?id=50624164 Points: 1 # Comments: 0",
-      "url": "https://github.com/Th0rgal/open_oura",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-24T05:29:29.000Z"
-    },
-    {
-      "id": "af8f33a652da",
-      "title": "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
-      "summary": "OpenAI chief scientist Jakub Pachocki has released internal perplexity scores for the entire GPT series for the first time, up to an unreleased model beyond the current generation. The metric shows that core capabilities emerge at surprisingly precise thresholds. Pachocki is pushing to make perplexity an industry-wide progress metric and establish shared limits before control over AI behavior erod",
-      "url": "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+      "id": "9171b52ec341",
+      "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
+      "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,000 pages was a joke, he says, and the published Lean code is \"full of garbage.\" He still stands by the math. The article Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the ",
+      "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -396,37 +426,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-23T18:42:38.000Z"
-    },
-    {
-      "id": "30ab7fab5fd9",
-      "title": "Z.ai follows OpenAI into loop transformer territory with its new 750B flagship model",
-      "summary": "Z.ai is moving its flagship GLM-5.4 model to a loop architecture in which 28 layers run twice, which the company says lets the 750-billion-parameter model match models with 2 to 3 trillion parameters. Benchmark scores are only available for a smaller 30B test model so far, and Z.ai is positioning GLM-5.4 as the start of \"Generalized Coding,\" where code also generates videos, games, and CAD models.",
-      "url": "https://the-decoder.com/z-ai-follows-openai-into-loop-transformer-territory-with-its-new-750b-flagship-model/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-23T15:13:03.000Z"
-    },
-    {
-      "id": "c632200054c9",
-      "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
-      "summary": "A new real-world test puts AI coding agents in a simulated developer job with colleagues, project boards, and incomplete handoffs, where they have to keep developing software on their own and reliably close open tickets in a messy daily workflow. Even Opus 5.5 and Astra fall far short, solving fewer than one in ten tasks completely. The models finish clear, standalone assignments quickly, but they",
-      "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-22T15:15:48.000Z"
+      "publishedAt": "2026-11-24T14:28:41.000Z"
     },
     {
       "id": "4b03280dd98b",
@@ -639,7 +639,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-24T09:18:22.000Z"
+      "publishedAt": "2026-11-24T22:10:43.000Z"
     },
     {
       "id": "afc24024fc7a",
@@ -653,7 +653,7 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-24T09:18:22.000Z"
+      "publishedAt": "2026-11-24T22:10:43.000Z"
     },
     {
       "id": "1a2dbb8036c8",
@@ -667,35 +667,21 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-24T09:18:22.000Z"
+      "publishedAt": "2026-11-24T22:10:43.000Z"
     },
     {
-      "id": "05ad35b2e8b1",
-      "title": "Show HN: AI Agent Infrastructure and Memory Compaction Specifications",
-      "summary": "Article URL: https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure Comments URL: https://news.ycombinator.com/item?id=50625268 Points: 1 # Comments: 0",
-      "url": "https://github.com/grfdsasdvef/awesome-ai-agent-infrastructure",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
+      "id": "43bed2d0c5b7",
+      "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
+      "summary": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur period\" and struggles with planning and self-correction, though he expects a \"very steep rate of progress\" soon. According to Brown, language models are already being used to build the next generation of models. The article ",
+      "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
       "category": [
-        "industry"
+        "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-24T08:16:42.000Z"
-    },
-    {
-      "id": "7450a0926c07",
-      "title": "The Agent Memory Tarpit: ~8k GitHub Repos and Counting",
-      "summary": "Article URL: https://morethanamachine.com/posts/agent-memory-tarpit/ Comments URL: https://news.ycombinator.com/item?id=50624476 Points: 2 # Comments: 0",
-      "url": "https://morethanamachine.com/posts/agent-memory-tarpit/",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-24T06:26:24.000Z"
+      "publishedAt": "2026-11-24T17:58:44.000Z"
     },
     {
       "id": "0f4dece08162",
@@ -870,6 +856,20 @@
       ],
       "score": 2,
       "publishedAt": "2026-10-02T04:01:31.000Z"
+    },
+    {
+      "id": "1f4a554892a3",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "summary": "",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face",
+      "sourceId": "huggingface",
+      "icon": "🤗",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-09-29T13:07:00.000Z"
     }
   ]
 }
