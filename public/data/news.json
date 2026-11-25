@@ -1,41 +1,11 @@
 {
-  "generatedAt": "2026-11-25T07:52:27.604Z",
-  "nextUpdate": "2026-11-25T19:00:00.000Z",
+  "generatedAt": "2026-11-25T21:27:05.268Z",
+  "nextUpdate": "2026-11-26T09:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
   "totalCollected": 176,
   "articleCount": 60,
   "articles": [
-    {
-      "id": "3f2bbe3126d4",
-      "title": "Dozens of insiders say OpenAI and Anthropic&#039;s unreleased models have outgrown their safety measures",
-      "summary": "According to an Axios report, many employees at OpenAI and Anthropic believe the companies' own unreleased frontier models can no longer be safely controlled. Both companies are internally debating whether to halt releases or even stop training altogether, while employee trust in leadership is eroding. The article Dozens of insiders say OpenAI and Anthropic&#039;s unreleased models have outgrown t",
-      "url": "https://the-decoder.com/dozens-of-insiders-say-openai-and-anthropics-unreleased-models-have-outgrown-their-safety-measures/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 8,
-      "publishedAt": "2026-11-24T14:02:31.000Z"
-    },
-    {
-      "id": "6d162cd5d67b",
-      "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
-      "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work more independently. The article Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents appeared first on The Decoder ",
-      "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-11-24T19:23:41.000Z"
-    },
     {
       "id": "a0a3a9608043",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
@@ -79,35 +49,36 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-25T07:52:25.000Z"
+      "publishedAt": "2026-11-25T21:27:04.000Z"
     },
     {
-      "id": "423410cd0d45",
-      "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
-      "summary": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up drug development, he says, but it won't beat cancer in a decade. The real value lies \"somewhere in the middle.\" The article Novartis CEO says AI will shave four years off drug development, not cure all disease appeared f",
-      "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+      "id": "0c7db00f73cc",
+      "title": "Percona Database Service Is Now Open Source",
+      "summary": "Article URL: https://www.percona.com/blog/percona-database-service-open-source/ Comments URL: https://news.ycombinator.com/item?id=50646989 Points: 3 # Comments: 0",
+      "url": "https://www.percona.com/blog/percona-database-service-open-source/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 6,
+      "publishedAt": "2026-11-25T20:21:08.000Z"
+    },
+    {
+      "id": "b0e7bede51f2",
+      "title": "AI agents now control part of Deepmind&#039;s compute for Gemini experiments, but recursive self-improvement remains distant",
+      "summary": "Google Deepmind uses AI agents to run experiments on their own for upcoming Gemini models. Research chief Koray Kavukcuoglu says the lab is still far from recursive self-improvement. For oversight, Deepmind intentionally leaves the agents' internal chains of thought untrained so they can be reviewed. Kavukcuoglu measures AGI by everyday user trust rather than benchmarks. The article AI agents now ",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
       "category": [
-        "new_model"
+        "new_model",
+        "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-24T18:01:55.000Z"
-    },
-    {
-      "id": "3d658033d6ac",
-      "title": "Anthropic&#039;s appetite for compute is pushing xAI toward a rent-over-build strategy",
-      "summary": "Since May, SpaceXSI has been renting compute to competitors like Anthropic and Google while scaling back its own AI projects. Anthropic pays about $3.1 billion a month, Google $800 million, the New York Times reports. After its June IPO, SpaceXSI disbanded the 60-person Grok Imagine team, among other cuts. The article Anthropic&#039;s appetite for compute is pushing xAI toward a rent-over-build st",
-      "url": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 6,
-      "publishedAt": "2026-11-23T18:47:53.000Z"
+      "publishedAt": "2026-11-25T13:23:36.000Z"
     },
     {
       "id": "615683b8febc",
@@ -166,19 +137,19 @@
       "publishedAt": "2026-09-22T00:00:00.000Z"
     },
     {
-      "id": "096892e1190f",
-      "title": "Anthropic&#039;s Claude Ship lets AI agents review, fix, and approve pull requests on their own",
-      "summary": "Anthropic has introduced Claude Ship, a new tool currently in beta that automatically reviews, corrects, and approves suggestions for code changes in accordance with team guidelines. The article Anthropic&#039;s Claude Ship lets AI agents review, fix, and approve pull requests on their own appeared first on The Decoder .",
-      "url": "https://the-decoder.com/anthropics-claude-ship-lets-ai-agents-review-fix-and-approve-pull-requests-on-their-own/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
+      "id": "20e7cb65d528",
+      "title": "Show HN: HealthBar – Open-source macOS menu bar app that tracks status pages",
+      "summary": "Article URL: https://github.com/vladforfutdinov/health-bar Comments URL: https://news.ycombinator.com/item?id=50646969 Points: 1 # Comments: 0",
+      "url": "https://github.com/vladforfutdinov/health-bar",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
       "category": [
-        "new_model",
-        "industry"
+        "open_source",
+        "new_model"
       ],
       "score": 5,
-      "publishedAt": "2026-11-24T11:26:23.000Z"
+      "publishedAt": "2026-11-25T20:19:43.000Z"
     },
     {
       "id": "6cec1232394d",
@@ -253,7 +224,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-25T07:52:25.000Z"
+      "publishedAt": "2026-11-25T21:27:04.000Z"
     },
     {
       "id": "c2a8f386f05a",
@@ -268,7 +239,37 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-25T07:52:25.000Z"
+      "publishedAt": "2026-11-25T21:27:04.000Z"
+    },
+    {
+      "id": "bf805ae84e75",
+      "title": "Bpm: Open-source PearlHash miner for Blackwell GPUs",
+      "summary": "Article URL: https://github.com/pushsoftnow/blackwell_pearl_miner Comments URL: https://news.ycombinator.com/item?id=50647156 Points: 1 # Comments: 0",
+      "url": "https://github.com/pushsoftnow/blackwell_pearl_miner",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-25T20:35:27.000Z"
+    },
+    {
+      "id": "4bdcecb8c2fa",
+      "title": "Show HN: HeyCube – The personalized feed for your always-on AI agents",
+      "summary": "Hi HN, I'm Fengli, founder of Inxpanse. HeyCube is our first product: the personalized feed for your always-on AI agents. While building my own always-on agents, I kept watching the token and search API costs add up really fast. Then I noticed the scheduled tasks in ChatGPT/Grok Bot/etc. also use up a lot of your plan's allowance, often on checks that find nothing new. That's why many people still",
+      "url": "https://inxpanse.com/heycube",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 4,
+      "publishedAt": "2026-11-25T19:47:37.000Z"
     },
     {
       "id": "8ad5ed335a5e",
@@ -297,20 +298,6 @@
       ],
       "score": 4,
       "publishedAt": "2026-11-24T16:00:00.000Z"
-    },
-    {
-      "id": "a62dd3b02e52",
-      "title": "OpenAI updates ChatGPT to handle complex everyday questions, web searches, and images more reliably",
-      "summary": "OpenAI is making GPT-6.2 Sol the new default model in ChatGPT's chat tab, rolling it out worldwide. In internal tests, image understanding jumped from 47.4 to 71.7 percent, and the model now handles difficult instructions correctly 78.1 percent of the time. It also sticks to safety policies more consistently. The article OpenAI updates ChatGPT to handle complex everyday questions, web searches, an",
-      "url": "https://the-decoder.com/openai-updates-chatgpt-to-handle-complex-everyday-questions-web-searches-and-images-more-reliably/",
-      "source": "The Decoder",
-      "sourceId": "the_decoder",
-      "icon": "🔍",
-      "category": [
-        "new_model"
-      ],
-      "score": 4,
-      "publishedAt": "2026-11-23T20:39:18.000Z"
     },
     {
       "id": "470cf1b70d07",
@@ -383,7 +370,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-25T07:52:25.000Z"
+      "publishedAt": "2026-11-25T21:27:04.000Z"
     },
     {
       "id": "e7954e934545",
@@ -397,7 +384,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-25T07:52:25.000Z"
+      "publishedAt": "2026-11-25T21:27:04.000Z"
     },
     {
       "id": "2c1930c3e989",
@@ -411,13 +398,27 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-25T07:52:25.000Z"
+      "publishedAt": "2026-11-25T21:27:04.000Z"
     },
     {
-      "id": "537969959f12",
-      "title": "Show HN: Open-source native AI harness that's trying to do less by default",
-      "summary": "Article URL: https://github.com/usehm/hm Comments URL: https://news.ycombinator.com/item?id=50639553 Points: 1 # Comments: 0",
-      "url": "https://github.com/usehm/hm",
+      "id": "70764dd8c8b9",
+      "title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+      "summary": "Chip restrictions, anti-distillation measures, and shrinking access to Nvidia hardware abroad are putting growing pressure on Deepseek, Moonshot AI, and Alibaba, according to a report. Deepseek researchers internally estimate they're already up to nine months behind US models, and the gap is widening. The article US chip-access curbs and anti-distillation measures are reportedly already slowing Ch",
+      "url": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-25T20:51:02.000Z"
+    },
+    {
+      "id": "7c47590f20d8",
+      "title": "Nexus, an open source app for local development replacing paid SaaS like Herd",
+      "summary": "Article URL: https://github.com/NexusLocal/nexus Comments URL: https://news.ycombinator.com/item?id=50646734 Points: 3 # Comments: 0",
+      "url": "https://github.com/NexusLocal/nexus",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -425,13 +426,13 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-25T07:26:14.000Z"
+      "publishedAt": "2026-11-25T20:01:38.000Z"
     },
     {
-      "id": "a78acd6863bf",
-      "title": "We Turned a Harry Potter Clip into Hogwarts in Minecraft with AI",
-      "summary": "Article URL: https://huggingface.co/spaces/GameAnything/GameAnything Comments URL: https://news.ycombinator.com/item?id=50639041 Points: 2 # Comments: 0",
-      "url": "https://huggingface.co/spaces/GameAnything/GameAnything",
+      "id": "bcde0f41d346",
+      "title": "Open-Source 8-Channel SEMG Wristband Using ADS1298 and NRF52",
+      "summary": "Article URL: https://github.com/jlcjak/neurband Comments URL: https://news.ycombinator.com/item?id=50646298 Points: 1 # Comments: 0",
+      "url": "https://github.com/jlcjak/neurband",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -439,27 +440,13 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-25T05:59:18.000Z"
+      "publishedAt": "2026-11-25T19:28:22.000Z"
     },
     {
-      "id": "46974f276cfe",
-      "title": "Show HN: I make open-source flight test stand",
-      "summary": "Article URL: https://github.com/crocone/flying-test Comments URL: https://news.ycombinator.com/item?id=50638598 Points: 2 # Comments: 0",
-      "url": "https://github.com/crocone/flying-test",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source"
-      ],
-      "score": 3,
-      "publishedAt": "2026-11-25T04:47:44.000Z"
-    },
-    {
-      "id": "9171b52ec341",
-      "title": "Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the rollout",
-      "summary": "Anthropic researcher Levent Alpöge is walking back parts of his announcement of an AI-assisted proof of the generalized Riemann hypothesis. The claim that it ran to more than 250,000 pages was a joke, he says, and the published Lean code is \"full of garbage.\" He still stands by the math. The article Anthropic researcher stands by his AI-assisted Riemann proof but owns up to \"stupid things\" in the ",
-      "url": "https://the-decoder.com/anthropic-researcher-stands-by-his-ai-assisted-riemann-proof-but-owns-up-to-stupid-things-in-the-rollout/",
+      "id": "264fb1cd8ad7",
+      "title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+      "summary": "OpenAI is testing a new feature called \"Private Inference\" that lets companies run queries on its most powerful models without OpenAI being able to access the data. The article OpenAI wants companies to trust it with sensitive work by promising not to look at their data appeared first on The Decoder .",
+      "url": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -468,7 +455,7 @@
         "industry"
       ],
       "score": 3,
-      "publishedAt": "2026-11-24T14:28:41.000Z"
+      "publishedAt": "2026-11-25T18:22:02.000Z"
     },
     {
       "id": "4b03280dd98b",
@@ -681,7 +668,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-25T07:52:25.000Z"
+      "publishedAt": "2026-11-25T21:27:04.000Z"
     },
     {
       "id": "afc24024fc7a",
@@ -695,7 +682,7 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-25T07:52:25.000Z"
+      "publishedAt": "2026-11-25T21:27:04.000Z"
     },
     {
       "id": "1a2dbb8036c8",
@@ -709,27 +696,13 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-25T07:52:25.000Z"
+      "publishedAt": "2026-11-25T21:27:04.000Z"
     },
     {
-      "id": "85dca8935348",
-      "title": "Ask HN: What is the best unhobbled model for medical queries?",
-      "summary": "I have a family member living in Zimbabwe who needs medical help which is very hard to come by. The frontier models are of course very useful but I’m eager to include the thinking of an unrestricted model into the rationale. Does anyone have any recommendations? Comments URL: https://news.ycombinator.com/item?id=50639275 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=50639275",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-25T06:43:12.000Z"
-    },
-    {
-      "id": "62f70b192c61",
-      "title": "How Uber Evals 1 Million Agent Skill Invocations a Month",
-      "summary": "Article URL: https://www.uber.com/in/en/blog/optimizing-ubers-agent-skills/ Comments URL: https://news.ycombinator.com/item?id=50639162 Points: 2 # Comments: 0",
-      "url": "https://www.uber.com/in/en/blog/optimizing-ubers-agent-skills/",
+      "id": "cf33c1beba4e",
+      "title": "CLI for AI agents to access health data natively",
+      "summary": "I wrote a tool that makes it easy for your agent to pull sleep data from Oura and Eight Sleep: https://github.com/adityapidaparti/somno-cli And one for agents to write to cronometer: https://github.com/adityapidaparti/crono Comments URL: https://news.ycombinator.com/item?id=50647009 Points: 1 # Comments: 0",
+      "url": "https://news.ycombinator.com/item?id=50647009",
       "source": "Hacker News",
       "sourceId": "hn",
       "icon": "🐝",
@@ -737,27 +710,13 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-25T06:24:36.000Z"
+      "publishedAt": "2026-11-25T20:22:40.000Z"
     },
     {
-      "id": "f48eb4e7b339",
-      "title": "Which model in OpenCode is better at reasoning?",
-      "summary": "Comments URL: https://news.ycombinator.com/item?id=50638638 Points: 1 # Comments: 1",
-      "url": "https://news.ycombinator.com/item?id=50638638",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-25T04:54:40.000Z"
-    },
-    {
-      "id": "43bed2d0c5b7",
-      "title": "OpenAI o1 co-creator Noam Brown urges promising students to drop out as AI enters a \"very steep rate of progress\"",
-      "summary": "OpenAI researcher Noam Brown is urging promising students to drop out, saying it's \"not a great time to sit on the sidelines.\" The o1 co-creator says AI is still in a \"centaur period\" and struggles with planning and self-correction, though he expects a \"very steep rate of progress\" soon. According to Brown, language models are already being used to build the next generation of models. The article ",
-      "url": "https://the-decoder.com/openai-o1-co-creator-noam-brown-urges-promising-students-to-drop-out-as-ai-enters-a-very-steep-rate-of-progress/",
+      "id": "c3c0fa17e025",
+      "title": "Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\"",
+      "summary": "Anthropic CEO Dario Amodei is pushing back on an Axios report saying some employees believe humanity will hand power to superintelligent systems. Amodei says \"turning over governance to AI is a bad idea.\" The article Anthropic CEO Dario Amodei says letting AI govern society would be \"a bad idea\" appeared first on The Decoder .",
+      "url": "https://the-decoder.com/anthropic-ceo-dario-amodei-says-letting-ai-govern-society-would-be-a-bad-idea/",
       "source": "The Decoder",
       "sourceId": "the_decoder",
       "icon": "🔍",
@@ -765,7 +724,49 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-24T17:58:44.000Z"
+      "publishedAt": "2026-11-25T20:15:50.000Z"
+    },
+    {
+      "id": "f3697582e23e",
+      "title": "Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon",
+      "summary": "Article URL: https://github.com/onatm/rustling Comments URL: https://news.ycombinator.com/item?id=50646482 Points: 5 # Comments: 0",
+      "url": "https://github.com/onatm/rustling",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-25T19:42:36.000Z"
+    },
+    {
+      "id": "a12a55462ba5",
+      "title": "Show HN: LLM Training NO CUDA 85k tok/SEC locally",
+      "summary": "Article URL: https://github.com/drakestapleton/omega-helix Comments URL: https://news.ycombinator.com/item?id=50646377 Points: 1 # Comments: 0",
+      "url": "https://github.com/drakestapleton/omega-helix",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-25T19:34:33.000Z"
+    },
+    {
+      "id": "d7188abdcb82",
+      "title": "Anthropic study shows the hardest part of adopting AI at work has little to do with learning the tools",
+      "summary": "Anthropic studied nearly 300 AI deployments across 58 US companies with sobering results. Nearly one in five still delivers no business value, held back by heavy review workloads, internal bottlenecks, and employee resistance. The researchers say the biggest hurdles stem from outdated company structures. The article Anthropic study shows the hardest part of adopting AI at work has little to do wit",
+      "url": "https://the-decoder.com/anthropic-study-shows-the-hardest-part-of-adopting-ai-at-work-has-little-to-do-with-learning-the-tools/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-25T13:14:27.000Z"
     },
     {
       "id": "0f4dece08162",
@@ -844,20 +845,6 @@
       "publishedAt": "2026-11-18T23:59:20.000Z"
     },
     {
-      "id": "d7542d1e14cb",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-18T15:00:23.000Z"
-    },
-    {
       "id": "aa4ccbea84a2",
       "title": "Put Gemini to work for you",
       "summary": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
@@ -870,6 +857,20 @@
       ],
       "score": 2,
       "publishedAt": "2026-11-17T17:00:00.000Z"
+    },
+    {
+      "id": "ad4920ebfdfd",
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI",
+      "sourceId": "google_ai",
+      "icon": "🔵",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-12T18:00:00.000Z"
     }
   ]
 }
