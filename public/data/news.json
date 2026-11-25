@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-24T22:10:45.067Z",
-  "nextUpdate": "2026-11-25T10:00:00.000Z",
+  "generatedAt": "2026-11-25T07:52:27.604Z",
+  "nextUpdate": "2026-11-25T19:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 156,
+  "totalCollected": 176,
   "articleCount": 60,
   "articles": [
     {
@@ -79,7 +79,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-24T22:10:43.000Z"
+      "publishedAt": "2026-11-25T07:52:25.000Z"
     },
     {
       "id": "423410cd0d45",
@@ -253,7 +253,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-24T22:10:43.000Z"
+      "publishedAt": "2026-11-25T07:52:25.000Z"
     },
     {
       "id": "c2a8f386f05a",
@@ -268,7 +268,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-24T22:10:43.000Z"
+      "publishedAt": "2026-11-25T07:52:25.000Z"
     },
     {
       "id": "8ad5ed335a5e",
@@ -383,7 +383,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-24T22:10:43.000Z"
+      "publishedAt": "2026-11-25T07:52:25.000Z"
     },
     {
       "id": "e7954e934545",
@@ -397,7 +397,7 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-24T22:10:43.000Z"
+      "publishedAt": "2026-11-25T07:52:25.000Z"
     },
     {
       "id": "2c1930c3e989",
@@ -411,7 +411,49 @@
         "open_source"
       ],
       "score": 3,
-      "publishedAt": "2026-11-24T22:10:43.000Z"
+      "publishedAt": "2026-11-25T07:52:25.000Z"
+    },
+    {
+      "id": "537969959f12",
+      "title": "Show HN: Open-source native AI harness that's trying to do less by default",
+      "summary": "Article URL: https://github.com/usehm/hm Comments URL: https://news.ycombinator.com/item?id=50639553 Points: 1 # Comments: 0",
+      "url": "https://github.com/usehm/hm",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-25T07:26:14.000Z"
+    },
+    {
+      "id": "a78acd6863bf",
+      "title": "We Turned a Harry Potter Clip into Hogwarts in Minecraft with AI",
+      "summary": "Article URL: https://huggingface.co/spaces/GameAnything/GameAnything Comments URL: https://news.ycombinator.com/item?id=50639041 Points: 2 # Comments: 0",
+      "url": "https://huggingface.co/spaces/GameAnything/GameAnything",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-25T05:59:18.000Z"
+    },
+    {
+      "id": "46974f276cfe",
+      "title": "Show HN: I make open-source flight test stand",
+      "summary": "Article URL: https://github.com/crocone/flying-test Comments URL: https://news.ycombinator.com/item?id=50638598 Points: 2 # Comments: 0",
+      "url": "https://github.com/crocone/flying-test",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "open_source"
+      ],
+      "score": 3,
+      "publishedAt": "2026-11-25T04:47:44.000Z"
     },
     {
       "id": "9171b52ec341",
@@ -639,7 +681,7 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-24T22:10:43.000Z"
+      "publishedAt": "2026-11-25T07:52:25.000Z"
     },
     {
       "id": "afc24024fc7a",
@@ -653,7 +695,7 @@
         "industry"
       ],
       "score": 2,
-      "publishedAt": "2026-11-24T22:10:43.000Z"
+      "publishedAt": "2026-11-25T07:52:25.000Z"
     },
     {
       "id": "1a2dbb8036c8",
@@ -667,7 +709,49 @@
         "new_model"
       ],
       "score": 2,
-      "publishedAt": "2026-11-24T22:10:43.000Z"
+      "publishedAt": "2026-11-25T07:52:25.000Z"
+    },
+    {
+      "id": "85dca8935348",
+      "title": "Ask HN: What is the best unhobbled model for medical queries?",
+      "summary": "I have a family member living in Zimbabwe who needs medical help which is very hard to come by. The frontier models are of course very useful but I’m eager to include the thinking of an unrestricted model into the rationale. Does anyone have any recommendations? Comments URL: https://news.ycombinator.com/item?id=50639275 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=50639275",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-25T06:43:12.000Z"
+    },
+    {
+      "id": "62f70b192c61",
+      "title": "How Uber Evals 1 Million Agent Skill Invocations a Month",
+      "summary": "Article URL: https://www.uber.com/in/en/blog/optimizing-ubers-agent-skills/ Comments URL: https://news.ycombinator.com/item?id=50639162 Points: 2 # Comments: 0",
+      "url": "https://www.uber.com/in/en/blog/optimizing-ubers-agent-skills/",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "industry"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-25T06:24:36.000Z"
+    },
+    {
+      "id": "f48eb4e7b339",
+      "title": "Which model in OpenCode is better at reasoning?",
+      "summary": "Comments URL: https://news.ycombinator.com/item?id=50638638 Points: 1 # Comments: 1",
+      "url": "https://news.ycombinator.com/item?id=50638638",
+      "source": "Hacker News",
+      "sourceId": "hn",
+      "icon": "🐝",
+      "category": [
+        "new_model"
+      ],
+      "score": 2,
+      "publishedAt": "2026-11-25T04:54:40.000Z"
     },
     {
       "id": "43bed2d0c5b7",
@@ -786,90 +870,6 @@
       ],
       "score": 2,
       "publishedAt": "2026-11-17T17:00:00.000Z"
-    },
-    {
-      "id": "ad4920ebfdfd",
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "summary": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-12T18:00:00.000Z"
-    },
-    {
-      "id": "89f18e75ebd8",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "summary": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "source": "Google AI",
-      "sourceId": "google_ai",
-      "icon": "🔵",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-11-10T14:00:00.000Z"
-    },
-    {
-      "id": "12960046aa40",
-      "title": "Build specialized multimodal models with LFM3",
-      "summary": "",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "new_model"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-27T17:16:52.000Z"
-    },
-    {
-      "id": "737f413af0b7",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "summary": "",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-22T22:24:34.000Z"
-    },
-    {
-      "id": "2035386f90b7",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-10-02T04:01:31.000Z"
-    },
-    {
-      "id": "1f4a554892a3",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "summary": "",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "source": "Hugging Face",
-      "sourceId": "huggingface",
-      "icon": "🤗",
-      "category": [
-        "industry"
-      ],
-      "score": 2,
-      "publishedAt": "2026-09-29T13:07:00.000Z"
     }
   ]
 }
