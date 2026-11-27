@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-27T07:42:33.097Z",
-  "nextUpdate": "2026-11-27T19:00:00.000Z",
+  "generatedAt": "2026-11-27T20:56:15.365Z",
+  "nextUpdate": "2026-11-28T08:00:00.000Z",
   "intervalHours": 12,
   "timezone": "Asia/Seoul",
-  "totalCollected": 276,
+  "totalCollected": 256,
   "articleCount": 60,
   "articles": [
     {
@@ -51,21 +51,6 @@
       ],
       "score": 8,
       "publishedAt": "2026-11-27T05:00:00.000Z"
-    },
-    {
-      "id": "cc74401de08a",
-      "title": "JetBrains finds agents may cheat with open source",
-      "summary": "Article URL: https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999 Comments URL: https://news.ycombinator.com/item?id=50663882 Points: 2 # Comments: 0",
-      "url": "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
-      "source": "Hacker News",
-      "sourceId": "hn",
-      "icon": "🐝",
-      "category": [
-        "open_source",
-        "industry"
-      ],
-      "score": 7,
-      "publishedAt": "2026-11-27T07:25:36.000Z"
     },
     {
       "id": "ab811dcf9cc6",
@@ -171,7 +156,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-27T07:42:33.000Z"
+      "publishedAt": "2026-11-27T20:56:15.000Z"
     },
     {
       "id": "2c1930c3e989",
@@ -187,7 +172,7 @@
         "industry"
       ],
       "score": 6,
-      "publishedAt": "2026-11-27T07:42:33.000Z"
+      "publishedAt": "2026-11-27T20:56:15.000Z"
     },
     {
       "id": "917f6fd13735",
@@ -320,6 +305,21 @@
       ],
       "score": 6,
       "publishedAt": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "id": "e336e2eceb90",
+      "title": "Rockstar&#039;s AI dilemma: Can GTA 6&#039;s staggered release model survive coding agents?",
+      "summary": "More than 40 projects are working to bring a leaked Xbox build of GTA 6 to PC through reverse engineering just days after its $3.79 billion record console launch. AI coding agents like Claude Code are speeding up the process so much that an early unofficial multiplayer mode is already running. Rockstar's delayed PC business model is coming under pressure. The article Rockstar&#039;s AI dilemma: Ca",
+      "url": "https://the-decoder.com/rockstars-ai-dilemma-can-gta-6s-staggered-release-model-survive-coding-agents/",
+      "source": "The Decoder",
+      "sourceId": "the_decoder",
+      "icon": "🔍",
+      "category": [
+        "new_model",
+        "industry"
+      ],
+      "score": 5,
+      "publishedAt": "2026-11-27T15:37:47.000Z"
     },
     {
       "id": "8ad4f4e06150",
@@ -604,7 +604,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-27T07:42:33.000Z"
+      "publishedAt": "2026-11-27T20:56:15.000Z"
     },
     {
       "id": "c2a8f386f05a",
@@ -619,7 +619,7 @@
         "industry"
       ],
       "score": 4,
-      "publishedAt": "2026-11-27T07:42:33.000Z"
+      "publishedAt": "2026-11-27T20:56:15.000Z"
     },
     {
       "id": "ece58b71df8c",
